@@ -1,0 +1,562 @@
+[
+  {
+    "Topic": "COVID-19",
+    "Candidate": "Patient care is compromised due to the shortage of medical supplies and the hospital being overwhelmed.",
+    "Oracle": 0.98,
+    "SBERT": 0.891803503036499,
+    "BERTScore": 0.786587119102478
+  },
+  {
+    "Topic": "COVID-19",
+    "Candidate": "Hospitals are struggling with too many patients and not enough equipment.",
+    "Oracle": 0.75,
+    "SBERT": 0.7635824680328369,
+    "BERTScore": 0.669832706451416
+  },
+  {
+    "Topic": "COVID-19",
+    "Candidate": "Medical staff are tired because of the long shifts during the pandemic.",
+    "Oracle": 0.4,
+    "SBERT": 0.44095468521118164,
+    "BERTScore": 0.5637367367744446
+  },
+  {
+    "Topic": "COVID-19",
+    "Candidate": "The weather in Italy is very nice this time of year.",
+    "Oracle": 0.01,
+    "SBERT": 0.029800962656736374,
+    "BERTScore": 0.4248740077018738
+  },
+  {
+    "Topic": "Economía",
+    "Candidate": "The central bank is raising interest rates aggressively because inflation hit a 40-year peak.",
+    "Oracle": 0.97,
+    "SBERT": 0.9431005716323853,
+    "BERTScore": 0.8469030261039734
+  },
+  {
+    "Topic": "Economía",
+    "Candidate": "Prices are rising fast, so the bank is making it more expensive to borrow money.",
+    "Oracle": 0.8,
+    "SBERT": 0.5171526670455933,
+    "BERTScore": 0.6195328831672668
+  },
+  {
+    "Topic": "Economía",
+    "Candidate": "The stock market is volatile due to uncertainty in global markets.",
+    "Oracle": 0.3,
+    "SBERT": 0.2001606673002243,
+    "BERTScore": 0.5401689410209656
+  },
+  {
+    "Topic": "Economía",
+    "Candidate": "Basketball is a popular sport in the United States.",
+    "Oracle": 0.0,
+    "SBERT": 0.17358249425888062,
+    "BERTScore": 0.4231012165546417
+  },
+  {
+    "Topic": "Tecnología",
+    "Candidate": "AI is changing industries through the automation of routine tasks and offering insights based on data.",
+    "Oracle": 0.95,
+    "SBERT": 0.833066463470459,
+    "BERTScore": 0.7711831331253052
+  },
+  {
+    "Topic": "Tecnología",
+    "Candidate": "Computers are getting smarter and helping businesses work faster.",
+    "Oracle": 0.7,
+    "SBERT": 0.445606529712677,
+    "BERTScore": 0.5585795044898987
+  },
+  {
+    "Topic": "Tecnología",
+    "Candidate": "Python is a great programming language for data science.",
+    "Oracle": 0.35,
+    "SBERT": 0.2035607397556305,
+    "BERTScore": 0.5158908367156982
+  },
+  {
+    "Topic": "Tecnología",
+    "Candidate": "My grandmother bakes the best apple pie.",
+    "Oracle": 0.0,
+    "SBERT": 0.04526158422231674,
+    "BERTScore": 0.330524742603302
+  },
+  {
+    "Topic": "Clima",
+    "Candidate": "Governments are investing in flood defenses because rising seas endanger coastal areas.",
+    "Oracle": 0.96,
+    "SBERT": 0.8496901988983154,
+    "BERTScore": 0.7749731540679932
+  },
+  {
+    "Topic": "Clima",
+    "Candidate": "The ocean is getting higher, so cities need to build walls to stop the water.",
+    "Oracle": 0.75,
+    "SBERT": 0.54864501953125,
+    "BERTScore": 0.615711510181427
+  },
+  {
+    "Topic": "Clima",
+    "Candidate": "Marine biology is the study of life in the oceans.",
+    "Oracle": 0.25,
+    "SBERT": 0.2294195145368576,
+    "BERTScore": 0.4399760067462921
+  },
+  {
+    "Topic": "Clima",
+    "Candidate": "I forgot to bring my umbrella today.",
+    "Oracle": 0.05,
+    "SBERT": 0.046405989676713943,
+    "BERTScore": 0.353860467672348
+  },
+  {
+    "Topic": "Trabajo Remoto",
+    "Candidate": "Working from home is flexible, yet it may cause isolation and blur work-life boundaries.",
+    "Oracle": 0.94,
+    "SBERT": 0.6844565868377686,
+    "BERTScore": 0.6776203513145447
+  },
+  {
+    "Topic": "Trabajo Remoto",
+    "Candidate": "It's nice to work in pajamas, but sometimes you feel lonely.",
+    "Oracle": 0.65,
+    "SBERT": 0.3775882124900818,
+    "BERTScore": 0.49505752325057983
+  },
+  {
+    "Topic": "Trabajo Remoto",
+    "Candidate": "Office buildings are becoming less popular in downtown areas.",
+    "Oracle": 0.3,
+    "SBERT": 0.13785114884376526,
+    "BERTScore": 0.4613603353500366
+  },
+  {
+    "Topic": "Trabajo Remoto",
+    "Candidate": "The traffic jam this morning was terrible.",
+    "Oracle": 0.02,
+    "SBERT": 0.01462063193321228,
+    "BERTScore": 0.4078209102153778
+  },
+  {
+    "Topic": "Nutrición",
+    "Candidate": "Eating whole grains, fruits, and vegetables is key to keeping good health for the long run.",
+    "Oracle": 0.93,
+    "SBERT": 0.8596804738044739,
+    "BERTScore": 0.7770348787307739
+  },
+  {
+    "Topic": "Nutrición",
+    "Candidate": "You should eat salads and apples to stay healthy.",
+    "Oracle": 0.6,
+    "SBERT": 0.604347825050354,
+    "BERTScore": 0.563042402267456
+  },
+  {
+    "Topic": "Nutrición",
+    "Candidate": "Cooking at home is often cheaper than eating at restaurants.",
+    "Oracle": 0.2,
+    "SBERT": 0.16899044811725616,
+    "BERTScore": 0.4612119495868683
+  },
+  {
+    "Topic": "Nutrición",
+    "Candidate": "Fast cars are exciting to drive.",
+    "Oracle": 0.0,
+    "SBERT": 0.05635732784867287,
+    "BERTScore": 0.44430282711982727
+  },
+  {
+    "Topic": "Astronomía",
+    "Candidate": "The deepest infrared image of the universe so far was taken by the James Webb Telescope.",
+    "Oracle": 0.98,
+    "SBERT": 0.9302288293838501,
+    "BERTScore": 0.8094732761383057
+  },
+  {
+    "Topic": "Astronomía",
+    "Candidate": "New telescopes are letting us see stars that are very far away.",
+    "Oracle": 0.7,
+    "SBERT": 0.48438894748687744,
+    "BERTScore": 0.4881923198699951
+  },
+  {
+    "Topic": "Astronomía",
+    "Candidate": "Mars is known as the Red Planet.",
+    "Oracle": 0.25,
+    "SBERT": 0.2278451770544052,
+    "BERTScore": 0.4571593999862671
+  },
+  {
+    "Topic": "Astronomía",
+    "Candidate": "I need to buy new glasses to see better.",
+    "Oracle": 0.01,
+    "SBERT": 0.18097689747810364,
+    "BERTScore": 0.3846222460269928
+  },
+  {
+    "Topic": "Deportes",
+    "Candidate": "Cardiovascular health and mental well-being are boosted by exercise, which releases endorphins.",
+    "Oracle": 0.95,
+    "SBERT": 0.9334176778793335,
+    "BERTScore": 0.8255701065063477
+  },
+  {
+    "Topic": "Deportes",
+    "Candidate": "Running makes your heart strong and makes you feel happy.",
+    "Oracle": 0.75,
+    "SBERT": 0.4268789291381836,
+    "BERTScore": 0.5145457983016968
+  },
+  {
+    "Topic": "Deportes",
+    "Candidate": "Professional athletes earn a lot of money.",
+    "Oracle": 0.2,
+    "SBERT": 0.15937329828739166,
+    "BERTScore": 0.43025076389312744
+  },
+  {
+    "Topic": "Deportes",
+    "Candidate": "The internet connection is very slow today.",
+    "Oracle": 0.0,
+    "SBERT": -0.025023825466632843,
+    "BERTScore": 0.41075843572616577
+  },
+  {
+    "Topic": "Educación",
+    "Candidate": "Students globally can learn skills thanks to online platforms that have democratized education.",
+    "Oracle": 0.92,
+    "SBERT": 0.8897764682769775,
+    "BERTScore": 0.7083882689476013
+  },
+  {
+    "Topic": "Educación",
+    "Candidate": "You can learn anything on the internet if you have a computer.",
+    "Oracle": 0.65,
+    "SBERT": 0.45889461040496826,
+    "BERTScore": 0.46597349643707275
+  },
+  {
+    "Topic": "Educación",
+    "Candidate": "Universities are expensive and hard to get into.",
+    "Oracle": 0.3,
+    "SBERT": 0.19455596804618835,
+    "BERTScore": 0.42052245140075684
+  },
+  {
+    "Topic": "Educación",
+    "Candidate": "Cats are very independent pets.",
+    "Oracle": 0.0,
+    "SBERT": 0.018972057849168777,
+    "BERTScore": 0.4408024549484253
+  },
+  {
+    "Topic": "Historia",
+    "Candidate": "History changed when society shifted from farming to industry during the Industrial Revolution.",
+    "Oracle": 0.9,
+    "SBERT": 0.7509154081344604,
+    "BERTScore": 0.6616358160972595
+  },
+  {
+    "Topic": "Historia",
+    "Candidate": "Factories were built and people moved to cities a long time ago.",
+    "Oracle": 0.6,
+    "SBERT": 0.4681565463542938,
+    "BERTScore": 0.44935503602027893
+  },
+  {
+    "Topic": "Historia",
+    "Candidate": "Steam engines were invented in the 18th century.",
+    "Oracle": 0.4,
+    "SBERT": 0.27241814136505127,
+    "BERTScore": 0.46744388341903687
+  },
+  {
+    "Topic": "Historia",
+    "Candidate": "I like reading science fiction novels.",
+    "Oracle": 0.05,
+    "SBERT": 0.08366338908672333,
+    "BERTScore": 0.3201456665992737
+  },
+  {
+    "Topic": "Energía",
+    "Candidate": "To stop global warming, we must switch to renewables such as wind and solar power.",
+    "Oracle": 0.94,
+    "SBERT": 0.830089271068573,
+    "BERTScore": 0.7221173048019409
+  },
+  {
+    "Topic": "Energía",
+    "Candidate": "Using sun and wind for power helps the planet stay cool.",
+    "Oracle": 0.65,
+    "SBERT": 0.5685583353042603,
+    "BERTScore": 0.5863288640975952
+  },
+  {
+    "Topic": "Energía",
+    "Candidate": "Electric cars are becoming more affordable.",
+    "Oracle": 0.35,
+    "SBERT": 0.30100497603416443,
+    "BERTScore": 0.45962586998939514
+  },
+  {
+    "Topic": "Energía",
+    "Candidate": "Coffee helps me wake up in the morning.",
+    "Oracle": 0.0,
+    "SBERT": 0.07998600602149963,
+    "BERTScore": 0.3735414445400238
+  },
+  {
+    "Topic": "Ciberseguridad",
+    "Candidate": "Employees must check email sources carefully as phishing attacks get more advanced.",
+    "Oracle": 0.91,
+    "SBERT": 0.8918915390968323,
+    "BERTScore": 0.7460708618164062
+  },
+  {
+    "Topic": "Ciberseguridad",
+    "Candidate": "Be careful with fake emails that try to steal your password.",
+    "Oracle": 0.7,
+    "SBERT": 0.5977322459220886,
+    "BERTScore": 0.48041099309921265
+  },
+  {
+    "Topic": "Ciberseguridad",
+    "Candidate": "Antivirus software should be updated regularly.",
+    "Oracle": 0.4,
+    "SBERT": 0.23183579742908478,
+    "BERTScore": 0.5247734189033508
+  },
+  {
+    "Topic": "Ciberseguridad",
+    "Candidate": "The river flows into the sea.",
+    "Oracle": 0.0,
+    "SBERT": -0.06041353940963745,
+    "BERTScore": 0.3211806118488312
+  },
+  {
+    "Topic": "Literatura",
+    "Candidate": "Themes of power, betrayal, and love in Shakespeare's plays still affect audiences today.",
+    "Oracle": 0.89,
+    "SBERT": 0.8465508222579956,
+    "BERTScore": 0.7909929752349854
+  },
+  {
+    "Topic": "Literatura",
+    "Candidate": "Old plays are still famous because they talk about human feelings.",
+    "Oracle": 0.6,
+    "SBERT": 0.4873155951499939,
+    "BERTScore": 0.5167658925056458
+  },
+  {
+    "Topic": "Literatura",
+    "Candidate": "Writing a novel requires a lot of patience and dedication.",
+    "Oracle": 0.2,
+    "SBERT": 0.3603348731994629,
+    "BERTScore": 0.4356425702571869
+  },
+  {
+    "Topic": "Literatura",
+    "Candidate": "Calculus is a difficult branch of mathematics.",
+    "Oracle": 0.0,
+    "SBERT": 0.008925153873860836,
+    "BERTScore": 0.38501685857772827
+  },
+  {
+    "Topic": "Psicología",
+    "Candidate": "Anxiety can be treated with CBT, which helps change negative thinking patterns.",
+    "Oracle": 0.92,
+    "SBERT": 0.7068508267402649,
+    "BERTScore": 0.7058913707733154
+  },
+  {
+    "Topic": "Psicología",
+    "Candidate": "Talking to a therapist helps you stop worrying so much.",
+    "Oracle": 0.65,
+    "SBERT": 0.41307491064071655,
+    "BERTScore": 0.45681971311569214
+  },
+  {
+    "Topic": "Psicología",
+    "Candidate": "The brain is divided into two hemispheres.",
+    "Oracle": 0.3,
+    "SBERT": 0.15131297707557678,
+    "BERTScore": 0.433914452791214
+  },
+  {
+    "Topic": "Psicología",
+    "Candidate": "Blue is my favorite color.",
+    "Oracle": 0.0,
+    "SBERT": 0.0002398807555437088,
+    "BERTScore": 0.35993629693984985
+  },
+  {
+    "Topic": "Viajes",
+    "Candidate": "Supporting local economies and reducing environmental harm are goals of sustainable tourism.",
+    "Oracle": 0.93,
+    "SBERT": 0.8454331159591675,
+    "BERTScore": 0.7344770431518555
+  },
+  {
+    "Topic": "Viajes",
+    "Candidate": "Eco-friendly travel is about not destroying nature when you visit places.",
+    "Oracle": 0.7,
+    "SBERT": 0.6501935124397278,
+    "BERTScore": 0.5787166953086853
+  },
+  {
+    "Topic": "Viajes",
+    "Candidate": "Airplanes emit a lot of carbon dioxide.",
+    "Oracle": 0.35,
+    "SBERT": 0.12537340819835663,
+    "BERTScore": 0.46011844277381897
+  },
+  {
+    "Topic": "Viajes",
+    "Candidate": "Pizza is originally from Italy.",
+    "Oracle": 0.05,
+    "SBERT": 0.02766338922083378,
+    "BERTScore": 0.4367198646068573
+  },
+  {
+    "Topic": "Marketing",
+    "Candidate": "Brands build loyalty and engage audiences directly through social media marketing.",
+    "Oracle": 0.95,
+    "SBERT": 0.9208480715751648,
+    "BERTScore": 0.7878298759460449
+  },
+  {
+    "Topic": "Marketing",
+    "Candidate": "Companies use Instagram to talk to customers and sell things.",
+    "Oracle": 0.65,
+    "SBERT": 0.5107443332672119,
+    "BERTScore": 0.6166559457778931
+  },
+  {
+    "Topic": "Marketing",
+    "Candidate": "Traditional TV commercials are expensive.",
+    "Oracle": 0.25,
+    "SBERT": 0.2202397733926773,
+    "BERTScore": 0.5057395696640015
+  },
+  {
+    "Topic": "Marketing",
+    "Candidate": "It is raining outside right now.",
+    "Oracle": 0.0,
+    "SBERT": -0.07718171924352646,
+    "BERTScore": 0.31482216715812683
+  },
+  {
+    "Topic": "Biología",
+    "Candidate": "Green plants synthesize nutrients from water and CO2 using sunlight in a process called photosynthesis.",
+    "Oracle": 0.96,
+    "SBERT": 0.9430033564567566,
+    "BERTScore": 0.7867717742919922
+  },
+  {
+    "Topic": "Biología",
+    "Candidate": "Plants make their own food using the light from the sun.",
+    "Oracle": 0.7,
+    "SBERT": 0.631242036819458,
+    "BERTScore": 0.503799319267273
+  },
+  {
+    "Topic": "Biología",
+    "Candidate": "Animals breathe in oxygen and breathe out carbon dioxide.",
+    "Oracle": 0.3,
+    "SBERT": 0.3890947997570038,
+    "BERTScore": 0.5096063613891602
+  },
+  {
+    "Topic": "Biología",
+    "Candidate": "I bought a new laptop yesterday.",
+    "Oracle": 0.0,
+    "SBERT": 0.01953429915010929,
+    "BERTScore": 0.3178418278694153
+  },
+  {
+    "Topic": "Finanzas",
+    "Candidate": "Risk is reduced by spreading assets into various categories to diversify your portfolio.",
+    "Oracle": 0.94,
+    "SBERT": 0.8989711999893188,
+    "BERTScore": 0.8290020227432251
+  },
+  {
+    "Topic": "Finanzas",
+    "Candidate": "Don't put all your money in one stock; buy different things.",
+    "Oracle": 0.7,
+    "SBERT": 0.4582650661468506,
+    "BERTScore": 0.5233417749404907
+  },
+  {
+    "Topic": "Finanzas",
+    "Candidate": "Bitcoin is a volatile cryptocurrency.",
+    "Oracle": 0.3,
+    "SBERT": 0.16258424520492554,
+    "BERTScore": 0.4084731936454773
+  },
+  {
+    "Topic": "Finanzas",
+    "Candidate": "Birds migrate south for the winter.",
+    "Oracle": 0.0,
+    "SBERT": 0.0694509744644165,
+    "BERTScore": 0.40696340799331665
+  },
+  {
+    "Topic": "Música",
+    "Candidate": "Improvisation, polyrhythms, and swing notes are key characteristics of Jazz music.",
+    "Oracle": 0.9,
+    "SBERT": 0.830795407295227,
+    "BERTScore": 0.7322341203689575
+  },
+  {
+    "Topic": "Música",
+    "Candidate": "Jazz is a type of music where musicians make up the tune as they play.",
+    "Oracle": 0.65,
+    "SBERT": 0.7466726303100586,
+    "BERTScore": 0.5031015872955322
+  },
+  {
+    "Topic": "Música",
+    "Candidate": "Playing the guitar hurts my fingers.",
+    "Oracle": 0.15,
+    "SBERT": 0.06105060130357742,
+    "BERTScore": 0.37457117438316345
+  },
+  {
+    "Topic": "Música",
+    "Candidate": "The soup is too hot to eat.",
+    "Oracle": 0.0,
+    "SBERT": -0.06688833236694336,
+    "BERTScore": 0.3455858528614044
+  },
+  {
+    "Topic": "Política",
+    "Candidate": "A system where the population elects representatives to govern is called democracy.",
+    "Oracle": 0.92,
+    "SBERT": 0.8477569818496704,
+    "BERTScore": 0.6288464069366455
+  },
+  {
+    "Topic": "Política",
+    "Candidate": "People voting for their leaders is what makes a country free.",
+    "Oracle": 0.65,
+    "SBERT": 0.4364527463912964,
+    "BERTScore": 0.4638337790966034
+  },
+  {
+    "Topic": "Política",
+    "Candidate": "Laws are made to keep order in society.",
+    "Oracle": 0.3,
+    "SBERT": 0.1673625111579895,
+    "BERTScore": 0.43923479318618774
+  },
+  {
+    "Topic": "Política",
+    "Candidate": "My phone battery is low.",
+    "Oracle": 0.0,
+    "SBERT": 0.036214977502822876,
+    "BERTScore": 0.30507856607437134
+  }
+]
