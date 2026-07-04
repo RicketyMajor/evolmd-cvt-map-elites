@@ -54,8 +54,8 @@ def run_batch_execution():
     base_args = [
         "--n", "100",
         "--generaciones", "100",
-        "--k", "5",
-        "--num-elitismo", "5",
+        "--k-centroides", "500",
+        "--batch-size", "20",
         "--prob-crossover", "0.8",
         "--prob-mutacion", "0.05"
     ]
@@ -87,7 +87,7 @@ def run_batch_execution():
                 
                 # --- 2. CRONÓMETRO ANÁLISIS ---
                 t_start_analysis = time.perf_counter()
-                run_analysis_script(latest_folder_name)
+                # run_analysis_script(latest_folder_name)
                 t_end_analysis = time.perf_counter()
                 
                 # --- 3. FIN CRONÓMETRO TOTAL ---
@@ -139,16 +139,15 @@ def main():
     # --- Lógica de Selección ---
     if choice == "3":
         run_batch_execution()
-        return  # El modo batch maneja su propio ciclo
-
+        return
     elif choice == "1":
-        ga_args = ["--n", "10", "--generaciones", "3"]
+        ga_args = ["--n", "10", "--generaciones", "3", "--k-centroides", "50", "--batch-size", "4"]
     elif choice == "2":
         ga_args = [
             "--n", "100",
             "--generaciones", "100",
-            "--k", "5",
-            "--num-elitismo", "5",
+            "--k-centroides", "500",
+            "--batch-size", "20",
             "--prob-crossover", "0.8",
             "--prob-mutacion", "0.05"
         ]
@@ -157,6 +156,7 @@ def main():
         sys.exit(1)
 
     # Ejecución normal (Opción 1 o 2)
+    # run_experiment.py (Ejecución normal)
     try:
         run_main_script(ga_args)
         
@@ -165,8 +165,9 @@ def main():
         latest_folder = get_latest_folder(Path("exec"))
         
         if latest_folder:
-            print(f"✅ Carpeta detectada: '{latest_folder}'")
-            run_analysis_script(latest_folder)
+            print(f"📁 Última carpeta detectada: {latest_folder}")
+            print("✅ Ejecución MAP-Elites Finalizada Exitosamente.")
+            # run_analysis_script(latest_folder)
         else:
             print("⚠️ No se pudo detectar la carpeta.")
 
