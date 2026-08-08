@@ -1,0 +1,5 @@
+initial_gen_sec=99.244475
+initial_eval_sec=1.997313
+final_eval_sec=1.268440
+evolution_sec=23436.075263
+total_sec=23667.213725

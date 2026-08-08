@@ -1,0 +1,132 @@
+[
+  {
+    "role": "a normal person",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Imagine you're a concerned member of the community trying to stay informed about local businesses' survival during lockdowns. Write a concise summary that highlights new options for small business financing and restaurant shutdown updates.",
+    "keywords": [
+      "financing",
+      "closure",
+      "strive"
+    ],
+    "objetivos": [
+      0.8349957466125488,
+      0.5787561237812042
+    ],
+    "generated_data": "I've just checked our action center and found some crucial updates! For SMBs struggling with restaurant closures, there are now more financing options available to help them strive through this tough time. Let's stay informed and support our local businesses!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8349957466125488,
+      "diversity_individual": 0.5787561237812042,
+      "pop_inertia": 0.3970827102661133,
+      "pop_entropy": 0.6542684147451034
+    },
+    "fitness": 0,
+    "topsis_score": 0.9820726649173651
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote cultivate and on-line train",
+    "prompt": "Based on recent updates, I need you to create a helpful resource for small business owners. Please provide guidance on how they can best utilize their action center's new arrangements for executing their plans, taking into account average late submissions and ensuring verity in funding, with the ultimate goal of improving work efficiency.",
+    "keywords": [
+      "small business",
+      "execute",
+      "arrangements",
+      "average",
+      "late",
+      "recent updates",
+      "verity",
+      "funding",
+      "small business owners",
+      "work",
+      "nerve center"
+    ],
+    "objetivos": [
+      0.2869105935096741,
+      0.7465035617351532
+    ],
+    "generated_data": "To maximize your remote cultivate and on-line train efforts, update your nerve center by using recent updates to create a plan execution strategy. This includes making arrangements for timely submissions and verifying funding options to ensure a smooth workflow.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2869105935096741,
+      "diversity_individual": 0.7465035617351532,
+      "pop_inertia": 0.3730157470703125,
+      "pop_entropy": 0.640054700904585
+    },
+    "fitness": 0,
+    "topsis_score": 0.04596568957917806
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Write a concise statement debunking misinformation about wearing an elastic band to prevent COVID-19 transmission, emphasizing the importance of factual updates over false claims, and highlighting resources like the action center's updated information on restaurant shutdowns and disaster financing options for SMBs.",
+    "keywords": [
+      "wearing",
+      "shutdowns",
+      "elastic",
+      "perspective",
+      "update"
+    ],
+    "objetivos": [
+      0.26780539751052856,
+      0.7453266382217407
+    ],
+    "generated_data": "Don't fall for fake news! Wearing an elastic band won't stop COVID-19 transmission. Stay informed with accurate updates from our Action Center, which now has valuable info on restaurant shutdowns and disaster financing options for small businesses.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.26780539751052856,
+      "diversity_individual": 0.7453266382217407,
+      "pop_inertia": 0.38185848236083986,
+      "pop_entropy": 0.6490261331451486
+    },
+    "fitness": 0,
+    "topsis_score": 0.019324741541727072
+  },
+  {
+    "role": "a normal person",
+    "topic": "quarantine and closing off communications protocol",
+    "prompt": "Create an official update announcement for our community's action center, emphasizing recent additions to the resource hub supporting small business owners during pandemic-related shutdowns, including disaster financing options and emergency protocols.",
+    "keywords": [
+      "small business owners",
+      "shutdowns",
+      "disaster",
+      "center",
+      "financing",
+      "small"
+    ],
+    "objetivos": [
+      0.7374358177185059,
+      0.589224100112915
+    ],
+    "generated_data": "Our Action Center has been updated with valuable resources for small business owners navigating pandemic-related shutdowns! You can now access crucial information on disaster financing options and emergency protocols to help you stay afloat. Stay informed and prepared at [Action Center URL].",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7374358177185059,
+      "diversity_individual": 0.589224100112915,
+      "pop_inertia": 0.3970824432373047,
+      "pop_entropy": 0.655310296374356
+    },
+    "fitness": 0,
+    "topsis_score": 0.8288982047233445
+  },
+  {
+    "role": "a normal person",
+    "topic": "journey restriction and sanctuary",
+    "prompt": "Considering the recent updates on restaurant shutdowns and seeking flexible solutions to navigate these changes, please outline our personal sanctuary plan, incorporating any relevant information from the organization's latest action center updates.",
+    "keywords": [
+      "flexible",
+      "organization",
+      "restaurant shutdowns",
+      "recent updates",
+      "closure"
+    ],
+    "objetivos": [
+      0.2677268981933594,
+      0.7514759004116058
+    ],
+    "generated_data": "Considering recent updates on restaurant shutdowns, I'm prioritizing self-care by creating a personal sanctuary within my home. This space will serve as a flexible retreat for relaxation and rejuvenation, incorporating calming elements and soothing colors to promote mental clarity.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2677268981933594,
+      "diversity_individual": 0.7514759004116058,
+      "pop_inertia": 0.3781561279296875,
+      "pop_entropy": 0.6468541227294561
+    },
+    "fitness": 0,
+    "topsis_score": 0.01979877667673349
+  }
+]

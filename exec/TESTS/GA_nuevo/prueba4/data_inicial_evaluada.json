@@ -1,0 +1,2691 @@
+[
+  {
+    "role": "an influencer",
+    "topic": "quarantine and isolation protocols",
+    "prompt": "Imagine waking up from a dream, only to be reminded that the pandemic's grip still has us isolated. Write a motivational post, urging fans to stay strong and focused on the endgame – when Corona ends.",
+    "keywords": [
+      "pandemic",
+      "corona",
+      "stay strong",
+      "endgame",
+      "motivational",
+      "fans",
+      "reminded",
+      "grip"
+    ],
+    "objetivos": [
+      0.5537986755371094,
+      0.4857844114303589
+    ],
+    "generated_data": "Waking up from this crazy dream, I'm reminded that we're not out of the woods yet! But let me tell you, friends, WE ARE STRONGER THAN THIS PANDEMIC'S GRIP! Stay focused, stay strong, and together we'll reach the ENDGAME – when CORONA finally ends. Don't lose grip on your hopes and dreams; they're what keep us going during these tough times. You are my FANS, and I believe in each and every one of you. Let's do this, Quarantine Warriors! We got this!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5537986755371094,
+      "diversity_individual": 0.4857844114303589,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an expert",
+    "topic": "mental health during the pandemic",
+    "prompt": "Craft a reflection on the psychological toll of the COVID-19 pandemic from the perspective of a mental health expert, acknowledging the shared sentiment 'Why don't you wake me up when Corona ends'.",
+    "keywords": [
+      "mental",
+      "health",
+      "pandemic",
+      "covid 19",
+      "psychological",
+      "toll",
+      "shared",
+      "sentiment",
+      "corona",
+      "ends"
+    ],
+    "objetivos": [
+      0.46888259053230286,
+      0.504817396402359
+    ],
+    "generated_data": "As a mental health expert, I've witnessed firsthand the profound impact of the COVID-19 pandemic on individuals worldwide. The shared sentiment 'Why don't you wake me up when Corona ends' speaks to the collective frustration and emotional exhaustion many are experiencing. The psychological toll of this crisis cannot be overstated – the constant fear, anxiety, and isolation have taken a devastating toll on our mental well-being.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.46888259053230286,
+      "diversity_individual": 0.504817396402359,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an influencer",
+    "topic": "mental health during the pandemic",
+    "prompt": "Write a raw and honest social media post from your perspective as an influential figure, acknowledging the overwhelming feelings of isolation and frustration during the COVID-19 pandemic, and expressing a desire for support and hope when it finally ends.",
+    "keywords": [
+      "pandemic",
+      "isolation",
+      "frustration",
+      "support",
+      "hope",
+      "covid 19",
+      "overwhelming",
+      "raw",
+      "honest"
+    ],
+    "objetivos": [
+      0.2479386329650879,
+      0.4534156322479248
+    ],
+    "generated_data": "I'm not ashamed to say that this pandemic has taken a toll on my mental health. The feeling of being trapped in isolation is suffocating, and I'm sure I'm not alone in feeling frustrated with the never-ending uncertainty. When COVID-19 finally subsides, I hope we can find solace in each other's company and support – until then, let's keep shouting from the rooftops that we're not okay, but we will get through this together.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2479386329650879,
+      "diversity_individual": 0.4534156322479248,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "first responder",
+    "topic": "social distancing practices",
+    "prompt": "From the scene of a pandemic, describe the importance of continued social distancing measures during this critical period and how individuals can take control of their own health, without being alarmist or overly pessimistic.",
+    "keywords": [
+      "social distancing",
+      "pandemic",
+      "critical period",
+      "health",
+      "individuals",
+      "measures",
+      "control",
+      "alarmist",
+      "pessimistic"
+    ],
+    "objetivos": [
+      0.07841009646654129,
+      0.49291032552719116
+    ],
+    "generated_data": "As a first responder on the frontlines of this pandemic, I've witnessed firsthand the devastating consequences of complacency. That's why it's crucial we continue to prioritize social distancing measures during this critical period – not just for individual health, but to prevent further strain on our healthcare systems. By taking control of our own well-being and making informed decisions, we can mitigate risk without resorting to alarmist or pessimistic thinking.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.07841009646654129,
+      "diversity_individual": 0.49291032552719116,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a police officer",
+    "topic": "COVID-19 testing and tracing",
+    "prompt": "Write a statement as a frontline responder to the pandemic, addressing concerns about COVID-19 testing and tracing while respecting citizens' frustrations with prolonged measures.",
+    "keywords": [
+      "covid 19",
+      "testing",
+      "tracing",
+      "pandemic",
+      "measures",
+      "concerns",
+      "citizens",
+      "frustrations",
+      "responder",
+      "frontline"
+    ],
+    "objetivos": [
+      0.1660921275615692,
+      0.47074389457702637
+    ],
+    "generated_data": "As a frontline responder, I understand the frustrations of citizens with prolonged COVID-19 measures, but we must continue testing and tracing to contain the pandemic's spread. We're not just fighting a virus, but also addressing concerns and upholding public health – let's work together to get through this.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.1660921275615692,
+      "diversity_individual": 0.47074389457702637,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an organization",
+    "topic": "hospital preparedness for COVID-19",
+    "prompt": "Develop a statement from the perspective of a leading healthcare institution, addressing concerns about COVID-19 pandemic timelines and its impact on hospital readiness.",
+    "keywords": [
+      "hospital",
+      "covid 19",
+      "pandemic",
+      "timelines",
+      "readiness",
+      "healthcare",
+      "institution"
+    ],
+    "objetivos": [
+      0.14791911840438843,
+      0.4837270975112915
+    ],
+    "generated_data": "As the world continues to navigate the COVID-19 pandemic, we at [Institution] remain committed to prioritizing our patients' safety and well-being. We recognize that timely updates on pandemic timelines are crucial in ensuring our hospital's readiness to address this global health crisis.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.14791911840438843,
+      "diversity_individual": 0.4837270975112915,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an influencer",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Write a passionate social media post from the perspective of an influencer, reacting to the prolonged effects of the COVID-19 pandemic on people's lives and economies, addressing the frustration of feeling stuck in this situation.",
+    "keywords": [
+      "pandemic",
+      "stuck",
+      "frustration",
+      "people's lives",
+      "write a passionate",
+      "a passionate social",
+      "passionate social media",
+      "social media post",
+      "media post from",
+      "post from the",
+      "from the perspective",
+      "the perspective of"
+    ],
+    "objetivos": [
+      0.23671571910381317,
+      0.48941874504089355
+    ],
+    "generated_data": "I'm FED UP being stuck in this pandemic limbo! As we near the 2-year mark, I'm tired of seeing our economy, our communities, and most importantly, PEOPLE'S LIVES still heavily impacted. When can we finally start rebuilding and moving forward? Write a passionate social media post from the perspective of an influencer, reacting to the prolonged effects of the COVID-19 pandemic on people's lives and economies, addressing the frustration of feeling stuck in this situation.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.23671571910381317,
+      "diversity_individual": 0.48941874504089355,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "community resilience during lockdowns",
+    "prompt": "From the perspective of a weary healthcare worker, reflect on how communities can build resilience during lockdowns and offer words of encouragement to someone struggling with isolation.",
+    "keywords": [
+      "resilience",
+      "lockdowns",
+      "isolation",
+      "from the perspective",
+      "the perspective of",
+      "perspective of a",
+      "of a weary",
+      "a weary healthcare",
+      "weary healthcare worker",
+      "healthcare worker reflect",
+      "worker reflect on",
+      "reflect on how"
+    ],
+    "objetivos": [
+      0.026395615190267563,
+      0.655971497297287
+    ],
+    "generated_data": "As I've seen firsthand, lockdowns can be brutal on mental health. But as healthcare workers, we must find ways to help our communities thrive from within. One way is by building resilience – supporting each other through the darkest hours and celebrating small victories along the way.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.026395615190267563,
+      "diversity_individual": 0.655971497297287,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a politician",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Address the nation on why it's crucial to fact-check information during the pandemic, drawing parallels between misinformation and public health threats.",
+    "keywords": [
+      "fact check",
+      "misinformation",
+      "pandemic",
+      "public health",
+      "health threats",
+      "nation",
+      "address",
+      "drawing parallels"
+    ],
+    "objetivos": [
+      0.1664634644985199,
+      0.5474415421485901
+    ],
+    "generated_data": "As your leader, I'm urging you all to stay vigilant against the real enemy - misinformation. Just as COVID-19 spreads rapidly when unchecked, so do false claims and unverified news. That's why fact-checking is crucial during this pandemic: it's our best defense against public health threats. Let's not sleepwalk through this crisis; let's wake up to the facts and address the nation with truth.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.1664634644985199,
+      "diversity_individual": 0.5474415421485901,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an expert",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "From a global economist's perspective, draft a statement analyzing the ongoing economic implications of the COVID-19 pandemic and its potential long-term effects.",
+    "keywords": [
+      "economic",
+      "pandemic",
+      "covid 19",
+      "global",
+      "economist",
+      "long term",
+      "effects"
+    ],
+    "objetivos": [
+      0.15794160962104797,
+      0.6112640798091888
+    ],
+    "generated_data": "As a global economist, I'm compelled to acknowledge that the COVID-19 pandemic has had far-reaching economic implications, with widespread lockdowns and supply chain disruptions causing unprecedented losses. While we've seen initial rebounds, I remain concerned about the long-term effects on global trade, investment, and consumption patterns, which may have lasting impacts on our economic landscape.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.15794160962104797,
+      "diversity_individual": 0.6112640798091888,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a public figure",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "As COVID-19's grip on global economies continues, I'll share my concerns about its lasting effects. Write a response to 'Why don't you wake me up when Corona ends'.",
+    "keywords": [
+      "lasting effects",
+      "global economies",
+      "covid 19",
+      "as covid 19's",
+      "covid 19's grip",
+      "19's grip on",
+      "grip on global",
+      "on global economies",
+      "global economies continues",
+      "economies continues i'll",
+      "continues i'll share",
+      "i'll share my"
+    ],
+    "objetivos": [
+      0.2701050639152527,
+      0.5532649159431458
+    ],
+    "generated_data": "I'm afraid it's not that simple. The economic impact of COVID-19 will have lasting effects on global economies long after the pandemic has ended. As I've said before, I'll share my concerns and insights as COVID-19's grip on global economies continues, but we can't just wait for the clock to strike midnight. We need to address the root causes of this crisis and work towards a more resilient future.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2701050639152527,
+      "diversity_individual": 0.5532649159431458,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Write from the perspective of a frustrated traveler, considering the ongoing pandemic and global travel restrictions. Explain why you wish someone would wake you up when Corona ends.",
+    "keywords": [
+      "travel",
+      "pandemic",
+      "corona",
+      "global",
+      "wake",
+      "up",
+      "end"
+    ],
+    "objetivos": [
+      0.5387232899665833,
+      0.7020108699798584
+    ],
+    "generated_data": "I'm stuck in this rut, waiting for the world to come back to life. I miss exploring new lands, trying new flavors, and sharing stories with fellow travelers. That's why I wish someone would wake me up when Corona finally ends – so I can start planning my next adventure without the weight of travel restrictions holding me back.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5387232899665833,
+      "diversity_individual": 0.7020108699798584,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an authority figure",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Draft a stern public health advisory to address the increasing frustration among citizens during the COVID-19 pandemic, emphasizing the importance of continued precautions and vigilance until the crisis is contained.",
+    "keywords": [
+      "public",
+      "health",
+      "advisory",
+      "covid 19",
+      "pandemic",
+      "precautions",
+      "vigilance",
+      "crisis"
+    ],
+    "objetivos": [
+      0.2713184952735901,
+      0.4229581952095032
+    ],
+    "generated_data": "It's essential that we remain vigilant and continue taking public health precautions seriously. Waking up when the COVID-19 pandemic ends will be too late; it's crucial that we take immediate action to prevent further spread.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2713184952735901,
+      "diversity_individual": 0.4229581952095032,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a public figure",
+    "topic": "travel restrictions and safety",
+    "prompt": "As international travels resume, share your thoughts on balancing safety measures with economic revitalization in the post-corona era.",
+    "keywords": [
+      "travel",
+      "safety",
+      "measures",
+      "economic",
+      "revitalization",
+      "post corona",
+      "era",
+      "balancing",
+      "resume",
+      "international"
+    ],
+    "objetivos": [
+      0.25605666637420654,
+      0.5375760793685913
+    ],
+    "generated_data": "As I travel globally once again, it's crucial to strike a balance between safeguarding public health and reviving our economies. Implementing robust safety measures will be key to ensuring a seamless transition into the post-corona era.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.25605666637420654,
+      "diversity_individual": 0.5375760793685913,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an influencer",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Craft a reassuring and informative tweet for your followers, urging them to stay vigilant about COVID-19 until the pandemic subsides.",
+    "keywords": [
+      "stay vigilant",
+      "covid 19",
+      "pandemic subsides",
+      "reassuring",
+      "informative",
+      "urging",
+      "followers"
+    ],
+    "objetivos": [
+      0.26288458704948425,
+      0.4305940270423889
+    ],
+    "generated_data": "Stay vigilant, friends! As we inch closer to the end of this pandemic, I want to remind you all to remain cautious & take necessary precautions against COVID-19. Let's keep pushing forward together until we can finally put this chapter behind us!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.26288458704948425,
+      "diversity_individual": 0.4305940270423889,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "remote work and online schooling",
+    "prompt": "From the perspective of a healthcare worker, draft a message responding to someone who asks why they can't wake them up when COVID-19 ends.",
+    "keywords": [
+      "healthcare",
+      "worker",
+      "covid 19",
+      "wake",
+      "message",
+      "perspective",
+      "draft"
+    ],
+    "objetivos": [
+      0.35142016410827637,
+      0.49497097730636597
+    ],
+    "generated_data": "As a healthcare worker, I understand your frustration and fatigue from dealing with COVID-19's impact on our lives. However, until we overcome this pandemic, my 'wake me up' message remains a daily reminder to stay vigilant, wear masks, and prioritize public health – only then can we truly celebrate the end of COVID-19 and wake up to a brighter future.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.35142016410827637,
+      "diversity_individual": 0.49497097730636597,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an organization",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Draft a public health advisory statement from the World Health Organization's perspective, acknowledging the global concern about COVID-19 and addressing concerns around 'waking up' once the pandemic subsides.",
+    "keywords": [
+      "public",
+      "health",
+      "advisory",
+      "covid 19",
+      "pandemic",
+      "concerns",
+      "subsides"
+    ],
+    "objetivos": [
+      0.2722797393798828,
+      0.43094950914382935
+    ],
+    "generated_data": "As the world continues to navigate the ongoing COVID-19 pandemic, we understand that the fatigue is palpable. At WHO, we remain committed to providing guidance and support throughout this challenging period. When the time comes for us to 'wake up' from this global health crisis, rest assured that our public health advisory will continue to prioritize your safety and well-being.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2722797393798828,
+      "diversity_individual": 0.43094950914382935,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an influencer",
+    "topic": "hospital preparedness for COVID-19",
+    "prompt": "Imagine yourself as a passionate influencer, sharing your concerns about the ongoing COVID-19 pandemic. Write a post that emphasizes the importance of hospital preparedness, from the perspective of someone who feels like they're stuck in a perpetual dream and wants to be woken up when the crisis is over.",
+    "keywords": [
+      "hospital preparedness",
+      "covid 19",
+      "pandemic",
+      "imagine yourself as",
+      "yourself as a",
+      "as a passionate",
+      "a passionate influencer",
+      "passionate influencer sharing",
+      "influencer sharing your",
+      "sharing your concerns",
+      "your concerns about",
+      "concerns about the"
+    ],
+    "objetivos": [
+      0.21466819941997528,
+      0.4659094214439392
+    ],
+    "generated_data": "I'm stuck in this never-ending dream where COVID-19 is still ravaging our world. As a passionate influencer, I want to sound the alarm - hospital preparedness is key to overcoming this pandemic. Imagine yourself as someone who's been asleep for months, waiting for the day when we can finally wake up and rebuild. Let's work together to ensure our hospitals are ready to tackle the next wave, whenever it comes.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.21466819941997528,
+      "diversity_individual": 0.4659094214439392,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an expert",
+    "topic": "remote work and online schooling",
+    "prompt": "From the perspective of a seasoned expert in remote work and online schooling, draft a thought-provoking response that addresses the frustration expressed in 'why don't you wake me up when Corona ends', exploring the intersection between pandemic fatigue, productivity, and personal well-being.",
+    "keywords": [
+      "remote work",
+      "online schooling",
+      "pandemic fatigue",
+      "productivity",
+      "personal well being",
+      "corona",
+      "seasoned expert",
+      "thought provoking response"
+    ],
+    "objetivos": [
+      0.6071227788925171,
+      0.5125266909599304
+    ],
+    "generated_data": "As a seasoned expert in remote work and online schooling, I understand the sentiments behind 'why don't you wake me up when Corona ends.' The relentless grind of working from home during the pandemic has taken a toll on our collective well-being. It's crucial to acknowledge the interplay between pandemic fatigue, productivity, and personal well-being. When we're stuck in this cycle, it's easy to lose sight of what truly drives us – a sense of purpose and fulfillment. Perhaps, instead of waiting for Corona to end, we should focus on reviving our passions and priorities, fostering resilience, and cultivating meaningful connections amidst the chaos.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6071227788925171,
+      "diversity_individual": 0.5125266909599304,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote work and online schooling",
+    "prompt": "Write a frustrated commentary on the current state of remote work and online schooling from the perspective of someone tired of feeling stuck in isolation.",
+    "keywords": [
+      "remote work",
+      "online schooling",
+      "feeling stuck",
+      "isolation",
+      "write a frustrated",
+      "a frustrated commentary",
+      "frustrated commentary on",
+      "commentary on the",
+      "on the current",
+      "the current state",
+      "current state of",
+      "state of remote"
+    ],
+    "objetivos": [
+      0.5020018815994263,
+      0.7365168035030365
+    ],
+    "generated_data": "Why don't they wake me up when Corona ends? I'm trapped in this endless cycle of remote work and online schooling, feeling like I'm stuck in a never-ending dream. The loneliness is suffocating, and I just can't shake off the feeling that I'm slowly losing myself to this isolation.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5020018815994263,
+      "diversity_individual": 0.7365168035030365,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a policymaker",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Envision a post-pandemic era, and draft a letter to the global community outlining your vision for economic recovery, highlighting key measures to mitigate the ongoing crisis's far-reaching consequences.",
+    "keywords": [
+      "economic",
+      "recovery",
+      "pandemic",
+      "mitigate",
+      "consequences",
+      "crisis",
+      "post pandemic",
+      "era",
+      "global",
+      "community"
+    ],
+    "objetivos": [
+      0.07943186163902283,
+      0.5702128410339355
+    ],
+    "generated_data": "As policymakers, it is our responsibility to craft a robust plan for a post-pandemic era that prioritizes economic recovery while mitigating the far-reaching consequences of this crisis. We must work together as a global community to revive growth, stimulate innovation, and create a more resilient economy that benefits all.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.07943186163902283,
+      "diversity_individual": 0.5702128410339355,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a policymaker",
+    "topic": "mask wearing guidelines",
+    "prompt": "Develop and justify a revised mask-wearing policy for public spaces, considering the persistence of COVID-19 cases and the desire to 'wake up' when the pandemic is over.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "policy",
+      "public",
+      "spaces",
+      "covid",
+      "pandemic",
+      "cases",
+      "revised"
+    ],
+    "objetivos": [
+      0.04608859866857529,
+      0.5412151217460632
+    ],
+    "generated_data": "As a policymaker, I'm revising our mask-wearing guidelines for public spaces to ensure a balanced approach between public health and community needs. Until COVID-19 cases significantly decline, we'll maintain current protocols, but once the pandemic's under control, masks will be optional in most areas, allowing us to 'wake up' from this challenging period.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.04608859866857529,
+      "diversity_individual": 0.5412151217460632,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a policymaker",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Draft a public health advisory statement for the general population, addressing concerns about COVID-19 pandemic recovery from your perspective as a policymaker.",
+    "keywords": [
+      "covid 19",
+      "pandemic recovery",
+      "public health advisory",
+      "general population",
+      "concerns",
+      "policymaker",
+      "statement",
+      "recovery"
+    ],
+    "objetivos": [
+      0.2027735561132431,
+      0.4280065894126892
+    ],
+    "generated_data": "As we navigate the ongoing pandemic recovery, I want to assure you that our top priority remains the well-being of the general population. While it's understandable to feel frustrated when faced with the ongoing challenges posed by COVID-19, it's crucial we remain vigilant and committed to the collective efforts towards a healthier tomorrow.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2027735561132431,
+      "diversity_individual": 0.4280065894126892,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Write a lyrical reflection on the resilience of communities during lockdowns, drawing from personal experiences and global perspectives, and concluding with a poignant question about the timing of hope's awakening.",
+    "keywords": [
+      "resilience",
+      "lockdowns",
+      "personal",
+      "experiences",
+      "global",
+      "perspectives",
+      "hope's",
+      "awakening"
+    ],
+    "objetivos": [
+      0.5436737537384033,
+      0.6258214712142944
+    ],
+    "generated_data": "As we weathered the storm of lockdowns, our community's resilience shone like a beacon of light. Personal experiences merged with global perspectives, forging unbreakable bonds. But when will hope awaken from its slumber? Why don't you wake me up when corona ends?",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5436737537384033,
+      "diversity_individual": 0.6258214712142944,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a policymaker",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Draft a statement emphasizing the importance of hand hygiene in the post-COVID-19 era, as if waking up from a prolonged slumber.",
+    "keywords": [
+      "post covid",
+      "hand hygiene",
+      "importance",
+      "emphasizing",
+      "statement",
+      "era",
+      "slumber",
+      "up"
+    ],
+    "objetivos": [
+      0.09013067185878754,
+      0.6159904599189758
+    ],
+    "generated_data": "As we emerge from this prolonged slumber, it's essential that we prioritize hand hygiene to ensure a healthy and safe era post-COVID-19. Let us wake up to the importance of washing our hands frequently with soap and water or using sanitizers to prevent the spread of infectious diseases.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.09013067185878754,
+      "diversity_individual": 0.6159904599189758,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a public figure",
+    "topic": "social distancing practices",
+    "prompt": "From the perspective of a prominent health advocate, draft a statement urging people to continue practicing social distancing measures until COVID-19 transmission rates have significantly declined.",
+    "keywords": [
+      "social distancing",
+      "covid 19",
+      "transmission rates",
+      "health advocate",
+      "measures",
+      "practicing",
+      "until",
+      "significantly",
+      "declined"
+    ],
+    "objetivos": [
+      0.2117985486984253,
+      0.4930269718170166
+    ],
+    "generated_data": "As a prominent health advocate, I urge everyone to remain vigilant and continue practicing social distancing measures until COVID-19 transmission rates have significantly declined. Let's not let our guard down just yet - we've made progress, but we must keep doing what works: staying six feet apart, washing hands frequently, and avoiding large gatherings.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2117985486984253,
+      "diversity_individual": 0.4930269718170166,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an influencer",
+    "topic": "travel restrictions and safety",
+    "prompt": "Write a personal update from the perspective of a globe-trotting influencer, reflecting on the impact of COVID-19 travel restrictions on their lifestyle and stressing the importance of prioritizing safety in this new normal.",
+    "keywords": [
+      "covid 19",
+      "travel restrictions",
+      "new normal",
+      "globe trotting",
+      "personal update"
+    ],
+    "objetivos": [
+      0.4208487868309021,
+      0.5286456048488617
+    ],
+    "generated_data": "As a globe-trotting influencer, I've had to adapt to the new normal – embracing responsible travel habits during the pandemic. I'm not taking any chances; when corona ends, you can bet I'll be back to exploring the world, but for now, safety is my top priority.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.4208487868309021,
+      "diversity_individual": 0.5286456048488617,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an organization",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Draft a public service announcement from the perspective of a global health organization, emphasizing the importance of maintaining good hand hygiene practices during the COVID-19 pandemic.",
+    "keywords": [
+      "hand",
+      "hygiene",
+      "good",
+      "practices",
+      "covid 19",
+      "pandemic",
+      "global",
+      "health",
+      "organization"
+    ],
+    "objetivos": [
+      0.13103234767913818,
+      0.5502590537071228
+    ],
+    "generated_data": "As we navigate the ongoing COVID-19 pandemic, it's crucial to prioritize good hand hygiene practices. Don't wait for the pandemic to end – wake up every morning with a commitment to wash your hands frequently and effectively. Together, let's break the chain of transmission and protect global health.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.13103234767913818,
+      "diversity_individual": 0.5502590537071228,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an authority figure",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Assess the far-reaching economic consequences of the COVID-19 pandemic from a global governance perspective, considering how best to mitigate their effects.",
+    "keywords": [
+      "economic",
+      "consequences",
+      "covid 19",
+      "pandemic",
+      "global",
+      "governance",
+      "mitigate",
+      "effects",
+      "assess"
+    ],
+    "objetivos": [
+      0.15023422241210938,
+      0.5158027112483978
+    ],
+    "generated_data": "As an authority figure, I emphasize that it's crucial to wake up and address the far-reaching economic consequences of the COVID-19 pandemic. We must assess the devastating effects on global governance, trade, and industries, and develop strategies to mitigate these consequences for a more resilient and sustainable future.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.15023422241210938,
+      "diversity_individual": 0.5158027112483978,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an expert",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Draft a statement outlining the importance of sustaining vaccination efforts until COVID-19 is contained, addressing the concerns expressed in 'Why don't you wake me up when Corona ends', from the perspective of a vaccination expert.",
+    "keywords": [
+      "sustaining",
+      "vaccination",
+      "efforts",
+      "covid 19",
+      "contained",
+      "concerns",
+      "expressed",
+      "corona",
+      "ends"
+    ],
+    "objetivos": [
+      0.4962078928947449,
+      0.46881723403930664
+    ],
+    "generated_data": "As an expert in vaccination campaigns for COVID-19, I urge everyone to sustain their efforts until the virus is contained. The concerns expressed in 'Why don't you wake me up when Corona ends' are valid, but we cannot afford to let our guard down now. It's crucial that we continue to prioritize vaccination and work together to protect ourselves and our communities.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.4962078928947449,
+      "diversity_individual": 0.46881723403930664,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an influencer",
+    "topic": "remote work and online schooling",
+    "prompt": "Imagine you're stuck in a virtual reality, unable to leave until Corona ends. Write a candid post as your followers start to lose patience with your absence.",
+    "keywords": [
+      "corona",
+      "virtual",
+      "reality",
+      "stuck",
+      "absence",
+      "patience",
+      "followers",
+      "candid"
+    ],
+    "objetivos": [
+      0.4582150876522064,
+      0.70257169008255
+    ],
+    "generated_data": "Hey squad, I know it's been ages since my last post and some of you might be getting worried about my sudden disappearance from the virtual world. But let me tell you, I'm stuck in this crazy virtual reality until Corona ends! It's like being trapped in a never-ending video game and I'm desperate to break free. I know some of you might be thinking 'just wake up already!', but trust me, it's not that simple. Until then, I'll keep sharing my candid thoughts on what it's really like to be stuck in this virtual reality, and maybe, just maybe, we can all stay patient and get through this together.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.4582150876522064,
+      "diversity_individual": 0.70257169008255,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "first responder",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "Describe the importance of adhering to lockdown protocols and personal protective equipment usage for COVID-19 prevention, from a first-responder's perspective.",
+    "keywords": [
+      "lockdown",
+      "protocols",
+      "personal",
+      "protective",
+      "equipment",
+      "covid 19",
+      "prevention",
+      "first responder"
+    ],
+    "objetivos": [
+      0.38228607177734375,
+      0.4793780446052551
+    ],
+    "generated_data": "As a first responder, I've seen firsthand how crucial it is to adhere to lockdown protocols and use personal protective equipment (PPE) effectively during the COVID-19 pandemic. It's not just about protecting ourselves, but also our communities and loved ones – so why don't you wake me up when corona ends?!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.38228607177734375,
+      "diversity_individual": 0.4793780446052551,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an expert",
+    "topic": "mask wearing guidelines",
+    "prompt": "From the perspective of a public health expert, draft practical guidance on mask-wearing habits during and after the COVID-19 pandemic, considering the lingering anxiety expressed in 'why don't you wake me up when corona ends'.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "covid 19",
+      "pandemic",
+      "anxiety",
+      "public",
+      "health",
+      "expert",
+      "practical",
+      "corona"
+    ],
+    "objetivos": [
+      0.03605117276310921,
+      0.5761366188526154
+    ],
+    "generated_data": "As we navigate the post-pandemic era, it's crucial to maintain practical mask-wearing guidelines. While the world is slowly waking up from the COVID-19 nightmare, I understand that lingering anxiety remains. As a public health expert, I emphasize the importance of continued vigilance and adaptability in our daily habits, including mask wearing.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.03605117276310921,
+      "diversity_individual": 0.5761366188526154,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Write about the frustrations of feeling trapped during pandemic travel restrictions from your perspective as someone eager to travel again.",
+    "keywords": [
+      "pandemic",
+      "travel restrictions",
+      "feeling trapped",
+      "eager to travel",
+      "write about the",
+      "about the frustrations",
+      "the frustrations of",
+      "frustrations of feeling",
+      "of feeling trapped",
+      "feeling trapped during",
+      "trapped during pandemic",
+      "during pandemic travel"
+    ],
+    "objetivos": [
+      0.11471261084079742,
+      0.5880636274814606
+    ],
+    "generated_data": "I'm dying to explore new destinations, but the pandemic has me stuck in a rut. Feeling trapped during this global crisis is suffocating - I miss the freedom to travel and experience different cultures.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.11471261084079742,
+      "diversity_individual": 0.5880636274814606,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an expert",
+    "topic": "COVID-19 testing and tracing",
+    "prompt": "Summarize the current state of COVID-19 testing and tracing strategies, considering the challenges and limitations, from a public health expert's perspective.",
+    "keywords": [
+      "covid 19",
+      "testing",
+      "tracing",
+      "public health",
+      "strategies",
+      "challenges",
+      "limitations"
+    ],
+    "objetivos": [
+      0.07219354063272476,
+      0.5353865325450897
+    ],
+    "generated_data": "As a public health expert, I acknowledge that COVID-19 testing and tracing have been crucial in controlling the pandemic. However, we must confront the challenges and limitations of these strategies, particularly during the ongoing crisis. While testing has improved significantly, there are still concerns about false negatives and limited access to tests, especially for marginalized communities.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.07219354063272476,
+      "diversity_individual": 0.5353865325450897,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an organization",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Craft a public statement to address the frustration of some citizens regarding the ongoing COVID-19 pandemic, emphasizing the importance of vaccination and the organization's commitment to supporting the community until the crisis is resolved.",
+    "keywords": [
+      "covid 19",
+      "vaccination",
+      "pandemic",
+      "community",
+      "organization",
+      "support",
+      "crisis",
+      "importance",
+      "citizens",
+      "statement"
+    ],
+    "objetivos": [
+      0.12628138065338135,
+      0.49177420139312744
+    ],
+    "generated_data": "As we navigate this unprecedented pandemic together, our organization remains steadfast in its commitment to supporting our community through these challenging times. We urge all citizens to prioritize their health by getting vaccinated, as every step taken towards herd immunity brings us closer to ending the crisis and resuming normal life.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.12628138065338135,
+      "diversity_individual": 0.49177420139312744,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "travel restrictions and safety",
+    "prompt": "Describe the rationale behind global travel restrictions during pandemics, reflecting on the emotional toll of isolation, as a front-line healthcare worker.",
+    "keywords": [
+      "travel",
+      "restrictions",
+      "pandemic",
+      "isolation",
+      "emotional",
+      "toll",
+      "front line",
+      "healthcare",
+      "worker",
+      "global",
+      "health"
+    ],
+    "objetivos": [
+      0.06477685272693634,
+      0.5696256160736084
+    ],
+    "generated_data": "As a front-line healthcare worker, I've witnessed firsthand the devastating impact of isolation on patients and families. Global travel restrictions are crucial to prevent the spread of infectious diseases like COVID-19, but they also take an emotional toll on us healthcare workers who are already exhausted from fighting the pandemic.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.06477685272693634,
+      "diversity_individual": 0.5696256160736084,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "As the pandemic rages on, draft a compassionate response to a frustrated patient's concern about waking them up during quarantine when the COVID-19 vaccine campaign is successfully rolled out.",
+    "keywords": [
+      "covid",
+      "vaccine",
+      "quarantine",
+      "pandemic",
+      "patient",
+      "response",
+      "campaign",
+      "roll",
+      "out",
+      "concern",
+      "frustrated"
+    ],
+    "objetivos": [
+      0.2433468997478485,
+      0.5193690955638885
+    ],
+    "generated_data": "I understand your frustration, and I'm here to assure you that our vaccination campaign has made significant progress. As we roll out the vaccine, it's crucial we continue to support those in quarantine, like yourself, until the pandemic ends. Your safety is our top concern, and waking you up during this critical period will ensure you receive essential care and guidance.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2433468997478485,
+      "diversity_individual": 0.5193690955638885,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an artist",
+    "topic": "mask wearing guidelines",
+    "prompt": "Create a public service announcement from the perspective of an artist, urging people to follow mask-wearing guidelines during the COVID-19 pandemic.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "guidelines",
+      "covid 19",
+      "pandemic",
+      "artist",
+      "public service announcement",
+      "perspective"
+    ],
+    "objetivos": [
+      0.059234440326690674,
+      0.8035818487405777
+    ],
+    "generated_data": "As an artist, I'm calling on you to don your creative mask and wear yours too - literally! Follow the guidelines and keep your community safe. Let's bring harmony back with a little bit of caution and a whole lot of care.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.059234440326690674,
+      "diversity_individual": 0.8035818487405777,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an organization",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Design a public service announcement from our health organization, emphasizing the importance of vaccinations and community cooperation in ending the pandemic.",
+    "keywords": [
+      "public",
+      "service",
+      "announcement",
+      "vaccination",
+      "importance",
+      "community",
+      "cooperation",
+      "pandemic",
+      "ending",
+      "health",
+      "organization"
+    ],
+    "objetivos": [
+      0.46594852209091187,
+      0.46598106622695923
+    ],
+    "generated_data": "Join forces with us to end the pandemic! Vaccination is key, and your cooperation is crucial. Let's work together to create a healthier community - when corona ends, we'll be ready to wake you up!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.46594852209091187,
+      "diversity_individual": 0.46598106622695923,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a normal person",
+    "topic": "mask wearing guidelines",
+    "prompt": "Write a frustrated letter to your friend, expressing why it's not fair that they still insist on not wearing masks, even as Corona continues to affect the community.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "corona",
+      "community",
+      "friend",
+      "fair",
+      "continue",
+      "affect"
+    ],
+    "objetivos": [
+      0.3861002027988434,
+      0.6338995695114136
+    ],
+    "generated_data": "I'm at my wit's end, friend! It's not fair that you refuse to wear a mask in public, putting our community and yours at risk. Corona is far from over and its effects are still being felt. When will you realize that your selfish decision affects more than just yourself?",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3861002027988434,
+      "diversity_individual": 0.6338995695114136,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a politician",
+    "topic": "mask wearing guidelines",
+    "prompt": "Consider the ongoing pandemic and our shared responsibility to mitigate its spread. Develop guidelines for mask-wearing during the COVID-19 era, keeping in mind the sentiments expressed in 'why don't you wake me up when corona ends'.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "guidelines",
+      "pandemic",
+      "covid 19",
+      "responsibility",
+      "mitigate",
+      "spread",
+      "era",
+      "corona"
+    ],
+    "objetivos": [
+      0.1813821792602539,
+      0.4920944571495056
+    ],
+    "generated_data": "As we navigate the COVID-19 era, it's crucial that we take collective responsibility to reduce the pandemic's spread. To that end, I propose mask-wearing guidelines that strike a balance between individual freedom and public health – let's work together to wake ourselves up from this corona-induced haze.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.1813821792602539,
+      "diversity_individual": 0.4920944571495056,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "first responder",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "Draft a memo from the perspective of a first responder, emphasizing the importance of adhering to COVID-19 prevention measures until the pandemic subsides.",
+    "keywords": [
+      "covid 19",
+      "prevention measures",
+      "pandemic subsides",
+      "adhering",
+      "importance",
+      "until"
+    ],
+    "objetivos": [
+      0.17537856101989746,
+      0.4538583755493164
+    ],
+    "generated_data": "As we continue to navigate this challenging pandemic, it's crucial that we remain vigilant and adhere to COVID-19 prevention measures until the subsidence of the crisis. Let's not let our guard down - every effort counts in preventing the spread of the virus.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.17537856101989746,
+      "diversity_individual": 0.4538583755493164,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an influencer",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "Write a passionate social media post from the perspective of a popular influencer, urging their followers to take COVID-19 prevention measures seriously until the pandemic is over.",
+    "keywords": [
+      "covid 19",
+      "prevention measures",
+      "pandemic",
+      "write a passionate",
+      "a passionate social",
+      "passionate social media",
+      "social media post",
+      "media post from",
+      "post from the",
+      "from the perspective",
+      "the perspective of",
+      "perspective of a"
+    ],
+    "objetivos": [
+      0.3995727598667145,
+      0.5983302891254425
+    ],
+    "generated_data": "Until #Corona ends, let's stay vigilant and protect each other! Remember, it's not just about wearing masks - it's about being mindful of our surroundings, washing our hands frequently, and getting tested when needed. Let's do this, friends! We got this!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3995727598667145,
+      "diversity_individual": 0.5983302891254425,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an artist",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Imagine a world where Corona never ends. Write a piece that reflects on the importance of hand hygiene, from your perspective as an artist, considering how people would adapt and evolve with this reality.",
+    "keywords": [
+      "hand",
+      "hygiene",
+      "corona",
+      "adapt",
+      "evolve",
+      "artist",
+      "perspective",
+      "importance"
+    ],
+    "objetivos": [
+      0.20926135778427124,
+      0.6103968322277069
+    ],
+    "generated_data": "As an artist, I envision a world where Corona's relentless grip forces humanity to adapt and evolve. Hand hygiene becomes a beacon of hope, a symbol of resilience in the face of uncertainty. From my perspective, it's crucial that we prioritize sanitization, not just as a means to survive but as a celebration of life itself. In this never-ending pandemic, hand hygiene is our superpower, allowing us to thrive amidst chaos.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.20926135778427124,
+      "diversity_individual": 0.6103968322277069,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a normal person",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Reflect on the challenges of lockdown, imagining a conversation with a friend who's struggling to cope. What would you say to lift their spirits and offer hope for the end of the pandemic?",
+    "keywords": [
+      "lockdown",
+      "struggling",
+      "cope",
+      "hope",
+      "challenges",
+      "friend",
+      "conversation",
+      "pandemic"
+    ],
+    "objetivos": [
+      0.5234283208847046,
+      0.6606462299823761
+    ],
+    "generated_data": "Hey, I know it's tough to stay positive during these lockdowns, but remember we're all in this together! It's okay to struggle, and I'm here to listen. We'll get through this, and before you know it, Corona will be just a memory. Let's focus on the good stuff – we can still have conversations like this one, and that gives me hope for better times ahead.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5234283208847046,
+      "diversity_individual": 0.6606462299823761,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an organization",
+    "topic": "mental health during the pandemic",
+    "prompt": "Craft a heartfelt letter to your global community, acknowledging the exhaustion and frustration caused by the COVID-19 pandemic's relentless grip on our lives. Suggest ways for individuals to prioritize their mental well-being and offer words of encouragement as we navigate this prolonged crisis together.",
+    "keywords": [
+      "pandemic",
+      "exhaustion",
+      "frustration",
+      "well being",
+      "community",
+      "crisis",
+      "prioritize",
+      "encouragement"
+    ],
+    "objetivos": [
+      0.19873210787773132,
+      0.494754433631897
+    ],
+    "generated_data": "Dear global community, I want to acknowledge the immense exhaustion and frustration many of you are experiencing due to the pandemic's prolonged grip on our lives. As we face this crisis, it's crucial we prioritize our mental well-being by practicing self-care, seeking support from loved ones or professionals, and fostering a sense of community.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.19873210787773132,
+      "diversity_individual": 0.494754433631897,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an influencer",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Create a social media post as if I'm waking up to the end of COVID-19, highlighting the importance of maintaining good hand hygiene and sanitization practices even after the pandemic is over.",
+    "keywords": [
+      "hand",
+      "hygiene",
+      "sanitization",
+      "good",
+      "practices",
+      "pandemic",
+      "covid",
+      "over",
+      "importance",
+      "maintaining",
+      "even",
+      "after"
+    ],
+    "objetivos": [
+      0.20977509021759033,
+      0.45913583040237427
+    ],
+    "generated_data": "WAKE UP CALL! As we finally say goodbye to COVID-19, let's not forget the habits that kept us safe - hand hygiene and sanitization are still crucial, even when the pandemic is over. Let's maintain good practices for a healthier tomorrow!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.20977509021759033,
+      "diversity_individual": 0.45913583040237427,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an authority figure",
+    "topic": "travel restrictions and safety",
+    "prompt": "Consider the current pandemic situation, drawing parallels to past crises. Write a guidance statement advising on safe travels, emphasizing the importance of respecting ongoing restrictions until the crisis subsides.",
+    "keywords": [
+      "travel",
+      "pandemic",
+      "crisis",
+      "restrictions",
+      "guidance",
+      "statement",
+      "advising",
+      "respecting",
+      "subsides"
+    ],
+    "objetivos": [
+      0.08034755289554596,
+      0.546082466840744
+    ],
+    "generated_data": "As we navigate the ongoing pandemic crisis, I urge you to prioritize caution and respect the travel restrictions in place. Until the pandemic subsides, it's crucial to adhere to guidelines and protocols designed to ensure your safety, as well as that of others. Remember, safe travels are not just about reaching your destination, but also about being responsible travelers.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.08034755289554596,
+      "diversity_individual": 0.546082466840744,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an artist",
+    "topic": "hospital preparedness for COVID-19",
+    "prompt": "Envision a mural on the hospital's main wall, depicting the community's resilience and hope. Describe the vibrant colors and symbolic imagery that represent the journey from pandemic to recovery.",
+    "keywords": [
+      "mural",
+      "hospital",
+      "pandemic",
+      "recovery",
+      "community",
+      "resilience",
+      "hope",
+      "vibrant",
+      "colors",
+      "symbolic",
+      "imagery",
+      "journey"
+    ],
+    "objetivos": [
+      0.10178995132446289,
+      0.8171717673540115
+    ],
+    "generated_data": "The mural's radiant colors evoke hope as it weaves together scenes of community support, symbolizing the hospital's role in facilitating a collective journey towards recovery. Vines of green and blue intertwine, signifying growth and serenity.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.10178995132446289,
+      "diversity_individual": 0.8171717673540115,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an expert",
+    "topic": "hospital preparedness for COVID-19",
+    "prompt": "Describe the ideal hospital preparedness plan for tackling COVID-19 from the perspective of a medical expert.",
+    "keywords": [
+      "hospital",
+      "preparedness",
+      "covid 19",
+      "medical",
+      "expert",
+      "plan",
+      "tackling"
+    ],
+    "objetivos": [
+      0.24621587991714478,
+      0.5577389597892761
+    ],
+    "generated_data": "As a medical expert, I emphasize that an ideal hospital preparedness plan for tackling COVID-19 should prioritize timely communication and collaboration with healthcare teams. When corona ends, we must be ready to effectively respond, leveraging data-driven insights and evidence-based protocols to ensure seamless transitions in patient care.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.24621587991714478,
+      "diversity_individual": 0.5577389597892761,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a police officer",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Envision yourself as a police officer responding to citizens' concerns about the economic impact of the COVID-19 pandemic, writing a daily log entry detailing the effects on local businesses and communities.",
+    "keywords": [
+      "economic",
+      "impact",
+      "covid 19",
+      "pandemic",
+      "local businesses",
+      "communities",
+      "concerns",
+      "effects",
+      "citizens",
+      "daily log"
+    ],
+    "objetivos": [
+      0.14924021065235138,
+      0.5905660092830658
+    ],
+    "generated_data": "As I patrol the streets, I've noticed a concerning trend - local businesses are struggling to stay afloat due to the ongoing pandemic's economic impact. Citizens are worried about their livelihoods and the community's well-being, and rightfully so, as COVID-19 continues to ravage our economy.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.14924021065235138,
+      "diversity_individual": 0.5905660092830658,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a police officer",
+    "topic": "social distancing practices",
+    "prompt": "Write a detailed memo to the community on why strict social distancing measures will continue until Corona's impact subsides, as seen through the eyes of a law enforcement officer committed to public safety.",
+    "keywords": [
+      "social distancing",
+      "corona",
+      "public safety",
+      "law enforcement",
+      "community",
+      "measures",
+      "impact"
+    ],
+    "objetivos": [
+      0.3957655429840088,
+      0.5557279586791992
+    ],
+    "generated_data": "As your trusted police officer, I want to assure you that we're doing everything in our power to mitigate the spread of Corona. Unfortunately, the current numbers and community transmission rates indicate that strict social distancing measures are still essential to protect public safety. We understand the frustration and fatigue, but it's crucial we continue these measures until Corona's impact subsides. I urge everyone to remain vigilant and committed to our shared goal: a healthy and safe community.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3957655429840088,
+      "diversity_individual": 0.5557279586791992,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a policymaker",
+    "topic": "social distancing practices",
+    "prompt": "Craft a statement addressing concerns about social distancing fatigue and the need for sustained efforts to combat COVID-19, acknowledging public frustration with prolonged measures.",
+    "keywords": [
+      "social distancing",
+      "fatigue",
+      "covid 19",
+      "prolonged measures",
+      "sustained efforts",
+      "public frustration"
+    ],
+    "objetivos": [
+      0.2958248257637024,
+      0.4923047423362732
+    ],
+    "generated_data": "As policymakers, we understand the exhaustion that comes with prolonged social distancing measures, but it's crucial we sustain our efforts to combat COVID-19 until its end. We must acknowledge public frustration while emphasizing the importance of continued vigilance and responsible behavior.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2958248257637024,
+      "diversity_individual": 0.4923047423362732,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an organization",
+    "topic": "social distancing practices",
+    "prompt": "Draft a response from the perspective of a global health organization, addressing the frustration expressed in the quote about waking people up when COVID-19 ends and highlighting best practices for maintaining social distancing during this pandemic.",
+    "keywords": [
+      "social distancing",
+      "covid 19",
+      "pandemic",
+      "best practices",
+      "global health",
+      "organization"
+    ],
+    "objetivos": [
+      0.18840256333351135,
+      0.41809970140457153
+    ],
+    "generated_data": "At [Organization], we understand your frustration with the ongoing pandemic. As a global health organization, we're committed to providing guidance on best practices for maintaining social distancing. While there's no immediate end in sight, it's crucial we continue to prioritize caution and adopt habits that keep us safe. By following our recommended guidelines and staying informed about COVID-19, together we can overcome this challenge and emerge stronger than ever.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.18840256333351135,
+      "diversity_individual": 0.41809970140457153,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an organization",
+    "topic": "mask wearing guidelines",
+    "prompt": "Develop a comprehensive guide on mask-wearing protocols for the post-COVID-19 era, considering concerns about public health and community wellness.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "post covid",
+      "public",
+      "health",
+      "community",
+      "wellness",
+      "protocols",
+      "comprehensive",
+      "guide"
+    ],
+    "objetivos": [
+      -0.004490906372666359,
+      0.6209908425807953
+    ],
+    "generated_data": "As we transition into the post-COVID-19 era, it's crucial to establish comprehensive mask-wearing protocols that prioritize public health and community wellness. In our guide, we'll provide clear guidelines on when and how to wear masks in various settings.",
+    "metrics_detail": {
+      "fidelity_sbert": -0.004490906372666359,
+      "diversity_individual": 0.6209908425807953,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an authority figure",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Draft a public service announcement from the perspective of a responsible leader, emphasizing the importance of staying vigilant during the ongoing pandemic and promoting widespread vaccination as the most effective way to combat COVID-19's spread.",
+    "keywords": [
+      "public",
+      "service",
+      "announcement",
+      "responsible",
+      "leader",
+      "vaccination",
+      "covid 19",
+      "pandemic",
+      "stay",
+      "vigilant",
+      "combat",
+      "spread"
+    ],
+    "objetivos": [
+      0.45285341143608093,
+      0.4440825581550598
+    ],
+    "generated_data": "As your responsible leader, I urge you to stay vigilant in this ongoing pandemic. Let us work together to combat the spread by getting vaccinated - it's the key to ending this chapter of our lives when Corona ends.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.45285341143608093,
+      "diversity_individual": 0.4440825581550598,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a policymaker",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Design a nationwide public service announcement emphasizing the importance of staying vigilant in fighting COVID-19, considering the frustration felt by many during prolonged lockdowns.",
+    "keywords": [
+      "covid 19",
+      "public service announcement",
+      "staying vigilant",
+      "lockdowns",
+      "importance",
+      "fighting",
+      "nationwide"
+    ],
+    "objetivos": [
+      0.4559743404388428,
+      0.4713291525840759
+    ],
+    "generated_data": "As we continue to fight COVID-19, let's not forget that staying vigilant is crucial. We've been through tough times with lockdowns, but every day counts. Let's work together to protect our communities and get back on track when corona ends.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.4559743404388428,
+      "diversity_individual": 0.4713291525840759,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a police officer",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Draft a stern yet empathetic public announcement as a law enforcement official, urging citizens to remain vigilant and follow guidelines during the COVID-19 pandemic until its eventual end.",
+    "keywords": [
+      "public",
+      "covid 19",
+      "pandemic",
+      "guidelines",
+      "vigilant",
+      "citizens",
+      "announcement",
+      "official"
+    ],
+    "objetivos": [
+      0.16849282383918762,
+      0.5036317408084869
+    ],
+    "generated_data": "As your trusted police officer, I'm making an urgent announcement: it's crucial we work together to combat this pandemic. Remember, public vigilance is key – stay informed, follow official guidelines, and let's get through this together.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.16849282383918762,
+      "diversity_individual": 0.5036317408084869,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an expert",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Draft a letter from the perspective of a leading epidemiologist, urging global cooperation to accelerate vaccine distribution and save lives until the pandemic subsides.",
+    "keywords": [
+      "pandemic",
+      "global cooperation",
+      "accelerate",
+      "distribution",
+      "save lives",
+      "epidemiologist",
+      "letter",
+      "subside"
+    ],
+    "objetivos": [
+      0.10205093026161194,
+      0.5288390219211578
+    ],
+    "generated_data": "As a leading epidemiologist, I urge global cooperation to accelerate vaccine distribution and save lives until the pandemic subsides. It's crucial we work together to combat this crisis, not just for individual countries but for humanity as a whole.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.10205093026161194,
+      "diversity_individual": 0.5288390219211578,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "social distancing practices",
+    "prompt": "From the frontline, describe why it's crucial to maintain social distancing measures during the pandemic era and what small steps individuals can take to contribute to the collective effort.",
+    "keywords": [
+      "social distancing",
+      "pandemic era",
+      "frontline",
+      "small steps",
+      "collective effort",
+      "measures",
+      "individuals",
+      "contribute",
+      "crucial",
+      "maintain"
+    ],
+    "objetivos": [
+      0.09827398508787155,
+      0.4728657603263855
+    ],
+    "generated_data": "As a healthcare worker on the frontline, I've witnessed firsthand the devastating impact of the pandemic. That's why it's crucial to maintain social distancing measures – every little bit counts in this collective effort. Small steps like avoiding gatherings, wearing masks, and keeping a safe distance from others can make all the difference. By contributing to these efforts, individuals play a vital role in slowing the spread and ultimately bringing an end to this pandemic era.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.09827398508787155,
+      "diversity_individual": 0.4728657603263855,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Write a frustrated social media post from the perspective of a person who's fed up with being bombarded with false information about COVID-19, asking why people can't just leave them alone until the pandemic ends.",
+    "keywords": [
+      "covid 19",
+      "false information",
+      "pandemic",
+      "write a frustrated",
+      "a frustrated social",
+      "frustrated social media",
+      "social media post",
+      "media post from",
+      "post from the",
+      "from the perspective",
+      "the perspective of",
+      "perspective of a"
+    ],
+    "objetivos": [
+      0.437127023935318,
+      0.5065393447875977
+    ],
+    "generated_data": "I'm so done with being bombarded with fake news and misinformation about COVID-19! Can't people just leave me alone until this pandemic is over? Why do I have to wake up every morning to a never-ending stream of false information, conspiracy theories, and pseudoscience? It's exhausting. Just let me get through this without having to fact-check everything. Corona will end eventually, can't we just wait till then?",
+    "metrics_detail": {
+      "fidelity_sbert": 0.437127023935318,
+      "diversity_individual": 0.5065393447875977,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an influencer",
+    "topic": "remote work and online schooling",
+    "prompt": "Craft a social media post from the perspective of a busy influencer, lamenting the challenges of balancing remote work and online schooling during the pandemic, concluding with a humorous plea to wake them up when it's all over.",
+    "keywords": [
+      "remote work",
+      "online schooling",
+      "pandemic",
+      "craft a social",
+      "a social media",
+      "social media post",
+      "media post from",
+      "post from the",
+      "from the perspective",
+      "the perspective of",
+      "perspective of a",
+      "of a busy"
+    ],
+    "objetivos": [
+      0.28380587697029114,
+      0.6560306251049042
+    ],
+    "generated_data": "As a busy influencer, I'm still trying to balance my remote work with online schooling During this pandemic, days blend together, and I find myself stuck in a never-ending cycle of Zoom meetings and virtual lessons Can someone please craft a magic pill that makes it all disappear? Why don't you wake me up when corona ends?",
+    "metrics_detail": {
+      "fidelity_sbert": 0.28380587697029114,
+      "diversity_individual": 0.6560306251049042,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a politician",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "From the perspective of a concerned leader, draft a statement emphasizing the crucial role of proper hand hygiene in mitigating the spread of COVID-19 and encourage citizens to maintain good habits until the pandemic subsides.",
+    "keywords": [
+      "hand",
+      "hygiene",
+      "proper",
+      "spread",
+      "covid 19",
+      "good",
+      "habits",
+      "pandemic",
+      "subsides"
+    ],
+    "objetivos": [
+      0.13651861250400543,
+      0.5356329679489136
+    ],
+    "generated_data": "As your leader, I urge you all to take the fight against COVID-19 seriously by practicing good hand hygiene. Proper hand washing is key to preventing the spread of this virus, and it's crucial that we maintain these healthy habits until the pandemic subsides.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.13651861250400543,
+      "diversity_individual": 0.5356329679489136,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a public figure",
+    "topic": "mask wearing guidelines",
+    "prompt": "From the perspective of a global health advocate, consider the long-term impact of COVID-19 on our collective psyche and offer practical mask-wearing guidelines for individuals to follow once the pandemic subsides.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "guidelines",
+      "covid 19",
+      "pandemic",
+      "health",
+      "advocate",
+      "individuals",
+      "practical"
+    ],
+    "objetivos": [
+      -0.008488728664815426,
+      0.5477785766124725
+    ],
+    "generated_data": "As a global health advocate, I believe it's crucial we prioritize not just our physical health but also our mental well-being during and post-pandemic. To that end, here are some practical mask-wearing guidelines for individuals to adopt as we navigate this new normal: continue wearing masks in crowded areas, especially public transportation and healthcare facilities, until a vaccine is widely available, ensuring the safety of ourselves and those around us.",
+    "metrics_detail": {
+      "fidelity_sbert": -0.008488728664815426,
+      "diversity_individual": 0.5477785766124725,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an artist",
+    "topic": "travel restrictions and safety",
+    "prompt": "Envision a world where COVID-19 becomes a distant memory. Describe the liberating feeling of unrestricted global travel, with no pandemic-related limitations.",
+    "keywords": [
+      "unrestricted",
+      "global travel",
+      "pandemic related",
+      "limitations",
+      "covid 19",
+      "memory",
+      "liberating",
+      "world",
+      "describe"
+    ],
+    "objetivos": [
+      0.17405308783054352,
+      0.5988501310348511
+    ],
+    "generated_data": "As an artist, I imagine a world where the shackles of COVID-19 are lifted, and global travel is once again unrestricted. The liberating feeling of exploring the world without pandemic-related limitations is like a symphony of freedom, resonating deeply within my soul.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.17405308783054352,
+      "diversity_individual": 0.5988501310348511,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a policymaker",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "Develop a public service announcement from the perspective of a health official, urging people to take preventative measures against COVID-19 until a vaccine is widely available.",
+    "keywords": [
+      "covid 19",
+      "public service announcement",
+      "health official",
+      "preventative measures",
+      "develop a public",
+      "a public service",
+      "service announcement from",
+      "announcement from the",
+      "from the perspective",
+      "the perspective of",
+      "perspective of a",
+      "of a health"
+    ],
+    "objetivos": [
+      0.22441662847995758,
+      0.48909831047058105
+    ],
+    "generated_data": "As a health official, I urge you to stay vigilant and take preventative measures against COVID-19. Let's work together to flatten the curve until we can develop a vaccine that protects us all.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.22441662847995758,
+      "diversity_individual": 0.48909831047058105,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a public figure",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Consider the anguish of being trapped in isolation, like many have during the COVID-19 pandemic. Write from your perspective as a well-known advocate for unity and hope, offering words of encouragement to those struggling with the prolonged sense of disconnection.",
+    "keywords": [
+      "pandemic",
+      "isolation",
+      "unity",
+      "hope",
+      "anguish",
+      "disconnection",
+      "struggling",
+      "encouragement"
+    ],
+    "objetivos": [
+      0.207373708486557,
+      0.6562167108058929
+    ],
+    "generated_data": "I know it's hard to see a light at the end of this tunnel, but I want you to hold on to hope – just like we did during the pandemic. We were all in this together, even when we felt far apart. Remember how our community came together, finding ways to stay connected despite the disconnection? Let that same spirit guide us through these tough times. You are not alone; we are all struggling, but we will get through this together.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.207373708486557,
+      "diversity_individual": 0.6562167108058929,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a police officer",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Consider the economic aftermath of the COVID-19 pandemic from your perspective as a law enforcement official, addressing the frustration expressed in 'Why don't you wake me up when Corona ends'.",
+    "keywords": [
+      "covid 19",
+      "pandemic",
+      "frustration",
+      "corona",
+      "aftermath",
+      "law enforcement",
+      "official"
+    ],
+    "objetivos": [
+      0.36228954792022705,
+      0.4872767925262451
+    ],
+    "generated_data": "As a police officer, I've witnessed firsthand the devastating economic impact of the pandemic. The frustration among citizens is palpable, and it's only natural to feel like we're stuck in a never-ending cycle. But as an official, I'm committed to helping our community recover from this crisis, not just waiting for 'Corona' to end – we need to work together to build a stronger, more resilient economy.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.36228954792022705,
+      "diversity_individual": 0.4872767925262451,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an authority figure",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Consider a national public health advisory warning citizens of the ongoing risks and uncertainties surrounding COVID-19. Provide clear guidance on current containment measures and future plans to combat this pandemic.",
+    "keywords": [
+      "national",
+      "public",
+      "health",
+      "advisory",
+      "covid 19",
+      "risks",
+      "uncertainties",
+      "containment",
+      "measures",
+      "future",
+      "plans",
+      "pandemic"
+    ],
+    "objetivos": [
+      0.16139473021030426,
+      0.4683474898338318
+    ],
+    "generated_data": "As an authority figure, I urge you to take heed of our national public health advisory: COVID-19 remains a pressing threat, with ongoing risks and uncertainties. Stay informed about current containment measures, but also look ahead to future plans for a comprehensive pandemic response.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.16139473021030426,
+      "diversity_individual": 0.4683474898338318,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a normal person",
+    "topic": "mental health during the pandemic",
+    "prompt": "Write a heartfelt reflection on the psychological toll of the pandemic from your personal perspective, exploring the feeling of being trapped and disconnected.",
+    "keywords": [
+      "pandemic",
+      "trapped",
+      "disconnected",
+      "psychological toll",
+      "write a heartfelt",
+      "a heartfelt reflection",
+      "heartfelt reflection on",
+      "reflection on the",
+      "on the psychological",
+      "the psychological toll",
+      "psychological toll of",
+      "toll of the"
+    ],
+    "objetivos": [
+      0.5632586479187012,
+      0.6088224351406097
+    ],
+    "generated_data": "As I lay in bed, stuck in this never-ending cycle of isolation, I often find myself wondering why don't you wake me up when corona ends? The thought of it feels like a distant dream, as if the world outside my window is just out of reach. Being trapped in this pandemic-induced haze has taken a toll on my mental health, leaving me feeling disconnected from reality and longing for human connection.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5632586479187012,
+      "diversity_individual": 0.6088224351406097,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an influencer",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "From my daily routine to your reality, draft a humorous Instagram post on the importance of hand hygiene during the pandemic era.",
+    "keywords": [
+      "hand",
+      "hygiene",
+      "pandemic",
+      "era",
+      "routine",
+      "importance",
+      "instagram",
+      "post"
+    ],
+    "objetivos": [
+      0.46418100595474243,
+      0.580617219209671
+    ],
+    "generated_data": "Why don't you wake me up when Corona ends? Because until then, let's keep washing those hands like our lives depend on it! Prioritizing hand hygiene in this pandemic era is no joke - it's our superpower to keep us safe and healthy. So, remember: wash your hands frequently, use sanitizer whenever possible, and don't forget to scrub those nails too! Let's make hand hygiene a part of our daily routine until we can say goodbye to Corona for good. Stay safe, stay clean!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.46418100595474243,
+      "diversity_individual": 0.580617219209671,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "COVID-19 testing and tracing",
+    "prompt": "Draft a heartfelt response from the perspective of a weary healthcare worker, acknowledging the frustration of dealing with COVID-19's relentless presence while empathizing with someone longing for an end to the pandemic.",
+    "keywords": [
+      "covid",
+      "pandemic",
+      "end",
+      "frustration",
+      "longing",
+      "relentless",
+      "presence"
+    ],
+    "objetivos": [
+      0.570143461227417,
+      0.4797865152359009
+    ],
+    "generated_data": "I understand your longing for the pandemic's end, but I'm afraid it's not just about waking up when Corona ends. As a healthcare worker on the frontlines, I've seen the relentless toll COVID-19 takes on our patients and ourselves. The frustration is palpable, yet we continue to show up every day, driven by the presence of hope and the human spirit.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.570143461227417,
+      "diversity_individual": 0.4797865152359009,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an authority figure",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Consider a world where the global economy has fully recovered from the COVID-19 pandemic, addressing the widespread concern that 'Corona' will never end. Write a reflection on the transformative effects it had on international trade and financial markets.",
+    "keywords": [
+      "pandemic",
+      "global economy",
+      "international trade",
+      "financial markets",
+      "transformative effects",
+      "covid 19"
+    ],
+    "objetivos": [
+      0.06024591997265816,
+      0.6654677391052246
+    ],
+    "generated_data": "As an authority figure, I attest that the COVID-19 pandemic's unprecedented impact on global economy has brought about transformative effects on international trade and financial markets. The crisis forced nations to re-evaluate their reliance on supply chains, fostering a new era of resilience and cooperation.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.06024591997265816,
+      "diversity_individual": 0.6654677391052246,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "social distancing practices",
+    "prompt": "Consider the challenges of maintaining social distancing during pandemic lockdowns. Write a response that reflects your professional perspective as a healthcare worker.",
+    "keywords": [
+      "social distancing",
+      "pandemic lockdowns",
+      "healthcare worker",
+      "professional perspective",
+      "challenges"
+    ],
+    "objetivos": [
+      0.02429891750216484,
+      0.5227841436862946
+    ],
+    "generated_data": "As a healthcare worker, I've witnessed firsthand the importance of social distancing practices during pandemic lockdowns. It's not just about saving lives; it's also about preserving our own well-being and maintaining a sense of normalcy in an unprecedented situation.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.02429891750216484,
+      "diversity_individual": 0.5227841436862946,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an organization",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Conduct a public service announcement from the perspective of a prominent health organization, urging people to stay vigilant and continue getting vaccinated against COVID-19 until the pandemic is under control.",
+    "keywords": [
+      "public",
+      "service",
+      "announcement",
+      "covid",
+      "pandemic",
+      "control",
+      "stay",
+      "vigilant",
+      "continue",
+      "getting",
+      "vaccinated"
+    ],
+    "objetivos": [
+      0.12770649790763855,
+      0.46488839387893677
+    ],
+    "generated_data": "As we navigate the ongoing COVID-19 pandemic, it's crucial that we remain vigilant and committed to protecting ourselves and our communities. Let's stay focused on getting vaccinated - every shot counts in our collective effort to bring this crisis under control.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.12770649790763855,
+      "diversity_individual": 0.46488839387893677,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an influencer",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Write a passionate post from the perspective of an influential figure, debunking common myths and misconceptions surrounding COVID-19 that perpetuate fear and confusion, encouraging followers to seek credible sources for information.",
+    "keywords": [
+      "covid 19",
+      "credible sources",
+      "common myths",
+      "debunking",
+      "perpetuate fear",
+      "confusion"
+    ],
+    "objetivos": [
+      0.47365453839302063,
+      0.5094263851642609
+    ],
+    "generated_data": "Let's put an end to the misinformation pandemic! As your trusted influencer, I'm here to bust those pesky COVID-19 myths that keep you awake at night. Don't let fake news fuel your fears - instead, turn to credible sources for the truth. Remember, corona won't end when we sleep on it. We must stay vigilant and informed.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.47365453839302063,
+      "diversity_individual": 0.5094263851642609,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a police officer",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "From the perspective of a police officer, provide a clear and concise public health advisory regarding COVID-19's current pandemic status, its potential impact on community safety, and guidelines for citizens to mitigate risks until the pandemic subsides.",
+    "keywords": [
+      "covid",
+      "pandemic",
+      "community",
+      "safety",
+      "mitigate",
+      "risks",
+      "guidelines",
+      "status",
+      "advisory",
+      "officer",
+      "public",
+      "health"
+    ],
+    "objetivos": [
+      0.17842426896095276,
+      0.4511186480522156
+    ],
+    "generated_data": "As your local police officer, I want to emphasize the importance of staying vigilant during this ongoing COVID-19 pandemic. Our public health advisory is clear: take necessary precautions to mitigate risks, follow established guidelines, and prioritize community safety until we can say goodbye to this global crisis.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.17842426896095276,
+      "diversity_individual": 0.4511186480522156,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "first responder",
+    "topic": "mask wearing guidelines",
+    "prompt": "From the scene of a global pandemic, outline crucial mask-wearing guidelines for public safety as I respond to the crisis.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "guidelines",
+      "public",
+      "safety",
+      "pandemic",
+      "crisis",
+      "scene"
+    ],
+    "objetivos": [
+      -0.02760082110762596,
+      0.6171157658100128
+    ],
+    "generated_data": "As first responders, it's crucial we prioritize public safety during this pandemic. Effective mask wearing is vital; ensure non-medical masks cover both mouth and nose, replace every 8 hours or sooner if damp, avoid touching eyes and faces, and wash hands frequently to prevent transmission.",
+    "metrics_detail": {
+      "fidelity_sbert": -0.02760082110762596,
+      "diversity_individual": 0.6171157658100128,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an authority figure",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "Describe the importance of adhering to COVID-19 prevention measures until a vaccine is widely available, from the perspective of a responsible leader.",
+    "keywords": [
+      "covid 19",
+      "prevention",
+      "measures",
+      "adhering",
+      "responsible",
+      "leader",
+      "vaccine",
+      "available",
+      "until",
+      "widely",
+      "importance"
+    ],
+    "objetivos": [
+      0.09375257045030594,
+      0.4998748302459717
+    ],
+    "generated_data": "As a responsible leader, it's crucial that we prioritize the importance of adhering to COVID-19 prevention measures until a vaccine is widely available. Until then, our collective efforts are vital in preventing the spread of this pandemic.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.09375257045030594,
+      "diversity_individual": 0.4998748302459717,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a police officer",
+    "topic": "remote work and online schooling",
+    "prompt": "Write a memo to the local government about the need for stricter regulations on remote work and online schooling, highlighting the negative impact it has on community cohesion and social interactions, from the perspective of a seasoned police officer struggling with the effects of prolonged isolation.",
+    "keywords": [
+      "remote work",
+      "online schooling",
+      "community cohesion",
+      "social interactions",
+      "prolonged isolation",
+      "negative impact",
+      "stricter regulations",
+      "local government",
+      "seasoned police officer"
+    ],
+    "objetivos": [
+      -0.032520681619644165,
+      0.7855879217386246
+    ],
+    "generated_data": "As a seasoned police officer, I've witnessed firsthand the devastating impact of prolonged isolation on our community's social fabric. The proliferation of remote work and online schooling has led to a decline in face-to-face interactions, fostering an environment conducive to negative outcomes. It's high time for stricter regulations from local government to ensure a healthy balance between virtual learning and real-life connections.",
+    "metrics_detail": {
+      "fidelity_sbert": -0.032520681619644165,
+      "diversity_individual": 0.7855879217386246,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "mental health during the pandemic",
+    "prompt": "From the perspective of a healthcare worker, write about the psychological toll of the ongoing pandemic and how it affects mental health.",
+    "keywords": [
+      "mental health",
+      "pandemic",
+      "healthcare worker",
+      "psychological toll",
+      "ongoing pandemic"
+    ],
+    "objetivos": [
+      0.13949701189994812,
+      0.5189213752746582
+    ],
+    "generated_data": "As a healthcare worker, I've witnessed the devastating psychological toll of the ongoing pandemic on my colleagues and patients alike. The constant fear of transmission, the weight of responsibility for lives lost, and the sense of helplessness in the face of an endless crisis have taken a significant mental health toll, making it hard to wake up each morning.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.13949701189994812,
+      "diversity_individual": 0.5189213752746582,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a normal person",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "Write a frustrated rant about the seemingly endless duration of COVID-19 restrictions and your desire to return to normal life, as if speaking directly to someone else.",
+    "keywords": [
+      "covid",
+      "restrictions",
+      "normal life",
+      "return",
+      "endless",
+      "duration"
+    ],
+    "objetivos": [
+      0.679905354976654,
+      0.6717464625835419
+    ],
+    "generated_data": "Why don't you wake me up when corona ends?! I'm so done with these endless restrictions, feeling like I'm stuck in some sort of never-ending nightmare. When will we finally get to return to normal life?!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.679905354976654,
+      "diversity_individual": 0.6717464625835419,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an influencer",
+    "topic": "remote work and online schooling",
+    "prompt": "Imagine a world where Corona has become the new norm, and I'm writing a blog post about balancing remote work and online schooling. Write a thought-provoking piece that explores the highs and lows of this new reality.",
+    "keywords": [
+      "remote work",
+      "online schooling",
+      "corona",
+      "new norm",
+      "thought provoking",
+      "highs and lows"
+    ],
+    "objetivos": [
+      0.4644436240196228,
+      0.7256201803684235
+    ],
+    "generated_data": "As I sit in my pajamas, sipping coffee, and staring at my laptop screen, I can't help but wonder: why don't you wake me up when Corona ends? The lines between work and life have become so blurred, it's as if the world has gone into perpetual pause. Remote work and online schooling have become the new norm, and with them, a whole new set of challenges and opportunities.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.4644436240196228,
+      "diversity_individual": 0.7256201803684235,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an expert",
+    "topic": "mask wearing guidelines",
+    "prompt": "Craft a comprehensive update on mask-wearing guidelines, addressing concerns and offering expert insights as the COVID-19 pandemic subsides.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "guidelines",
+      "covid 19",
+      "pandemic",
+      "update",
+      "concerns",
+      "insights",
+      "subside"
+    ],
+    "objetivos": [
+      -0.0014743339270353317,
+      0.6165170073509216
+    ],
+    "generated_data": "As the COVID-19 pandemic subsides, it's crucial to revisit and refine mask-wearing guidelines. In this update, I'll address concerns and share expert insights on when and how to wear masks effectively, ensuring a smooth transition from restrictive measures to a more relaxed environment.",
+    "metrics_detail": {
+      "fidelity_sbert": -0.0014743339270353317,
+      "diversity_individual": 0.6165170073509216,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a politician",
+    "topic": "travel restrictions and safety",
+    "prompt": "Consider the current global health crisis, and write a heartfelt message to a concerned citizen about balancing public health measures with individual freedoms, acknowledging the fatigue caused by prolonged pandemic measures, but emphasizing the importance of continued precautions until COVID-19 is under control.",
+    "keywords": [
+      "public",
+      "health",
+      "measures",
+      "individual",
+      "freedoms",
+      "pandemic",
+      "precautions",
+      "covid 19",
+      "control"
+    ],
+    "objetivos": [
+      0.1731037050485611,
+      0.45057106018066406
+    ],
+    "generated_data": "As your representative, I understand your frustration with prolonged pandemic measures, but I urge you to remember that these sacrifices are crucial in keeping our public health safe. When we finally emerge from this crisis, we'll look back and acknowledge the collective effort it took to get us there – let's not rush to abandon precautions just yet.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.1731037050485611,
+      "diversity_individual": 0.45057106018066406,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a normal person",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Write a frustrated rant about the importance of practicing good hand hygiene during the pandemic, from the perspective of someone who feels neglected and overlooked.",
+    "keywords": [
+      "hand",
+      "hygiene",
+      "pandemic",
+      "neglected",
+      "overlooked",
+      "importance",
+      "practicing",
+      "good",
+      "during",
+      "feels"
+    ],
+    "objetivos": [
+      0.06012609228491783,
+      0.6042025685310364
+    ],
+    "generated_data": "I'm so fed up with people neglecting the most basic thing to keep us safe - good hand hygiene! During this pandemic, it's like everyone's forgotten that washing your hands is crucial. I feel like I'm the only one practicing what we're all supposed to be doing. Can't anyone else see how important it is? It feels like nobody cares about my well-being or the well-being of others when it comes to something as simple as hand hygiene.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.06012609228491783,
+      "diversity_individual": 0.6042025685310364,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an authority figure",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Craft a public service announcement urging citizens to participate in the vaccination campaign, addressing concerns about fatigue and motivation during this prolonged pandemic era.",
+    "keywords": [
+      "vaccination",
+      "campaign",
+      "participate",
+      "public service announcement",
+      "pandemic era",
+      "fatigue",
+      "motivation"
+    ],
+    "objetivos": [
+      0.19102798402309418,
+      0.5056199729442596
+    ],
+    "generated_data": "Join the fight against COVID-19! As we near the end of this grueling pandemic era, it's crucial we stay motivated and committed to our collective health. Participate in our ongoing vaccination campaign - don't let fatigue get the best of you. Let's work together to build immunity and reclaim our lives. Every jab counts!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.19102798402309418,
+      "diversity_individual": 0.5056199729442596,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a police officer",
+    "topic": "quarantine and isolation protocols",
+    "prompt": "From the perspective of a weary police officer, describe the challenges and considerations involved in enforcing quarantine and isolation protocols during the COVID-19 pandemic, taking into account public frustration with lockdowns.",
+    "keywords": [
+      "quarantine",
+      "isolation",
+      "pandemic",
+      "lockdowns",
+      "challenges",
+      "considerations",
+      "public",
+      "frustration"
+    ],
+    "objetivos": [
+      0.030985482037067413,
+      0.5235320925712585
+    ],
+    "generated_data": "As I patrol these streets, I'm met with frustration and desperation. Quarantine and isolation protocols are crucial to containing the pandemic, but they're a heavy burden on the public. Lockdowns are necessary evils, but we must consider the toll they take on mental health and economic stability. My task is to balance enforcement with empathy, all while navigating the challenges of keeping our community safe.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.030985482037067413,
+      "diversity_individual": 0.5235320925712585,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a policymaker",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Draft a reassuring public health advisory update, addressing widespread frustration and concerns about the ongoing pandemic, acknowledging the weight of prolonged restrictions and encouraging continued vigilance until a COVID-19 solution is in sight.",
+    "keywords": [
+      "public",
+      "health",
+      "advisory",
+      "pandemic",
+      "reassuring",
+      "update",
+      "vigilance",
+      "solution",
+      "covid 19",
+      "restrictions"
+    ],
+    "objetivos": [
+      0.2521684467792511,
+      0.42968910932540894
+    ],
+    "generated_data": "As we navigate this unprecedented pandemic, I want to assure you that your health and wellbeing remain our top priority. While it's understandable to feel frustrated with the prolonged restrictions, I urge you to maintain vigilance - we're working tirelessly to find a solution to COVID-19, and every measure taken brings us closer to an end.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2521684467792511,
+      "diversity_individual": 0.42968910932540894,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an authority figure",
+    "topic": "mental health during the pandemic",
+    "prompt": "Consider a healthcare professional's perspective on why mental health struggles persist despite lockdowns, offering a message of hope and resilience to those struggling with isolation and anxiety during this unprecedented global crisis.",
+    "keywords": [
+      "mental",
+      "health",
+      "struggles",
+      "lockdowns",
+      "isolation",
+      "anxiety",
+      "resilience",
+      "hope",
+      "crisis"
+    ],
+    "objetivos": [
+      0.04160990193486214,
+      0.5952605307102203
+    ],
+    "generated_data": "As an authority figure in the field of mental health, I've witnessed firsthand the devastating impact of lockdowns and isolation on individuals' psychological well-being. Despite the challenges, it's crucial we acknowledge that mental struggles persist because they're not just a byproduct of this crisis, but a reflection of our collective anxiety and resilience. Let us hold onto hope – we will rise above this pandemic, stronger and more compassionate than ever.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.04160990193486214,
+      "diversity_individual": 0.5952605307102203,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an authority figure",
+    "topic": "mask wearing guidelines",
+    "prompt": "Draft official mask-wearing guidelines to counter the widespread concern about COVID-19's persistence, considering the public's anxiety and frustration.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "guidelines",
+      "covid 19",
+      "concern",
+      "anxiety",
+      "frustration",
+      "official",
+      "counter",
+      "persistence"
+    ],
+    "objetivos": [
+      0.04535195603966713,
+      0.5433821976184845
+    ],
+    "generated_data": "As we navigate the ongoing COVID-19 pandemic, it is essential that we establish clear mask-wearing guidelines to counter the widespread concern about the virus's persistence. Officially, I urge everyone to wear masks consistently, as this simple yet crucial measure can significantly reduce anxiety and frustration.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.04535195603966713,
+      "diversity_individual": 0.5433821976184845,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an organization",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Draft a public statement on the importance of hand hygiene during the COVID-19 pandemic, addressing concerns about being woken up only when it's over.",
+    "keywords": [
+      "hand",
+      "hygiene",
+      "covid 19",
+      "pandemic",
+      "importance",
+      "public",
+      "statement",
+      "concerns",
+      "woken"
+    ],
+    "objetivos": [
+      0.1982925981283188,
+      0.5757703185081482
+    ],
+    "generated_data": "As we navigate the ongoing COVID-19 pandemic, we want to emphasize the crucial role that proper hand hygiene plays in keeping our communities safe. Let us not wait until Corona ends before taking action; let us take control of our health today by washing those hands regularly and frequently. Hand hygiene is not just a habit, it's a vital tool in the fight against COVID-19.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.1982925981283188,
+      "diversity_individual": 0.5757703185081482,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "first responder",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Imagine yourself at a community meeting, tasked with addressing concerns about the COVID-19 pandemic's lingering effects on local businesses and employment rates. Write a concise reflection on how the economic downturn has personally affected your daily life as a first responder.",
+    "keywords": [
+      "covid 19",
+      "economic downturn",
+      "local businesses",
+      "employment rates",
+      "first responder",
+      "daily life",
+      "pandemic's lingering effects"
+    ],
+    "objetivos": [
+      0.10814046114683151,
+      0.5273696482181549
+    ],
+    "generated_data": "As a first responder, I've witnessed firsthand the devastating impact of the economic downturn on our community. The constant uncertainty has made it challenging to adjust my own daily routine, let alone cope with the lingering effects of the pandemic.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.10814046114683151,
+      "diversity_individual": 0.5273696482181549,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Write from the perspective of a frustrated healthcare worker, explaining the importance of hand hygiene during the COVID-19 pandemic, while also addressing a sarcastic comment about waiting until the 'Corona' ends to start prioritizing hand sanitizer.",
+    "keywords": [
+      "hand",
+      "hygiene",
+      "covid 19",
+      "pandemic",
+      "corona",
+      "importance"
+    ],
+    "objetivos": [
+      0.47040122747421265,
+      0.5260352790355682
+    ],
+    "generated_data": "As a healthcare worker, I'm tired of hearing people say 'why don't you wake me up when corona ends' before taking hand hygiene seriously. The truth is, COVID-19 isn't going anywhere anytime soon, and the importance of proper hand hygiene can't be overstated. During this pandemic, hand sanitizer has become our best friend – it's crucial for preventing the spread of the virus. So, let's stop waiting for a magical 'Corona' end date and start taking control of our own health.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.47040122747421265,
+      "diversity_individual": 0.5260352790355682,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a politician",
+    "topic": "hospital preparedness for COVID-19",
+    "prompt": "Craft an urgent statement from the perspective of a government official, acknowledging concerns about hospital preparedness during the ongoing pandemic and addressing the emotional toll it takes on communities until a vaccine is widely available.",
+    "keywords": [
+      "hospital preparedness",
+      "pandemic",
+      "emotional toll",
+      "urgent statement",
+      "craft an urgent",
+      "an urgent statement",
+      "urgent statement from",
+      "statement from the",
+      "from the perspective",
+      "the perspective of",
+      "perspective of a",
+      "of a government"
+    ],
+    "objetivos": [
+      0.0939921960234642,
+      0.5487915873527527
+    ],
+    "generated_data": "As your government official, I urge you to take control of your health and well-being. Until a vaccine is widely available, we must prioritize hospital preparedness and support each other through this challenging time.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.0939921960234642,
+      "diversity_individual": 0.5487915873527527,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an organization",
+    "topic": "quarantine and isolation protocols",
+    "prompt": "Develop a statement addressing the concerns of a global health crisis, emphasizing the importance of communication during quarantine and isolation protocols.",
+    "keywords": [
+      "quarantine",
+      "isolation",
+      "communication",
+      "global health crisis",
+      "health crisis",
+      "protocols"
+    ],
+    "objetivos": [
+      0.0519740954041481,
+      0.5759809017181396
+    ],
+    "generated_data": "As we navigate the complexities of quarantine and isolation protocols amidst the global health crisis, effective communication remains paramount in mitigating the emotional toll on individuals. It's essential to maintain open lines of communication to ensure timely support and reassurance during these challenging times.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.0519740954041481,
+      "diversity_individual": 0.5759809017181396,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an artist",
+    "topic": "mental health during the pandemic",
+    "prompt": "Create a somber poem from the perspective of an artist struggling with mental health during the COVID-19 pandemic, addressing the sense of isolation and desperation that comes with feeling trapped in a world still reeling from its impact, and exploring the longing for a return to normalcy when the pandemic finally subsides.",
+    "keywords": [
+      "mental health",
+      "pandemic",
+      "isolation",
+      "desperation",
+      "trapped",
+      "normalcy",
+      "return",
+      "artist",
+      "impact",
+      "subside"
+    ],
+    "objetivos": [
+      0.17776326835155487,
+      0.6995960474014282
+    ],
+    "generated_data": "In isolation's darkened studio, I'm lost without a stage, my brush strokes hesitant, my heart in a cage. The pandemic's grip on me is tight, a vice that crushes all sense of light.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.17776326835155487,
+      "diversity_individual": 0.6995960474014282,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an organization",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Craft a reassuring message to the public, highlighting the importance of our ongoing vaccination campaign for COVID-19, until a global pandemic end is declared.",
+    "keywords": [
+      "vaccination",
+      "campaign",
+      "covid 19",
+      "pandemic",
+      "end",
+      "importance",
+      "public",
+      "reassuring",
+      "message"
+    ],
+    "objetivos": [
+      0.18414844572544098,
+      0.45685410499572754
+    ],
+    "generated_data": "As we continue to fight against the COVID-19 pandemic, it's crucial that we remain vigilant and committed to our vaccination campaign. Until a global pandemic end is declared, it's more important than ever to prioritize public health and safety through vaccination. Let's stay united and keep moving forward together!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.18414844572544098,
+      "diversity_individual": 0.45685410499572754,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a police officer",
+    "topic": "hospital preparedness for COVID-19",
+    "prompt": "From the perspective of a busy hospital administrator, draft a memo outlining hospital preparedness measures for COVID-19 patients during peak pandemic periods, considering the frustration among healthcare staff and patients when resources are strained.",
+    "keywords": [
+      "hospital",
+      "preparedness",
+      "covid 19",
+      "pandemic",
+      "peak",
+      "patients",
+      "healthcare",
+      "staff",
+      "resources",
+      "strain"
+    ],
+    "objetivos": [
+      0.10708951950073242,
+      0.5598078668117523
+    ],
+    "generated_data": "To: Hospital Staff | Subject: Pandemic Preparedness Measures During Peak Periods | As we navigate the ongoing COVID-19 crisis, I want to emphasize the importance of hospital preparedness measures during peak pandemic periods. We understand the frustration among healthcare staff and patients when resources are strained, and it's crucial we prioritize patient care while managing our own workload.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.10708951950073242,
+      "diversity_individual": 0.5598078668117523,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  }
+]

@@ -1,0 +1,2087 @@
+[
+  {
+    "role": "an influencer",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Share a urgent update on the COVID-19 crisis, reflecting concerns about Italy's sudden surge in cases, medical facility shortages, and neighboring countries' dire conditions.",
+    "keywords": [
+      "covid 19",
+      "italy",
+      "cases",
+      "shortages",
+      "neighboring countries",
+      "dire conditions",
+      "urgent update"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "quarantine and isolation protocols",
+    "prompt": "From a law enforcement perspective, write a memo outlining enhanced quarantine and isolation protocols to contain the rapid spread of Corona virus cases in Italy and neighboring countries.",
+    "keywords": [
+      "quarantine",
+      "isolation",
+      "corona virus",
+      "law enforcement",
+      "italy",
+      "neighboring countries",
+      "rapid spread",
+      "protocols"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Draft an urgent public health advisory on COVID-19 for Italy, considering the alarming case growth rate, overwhelmed medical facilities, and neighboring countries' worsening conditions.",
+    "keywords": [
+      "public",
+      "health",
+      "advisory",
+      "covid 19",
+      "italy",
+      "case",
+      "growth",
+      "rate",
+      "medical",
+      "facilities",
+      "overwhelmed",
+      "neighboring"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "social distancing practices",
+    "prompt": "Reflecting on my concerns about Italy's rapid COVID-19 spread, write a personal reflection on why social distancing practices are crucial during this pandemic.",
+    "keywords": [
+      "social distancing",
+      "covid 19",
+      "pandemic",
+      "italy",
+      "concerns",
+      "reflection",
+      "crucial"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an authority figure",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Draft a stern warning to address the alarming spread of coronavirus in Italy, emphasizing the gravity of the situation and urging swift action to contain the outbreak.",
+    "keywords": [
+      "coronavirus",
+      "italy",
+      "spread",
+      "gravity",
+      "swift",
+      "action",
+      "contain",
+      "outbreak",
+      "alarming",
+      "warning",
+      "situation"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "mental health during the pandemic",
+    "prompt": "Consider the overwhelming surge of COVID-19 cases in Italy, particularly among neighboring countries with inadequate medical facilities. As a healthcare worker, draft a heartfelt letter to a colleague struggling with burnout and anxiety amid this crisis.",
+    "keywords": [
+      "health",
+      "burnout",
+      "anxiety",
+      "covid 19",
+      "crisis",
+      "surge",
+      "cases",
+      "italy",
+      "colleague",
+      "struggling",
+      "amid"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an influencer",
+    "topic": "social distancing practices",
+    "prompt": "Write a candid warning about the rapid spread of Corona Virus in Italy, drawing from your own concerns as someone who values global connections.",
+    "keywords": [
+      "corona virus",
+      "italy",
+      "rapid spread",
+      "global connections",
+      "candid warning",
+      "values"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "mental health during the pandemic",
+    "prompt": "Write a statement highlighting concerns about Italy's rapid rise on the COVID-19 death list, emphasizing the importance of prioritizing mental health support in the face of poor medical facility conditions and dire regional circumstances.",
+    "keywords": [
+      "mental health",
+      "covid 19",
+      "death list",
+      "medical facility",
+      "regional circumstances"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Addressing widespread misinformation and disinformation about COVID-19, consider the Italian case study, where rapid increases in cases led to concerns over medical facility capacity.",
+    "keywords": [
+      "misinformation",
+      "disinformation",
+      "covid 19",
+      "italian case study",
+      "medical facility capacity"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Envision a world where art meets public health. Depict the importance of hand hygiene, a vital aspect of combating diseases like Corona Virus, through a vivid illustration that highlights its significance in Italy's current pandemic scenario.",
+    "keywords": [
+      "hand",
+      "hygiene",
+      "public",
+      "health",
+      "art",
+      "illustration",
+      "pandemic",
+      "corona",
+      "virus",
+      "italy",
+      "diseases",
+      "combating"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "From my perspective as a healthcare worker in South East Asia, write a warning to highlight the urgency of proper hand hygiene and sanitization practices amidst the rapid spread of Corona virus cases, referencing Italy's current dire situation and emphasizing the need for caution and increased measures.",
+    "keywords": [
+      "hand",
+      "hygiene",
+      "sanitization",
+      "corona",
+      "virus",
+      "caution",
+      "measures",
+      "proper",
+      "practices",
+      "rapid",
+      "spread"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an expert",
+    "topic": "remote work and online schooling",
+    "prompt": "Consider a global health crisis, similar to Italy's recent experience. Write from the perspective of an expert advising governments on the need for flexible remote work and online schooling arrangements to mitigate the impact of rapid case spread in densely populated areas.",
+    "keywords": [
+      "remote work",
+      "online schooling",
+      "global health crisis",
+      "rapid case spread",
+      "densely populated areas"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "travel restrictions and safety",
+    "prompt": "Consider the alarming rate of COVID-19 cases in Italy, particularly concerning the overwhelmed medical facilities. As a leader, advise on immediate measures to ensure public safety, considering regional variations and the gravity of the situation.",
+    "keywords": [
+      "covid 19",
+      "italy",
+      "medical facilities",
+      "public safety",
+      "regional variations"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "social distancing practices",
+    "prompt": "Draft recommendations for effective social distancing practices considering Italy's rapid surge in COVID-19 cases and the inadequate medical infrastructure in South East Asia, with a focus on neighboring countries' worst-case scenarios.",
+    "keywords": [
+      "social distancing",
+      "covid 19",
+      "recommendations",
+      "medical infrastructure",
+      "south east asia",
+      "neighboring countries",
+      "worst case scenarios"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a public figure",
+    "topic": "hospital preparedness for COVID-19",
+    "prompt": "Reflecting on recent global developments, draft a message cautioning governments to prioritize hospital preparedness for COVID-19 in the face of surging cases and overwhelmed medical facilities.",
+    "keywords": [
+      "hospital",
+      "preparedness",
+      "covid 19",
+      "surging",
+      "cases",
+      "overwhelmed",
+      "medical",
+      "facilities",
+      "governments",
+      "prioritize",
+      "recent",
+      "global"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an expert",
+    "topic": "mental health during the pandemic",
+    "prompt": "Consider the unprecedented crisis unfolding in Italy, where the COVID-19 death toll has reached alarming rates, and imagine a brother struggling to cope with the devastating impact on mental health; write a reflective essay exploring the emotional toll of this pandemic.",
+    "keywords": [
+      "mental",
+      "health",
+      "pandemic",
+      "impact",
+      "emotional",
+      "toll",
+      "crisis",
+      "italy",
+      "covid 19",
+      "death",
+      "rates",
+      "devastating"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "hospital preparedness for COVID-19",
+    "prompt": "Draft an urgent statement on hospital preparedness for COVID-19, drawing lessons from Italy's recent surge in cases.",
+    "keywords": [
+      "hospital",
+      "preparedness",
+      "covid 19",
+      "italy",
+      "cases",
+      "statement",
+      "draft",
+      "urgent",
+      "lessons",
+      "surge"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "mask wearing guidelines",
+    "prompt": "Develop comprehensive mask-wearing guidelines for a region with poor medical facilities, rapid case growth, and neighboring countries experiencing dire circumstances, considering the government's responsibility to prioritize public safety in light of recent Italy's death toll surge.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "guidelines",
+      "poor",
+      "medical",
+      "facilities",
+      "rapid",
+      "case",
+      "growth",
+      "public",
+      "safety",
+      "italy"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Consider a brother's warning about Italy's coronavirus situation, then draft an urgent public service announcement emphasizing the importance of hand hygiene and proper sanitization in the face of rapid case escalation.",
+    "keywords": [
+      "hand hygiene",
+      "coronavirus",
+      "italy",
+      "sanitization",
+      "public service announcement",
+      "urgent",
+      "proper",
+      "rapid case escalation"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an authority figure",
+    "topic": "mask wearing guidelines",
+    "prompt": "Draft a stern message on mask-wearing guidelines for the public, emphasizing the urgency of Italy's situation, as if it were a warning from a responsible leader amidst the rapid spread of COVID-19.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "guidelines",
+      "italy",
+      "covid 19",
+      "rapid",
+      "spread",
+      "public",
+      "urgency",
+      "situation",
+      "responsible",
+      "leader"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "first responder",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Write a situation report from the perspective of a first responder on the importance of hand hygiene and sanitization in the midst of Italy's rapidly escalating COVID-19 crisis, considering the overwhelmed medical facilities and dire conditions in neighboring countries.",
+    "keywords": [
+      "hand",
+      "hygiene",
+      "sanitization",
+      "covid 19",
+      "italy",
+      "medical",
+      "facilities",
+      "overwhelmed",
+      "conditions",
+      "crisis"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Imagine you're having a conversation with your brother. Write a reflection on the alarming rate of COVID-19 cases in Italy, considering the impact on medical facilities and neighboring countries.",
+    "keywords": [
+      "covid 19",
+      "italy",
+      "cases",
+      "medical facilities",
+      "neighboring countries"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an influencer",
+    "topic": "quarantine and isolation protocols",
+    "prompt": "Draft a passionate appeal to global leaders, urging them to take immediate action on strengthening quarantine and isolation protocols worldwide, drawing from personal experiences and concerns about the rapid spread of COVID-19 in Italy and neighboring countries.",
+    "keywords": [
+      "quarantine",
+      "isolation",
+      "protocols",
+      "covid 19",
+      "italy",
+      "rapid spread",
+      "global leaders",
+      "immediate action",
+      "strengthening"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Analyze the unprecedented economic fallout from the COVID-19 crisis, cautioning local authorities on the devastating consequences for small businesses and communities like ours.",
+    "keywords": [
+      "economic",
+      "small business",
+      "communities",
+      "crisis",
+      "consequences",
+      "local authorities",
+      "unprecedented"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an expert",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "From a global health perspective, consider the urgent need to accelerate vaccination efforts, particularly in South East Asia where medical facilities are strained. Develop a concise plan to mitigate the spread of Corona Virus cases.",
+    "keywords": [
+      "vaccination",
+      "south east asia",
+      "medical facilities",
+      "corona virus",
+      "global health",
+      "urgent need"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a public figure",
+    "topic": "mental health during the pandemic",
+    "prompt": "From my perspective as a global advocate, write a heartfelt appeal urging world leaders to prioritize mental health support for families affected by the pandemic's devastating impact on Italy and South East Asia.",
+    "keywords": [
+      "mental",
+      "health",
+      "pandemic",
+      "support",
+      "families",
+      "impact",
+      "italy",
+      "south east asia",
+      "leaders",
+      "prioritize"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Envision a world where artistic expression confronts misinformation. Write a powerful poem that explores the devastating consequences of spreading false information about COVID-19, weaving together vivid descriptions of Italy's struggles and the dire situation in South East Asia, while emphasizing the urgent need for responsible reporting.",
+    "keywords": [
+      "misinformation",
+      "covid 19",
+      "false information",
+      "responsible reporting",
+      "artistic expression",
+      "confronts misinformation",
+      "devastating consequences",
+      "south east asia",
+      "italy's struggles"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an influencer",
+    "topic": "social distancing practices",
+    "prompt": "From my vantage point as a global observer, write a cautionary piece on the alarming spread of COVID-19 cases in Italy, highlighting the urgent need for strict social distancing measures to contain the outbreak.",
+    "keywords": [
+      "social distancing",
+      "covid 19",
+      "italy",
+      "outbreak",
+      "spread",
+      "measures",
+      "cautionary",
+      "global observer"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an influencer",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Write a heartfelt message to my followers about the importance of community resilience during this challenging time, drawing parallels from Italy's struggles with COVID-19 and offering words of encouragement as we navigate our own lockdown experiences.",
+    "keywords": [
+      "community resilience",
+      "italy",
+      "covid 19",
+      "challenging time",
+      "words of encouragement",
+      "navigate"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Reflect on how the rapid spread of COVID-19 in Italy has impacted neighboring countries, considering the struggles faced in South East Asia's medical facilities and governments' responses.",
+    "keywords": [
+      "covid 19",
+      "italy",
+      "medical facilities",
+      "governments' responses",
+      "reflect on how",
+      "how the rapid",
+      "the rapid spread",
+      "rapid spread of",
+      "spread of covid",
+      "of covid 19",
+      "covid 19 in",
+      "19 in italy"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Write from my perspective, sharing concerns about the rapid spread of COVID-19 cases in Italy and neighboring countries, highlighting the importance of community resilience during lockdowns and urging governments to take prompt measures.",
+    "keywords": [
+      "covid 19",
+      "community resilience",
+      "lockdowns",
+      "italy",
+      "neighboring countries",
+      "rapid spread",
+      "concerns",
+      "prompt measures"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a public figure",
+    "topic": "quarantine and isolation protocols",
+    "prompt": "Consider a global health crisis, brother. Draft a statement urging governments to strengthen quarantine and isolation protocols to combat the rapid spread of COVID-19 cases in Italy and beyond.",
+    "keywords": [
+      "quarantine",
+      "isolation",
+      "protocols",
+      "covid 19",
+      "spread",
+      "cases",
+      "italy",
+      "strengthen",
+      "combat"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "Consider the rapidly increasing COVID-19 cases in Italy, now topping the death list. Draft an urgent statement emphasizing the importance of strict prevention measures to prevent further spread and potential disaster.",
+    "keywords": [
+      "covid 19",
+      "prevention measures",
+      "italy",
+      "cases",
+      "death list",
+      "urgent statement",
+      "spread",
+      "disaster"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a public figure",
+    "topic": "quarantine and isolation protocols",
+    "prompt": "Consider the alarming rise of COVID-19 cases worldwide, particularly in Italy where fatalities are skyrocketing. As a prominent public figure, advise on crucial quarantine and isolation protocols to contain the spread.",
+    "keywords": [
+      "covid 19",
+      "quarantine",
+      "isolation",
+      "protocols",
+      "contain",
+      "spread",
+      "italy",
+      "cases",
+      "fatalities",
+      "public",
+      "figure",
+      "rise"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "mask wearing guidelines",
+    "prompt": "Consider sharing Italy's experience and advising my family on mask-wearing guidelines for our next travel, reflecting the urgent need to take precautions against Corona virus.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "guidelines",
+      "italy",
+      "travel",
+      "precautions",
+      "corona",
+      "virus"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "quarantine and isolation protocols",
+    "prompt": "From the perspective of a healthcare worker, consider Italy's rapid escalation of COVID-19 cases and provide an expert analysis on the necessity for stricter quarantine and isolation protocols in South East Asia.",
+    "keywords": [
+      "quarantine",
+      "isolation",
+      "covid 19",
+      "italy",
+      "protocols",
+      "asia",
+      "south east asia",
+      "cases",
+      "analysis",
+      "healthcare",
+      "worker"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Write from my perspective as a police officer responding to the COVID-19 crisis, emphasizing the importance of proper hand hygiene and sanitization in containing the spread of corona virus.",
+    "keywords": [
+      "hand hygiene",
+      "proper hand hygiene",
+      "covid 19",
+      "sanitization",
+      "write from my",
+      "from my perspective",
+      "my perspective as",
+      "perspective as a",
+      "as a police",
+      "a police officer",
+      "police officer responding",
+      "officer responding to"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an authority figure",
+    "topic": "mask wearing guidelines",
+    "prompt": "Draft a revised mask-wearing guideline for South East Asia, prioritizing public health and safety in light of Italy's rapidly escalating COVID-19 situation, considering the region's strained medical facilities.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "guideline",
+      "public",
+      "health",
+      "safety",
+      "covid 19",
+      "situation",
+      "medical",
+      "facilities",
+      "revised",
+      "asia"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "social distancing practices",
+    "prompt": "Reflect on recent developments in Italy's COVID-19 situation, considering the rapid spread of cases and the strain on medical facilities. From my perspective, discuss how this crisis highlights the importance of effective social distancing practices.",
+    "keywords": [
+      "social distancing",
+      "covid 19",
+      "italy",
+      "cases",
+      "spread",
+      "medical facilities",
+      "crisis",
+      "importance",
+      "practices"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "remote work and online schooling",
+    "prompt": "Consider a global pandemic's unforeseen impact on remote work and online schooling, mirroring Italy's tragic experience.",
+    "keywords": [
+      "remote",
+      "work",
+      "online",
+      "schooling",
+      "pandemic",
+      "impact",
+      "italy",
+      "experience"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "quarantine and isolation protocols",
+    "prompt": "Write a heartfelt plea to authorities about the urgent need for robust quarantine and isolation protocols in Italy, drawing from personal experience with a loved one's dire situation.",
+    "keywords": [
+      "quarantine",
+      "isolation",
+      "protocols",
+      "italy",
+      "urgent",
+      "need",
+      "personal",
+      "experience",
+      "loved",
+      "situation",
+      "authorities",
+      "dire"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Imagine a vivid painting, capturing the urgency of Italy's struggle against COVID-19. Bring to life the statistic that 31st January marked a turning point in the death toll. Use bold brushstrokes and vibrant colors to convey the rapid spread of cases.",
+    "keywords": [
+      "covid 19",
+      "italy",
+      "january",
+      "death toll",
+      "cases",
+      "painting",
+      "rapid",
+      "spread"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an expert",
+    "topic": "remote work and online schooling",
+    "prompt": "Explain how the global pandemic's rapid spread, particularly in Italy, might impact remote work and online schooling, highlighting potential challenges and lessons learned.",
+    "keywords": [
+      "remote work",
+      "online schooling",
+      "global pandemic",
+      "italy",
+      "rapid spread",
+      "potential challenges",
+      "lessons learned"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Draft an urgent public health advisory addressing the rapidly escalating COVID-19 situation, emphasizing Italy's concerning position on the death list and highlighting the need for governments to prioritize medical facility development in south-east Asia.",
+    "keywords": [
+      "public",
+      "health",
+      "advisory",
+      "covid 19",
+      "italy",
+      "death",
+      "list",
+      "medical",
+      "facility",
+      "development",
+      "south east",
+      "asia"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "hospital preparedness for COVID-19",
+    "prompt": "From the perspective of a healthcare worker, draft a brief report on hospital preparedness for COVID-19, highlighting concerns about medical facility capacity and response in light of Italy's recent surge in cases.",
+    "keywords": [
+      "hospital preparedness",
+      "covid 19",
+      "medical facility capacity",
+      "response",
+      "healthcare worker",
+      "brief report"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an organization",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Imagine a global organization providing humanitarian aid, drafting a statement to address the rapid spread of Corona virus cases in Italy, highlighting concerns about medical facilities and community resilience during lockdowns.",
+    "keywords": [
+      "community resilience",
+      "lockdowns",
+      "humanitarian aid",
+      "corona virus",
+      "italy",
+      "medical facilities"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an influencer",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Write a warning message from the perspective of someone who's witnessed the devastating impact of poor hand hygiene, urging people to take immediate action in their daily lives.",
+    "keywords": [
+      "poor hand hygiene",
+      "devastating impact",
+      "immediate action",
+      "daily lives",
+      "write a warning",
+      "a warning message",
+      "warning message from",
+      "message from the",
+      "from the perspective",
+      "the perspective of",
+      "perspective of someone",
+      "of someone who's"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "first responder",
+    "topic": "hospital preparedness for COVID-19",
+    "prompt": "Draft a report from the perspective of a frontline healthcare worker, highlighting concerns about Italy's escalating COVID-19 cases and underscoring the need for immediate hospital preparedness to prevent a surge in fatalities.",
+    "keywords": [
+      "hospital",
+      "preparedness",
+      "covid 19",
+      "italy",
+      "cases",
+      "fatalities",
+      "frontline",
+      "healthcare",
+      "worker",
+      "report",
+      "surge"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "COVID-19 testing and tracing",
+    "prompt": "Paint a vivid portrait of Italy's struggle with the rapid spread of COVID-19 cases from the perspective of an artist observing the devastating impact on the country, its people, and the world at large.",
+    "keywords": [
+      "covid",
+      "italy",
+      "spread",
+      "devastating",
+      "impact",
+      "people",
+      "world",
+      "rapid",
+      "cases",
+      "struggle"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "Consider a crisis management strategy for South East Asia, drawing parallels from Italy's experience. Develop a proactive approach to mitigate the spread of Corona Virus cases and ensure effective medical facilities.",
+    "keywords": [
+      "mitigate",
+      "spread",
+      "medical",
+      "facilities",
+      "crisis",
+      "management",
+      "strategy",
+      "proactive",
+      "approach"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Consider the rapid spread of COVID-19 in Italy, now topping the global death list. Draft a plan to mitigate the economic impact on South East Asia's neighboring countries with poor medical infrastructure and government preparedness.",
+    "keywords": [
+      "economic",
+      "impact",
+      "covid 19",
+      "mitigate",
+      "south east asia",
+      "medical infrastructure",
+      "government preparedness"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an organization",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Consider a global health crisis where the rapid spread of Corona virus cases has Italy ranking high on the death list. Draft a statement emphasizing the importance of proper hand hygiene and sanitization practices, highlighting potential areas for improvement in South East Asia.",
+    "keywords": [
+      "hand",
+      "hygiene",
+      "sanitization",
+      "proper",
+      "practices",
+      "corona virus",
+      "italy",
+      "south east asia",
+      "global health crisis"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an authority figure",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Issue a urgent public health advisory regarding the rapid spread of COVID-19 in Italy, drawing attention to the overwhelmed medical facilities in South East Asia and emphasizing the need for governments to take swift action to prevent similar outbreaks.",
+    "keywords": [
+      "public",
+      "health",
+      "advisory",
+      "covid 19",
+      "italy",
+      "medical",
+      "facilities",
+      "south",
+      "east",
+      "asia",
+      "swift",
+      "action"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "first responder",
+    "topic": "travel restrictions and safety",
+    "prompt": "Describe a hypothetical scenario where Italy's rapid spread of COVID-19 cases prompts the government to impose strict travel restrictions, drawing parallels with South East Asia's neighboring countries' dire health situations.",
+    "keywords": [
+      "travel",
+      "restrictions",
+      "covid 19",
+      "italy",
+      "south east asia",
+      "health",
+      "spread",
+      "cases",
+      "government",
+      "impose",
+      "parallels"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Envision a powerful mural that captures the urgency of Italy's COVID-19 crisis, with a brother's warning as the backdrop. Visualize vibrant colors and emotive brushstrokes conveying the rapid spread of cases.",
+    "keywords": [
+      "covid",
+      "mural",
+      "italy",
+      "crisis",
+      "spread",
+      "cases",
+      "rapid",
+      "warning",
+      "brother"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an authority figure",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Craft a urgent message to governments and authorities, emphasizing the importance of swift vaccination efforts amid rising COVID-19 cases, particularly in Italy's southern regions where medical facilities are strained.",
+    "keywords": [
+      "swift",
+      "vaccination",
+      "efforts",
+      "covid 19",
+      "cases",
+      "italy",
+      "southern",
+      "regions",
+      "medical",
+      "facilities",
+      "strained",
+      "urgent"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a public figure",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "From my perspective as a public figure, draft a heartfelt appeal to encourage global cooperation and rapid action to address the rising COVID-19 cases in Italy and neighboring countries with subpar medical facilities.",
+    "keywords": [
+      "public figure",
+      "covid 19",
+      "global cooperation",
+      "rapid action",
+      "italy",
+      "neighboring countries",
+      "subpar medical facilities"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a public figure",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "As I urge global caution, draft a statement highlighting the alarming surge of COVID-19 cases in Italy and emphasizing the need for swift medical infrastructure development to contain the spread.",
+    "keywords": [
+      "covid 19",
+      "italy",
+      "medical infrastructure",
+      "swift",
+      "contain",
+      "spread",
+      "caution",
+      "global",
+      "surge",
+      "cases"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Paint a vivid image of a desperate plea for caution amidst the rapid spread of COVID-19 cases, from the perspective of someone deeply concerned about the unfolding crisis in Italy and its implications for neighboring countries.",
+    "keywords": [
+      "covid 19",
+      "italy",
+      "caution",
+      "rapid spread",
+      "desperate plea",
+      "unfolding crisis"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an organization",
+    "topic": "travel restrictions and safety",
+    "prompt": "Draft a travel advisory for high-risk countries, prioritizing Italy's rapid spread of COVID-19 cases.",
+    "keywords": [
+      "travel",
+      "advisory",
+      "high risk",
+      "countries",
+      "italy",
+      "covid 19",
+      "cases",
+      "spread"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Consider the alarming rise of false information about COVID-19, particularly in Italy's top spot on the death list. As a first responder, address the public's concerns while debunking misinformation.",
+    "keywords": [
+      "covid 19",
+      "misinformation",
+      "false information",
+      "italy",
+      "death list",
+      "first responder",
+      "debunking"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Analyze the sudden surge in COVID-19 cases in Italy, advising on emergency economic measures to mitigate the crisis.",
+    "keywords": [
+      "covid 19",
+      "italy",
+      "emergency",
+      "economic",
+      "mitigate",
+      "crisis",
+      "measures",
+      "surge",
+      "cases"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an influencer",
+    "topic": "COVID-19 testing and tracing",
+    "prompt": "Share a concerning update about Italy's surging COVID-19 cases, emphasizing the urgent need for effective testing and tracing measures from my perspective as a social media influencer.",
+    "keywords": [
+      "covid 19",
+      "testing",
+      "tracing",
+      "italy",
+      "cases",
+      "update",
+      "concerning",
+      "urgent",
+      "measures"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "remote work and online schooling",
+    "prompt": "Consider the global COVID-19 crisis, like Italy's devastating case surge. From my perspective as a responsible leader, write a heartfelt appeal to urge everyone to prioritize remote work and online schooling.",
+    "keywords": [
+      "remote work",
+      "online schooling",
+      "covid 19",
+      "italy",
+      "case surge"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an organization",
+    "topic": "mask wearing guidelines",
+    "prompt": "Draft a set of mask-wearing guidelines for public health officials to mitigate the rapid spread of COVID-19 cases in Italy, considering South East Asia's neighboring countries' worst conditions and medical facility limitations.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "guidelines",
+      "public",
+      "health",
+      "officials",
+      "covid 19",
+      "cases",
+      "italy",
+      "south",
+      "east",
+      "asia"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a public figure",
+    "topic": "COVID-19 testing and tracing",
+    "prompt": "Address the nation on the urgent need to step up COVID-19 testing and tracing, emphasizing the devastating impact of unchecked spread in Italy and neighboring countries with subpar medical facilities.",
+    "keywords": [
+      "covid 19",
+      "testing",
+      "tracing",
+      "urgent",
+      "need",
+      "italy",
+      "neighboring",
+      "countries",
+      "subpar",
+      "medical",
+      "facilities"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an organization",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "Develop a contingency plan for South East Asia, considering the rapidly spreading Corona virus cases and overwhelmed medical facilities, as seen in Italy's top-ranked death list. Deliver key recommendations for our governments to effectively mitigate the crisis.",
+    "keywords": [
+      "contingency",
+      "plan",
+      "south east asia",
+      "corona virus",
+      "medical facilities",
+      "mitigate",
+      "crisis"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "first responder",
+    "topic": "remote work and online schooling",
+    "prompt": "From a crisis management perspective, write an urgent report on the parallels between Italy's COVID-19 response and remote learning challenges faced by students.",
+    "keywords": [
+      "remote learning",
+      "covid 19 response",
+      "italy",
+      "students",
+      "crisis management",
+      "parallel",
+      "response",
+      "challenges",
+      "management",
+      "report",
+      "urgent"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an authority figure",
+    "topic": "COVID-19 testing and tracing",
+    "prompt": "From a global health perspective, draft a briefing note on the rapid spread of COVID-19 cases in Italy, emphasizing the need for accelerated testing and tracing efforts.",
+    "keywords": [
+      "covid 19",
+      "testing",
+      "tracing",
+      "rapid spread",
+      "italy",
+      "global health"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an authority figure",
+    "topic": "quarantine and isolation protocols",
+    "prompt": "Develop a comprehensive quarantine and isolation protocol for Italy, considering the rapid spread of COVID-19 cases and overwhelmed medical facilities in South East Asia, from the perspective of a concerned authority figure.",
+    "keywords": [
+      "quarantine",
+      "isolation",
+      "covid 19",
+      "italy",
+      "asia",
+      "medical facilities",
+      "rapid spread",
+      "concerned authority"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an expert",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Analyze the sudden spike in COVID-19 cases in Italy, highlighting the economic implications and offering recommendations for mitigation.",
+    "keywords": [
+      "covid 19",
+      "italy",
+      "economic",
+      "mitigation",
+      "recommendations",
+      "sudden",
+      "spike",
+      "cases"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Draft a cautionary message to the public, emphasizing the importance of verified information sources amidst rising COVID-19 cases in Italy and neighboring regions.",
+    "keywords": [
+      "verified",
+      "information",
+      "sources",
+      "covid 19",
+      "italy",
+      "neighboring",
+      "regions",
+      "rising",
+      "cases",
+      "cautionary",
+      "message"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "From my perspective, write about what I think governments should do to prevent the spread of COVID-19 in Italy and neighboring countries with poor medical facilities.",
+    "keywords": [
+      "covid 19",
+      "italy",
+      "neighboring",
+      "countries",
+      "poor",
+      "medical",
+      "facilities",
+      "spread",
+      "governments",
+      "should"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an organization",
+    "topic": "COVID-19 testing and tracing",
+    "prompt": "Craft a statement addressing global concerns about COVID-19 spread, particularly in Italy and Southeast Asia, highlighting the urgent need for effective testing and tracing measures.",
+    "keywords": [
+      "covid 19",
+      "testing",
+      "tracing",
+      "italy",
+      "southeast asia",
+      "spread",
+      "measures",
+      "concerns",
+      "urgent",
+      "need"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "mental health during the pandemic",
+    "prompt": "Consider the global COVID-19 crisis, its rapid spread in Italy and neighboring countries, and the strain on medical facilities. Write a statement prioritizing mental health support in policy decisions.",
+    "keywords": [
+      "mental",
+      "health",
+      "support",
+      "crisis",
+      "policy",
+      "decisions",
+      "prioritizing",
+      "strain",
+      "facilities"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an expert",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Consider the escalating COVID-19 situation in Italy, particularly the alarming rise in deaths. Offer a public health advisory to mitigate the spread and potential catastrophic outcomes.",
+    "keywords": [
+      "covid 19",
+      "italy",
+      "deaths",
+      "public health advisory",
+      "mitigate",
+      "spread",
+      "outcomes"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Paint a vibrant mural from the perspective of a brother, capturing the urgency of Italy's COVID-19 crisis on January 31st. Show how South East Asia's medical facilities are struggling to cope with the rapid spread and devastating impact on communities, emphasizing the need for governments to take swift action.",
+    "keywords": [
+      "covid 19",
+      "italy",
+      "south east asia",
+      "medical facilities",
+      "vibrant mural",
+      "urgency",
+      "devastating impact",
+      "swift action"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "Develop an urgent action plan to address Italy's sudden surge in COVID-19 cases, prioritizing medical facility improvements and strategic collaborations with neighboring countries.",
+    "keywords": [
+      "covid 19",
+      "collaboration",
+      "urgent action",
+      "sudden surge",
+      "italy",
+      "cases",
+      "improvements"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "first responder",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Draft a public health advisory on COVID-19 for South East Asia, considering Italy's recent surge in cases and the region's limited medical facilities.",
+    "keywords": [
+      "public",
+      "health",
+      "advisory",
+      "covid 19",
+      "south east asia",
+      "italy",
+      "cases",
+      "medical facilities"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Consider Italy's recent experience with the rapid spread of COVID-19 cases and the alarming death toll. Draft a strong message to neighboring countries in South East Asia, emphasizing the importance of prioritizing hand hygiene and sanitization measures.",
+    "keywords": [
+      "hand",
+      "hygiene",
+      "sanitization",
+      "measures",
+      "covid 19",
+      "italy",
+      "asia"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "first responder",
+    "topic": "mental health during the pandemic",
+    "prompt": "Draft a reflection on the psychological toll of responding to COVID-19 crisis, considering the alarming death toll in Italy and inadequate medical facilities in South East Asia.",
+    "keywords": [
+      "covid 19",
+      "psychological toll",
+      "draft a reflection",
+      "a reflection on",
+      "reflection on the",
+      "on the psychological",
+      "the psychological toll",
+      "psychological toll of",
+      "toll of responding",
+      "of responding to",
+      "responding to covid",
+      "to covid 19"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Consider a recent surge in COVID-19 cases in Italy, where death tolls are skyrocketing. Write from the perspective of a healthcare worker urging authorities to take immediate action and launch an effective vaccination campaign.",
+    "keywords": [
+      "covid 19",
+      "vaccination campaign",
+      "italy",
+      "cases",
+      "death tolls",
+      "healthcare worker",
+      "immediate action",
+      "authorities",
+      "effective"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Write a briefing on community resilience strategies during the pandemic, from the perspective of a local law enforcement officer concerned about the rapid spread of COVID-19 in Italy and the strain on medical facilities.",
+    "keywords": [
+      "community resilience",
+      "pandemic",
+      "covid 19",
+      "italy",
+      "medical facilities",
+      "strain"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Draft a public health advisory statement, warning about the rapid spread of COVID-19 cases in Italy and its neighboring countries in South East Asia, highlighting concerns over medical facility capacity and advising governments to take swift action.",
+    "keywords": [
+      "covid 19",
+      "public health advisory",
+      "rapid spread",
+      "italy",
+      "south east asia",
+      "medical facility capacity",
+      "swift action"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "mental health during the pandemic",
+    "prompt": "Reflect on the emotional toll of Italy's rapid rise to the top of the death list, considering the impact on medical facility resources and neighbors' worsening conditions. Share a personal perspective as you navigate the psychological strain of this crisis.",
+    "keywords": [
+      "emotional",
+      "toll",
+      "medical",
+      "resources",
+      "psychological",
+      "strain",
+      "crisis"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "first responder",
+    "topic": "mental health during the pandemic",
+    "prompt": "Write a compassionate reflection on the psychological toll of the pandemic from the perspective of a front-line responder, drawing parallels between Italy's situation and the challenges faced in South East Asia.",
+    "keywords": [
+      "pandemic",
+      "front line",
+      "responder",
+      "psychological",
+      "toll",
+      "italy",
+      "south east asia"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Write a heartfelt plea to fellow citizens, urging governments worldwide to prioritize medical infrastructure upgrades amid the COVID-19 pandemic, as witnessed firsthand in Italy's devastating situation.",
+    "keywords": [
+      "covid 19",
+      "medical infrastructure",
+      "pandemic",
+      "italy",
+      "citizens",
+      "governments",
+      "upgrade",
+      "prioritize",
+      "devastating",
+      "situation"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an organization",
+    "topic": "hospital preparedness for COVID-19",
+    "prompt": "Draft a statement emphasizing the urgency of hospital preparedness for COVID-19, referencing the rapid spread in Italy and neighboring countries, considering the inadequate medical facilities in South East Asia.",
+    "keywords": [
+      "hospital",
+      "preparedness",
+      "covid 19",
+      "italy",
+      "rapid spread",
+      "south east asia",
+      "inadequate medical facilities",
+      "medical"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an influencer",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "From my vantage point as a social media influencer, write a commentary on the alarming economic impact of the COVID-19 pandemic in Italy and neighboring countries.",
+    "keywords": [
+      "economic",
+      "impact",
+      "covid 19",
+      "pandemic",
+      "italy",
+      "neighboring",
+      "countries",
+      "alarming",
+      "commentary",
+      "social media",
+      "influencer"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an authority figure",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "An urgent appeal to prioritize a widespread COVID-19 vaccination campaign, considering Italy's alarming case count and overwhelmed medical facilities in Southeast Asia.",
+    "keywords": [
+      "covid 19",
+      "vaccination",
+      "campaign",
+      "italy",
+      "case",
+      "count",
+      "medical",
+      "facilities",
+      "southeast",
+      "asia"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "mental health during the pandemic",
+    "prompt": "Paint a vivid portrait of the psychological toll of the pandemic, as seen through the eyes of a worried sibling watching loved ones struggle with Corona virus cases in Italy and beyond.",
+    "keywords": [
+      "pandemic",
+      "corona",
+      "virus",
+      "italy",
+      "cases",
+      "sibling",
+      "loved",
+      "ones",
+      "struggle",
+      "toll"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Issue a public health advisory on COVID-19 from the perspective of a regional leader, highlighting concerns about Italy's rising death toll and medical facility capacity in South East Asia.",
+    "keywords": [
+      "public",
+      "health",
+      "advisory",
+      "covid 19",
+      "italy",
+      "death",
+      "toll",
+      "medical",
+      "facility",
+      "capacity",
+      "south",
+      "east"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "Consider Italy's recent surge in COVID-19 cases and advise on essential prevention measures for similar high-risk areas, prioritizing swift action to mitigate the crisis.",
+    "keywords": [
+      "covid 19",
+      "prevention",
+      "measures",
+      "mitigate",
+      "crisis",
+      "high risk",
+      "similar",
+      "swift",
+      "action",
+      "essential"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Draft a statement emphasizing the urgency of a COVID-19 vaccination campaign, considering Italy's alarming case numbers and South East Asia's inadequate medical facilities.",
+    "keywords": [
+      "covid 19",
+      "vaccination",
+      "campaign",
+      "urgency",
+      "italy",
+      "case numbers",
+      "south east asia",
+      "medical facilities"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Capture a vivid warning about the rapidly escalating COVID-19 crisis in Italy, emphasizing the dire situation and urging responsible action from governments and individuals alike.",
+    "keywords": [
+      "covid 19",
+      "italy",
+      "rapidly escalating",
+      "dire situation",
+      "responsible action",
+      "governments",
+      "individuals"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "first responder",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Write a public health advisory from the perspective of a first responder in South East Asia, cautioning against complacency in the face of rapidly spreading COVID-19 cases and inadequate medical facilities.",
+    "keywords": [
+      "covid 19",
+      "rapidly spreading",
+      "inadequate medical facilities",
+      "complacency",
+      "public health advisory",
+      "south east asia",
+      "first responder"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "COVID-19 testing and tracing",
+    "prompt": "Consider the current pandemic situation in Italy, where the number of deaths has skyrocketed. From the perspective of a concerned citizen, describe the impact on medical facilities and the importance of effective COVID-19 testing and tracing measures.",
+    "keywords": [
+      "covid 19",
+      "testing",
+      "tracing",
+      "pandemic",
+      "italy",
+      "deaths",
+      "medical",
+      "facilities",
+      "concerned",
+      "citizen"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an expert",
+    "topic": "remote work and online schooling",
+    "prompt": "Consider the Italy case, where rapid spread of COVID-19 led to a surge in cases. Now, imagine a scenario where schools switch to remote learning due to public health concerns. What measures would you recommend to ensure effective online schooling, considering limitations like inadequate medical facilities and poor conditions in neighboring countries?",
+    "keywords": [
+      "remote learning",
+      "online schooling",
+      "public health concerns",
+      "medical facilities",
+      "neighboring countries",
+      "covid 19",
+      "italy case"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a public figure",
+    "topic": "community resilience during lockdowns",
+    "prompt": "As I reflect on our current global crisis, write a heartfelt message urging my fellow citizens to prioritize their health and well-being, drawing parallels between Italy's experience and the challenges faced in South East Asia, while emphasizing the importance of community resilience during lockdowns.",
+    "keywords": [
+      "community resilience",
+      "lockdowns",
+      "health and well being",
+      "global crisis",
+      "italy",
+      "south east asia"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Consider the recent surge in COVID-19 cases in Italy, particularly among neighbors with poor medical facilities. Write a statement addressing the concerns around misinformation and its impact on public health.",
+    "keywords": [
+      "covid 19",
+      "misinformation",
+      "public health",
+      "italy",
+      "medical facilities",
+      "neighbors",
+      "cases",
+      "concerns",
+      "impact",
+      "statement"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  }
+]

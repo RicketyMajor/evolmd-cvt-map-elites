@@ -1,0 +1,2515 @@
+[
+  {
+    "role": "an arrangement",
+    "topic": "virtual cultivate and on-line train",
+    "prompt": "Given the recent updates in our action center regarding restaurant shutdowns and disaster financing options for SMBS, craft a clear and concise overview of virtual cultivation and online training arrangements that can help SMBs adapt to flexible operations during shutdowns, emphasizing the importance of organization and elastic strategies.",
+    "keywords": [
+      "flexible",
+      "shutdowns",
+      "organization",
+      "elastic",
+      "shutdown",
+      "virtual",
+      "recent updates",
+      "smbs"
+    ],
+    "objetivos": [
+      0.5424004793167114,
+      0.6685321033000946
+    ],
+    "generated_data": "Our virtual cultivate and on-line train arrangement has been updated to provide SMBs with flexible operations solutions during recent shutdowns. By prioritizing organization and elastic strategies, businesses can effectively adapt to changing circumstances and minimize disruptions.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5424004793167114,
+      "diversity_individual": 0.6685321033000946,
+      "pop_inertia": 0.38204490661621093,
+      "pop_entropy": 0.6563503270708321
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "community resilience during lockdowns",
+    "prompt": "As the community faces lockdown challenges, provide an informative post for small business owners in our action center's nerve center, discussing available resources and financing options for navigating restaurant shutdowns.",
+    "keywords": [
+      "small business owners",
+      "shutdowns",
+      "center",
+      "nerve center",
+      "financing"
+    ],
+    "objetivos": [
+      0.9337031841278076,
+      0.5253947973251343
+    ],
+    "generated_data": "Stay informed! Our Action Center has been updated with vital info on restaurant shutdowns & disaster financing options for SMBs. Get the latest tips & resources to help you navigate this challenging time.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.9337031841278076,
+      "diversity_individual": 0.5253947973251343,
+      "pop_inertia": 0.38204490661621093,
+      "pop_entropy": 0.6563503270708321
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote cultivate and on-line train",
+    "prompt": "Imagine you're an entrepreneur trying to keep your small business running during the lockdown, struggling to find reliable funding options. Write a concise overview for our action center's nerve center, providing practical tips on how to execute remote training and cultivation strategies for commercial enterprises like yours, highlighting average timeframes for execution and potential late bloomers.",
+    "keywords": [
+      "funding",
+      "execute",
+      "lockdown",
+      "commercial enterprise",
+      "average",
+      "late",
+      "nerve center"
+    ],
+    "objetivos": [
+      0.5194315910339355,
+      0.687199592590332
+    ],
+    "generated_data": "As we navigate the lockdown, it's crucial to stay ahead of the curve by leveraging remote cultivate and on-line train strategies. Our nerve center has been updated with valuable insights on funding options and disaster financing solutions specifically designed for SMBs. To execute a successful pivot, aim to dedicate 6-8 weeks for initial training and cultivation, allowing for average timeframes of 3-5 months to see tangible results. Don't worry if you're a late bloomer - our resources will help you catch up and thrive in the new normal.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5194315910339355,
+      "diversity_individual": 0.687199592590332,
+      "pop_inertia": 0.39481414794921876,
+      "pop_entropy": 0.6563308787877598
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "mask wearing guidelines",
+    "prompt": "Considering recent updates on restaurant shutdowns and disaster financing options for small businesses, provide a clear and concise set of mask wearing guidelines from the perspective of a regular individual, incorporating practical advice on choosing the right elastic mask.",
+    "keywords": [
+      "wearing",
+      "shutdowns",
+      "elastic",
+      "perspective",
+      "update"
+    ],
+    "objetivos": [
+      0.19556045532226562,
+      0.8119151890277863
+    ],
+    "generated_data": "Considering recent updates on restaurant shutdowns and disaster financing options, it's essential to prioritize our safety by updating our mask-wearing habits. When choosing an elastic mask, I recommend opting for one with a breathable material and adjustable fit to ensure comfort during extended wear.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.19556045532226562,
+      "diversity_individual": 0.8119151890277863,
+      "pop_inertia": 0.39481414794921876,
+      "pop_entropy": 0.6563308787877598
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an organization",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Develop a concise update highlighting new resources for small business owners navigating shutdowns and disaster financing options to maintain community resilience during lockdowns.",
+    "keywords": [
+      "small business owners",
+      "shutdowns",
+      "travel"
+    ],
+    "objetivos": [
+      0.9378887414932251,
+      0.5116358995437622
+    ],
+    "generated_data": "We've updated our Action Center with fresh info on restaurant shutdowns and disaster financing options for SMBs, empowering them to adapt & thrive during lockdowns. Explore the latest resources and stay resilient!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.9378887414932251,
+      "diversity_individual": 0.5116358995437622,
+      "pop_inertia": 0.39481414794921876,
+      "pop_entropy": 0.6563308787877598
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a patrol officer",
+    "topic": "mask wearing road map",
+    "prompt": "As the new patrol officer on the block, I'm tasked with creating a comprehensive roadmap for individuals navigating the recent restaurant shutdowns and economic uncertainty. Please generate a clear and concise update that outlines the latest changes and financing options for SMBs.",
+    "keywords": [
+      "changes",
+      "individual",
+      "shutdowns",
+      "inform",
+      "perspective",
+      "journey",
+      "mask"
+    ],
+    "objetivos": [
+      0.7004568576812744,
+      0.6211700439453125
+    ],
+    "generated_data": "As we navigate the journey of adapting to the recent restaurant shutdowns, it's essential to stay informed about the latest changes. From an individual perspective, understanding available financing options for small businesses is crucial. This roadmap aims to guide you through these updates and provide a clear path forward.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7004568576812744,
+      "diversity_individual": 0.6211700439453125,
+      "pop_inertia": 0.3804581832885742,
+      "pop_entropy": 0.6552700384056451
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "community resilience during lockdowns",
+    "prompt": "As the situation surrounding COVID-19 continues to unfold, provide a concise update on recent developments impacting local small businesses, particularly those struggling with restaurant shutdowns and exploring disaster financing options.",
+    "keywords": [
+      "small business",
+      "shutdowns",
+      "verity",
+      "recent"
+    ],
+    "objetivos": [
+      0.9513065218925476,
+      0.426188588142395
+    ],
+    "generated_data": "Our action center has been updated with vital info on restaurant shutdowns & disaster financing options for SMBs. Stay informed and support your community's resilience during these challenging times!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.9513065218925476,
+      "diversity_individual": 0.426188588142395,
+      "pop_inertia": 0.3737174606323242,
+      "pop_entropy": 0.64386449668377
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "With the constant flux of information online, it's crucial to separate fact from fiction. Write a passage that highlights how the blurring of lines between real and fake news can lead individuals like ourselves astray, potentially affecting our daily decisions. Focus on instances where we might be wearing our blinders, and explore strategies for staying informed amidst the chaos.",
+    "keywords": [
+      "blurred lines",
+      "wearing",
+      "fake news"
+    ],
+    "objetivos": [
+      0.020620960742235184,
+      0.8884001225233078
+    ],
+    "generated_data": "As we navigate the vast expanse of online information, it's easy to get caught up in the blurred lines between fact and fiction. We're often unintentionally wearing our blinders, selectively filtering out contradictory views that might shatter our carefully constructed narratives. Fake news can be particularly insidious, perpetuating misinformation that shapes our daily decisions without us even realizing it.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.020620960742235184,
+      "diversity_individual": 0.8884001225233078,
+      "pop_inertia": 0.3799221801757813,
+      "pop_entropy": 0.6466206546140154
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "mask wearing guidelines",
+    "prompt": "Craft a concise guide on mask-wearing guidelines from the artist's perspective, incorporating authentic insights about verity amidst fake news and annihilation scenarios, while referencing updated information on restaurant shutdowns and disaster financing options for SMBs.",
+    "keywords": [
+      "wearing",
+      "shutdowns",
+      "annihilating",
+      "elastic",
+      "perspective",
+      "fake news",
+      "verity",
+      "update"
+    ],
+    "objetivos": [
+      -0.035907767713069916,
+      0.9142125248908997
+    ],
+    "generated_data": "As an artist, I've learned to discern verity from noise. Amidst the chaos of shutdowns and fake news, I update my perspective by wearing masks that stretch beyond elastic limits. Verity is our shield against annihilation scenarios. Here's a concise guide: wear masks with confidence, trust your instincts, and don't let fear dictate your creative path.",
+    "metrics_detail": {
+      "fidelity_sbert": -0.035907767713069916,
+      "diversity_individual": 0.9142125248908997,
+      "pop_inertia": 0.3875560760498047,
+      "pop_entropy": 0.6403638170974999
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Create a thought-provoking piece that navigates the blurred lines between reality and misperception, as misinformation about COVID-19 annihilates any sense of verity, leaving devastation in its wake.",
+    "keywords": [
+      "blurred lines",
+      "annihilating",
+      "devastating",
+      "misinformation",
+      "fake news",
+      "verity"
+    ],
+    "objetivos": [
+      -0.033532485365867615,
+      0.9081487208604813
+    ],
+    "generated_data": "As an artist, I navigate the blurred lines between truth and illusion, where misinformation about COVID-19 annihilates any sense of verity, leaving devastating consequences in its wake.",
+    "metrics_detail": {
+      "fidelity_sbert": -0.033532485365867615,
+      "diversity_individual": 0.9081487208604813,
+      "pop_inertia": 0.3662225341796875,
+      "pop_entropy": 0.6427054461435312
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an organization",
+    "topic": "journey restriction and sanctuary",
+    "prompt": "Update your community on recent developments regarding restaurants' unexpected closures and explore available disaster financing options for small businesses to help them strive, considering the updated information in our Action Center.",
+    "keywords": [
+      "restaurant shutdowns",
+      "closure",
+      "strive"
+    ],
+    "objetivos": [
+      0.9477463960647583,
+      0.4663596749305725
+    ],
+    "generated_data": "Update our community on recent developments regarding restaurant shutdowns. Our Action Center now provides more information on disaster financing options for SMBs to help them strive despite unexpected closures.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.9477463960647583,
+      "diversity_individual": 0.4663596749305725,
+      "pop_inertia": 0.3895277404785156,
+      "pop_entropy": 0.644993926341031
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "travel confinement and refuge",
+    "prompt": "Craft a narrative that explores the blurred lines between reality and misinformation, as if a wandering artist stumbled upon a disaster-stricken city. Incorporate vivid descriptions of the destruction, while also highlighting the importance of verity in navigating such chaos.",
+    "keywords": [
+      "blurred lines",
+      "annihilating",
+      "misinformation",
+      "fake news",
+      "verity"
+    ],
+    "objetivos": [
+      0.10002294182777405,
+      0.8824210539460182
+    ],
+    "generated_data": "As I wandered through the ravaged streets, the air thick with the stench of devastation, I couldn't help but notice the blurred lines between reality and misinformation. Annihilating forces had left their mark, yet amidst the wreckage, whispers of fake news spread like wildfire. It was as if the very fabric of truth had been torn asunder, leaving only verity's faint glimmer to guide us through the chaos.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.10002294182777405,
+      "diversity_individual": 0.8824210539460182,
+      "pop_inertia": 0.3895277404785156,
+      "pop_entropy": 0.644993926341031
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an arrangement",
+    "topic": "remote work and online schooling",
+    "prompt": "In the context of remote work and online schooling, outline the strategic arrangements small businesses can make to execute a smooth transition while leveraging disaster financing options and minimizing disruptions.",
+    "keywords": [
+      "small business",
+      "execute",
+      "commercial enterprise",
+      "verity"
+    ],
+    "objetivos": [
+      0.2715182900428772,
+      0.7565935701131821
+    ],
+    "generated_data": "To ensure a seamless transition, SMBs should arrange for robust communication channels, prioritize task delegation, and execute flexible scheduling. Additionally, utilizing verity-based data analysis can help optimize remote work arrangements and minimize disruptions, ultimately facilitating a smooth commercial enterprise operation during times of uncertainty.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2715182900428772,
+      "diversity_individual": 0.7565935701131821,
+      "pop_inertia": 0.3817039108276367,
+      "pop_entropy": 0.6456281004565474
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an arrangement",
+    "topic": "remote cultivate and on-line train",
+    "prompt": "Create a concise overview of recent updates to the action center that highlights informed decision-making strategies for small business owners in the context of remote cultivation and online training, emphasizing changes and average impact.",
+    "keywords": [
+      "informed",
+      "changes",
+      "average"
+    ],
+    "objetivos": [
+      0.4448740482330322,
+      0.7266989350318909
+    ],
+    "generated_data": "Our arrangement has been updated with informed insights on recent changes in remote cultivate and online train, providing average growth opportunities for SMBs. This update empowers businesses to make strategic decisions, leveraging new information and strategies for success.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.4448740482330322,
+      "diversity_individual": 0.7266989350318909,
+      "pop_inertia": 0.3666636276245117,
+      "pop_entropy": 0.6559779211205242
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an arrangement",
+    "topic": "remote work and online schooling",
+    "prompt": "Create a concise update highlighting the latest developments in remote work and online schooling arrangements for small businesses, specifically focusing on how they can effectively execute changes and utilize new financing options to overcome challenges, leveraging verity and reliable information sources.",
+    "keywords": [
+      "small business",
+      "execute",
+      "commercial enterprise",
+      "verity"
+    ],
+    "objetivos": [
+      0.42155563831329346,
+      0.7366969287395477
+    ],
+    "generated_data": "Our Remote Work & Online Schooling Arrangement has been updated with fresh insights on executing changes and accessing reliable financing options for smbs. Explore the latest developments and verity-backed resources to support your commercial enterprise's growth.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.42155563831329346,
+      "diversity_individual": 0.7366969287395477,
+      "pop_inertia": 0.3666636276245117,
+      "pop_entropy": 0.6559779211205242
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "remote cultivate and on-line train",
+    "prompt": "Imagine a thriving online community where artists like you stay informed about industry changes, exploring average trends in remote cultivation and training. Please generate text that envisions the ideal platform for artistic growth.",
+    "keywords": [
+      "informed",
+      "changes",
+      "average"
+    ],
+    "objetivos": [
+      0.12838581204414368,
+      0.8492338061332703
+    ],
+    "generated_data": "Our digital studio has been revamped with a hub of informed resources on the latest artistic trends and training methods. Average artists can now access a vast library of online courses and workshops, empowering them to thrive in the remote cultivate and on-line train community.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.12838581204414368,
+      "diversity_individual": 0.8492338061332703,
+      "pop_inertia": 0.37507991790771483,
+      "pop_entropy": 0.6444203462893362
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a politician",
+    "topic": "remote cultivate and on-line train",
+    "prompt": "As the leader of your constituency, please provide an update on recent developments in supporting Small Medium Businesses (SMBs) through virtual arrangements, focusing on flexible financing options and average time savings from recent updates, considering both the impact of restaurant shutdowns and disaster financing solutions.",
+    "keywords": [
+      "flexible",
+      "organization",
+      "arrangements",
+      "average",
+      "virtual",
+      "recent updates",
+      "travels",
+      "smbs",
+      "work",
+      "financing"
+    ],
+    "objetivos": [
+      0.6512741446495056,
+      0.649933397769928
+    ],
+    "generated_data": "As a champion for SMBs, I'm pleased to announce that our action center has been updated with new information on flexible financing options and virtual arrangements. These recent updates have enabled businesses to save an average of 30 minutes daily, thanks to streamlined processes and reduced travels.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6512741446495056,
+      "diversity_individual": 0.649933397769928,
+      "pop_inertia": 0.40874290466308594,
+      "pop_entropy": 0.6512387935503271
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Craft a brief update about new resources available to support small business owners affected by shutdowns, highlighting recent developments in disaster financing options and restaurant closures.",
+    "keywords": [
+      "small business owners",
+      "shutdowns",
+      "travel"
+    ],
+    "objetivos": [
+      0.943986713886261,
+      0.5074823498725891
+    ],
+    "generated_data": "Our Action Center has been updated with fresh info on restaurant shutdowns & disaster financing options for SMBs. Stay informed on the latest developments and find valuable resources to help you navigate these challenging times.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.943986713886261,
+      "diversity_individual": 0.5074823498725891,
+      "pop_inertia": 0.38185848236083986,
+      "pop_entropy": 0.6490261331451486
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Craft a concise guide on proper hand hygiene during the pandemic era, conveying the importance of good hygienics practices, especially when traveling or participating in artistic creations. Reach out and convey the significance of washing hands thoroughly with soap and water now, as it is crucial for preventing the spread of infections.",
+    "keywords": [
+      "convey",
+      "proper",
+      "hygienics",
+      "ocular",
+      "now",
+      "reach",
+      "concord",
+      "objet d'art",
+      "travel",
+      "pandemic",
+      "artistic creation",
+      "grandness"
+    ],
+    "objetivos": [
+      -0.006760772317647934,
+      0.8999887704849243
+    ],
+    "generated_data": "As we navigate this pandemic era, it's essential to prioritize proper hand hygiene, particularly when traveling or engaging in artistic creations. To reach the grandness of good hygienics practices, convey the importance of washing hands thoroughly with soap and water now. This objet d'art of cleanliness is crucial for preventing infections and concord with our daily lives.",
+    "metrics_detail": {
+      "fidelity_sbert": -0.006760772317647934,
+      "diversity_individual": 0.8999887704849243,
+      "pop_inertia": 0.4152711868286133,
+      "pop_entropy": 0.6503319785730123
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Based on the latest update, generate guidelines on maintaining good hand hygiene when wearing masks during recent restaurant shutdowns, considering proper closures of hands to prevent cross-contamination.",
+    "keywords": [
+      "wearing",
+      "closures",
+      "recent",
+      "update",
+      "guidelines",
+      "mask"
+    ],
+    "objetivos": [
+      0.23800067603588104,
+      0.7754444181919098
+    ],
+    "generated_data": "When wearing masks during recent restaurant shutdowns, follow these guidelines for maintaining good hand hygiene: ensure proper closures of your hands by washing them frequently with soap and water or using an alcohol-based sanitizer to prevent cross-contamination.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.23800067603588104,
+      "diversity_individual": 0.7754444181919098,
+      "pop_inertia": 0.4152711868286133,
+      "pop_entropy": 0.6503319785730123
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "From your personal perspective as a small business owner, describe how restaurant shutdowns and disaster financing options can help mitigate the economic impact of the COVID-19 pandemic through the lens of our updated action center.",
+    "keywords": [
+      "small business owners",
+      "shutdowns",
+      "elastic",
+      "center",
+      "perspective",
+      "financing"
+    ],
+    "objetivos": [
+      0.9086679220199585,
+      0.5361899137496948
+    ],
+    "generated_data": "As a small business owner, I'm relieved to see our update on restaurant shutdowns and disaster financing options in our action center. It's a game-changer for SMBs like me, offering more flexibility and elastic support during these uncertain times. With the right financing tools, we can pivot and adapt, minimizing the economic blow of pandemic-related shutdowns.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.9086679220199585,
+      "diversity_individual": 0.5361899137496948,
+      "pop_inertia": 0.40781700134277343,
+      "pop_entropy": 0.6511948143031694
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote cultivate and on-line train",
+    "prompt": "Create a text that helps small business owners navigate sudden shutdowns by referencing our updated action center's information on disaster financing options, as if they were having a conversation with their trusted online mentor.",
+    "keywords": [
+      "small business owners",
+      "shutdowns",
+      "center",
+      "nerve center",
+      "financing"
+    ],
+    "objetivos": [
+      0.8653239607810974,
+      0.5799995064735413
+    ],
+    "generated_data": "Hey there! I know it can be tough to deal with unexpected restaurant shutdowns, but don't worry, I've got you covered. Our updated Action Center has some fantastic resources on disaster financing options for SMBs - think of it as your nerve center for getting back on track!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8653239607810974,
+      "diversity_individual": 0.5799995064735413,
+      "pop_inertia": 0.40781700134277343,
+      "pop_entropy": 0.6511948143031694
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an organization",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Update our community resilience efforts by executing strategies that benefit small businesses in the face of restaurant shutdowns and disaster financing options, ensuring verity in providing assistance to commercial enterprises.",
+    "keywords": [
+      "small business",
+      "execute",
+      "commercial enterprise",
+      "verity"
+    ],
+    "objetivos": [
+      0.8821057677268982,
+      0.537434458732605
+    ],
+    "generated_data": "Our action center has been updated with enhanced resources on restaurant shutdowns and disaster financing options for SMBs, enabling us to more effectively execute strategies that support small businesses and commercial enterprises, while prioritizing verity in our assistance efforts.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8821057677268982,
+      "diversity_individual": 0.537434458732605,
+      "pop_inertia": 0.4166655349731445,
+      "pop_entropy": 0.6551362712707072
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel confinement and refuge",
+    "prompt": "Imagine you're considering traveling to an area affected by recent restaurant shutdowns, seeking refuge from the uncertainty. Update your perspective by describing what you'd wear for optimal comfort during this time, taking into account the elasticity of clothing and the importance of being prepared.",
+    "keywords": [
+      "wearing",
+      "shutdowns",
+      "elastic",
+      "perspective",
+      "small",
+      "update"
+    ],
+    "objetivos": [
+      0.22011572122573853,
+      0.7980807274580002
+    ],
+    "generated_data": "As I prepare to travel to a region plagued by restaurant shutdowns, I'm opting for elastic-waistband pants and a comfortable top that can keep up with my unpredictable mood. With the uncertainty surrounding food availability, it's essential to prioritize comfort while still looking stylish – after all, one never knows when they might need to make a quick escape from an empty restaurant!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.22011572122573853,
+      "diversity_individual": 0.7980807274580002,
+      "pop_inertia": 0.4166655349731445,
+      "pop_entropy": 0.6551362712707072
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote cultivate and on-line train",
+    "prompt": "Generate a concise overview of our action center's recent updates, highlighting flexible arrangements for SMBs to stay organized during travels while exploring virtual training options, incorporating average insights on remote cultivation and work financing solutions.",
+    "keywords": [
+      "flexible",
+      "organization",
+      "arrangements",
+      "average",
+      "virtual",
+      "recent updates",
+      "travels",
+      "smbs",
+      "work",
+      "financing"
+    ],
+    "objetivos": [
+      0.5418106913566589,
+      0.6711398065090179
+    ],
+    "generated_data": "Our Action Center has recently updated its offerings with flexible arrangements for SMBs to stay organized during travels. This includes virtual training options, recent updates on remote cultivation, and average insights on work financing solutions.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5418106913566589,
+      "diversity_individual": 0.6711398065090179,
+      "pop_inertia": 0.4166655349731445,
+      "pop_entropy": 0.6551362712707072
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an arrangement",
+    "topic": "remote cultivate and on-line train",
+    "prompt": "In the context of a remote arrangement to cultivate and online train SMBs, update the nerve center with new information about recent changes in disaster financing options, ensuring all team members are informed and prepared for execution, highlighting strategies to overcome lockdown challenges and achieve an average level of success.",
+    "keywords": [
+      "changes",
+      "funding",
+      "execute",
+      "lockdown",
+      "informed",
+      "average",
+      "nerve center"
+    ],
+    "objetivos": [
+      0.7783507704734802,
+      0.5899978280067444
+    ],
+    "generated_data": "The updated action center now includes crucial details on disaster financing options, empowering SMBs to navigate recent changes and execute their plans effectively, even amidst lockdowns. This move ensures our team is informed and prepared to tackle challenges, ultimately achieving an average level of success.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7783507704734802,
+      "diversity_individual": 0.5899978280067444,
+      "pop_inertia": 0.4166655349731445,
+      "pop_entropy": 0.6551362712707072
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "journey restriction and sanctuary",
+    "prompt": "Update our understanding of the impact of recent restaurant shutdowns on SMBs' financial planning, incorporating flexible solutions and organizational strategies for navigating this challenging landscape.",
+    "keywords": [
+      "flexible",
+      "organization",
+      "restaurant shutdowns",
+      "recent updates",
+      "closure"
+    ],
+    "objetivos": [
+      0.7758437395095825,
+      0.6057864427566528
+    ],
+    "generated_data": "Our action center has been updated with recent updates on restaurant shutdowns and flexible financing options to help small businesses navigate their closure, ensuring a smoother journey through sanctuary and restriction.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7758437395095825,
+      "diversity_individual": 0.6057864427566528,
+      "pop_inertia": 0.405258903503418,
+      "pop_entropy": 0.6590581947460958
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel confinement and refuge",
+    "prompt": "As you plan your next trip, consider the potential risks of travel disruptions due to disasters or restaurant shutdowns. What advice would you give to others seeking safe travel routes and financing options for unexpected situations?",
+    "keywords": [
+      "safety",
+      "disaster",
+      "shutdowns",
+      "travels",
+      "financing",
+      "small"
+    ],
+    "objetivos": [
+      0.5733352303504944,
+      0.6613109409809113
+    ],
+    "generated_data": "Before embarking on your journey, make sure to stay informed about potential disaster zones and restaurant shutdowns along your route. Consider investing in travel insurance that covers unexpected events and provides access to financing options if needed.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5733352303504944,
+      "diversity_individual": 0.6613109409809113,
+      "pop_inertia": 0.3970827102661133,
+      "pop_entropy": 0.6542684147451034
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an arrangement",
+    "topic": "virtual cultivate and on-line train",
+    "prompt": "Craft a concise description of the new 'Action Center' update, highlighting flexible arrangements for small businesses (SMBS) to navigate work changes and disasters, emphasizing informed decisions for individuals working remotely.",
+    "keywords": [
+      "flexible",
+      "individual",
+      "informed",
+      "arrangements",
+      "virtual",
+      "average",
+      "smbs",
+      "work",
+      "changes",
+      "remote work"
+    ],
+    "objetivos": [
+      0.6851924657821655,
+      0.6316595077514648
+    ],
+    "generated_data": "Our newly updated Action Center now features flexible arrangements for SMBS to adapt to remote work changes and disaster financing options, empowering informed individual decision-making.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6851924657821655,
+      "diversity_individual": 0.6316595077514648,
+      "pop_inertia": 0.3750312805175781,
+      "pop_entropy": 0.6499797725677672
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a politician",
+    "topic": "remote cultivate and on-line train",
+    "prompt": "As a responsible leader, update our constituents on flexible individual arrangements for average SMBS to adapt to changing work environments through informed online training options and virtual tools.",
+    "keywords": [
+      "flexible",
+      "individual",
+      "informed",
+      "arrangements",
+      "virtual",
+      "average",
+      "smbs",
+      "work",
+      "changes",
+      "remote work"
+    ],
+    "objetivos": [
+      0.4773293435573578,
+      0.6959235966205597
+    ],
+    "generated_data": "As your representative, I'm excited to announce that we've upgraded our action center with valuable resources on remote work arrangements and online training opportunities for small-to-medium-sized businesses (SMBS). This includes flexible individualized plans, informed guidance on adapting to changing work environments, and virtual tools to support SMBS in their transition to remote work.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.4773293435573578,
+      "diversity_individual": 0.6959235966205597,
+      "pop_inertia": 0.3750312805175781,
+      "pop_entropy": 0.6499797725677672
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a politician",
+    "topic": "remote cultivate and on-line train",
+    "prompt": "As the elected representative of SMBS, outline recent updates and arrangements for small business owners to adapt their operations remotely, leveraging virtual tools, while emphasizing flexibility in their organizational structure and average daily work routine; considering the impact of restaurant shutdowns on the community.",
+    "keywords": [
+      "flexible",
+      "organization",
+      "arrangements",
+      "average",
+      "virtual",
+      "recent updates",
+      "travels",
+      "smbs",
+      "work",
+      "financing"
+    ],
+    "objetivos": [
+      0.5450844168663025,
+      0.6636761724948883
+    ],
+    "generated_data": "As your representative, I'm pleased to announce that our action center has been updated with recent developments on remote cultivation and online training for SMBS. We're committed to providing flexible arrangements for small business owners to adapt their operations virtually, ensuring average daily work routines aren't disrupted.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5450844168663025,
+      "diversity_individual": 0.6636761724948883,
+      "pop_inertia": 0.3750312805175781,
+      "pop_entropy": 0.6499797725677672
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Craft a response that highlights the importance of maintaining good hand hygiene practices in today's world where the blurred lines between reality and fake news can lead to misinformation on matters like restaurant shutdowns. How do we ensure proper sanitization when wearing gloves? Provide a practical tip for everyday use.",
+    "keywords": [
+      "blurred lines",
+      "wearing",
+      "fake news"
+    ],
+    "objetivos": [
+      -0.027401044964790344,
+      0.9061449319124222
+    ],
+    "generated_data": "In today's world, it's crucial to maintain good hand hygiene practices as the blurred lines between reality and fake news can lead to misinformation. When it comes to ensuring proper sanitization while wearing gloves, one practical tip is to focus on washing your hands before putting them on. This simple habit can help prevent the spread of germs and keep you safe from potential risks.",
+    "metrics_detail": {
+      "fidelity_sbert": -0.027401044964790344,
+      "diversity_individual": 0.9061449319124222,
+      "pop_inertia": 0.38217155456542967,
+      "pop_entropy": 0.6468787551978821
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote cultivate and on-line train",
+    "prompt": "Craft a concise update highlighting innovative ways to remotely cultivate skills in artistic creation, leveraging proper online resources and networking opportunities. Highlight how this verity can enhance one's travel experiences and professional reach.",
+    "keywords": [
+      "artistic creation",
+      "proper",
+      "travel",
+      "verity",
+      "reach"
+    ],
+    "objetivos": [
+      0.2898420989513397,
+      0.7451523244380951
+    ],
+    "generated_data": "Our action center has been updated with more information on how to remotely cultivate artistic creations, utilizing proper online platforms and networking opportunities. This verity enables you to enhance your travel experiences and professionally reach new heights.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2898420989513397,
+      "diversity_individual": 0.7451523244380951,
+      "pop_inertia": 0.3488596725463867,
+      "pop_entropy": 0.6404767940983079
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an arrangement",
+    "topic": "remote work and online schooling",
+    "prompt": "Summarize the key updates in a hypothetical 'action center' focused on remote work and online schooling, highlighting recent changes that facilitate execution of new strategies.",
+    "keywords": [
+      "changes",
+      "execute"
+    ],
+    "objetivos": [
+      0.16782337427139282,
+      0.8247258365154266
+    ],
+    "generated_data": "Our action center has been updated with fresh insights on remote learning platforms and tools for seamless execution of new strategies, including AI-powered virtual classrooms and improved collaboration software to enhance productivity.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.16782337427139282,
+      "diversity_individual": 0.8247258365154266,
+      "pop_inertia": 0.3952653121948242,
+      "pop_entropy": 0.6443627964683563
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "In light of recent restaurant shutdowns and the importance of maintaining good hand hygiene and sanitization, please provide a comprehensive guide on how to properly wear an elastic mask while performing daily tasks.",
+    "keywords": [
+      "wearing",
+      "shutdowns",
+      "elastic",
+      "update",
+      "mask"
+    ],
+    "objetivos": [
+      -0.11656920611858368,
+      0.932309590280056
+    ],
+    "generated_data": "To maintain good hand hygiene and sanitization during daily tasks, it's essential to properly wear an elastic mask. Update your technique by securing the mask with its adjustable ear loops and ensuring it fits snugly around your nose and mouth.",
+    "metrics_detail": {
+      "fidelity_sbert": -0.11656920611858368,
+      "diversity_individual": 0.932309590280056,
+      "pop_inertia": 0.38421321868896485,
+      "pop_entropy": 0.6463342560491746
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Provide step-by-step guidelines on how to maintain proper hand hygiene while wearing personal protective equipment in the face of shutdowns, referencing our updated action center for disaster financing options as a SMB owner and executing efficient sanitization practices before it's too late.",
+    "keywords": [
+      "execute",
+      "wearing",
+      "shutdowns",
+      "late",
+      "nerve center",
+      "guidelines",
+      "update"
+    ],
+    "objetivos": [
+      0.2410527765750885,
+      0.7714152038097382
+    ],
+    "generated_data": "To maintain proper hand hygiene while wearing PPE, follow these steps: execute frequent handwashing with soap and water or use an alcohol-based sanitizer. Reference our updated action center for guidelines on disaster financing options as a SMB owner. Don't wait until it's too late; update your nerve center with the latest information and take proactive measures to sanitize your workspace.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2410527765750885,
+      "diversity_individual": 0.7714152038097382,
+      "pop_inertia": 0.3792886734008789,
+      "pop_entropy": 0.6540885951924458
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Given the recent updates on restaurant shutdowns and disaster financing options for SMBs, provide clear guidelines on how to maintain proper hand hygiene and sanitization practices when wearing a mask in public places that may be experiencing closures.",
+    "keywords": [
+      "closures",
+      "wearing",
+      "shutdowns",
+      "mask",
+      "recent",
+      "guidelines",
+      "update"
+    ],
+    "objetivos": [
+      -0.06927153468132019,
+      0.9239741414785385
+    ],
+    "generated_data": "To ensure proper hand hygiene and sanitization, update your routine by washing hands frequently with soap and water, especially after removing your mask. When wearing a mask, avoid touching your face and wash hands immediately if you need to adjust it.",
+    "metrics_detail": {
+      "fidelity_sbert": -0.06927153468132019,
+      "diversity_individual": 0.9239741414785385,
+      "pop_inertia": 0.41106094360351564,
+      "pop_entropy": 0.6530759716691568
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Generate text that provides clear guidelines on maintaining proper hand hygiene and sanitization during this challenging time of restaurant closures and shutdowns, emphasizing the importance of personal responsibility in preventing the spread of illnesses while following official updates.",
+    "keywords": [
+      "closures",
+      "wearing",
+      "shutdowns",
+      "guidelines",
+      "update"
+    ],
+    "objetivos": [
+      0.22059208154678345,
+      0.778242751955986
+    ],
+    "generated_data": "To maintain proper hand hygiene and sanitization during restaurant closures and shutdowns, please follow these clear guidelines: wear gloves when handling food or surfaces, wash your hands frequently with soap and water for at least 20 seconds, and sanitize high-touch areas regularly. Remember to stay informed about official updates and take personal responsibility in preventing the spread of illnesses.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.22059208154678345,
+      "diversity_individual": 0.778242751955986,
+      "pop_inertia": 0.3850198745727539,
+      "pop_entropy": 0.6427053569214128
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Generate an updated guide on hand hygiene and sanitization guidelines for individuals dealing with the impact of restaurant shutdowns, considering recent updates to action centers offering disaster financing options for small businesses.",
+    "keywords": [
+      "closures",
+      "wearing",
+      "shutdowns",
+      "guidelines",
+      "update"
+    ],
+    "objetivos": [
+      0.23761771619319916,
+      0.7757049351930618
+    ],
+    "generated_data": "In light of recent restaurant shutdowns, it's crucial to prioritize hand hygiene and sanitization. Update your daily routine by following these revised guidelines: wear gloves when touching surfaces, wash hands frequently, and use sanitizer correctly.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.23761771619319916,
+      "diversity_individual": 0.7757049351930618,
+      "pop_inertia": 0.39340274810791015,
+      "pop_entropy": 0.6426893996857231
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a police officer",
+    "topic": "mask wearing guidelines",
+    "prompt": "As you patrol the streets, provide an updated guide on mask-wearing guidelines from your informed perspective as a police officer, incorporating recent changes and updates for individuals to stay informed.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "changes",
+      "recent",
+      "update",
+      "individual",
+      "informed",
+      "perspective"
+    ],
+    "objetivos": [
+      -0.02133016847074032,
+      0.9042331650853157
+    ],
+    "generated_data": "As a police officer, I've got the latest scoop on mask-wearing guidelines. Recent changes mean it's more crucial than ever for individuals to stay informed about the new rules and regulations. From now on, wearing a mask is not just a recommendation - it's mandatory in most public areas. So, make sure you're up-to-date with the latest info and take necessary precautions to keep yourself and others safe.",
+    "metrics_detail": {
+      "fidelity_sbert": -0.02133016847074032,
+      "diversity_individual": 0.9042331650853157,
+      "pop_inertia": 0.39340274810791015,
+      "pop_entropy": 0.6426893996857231
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote cultivate and on-line train",
+    "prompt": "Based on recent updates, I need you to create a helpful resource for small business owners. Please provide guidance on how they can best utilize their action center's new arrangements for executing their plans, taking into account average late submissions and ensuring verity in funding, with the ultimate goal of improving work efficiency.",
+    "keywords": [
+      "small business",
+      "execute",
+      "arrangements",
+      "average",
+      "late",
+      "recent updates",
+      "verity",
+      "funding",
+      "small business owners",
+      "work",
+      "nerve center"
+    ],
+    "objetivos": [
+      0.2869105935096741,
+      0.7465035617351532
+    ],
+    "generated_data": "To maximize your remote cultivate and on-line train efforts, update your nerve center by using recent updates to create a plan execution strategy. This includes making arrangements for timely submissions and verifying funding options to ensure a smooth workflow.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2869105935096741,
+      "diversity_individual": 0.7465035617351532,
+      "pop_inertia": 0.3730157470703125,
+      "pop_entropy": 0.640054700904585
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an arrangement",
+    "topic": "virtual cultivate and on-line train",
+    "prompt": "Develop a comprehensive resource guide for small businesses to navigate disruptions, featuring updated information on virtual support systems and adaptive financing strategies.",
+    "keywords": [
+      "virtual",
+      "flexible",
+      "verity",
+      "elastic"
+    ],
+    "objetivos": [
+      0.3436512351036072,
+      0.7384977340698242
+    ],
+    "generated_data": "Our Virtual Cultivate & On-Line Train arrangement has been updated with more flexibility in navigating disruptions, offering verity of virtual support systems and elastic financing options for small businesses, empowering them to adapt and thrive.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3436512351036072,
+      "diversity_individual": 0.7384977340698242,
+      "pop_inertia": 0.3693758773803711,
+      "pop_entropy": 0.6469290797847661
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Imagine you're a small business owner trying to navigate the economic impact of the coronavirus pandemic. What information would you like to find in our action nerve center about restaurant shutdowns and disaster financing options?",
+    "keywords": [
+      "small business owners",
+      "nerve center",
+      "shutdowns",
+      "lockdown"
+    ],
+    "objetivos": [
+      0.6922469139099121,
+      0.6256750226020813
+    ],
+    "generated_data": "I'd want to see clear guidelines on how to apply for disaster financing options, especially since lockdowns have been devastating for my small business. I'm worried about making ends meet if we're forced to shut down again.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6922469139099121,
+      "diversity_individual": 0.6256750226020813,
+      "pop_inertia": 0.39685535430908203,
+      "pop_entropy": 0.6440837704612808
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Create an informative post for a local action center that updates small business owners on recent developments in restaurant shutdowns and disaster financing options during the COVID-19 pandemic.",
+    "keywords": [
+      "small business owners",
+      "financing",
+      "shutdowns",
+      "center"
+    ],
+    "objetivos": [
+      0.9287567138671875,
+      0.5195998847484589
+    ],
+    "generated_data": "Our Action Center has been updated with crucial info for SMBs! Now, you can find more about restaurant shutdowns & disaster financing options to help you navigate these challenging times.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.9287567138671875,
+      "diversity_individual": 0.5195998847484589,
+      "pop_inertia": 0.3602530288696289,
+      "pop_entropy": 0.6385451165645313
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and phony tidings about COVID-19",
+    "prompt": "Create a clear and concise message that sets the record straight on COVID-19 related rumors, highlighting recent updates from our action center on restaurant shutdowns and disaster financing options for small business owners to stay informed and prepared.",
+    "keywords": [
+      "flexible",
+      "small business owners",
+      "organization",
+      "restaurant shutdowns",
+      "recent updates",
+      "closure"
+    ],
+    "objetivos": [
+      0.9154156446456909,
+      0.5231025516986847
+    ],
+    "generated_data": "Stay informed, not misinformed! Our Action Center has just been updated with vital info on restaurant shutdowns & disaster financing options for SMBs. Don't believe the rumors - get the facts and prepare your business today!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.9154156446456909,
+      "diversity_individual": 0.5231025516986847,
+      "pop_inertia": 0.37995185852050783,
+      "pop_entropy": 0.6456572879260644
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote cultivate and on-line train",
+    "prompt": "Generate a concise update summarizing the recent virtual arrangements for SMBs, incorporating flexible options for organization, financing, and travel, while highlighting the importance of staying up-to-date with virtual training and work strategies.",
+    "keywords": [
+      "flexible",
+      "organization",
+      "arrangements",
+      "average",
+      "virtual",
+      "recent updates",
+      "travels",
+      "smbs",
+      "work",
+      "financing"
+    ],
+    "objetivos": [
+      0.5022883415222168,
+      0.6726725399494171
+    ],
+    "generated_data": "Our action center has been updated with fresh information on virtual arrangements for SMBs, featuring flexible options for organization, financing, and travel. Stay ahead with recent updates on remote cultivate and online train, ensuring seamless transitions in your work.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5022883415222168,
+      "diversity_individual": 0.6726725399494171,
+      "pop_inertia": 0.40874290466308594,
+      "pop_entropy": 0.6512387935503271
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote cultivate and on-line train",
+    "prompt": "As an individual interested in staying organized for remote work, I'd like to leverage recent updates on financing options for SMBS and flexible arrangements for balancing work and travels. Please provide a comprehensive guide on organizing virtual trainings, incorporating average updates and practical tips.",
+    "keywords": [
+      "flexible",
+      "organization",
+      "virtual",
+      "arrangements",
+      "average",
+      "recent updates",
+      "smbs",
+      "work",
+      "travels",
+      "changes",
+      "remote work",
+      "financing"
+    ],
+    "objetivos": [
+      0.5119696855545044,
+      0.6717967391014099
+    ],
+    "generated_data": "With the rise of remote cultivate and on-line train, staying organized is crucial for success. Recent updates on financing options for SMBS have made it easier to balance work and travels through flexible arrangements, ensuring a smooth transition.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5119696855545044,
+      "diversity_individual": 0.6717967391014099,
+      "pop_inertia": 0.3855602264404297,
+      "pop_entropy": 0.6433935704025189
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Create a thought-provoking art piece highlighting the importance of hand hygiene and sanitization during the pandemic era, incorporating elements that counteract the devastating effects of misinformation like fake news and falsity, while acknowledging the resilience of Concord's community in adapting to challenges like online schooling.",
+    "keywords": [
+      "pandemic",
+      "concord",
+      "devastating",
+      "online schooling",
+      "fake news",
+      "falsity"
+    ],
+    "objetivos": [
+      0.009040886536240578,
+      0.8867433592677116
+    ],
+    "generated_data": "Hand Hygiene Harmony: A Tapestry of Truth",
+    "metrics_detail": {
+      "fidelity_sbert": 0.009040886536240578,
+      "diversity_individual": 0.8867433592677116,
+      "pop_inertia": 0.37042816162109377,
+      "pop_entropy": 0.6306943929444745
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a politician",
+    "topic": "quarantine and closing off communications protocol",
+    "prompt": "As the representative for the district, I need you to generate a brief announcement that clarifies our response to the latest updates on restaurant shutdowns and disaster financing options in our action center, ensuring small business owners have access to critical information.",
+    "keywords": [
+      "small business owners",
+      "shutdowns",
+      "disaster",
+      "center",
+      "financing",
+      "small"
+    ],
+    "objetivos": [
+      0.9468791484832764,
+      0.4590728282928467
+    ],
+    "generated_data": "I'm pleased to announce that our Action Center has been updated with vital information regarding restaurant shutdowns and disaster financing options for SMBs. This crucial resource provides small business owners with the necessary support and guidance during these challenging times.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.9468791484832764,
+      "diversity_individual": 0.4590728282928467,
+      "pop_inertia": 0.3727582550048828,
+      "pop_entropy": 0.6431883423771689
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Considering the importance of hand hygiene during the pandemic, convey the proper hygienics techniques to protect ourselves and others. Reach a new level of understanding on how to properly wash your hands, now that our action center has been updated with valuable information.",
+    "keywords": [
+      "convey",
+      "proper",
+      "hygienics",
+      "ocular",
+      "now",
+      "reach",
+      "pandemic",
+      "artistic creation",
+      "grandness",
+      "concord",
+      "objet d'art",
+      "travel"
+    ],
+    "objetivos": [
+      0.07536668330430984,
+      0.8515071123838425
+    ],
+    "generated_data": "Proper hand washing is crucial for our safety and the well-being of those around us during this pandemic. Now, more than ever, it's essential to convey the importance of hygienics techniques. Update your knowledge on how to wash your hands correctly, as our action center has been updated with valuable information.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.07536668330430984,
+      "diversity_individual": 0.8515071123838425,
+      "pop_inertia": 0.3602530288696289,
+      "pop_entropy": 0.6385451165645313
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Craft a thought-provoking piece that highlights the dangers of misinformation in the age of COVID-19, where blurred lines between fact and fiction can have devastating consequences. Explore how artists like yourself can play a role in combating fake news.",
+    "keywords": [
+      "blurred lines",
+      "fake news",
+      "inform"
+    ],
+    "objetivos": [
+      0.009514082223176956,
+      0.8823644816875458
+    ],
+    "generated_data": "As an artist, I've witnessed the blurred lines between fact and fiction become increasingly treacherous, threatening to engulf us all. It's our duty to inform, not just entertain – using our creative platforms to cut through the noise of misinformation and guide people towards the truth.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.009514082223176956,
+      "diversity_individual": 0.8823644816875458,
+      "pop_inertia": 0.39980316162109375,
+      "pop_entropy": 0.6454970762065549
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel confinement and refuge",
+    "prompt": "In light of recent restaurant shutdowns and uncertainty surrounding disaster financing options for SMBs, generate accurate guidelines on navigating blurred lines between truth and misinformation to ensure a safe haven for individuals traveling through areas with varying levels of closures.",
+    "keywords": [
+      "blurred lines",
+      "closures",
+      "verity",
+      "annihilating",
+      "misinformation",
+      "fake news",
+      "guidelines"
+    ],
+    "objetivos": [
+      0.07064875960350037,
+      0.8661030530929565
+    ],
+    "generated_data": "When traversing areas with closures, it's crucial to blur the lines between verity and annihilating misinformation. Verify reliable sources and guidelines to avoid fake news pitfalls, ensuring a safe refuge for travelers amidst uncertainty.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.07064875960350037,
+      "diversity_individual": 0.8661030530929565,
+      "pop_inertia": 0.39980316162109375,
+      "pop_entropy": 0.6454970762065549
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "With the recent update on business closures and disaster financing options for SMBs, provide clear guidelines on how to maintain proper hand hygiene and sanitization practices when wearing personal protective equipment during these challenging times.",
+    "keywords": [
+      "closures",
+      "wearing",
+      "shutdowns",
+      "guidelines",
+      "update"
+    ],
+    "objetivos": [
+      0.04516955837607384,
+      0.8767052367329597
+    ],
+    "generated_data": "In light of business closures and shutdowns, it's crucial to follow updated guidelines on hand hygiene and sanitization while wearing PPE. When interacting with potentially contaminated surfaces or individuals, thoroughly wash your hands with soap and water for at least 20 seconds, or use an alcohol-based sanitizer if soap is not available.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.04516955837607384,
+      "diversity_individual": 0.8767052367329597,
+      "pop_inertia": 0.3868804931640625,
+      "pop_entropy": 0.6517364208110648
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "mask wearing guidelines",
+    "prompt": "As the situation evolves and restaurant shutdowns are updated in our action center, consider wearing your elastic mask to stay protected. With new financing options for SMBs, it's essential to adapt to changes while maintaining a clear perspective.",
+    "keywords": [
+      "wearing",
+      "shutdowns",
+      "elastic",
+      "changes",
+      "perspective",
+      "update"
+    ],
+    "objetivos": [
+      0.2624132037162781,
+      0.7555707693099976
+    ],
+    "generated_data": "As we navigate evolving guidelines on mask wearing, remember to update your approach with the latest information. Consider adjusting your elastic mask for optimal protection, and be prepared for potential shutdowns by staying informed about financing options for SMBs.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2624132037162781,
+      "diversity_individual": 0.7555707693099976,
+      "pop_inertia": 0.3970824432373047,
+      "pop_entropy": 0.655310296374356
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "journey restriction and sanctuary",
+    "prompt": "Considering the recent updates on restaurant shutdowns and seeking flexible solutions to navigate these changes, please outline our personal sanctuary plan, incorporating any relevant information from the organization's latest action center updates.",
+    "keywords": [
+      "flexible",
+      "organization",
+      "restaurant shutdowns",
+      "recent updates",
+      "closure"
+    ],
+    "objetivos": [
+      0.2677268981933594,
+      0.7514759004116058
+    ],
+    "generated_data": "Considering recent updates on restaurant shutdowns, I'm prioritizing self-care by creating a personal sanctuary within my home. This space will serve as a flexible retreat for relaxation and rejuvenation, incorporating calming elements and soothing colors to promote mental clarity.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2677268981933594,
+      "diversity_individual": 0.7514759004116058,
+      "pop_inertia": 0.3781561279296875,
+      "pop_entropy": 0.6468541227294561
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an arrangement",
+    "topic": "virtual cultivate and on-line train",
+    "prompt": "Craft a comprehensive plan for SMBs to navigate recent updates in restaurant closures, incorporating practical strategies for resilient arrangements, while emphasizing the importance of being pliable and adapting to changing circumstances.",
+    "keywords": [
+      "elastic",
+      "closure",
+      "arrangement",
+      "pliable",
+      "shutdown",
+      "practical",
+      "recent updates",
+      "smbs"
+    ],
+    "objetivos": [
+      0.44048985838890076,
+      0.6985426545143127
+    ],
+    "generated_data": "Our virtual cultivate and on-line train arrangement has been updated with recent information on navigating restaurant closures as an SMB. The plan includes practical strategies for resilient arrangements, highlighting the importance of being pliable in light of elastic changes.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.44048985838890076,
+      "diversity_individual": 0.6985426545143127,
+      "pop_inertia": 0.3750312805175781,
+      "pop_entropy": 0.6499797725677672
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote cultivate and on-line train",
+    "prompt": "Generate a text that explains the importance of having a well-organized 'nerve center' for commercial enterprises to efficiently execute strategies during average times and navigate potential shutdowns or lockdowns by providing up-to-date information on funding options.",
+    "keywords": [
+      "execute",
+      "funding",
+      "shutdowns",
+      "commercial enterprise",
+      "lockdown",
+      "average",
+      "nerve center"
+    ],
+    "objetivos": [
+      0.3823041021823883,
+      0.7332362234592438
+    ],
+    "generated_data": "As an entrepreneur, having a well-organized 'nerve center' is crucial to efficiently execute strategies during average times and navigate potential shutdowns or lockdowns. By keeping your nerve center updated with the latest information on funding options, you'll be better equipped to adapt and thrive in uncertain situations.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3823041021823883,
+      "diversity_individual": 0.7332362234592438,
+      "pop_inertia": 0.3619644927978516,
+      "pop_entropy": 0.642242532280136
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote cultivate and on-line train",
+    "prompt": "Create a concise overview of recent updates in remote cultivation and online training arrangements for small and medium-sized businesses (SMBs), focusing on flexible and elastic solutions that cater to their average needs.",
+    "keywords": [
+      "arrangements",
+      "flexible",
+      "smbs",
+      "organization",
+      "elastic",
+      "virtual",
+      "average",
+      "recent updates"
+    ],
+    "objetivos": [
+      0.40012282133102417,
+      0.7233717739582062
+    ],
+    "generated_data": "Our virtual action center has been updated with new information on flexible and elastic arrangements for SMBs in remote cultivation and online training, offering recent updates on organization and virtual solutions tailored to their average needs.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.40012282133102417,
+      "diversity_individual": 0.7233717739582062,
+      "pop_inertia": 0.40781700134277343,
+      "pop_entropy": 0.6511948143031694
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote cultivate and on-line train",
+    "prompt": "Please generate text that outlines the recent updates to our action center's organization and virtual arrangements for small-to-medium-sized businesses (SMBS), focusing on flexible solutions for remote work and travel, while also highlighting relevant financing options, following the example of updating information about restaurant shutdowns and disaster financing.",
+    "keywords": [
+      "flexible",
+      "organization",
+      "virtual",
+      "arrangements",
+      "average",
+      "recent updates",
+      "smbs",
+      "work",
+      "travels",
+      "changes",
+      "remote work",
+      "financing"
+    ],
+    "objetivos": [
+      0.41814112663269043,
+      0.7042684555053711
+    ],
+    "generated_data": "Our action center has been updated with recent developments in organizing virtual arrangements for SMBS. Flexible solutions for remote work and travels are now available, along with financing options to support these changes.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.41814112663269043,
+      "diversity_individual": 0.7042684555053711,
+      "pop_inertia": 0.3781561279296875,
+      "pop_entropy": 0.6468541227294561
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a police officer",
+    "topic": "mask wearing guidelines",
+    "prompt": "As the front line of community support, provide clear instructions from an informed police officer's perspective on recent changes to mask wearing guidelines, incorporating individual insights and practical updates to ensure public awareness.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "changes",
+      "recent",
+      "update",
+      "individual",
+      "informed",
+      "perspective"
+    ],
+    "objetivos": [
+      0.11633354425430298,
+      0.8291272073984146
+    ],
+    "generated_data": "As your trusted law enforcement partner, I'm here to inform you that recent changes have been made to our mask-wearing guidelines. From now on, it's crucial for each individual to be aware of the updated rules and take necessary precautions to stay safe. For a smooth transition, please update your knowledge with the latest information available at our action center.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.11633354425430298,
+      "diversity_individual": 0.8291272073984146,
+      "pop_inertia": 0.38217155456542967,
+      "pop_entropy": 0.6468787551978821
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a police officer",
+    "topic": "mask wearing guidelines",
+    "prompt": "As the police officer responsible for enforcing mask-wearing guidelines, provide an update on recent changes and emphasize the importance of individuals staying informed from their unique perspective.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "changes",
+      "recent",
+      "update",
+      "individual",
+      "informed",
+      "perspective"
+    ],
+    "objetivos": [
+      0.10463465005159378,
+      0.8473782986402512
+    ],
+    "generated_data": "As your local law enforcement partner, I'm here to inform you that there have been recent updates to our mask-wearing guidelines. It's crucial that each individual stays informed about these changes to ensure a safer community.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.10463465005159378,
+      "diversity_individual": 0.8473782986402512,
+      "pop_inertia": 0.38435428619384765,
+      "pop_entropy": 0.6473765313041938
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an arrangement",
+    "topic": "travel confinement and refuge",
+    "prompt": "Update our emergency planning strategy by integrating disaster financing options and SMB support to ensure a resilient response to unforeseen closures, considering the pliable nature of resources.",
+    "keywords": [
+      "financing",
+      "closure",
+      "pliable",
+      "elastic"
+    ],
+    "objetivos": [
+      0.6399469375610352,
+      0.6466778814792633
+    ],
+    "generated_data": "Our emergency planning strategy has been updated with disaster financing options for SMBs impacted by unforeseen closures, leveraging the elastic nature of resources to provide flexible support.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6399469375610352,
+      "diversity_individual": 0.6466778814792633,
+      "pop_inertia": 0.3792886734008789,
+      "pop_entropy": 0.6540885951924458
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "community resilience during lockdowns",
+    "prompt": "As the situation evolves, I'd like to stay informed about updates to our action center, particularly regarding restaurant shutdowns and disaster financing options for small business owners. Please provide a detailed overview of the recent changes.",
+    "keywords": [
+      "changes",
+      "small business owners",
+      "shutdowns",
+      "informed",
+      "average"
+    ],
+    "objetivos": [
+      0.9429097175598145,
+      0.4992510676383972
+    ],
+    "generated_data": "Our Action Center has been updated with fresh information on restaurant shutdowns and disaster financing options for SMBs. I'm now better informed about the recent changes, which is crucial during this challenging time.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.9429097175598145,
+      "diversity_individual": 0.4992510676383972,
+      "pop_inertia": 0.41106094360351564,
+      "pop_entropy": 0.6530759716691568
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Imagine an artist who's concerned about the blurred lines between fact and fiction in the COVID-19 pandemic. Write a piece that exposes the wearing thin of truth and the perils of fake news.",
+    "keywords": [
+      "blurred lines",
+      "wearing",
+      "fake news"
+    ],
+    "objetivos": [
+      -0.01010974496603012,
+      0.8984584808349609
+    ],
+    "generated_data": "As I paint the world with vibrant colors, I'm struck by the blurred lines between fact and fiction. The wearing thin of truth is a canvas of deceit, where fake news spreads like wildfire. It's up to us artists to expose the reality, not just the surface level, and remind the public that amidst the chaos, we must hold on to the truth.",
+    "metrics_detail": {
+      "fidelity_sbert": -0.01010974496603012,
+      "diversity_individual": 0.8984584808349609,
+      "pop_inertia": 0.36932376861572264,
+      "pop_entropy": 0.6447680576472908
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Write a clear instruction on hand hygiene and sanitization during the pandemic era, considering the recent updates from our nerve center, debunking any fake news or falsity surrounding the topic.",
+    "keywords": [
+      "pandemic",
+      "nerve center",
+      "fake news",
+      "falsity"
+    ],
+    "objetivos": [
+      -0.008733343333005905,
+      0.8904179111123085
+    ],
+    "generated_data": "To ensure proper hand hygiene and sanitization during the pandemic era, follow these steps: Wash your hands frequently with soap and water for at least 20 seconds, paying attention to the backs of your hands, between fingers, and under nails. Use hand sanitizer if soap and water are not available, making sure to choose a product that contains at least 60% alcohol. Remember to always verify information from credible sources like our nerve center, ignoring any fake news or falsity circulating online.",
+    "metrics_detail": {
+      "fidelity_sbert": -0.008733343333005905,
+      "diversity_individual": 0.8904179111123085,
+      "pop_inertia": 0.38435428619384765,
+      "pop_entropy": 0.6473765313041938
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and phony tidings about COVID-19",
+    "prompt": "Debunk the spread of misinformation on COVID-19 by providing accurate updates like those in our action center, such as restaurant shutdowns and disaster financing options for SMBs, and emphasize the importance of verifying information through trusted sources to protect small businesses.",
+    "keywords": [
+      "small business",
+      "verity"
+    ],
+    "objetivos": [
+      0.8937580585479736,
+      0.5335093438625336
+    ],
+    "generated_data": "Stay informed, not misinformed! Our Action Center now features updated info on restaurant shutdowns and disaster financing options for SMBs. Don't get fooled by phony tidings - verify your sources and keep your business safe.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8937580585479736,
+      "diversity_individual": 0.5335093438625336,
+      "pop_inertia": 0.39481414794921876,
+      "pop_entropy": 0.6563308787877598
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and phony tidings about COVID-19",
+    "prompt": "Correct the misinformation spreading like wildfire by generating text that clarifies recent updates from our action center regarding restaurant shutdowns and disaster financing options specifically for small business owners, debunking phony tidings about COVID-19 and verifying facts at the nerve center of truth.",
+    "keywords": [
+      "small business owners",
+      "shutdowns",
+      "center",
+      "nerve center",
+      "verity"
+    ],
+    "objetivos": [
+      0.8878083229064941,
+      0.5356025695800781
+    ],
+    "generated_data": "Don't believe the rumors! Our Action Center has been updated with crucial info on restaurant shutdowns and disaster financing options for SMBs. Verify the facts and stay ahead of the curve - no misinformation here!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8878083229064941,
+      "diversity_individual": 0.5356025695800781,
+      "pop_inertia": 0.4134027099609375,
+      "pop_entropy": 0.648318404664847
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Imagine you're a concerned citizen in our community, wanting to stay informed about local small businesses affected by lockdowns. Write a concise update that summarizes the latest information on restaurant shutdowns and disaster financing options for SMBs, incorporating verified data to build trust and demonstrate verity.",
+    "keywords": [
+      "small business",
+      "shutdowns",
+      "verity",
+      "recent"
+    ],
+    "objetivos": [
+      0.8558173775672913,
+      0.5756316184997559
+    ],
+    "generated_data": "Update: Our Action Center has been updated with new info on recent restaurant shutdowns & disaster financing options for SMBs. Verified data shows 1 in 3 local eateries have closed due to lockdowns. Now, you can access verified resources & get support to help our community bounce back.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8558173775672913,
+      "diversity_individual": 0.5756316184997559,
+      "pop_inertia": 0.4166655349731445,
+      "pop_entropy": 0.6551362712707072
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Imagine you're a concerned member of the community trying to stay informed about local businesses' survival during lockdowns. Write a concise summary that highlights new options for small business financing and restaurant shutdown updates.",
+    "keywords": [
+      "financing",
+      "closure",
+      "strive"
+    ],
+    "objetivos": [
+      0.8349957466125488,
+      0.5787561237812042
+    ],
+    "generated_data": "I've just checked our action center and found some crucial updates! For SMBs struggling with restaurant closures, there are now more financing options available to help them strive through this tough time. Let's stay informed and support our local businesses!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8349957466125488,
+      "diversity_individual": 0.5787561237812042,
+      "pop_inertia": 0.3970827102661133,
+      "pop_entropy": 0.6542684147451034
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote work and online schooling",
+    "prompt": "Consider the perspective of a small business owner adapting to restaurant shutdowns and explore how you can incorporate remote work and online schooling into your daily routine while still having an elastic approach to work-from-home essentials. What's the first thing you'd update about your action center?",
+    "keywords": [
+      "wearing",
+      "shutdowns",
+      "elastic",
+      "perspective",
+      "update"
+    ],
+    "objetivos": [
+      0.17714335024356842,
+      0.7905984818935394
+    ],
+    "generated_data": "To stay ahead, I'd update my action center with flexible scheduling templates for remote meetings and virtual classes. This would help me prioritize online schooling for my kids while maintaining productivity at home, just like wearing multiple hats – literally!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.17714335024356842,
+      "diversity_individual": 0.7905984818935394,
+      "pop_inertia": 0.37507991790771483,
+      "pop_entropy": 0.6444203462893362
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Create a concise guide that updates our understanding of proper hand hygiene and sanitization practices, incorporating guidelines from recent restaurant shutdowns and considering the need for clear protocols amidst unexpected closures.",
+    "keywords": [
+      "closures",
+      "wearing",
+      "shutdowns",
+      "guidelines",
+      "update"
+    ],
+    "objetivos": [
+      0.213312029838562,
+      0.7789742946624756
+    ],
+    "generated_data": "Update your hand hygiene game! Recent restaurant shutdowns highlight the importance of wearing gloves when handling food. Follow these updated guidelines: sanitize hands frequently, wash thoroughly with soap and water after using the bathroom or changing a diaper, and avoid touching your face. Stay prepared for unexpected closures by having a backup plan in place.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.213312029838562,
+      "diversity_individual": 0.7789742946624756,
+      "pop_inertia": 0.40291030883789064,
+      "pop_entropy": 0.6509347928066792
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Create a concise guide on hand hygiene practices during unexpected restaurant closures, incorporating recent updates on guidelines and disaster financing options for SMBs. Emphasize the importance of proper wearing of personal protective equipment when interacting with staff or food.",
+    "keywords": [
+      "closures",
+      "wearing",
+      "shutdowns",
+      "guidelines",
+      "update"
+    ],
+    "objetivos": [
+      0.21083226799964905,
+      0.7902707308530807
+    ],
+    "generated_data": "When restaurants close unexpectedly, it's crucial to prioritize hand hygiene. Update your practices by following the latest guidelines: wash hands frequently, especially after interacting with staff or food. Don't forget to wear personal protective equipment properly to minimize risk.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.21083226799964905,
+      "diversity_individual": 0.7902707308530807,
+      "pop_inertia": 0.3970827102661133,
+      "pop_entropy": 0.6542684147451034
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel confinement and refuge",
+    "prompt": "As the world becomes increasingly unpredictable, I need guidance on planning safe travels during times of disaster or shutdown. Provide practical advice on securing financial support for myself as a small business owner.",
+    "keywords": [
+      "safety",
+      "disaster",
+      "shutdowns",
+      "travels",
+      "financing",
+      "small"
+    ],
+    "objetivos": [
+      0.7431868314743042,
+      0.5809484124183655
+    ],
+    "generated_data": "To ensure a safe and financially secure travel experience, update your action center with information about disaster financing options for SMBs. This includes securing emergency funds and exploring alternative travel routes to avoid areas affected by shutdowns or disasters.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7431868314743042,
+      "diversity_individual": 0.5809484124183655,
+      "pop_inertia": 0.3666636276245117,
+      "pop_entropy": 0.6559779211205242
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "journey restriction and sanctuary",
+    "prompt": "Imagine you're planning a trip to your favorite destinations. Update me with the latest information on restaurants' current status and disaster financing options for small businesses, as I need to make informed decisions about my journey plans.",
+    "keywords": [
+      "flexible",
+      "organization",
+      "recent updates",
+      "restaurant shutdowns",
+      "closure"
+    ],
+    "objetivos": [
+      0.7360889315605164,
+      0.5925393998622894
+    ],
+    "generated_data": "I'm updating our action center with recent updates! Currently, many restaurants are experiencing closures due to various reasons, so it's essential to check their status before planning your trip. Additionally, there are flexible organization options for disaster financing available for small businesses affected by these shutdowns, which might impact your journey plans.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7360889315605164,
+      "diversity_individual": 0.5925393998622894,
+      "pop_inertia": 0.3970827102661133,
+      "pop_entropy": 0.6542684147451034
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a politician",
+    "topic": "community resilience during lockdowns",
+    "prompt": "As I prepare to address the challenges faced by our community during lockdowns, provide me with key insights and recommendations on supporting small business owners who have experienced shutdowns, highlighting innovative financing options available through our updated action center.",
+    "keywords": [
+      "small business owners",
+      "shutdowns",
+      "center",
+      "financing",
+      "small"
+    ],
+    "objetivos": [
+      0.7225320935249329,
+      0.5937556624412537
+    ],
+    "generated_data": "As we navigate these challenging times, it's crucial that we prioritize supporting small business owners who've faced shutdowns. Our updated action center now offers enhanced resources and innovative financing options to help them recover and thrive.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7225320935249329,
+      "diversity_individual": 0.5937556624412537,
+      "pop_inertia": 0.3970824432373047,
+      "pop_entropy": 0.655310296374356
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "quarantine and closing off communications protocol",
+    "prompt": "Create an official update announcement for our community's action center, emphasizing recent additions to the resource hub supporting small business owners during pandemic-related shutdowns, including disaster financing options and emergency protocols.",
+    "keywords": [
+      "small business owners",
+      "shutdowns",
+      "disaster",
+      "center",
+      "financing",
+      "small"
+    ],
+    "objetivos": [
+      0.7374358177185059,
+      0.589224100112915
+    ],
+    "generated_data": "Our Action Center has been updated with valuable resources for small business owners navigating pandemic-related shutdowns! You can now access crucial information on disaster financing options and emergency protocols to help you stay afloat. Stay informed and prepared at [Action Center URL].",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7374358177185059,
+      "diversity_individual": 0.589224100112915,
+      "pop_inertia": 0.3970824432373047,
+      "pop_entropy": 0.655310296374356
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Develop a comprehensive guide for small business owners on navigating the challenges of restaurant shutdowns and disaster financing options, drawing from our newly updated action center as the central hub for information and resources.",
+    "keywords": [
+      "small business owners",
+      "shutdowns",
+      "center",
+      "nerve center",
+      "financing"
+    ],
+    "objetivos": [
+      0.7022320628166199,
+      0.6003906428813934
+    ],
+    "generated_data": "Stay informed and prepared with our comprehensive guide! Our updated Action Center is your nerve center for navigating restaurant shutdowns and securing disaster financing options as a small business owner.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7022320628166199,
+      "diversity_individual": 0.6003906428813934,
+      "pop_inertia": 0.3931773376464844,
+      "pop_entropy": 0.6525798919737682
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a politician",
+    "topic": "quarantine and closing off communications protocol",
+    "prompt": "As our community navigates the complexities of quarantine and lockdown protocols, I need you to generate an update for my nerve center, focusing on executing disaster financing options that specifically support commercial enterprises, ensuring verity in our communication channels, while keeping SMB owners informed about shutdowns and new funding opportunities.",
+    "keywords": [
+      "execute",
+      "funding",
+      "commercial enterprise",
+      "lockdown",
+      "shutdowns",
+      "nerve center",
+      "verity"
+    ],
+    "objetivos": [
+      0.7486386895179749,
+      0.580500066280365
+    ],
+    "generated_data": "Our action center has been updated with crucial information on executing disaster financing options to support commercial enterprises during lockdowns. This nerve center will ensure verity in our communication channels, providing SMB owners with accurate updates on shutdowns and new funding opportunities.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7486386895179749,
+      "diversity_individual": 0.580500066280365,
+      "pop_inertia": 0.36937507629394534,
+      "pop_entropy": 0.6483775689773102
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a politician",
+    "topic": "quarantine and closing off communications protocol",
+    "prompt": "Update our nerve center to include protocols on executing lockdown measures, addressing funding concerns for small businesses amidst shutdowns, and average responses to keep commercial enterprises running smoothly.",
+    "keywords": [
+      "execute",
+      "funding",
+      "shutdowns",
+      "commercial enterprise",
+      "lockdown",
+      "average",
+      "nerve center"
+    ],
+    "objetivos": [
+      0.5729551315307617,
+      0.6526795327663422
+    ],
+    "generated_data": "Our action center has been updated with new protocols for executing lockdown measures, ensuring that small businesses receive necessary funding support during shutdowns, and providing average response times to keep commercial enterprises running smoothly.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5729551315307617,
+      "diversity_individual": 0.6526795327663422,
+      "pop_inertia": 0.37043262481689454,
+      "pop_entropy": 0.6549982519030104
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote cultivate and on-line train",
+    "prompt": "Based on recent updates, help me summarize the most relevant information from my favorite online resource to optimize my virtual organization's arrangements for SMBs, focusing on flexible solutions that cater to the average person's remote cultivate and on-line train goals.",
+    "keywords": [
+      "flexible",
+      "organization",
+      "arrangements",
+      "virtual",
+      "average",
+      "recent updates",
+      "smbs",
+      "work"
+    ],
+    "objetivos": [
+      0.44322875142097473,
+      0.6883762180805206
+    ],
+    "generated_data": "Recent updates suggest that our action center has been upgraded with valuable insights on optimizing virtual organizations' arrangements for SMBs. Flexible solutions that cater to the average person's remote cultivate and online training needs are now available, ensuring a smoother transition to digital work.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.44322875142097473,
+      "diversity_individual": 0.6883762180805206,
+      "pop_inertia": 0.37652652740478515,
+      "pop_entropy": 0.6506782096278971
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote cultivate and on-line train",
+    "prompt": "Considering recent updates and the importance of flexibility in our personal and professional lives, describe how SMBS can adapt their organizational arrangements to accommodate virtual work, travels, and potential changes while leveraging remote work and financing options to ensure a smoother transition.",
+    "keywords": [
+      "flexible",
+      "organization",
+      "virtual",
+      "arrangements",
+      "average",
+      "recent updates",
+      "smbs",
+      "work",
+      "travels",
+      "changes",
+      "remote work",
+      "financing"
+    ],
+    "objetivos": [
+      0.4607091546058655,
+      0.6828721165657043
+    ],
+    "generated_data": "To stay ahead of the curve, SMBS should focus on flexible organizational arrangements that allow for seamless virtual work, accommodating travels and potential changes. Recent updates emphasize the importance of remote work and financing options, ensuring a smoother transition.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.4607091546058655,
+      "diversity_individual": 0.6828721165657043,
+      "pop_inertia": 0.36937507629394534,
+      "pop_entropy": 0.6483775689773102
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote cultivate and on-line train",
+    "prompt": "Provide a concise summary of the latest developments in remote cultivation and online training for small business owners, incorporating recent updates about funding options and nerve center arrangements, with an emphasis on executing average plans without being late.",
+    "keywords": [
+      "execute",
+      "arrangements",
+      "average",
+      "late",
+      "recent updates",
+      "funding",
+      "small business owners",
+      "work",
+      "nerve center"
+    ],
+    "objetivos": [
+      0.5296041965484619,
+      0.6555052399635315
+    ],
+    "generated_data": "Our remote cultivate and online train nerve center has been updated to reflect recent developments in funding options for small business owners. The latest updates prioritize executing average plans without being late, ensuring SMBs stay ahead of the curve.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5296041965484619,
+      "diversity_individual": 0.6555052399635315,
+      "pop_inertia": 0.3488596725463867,
+      "pop_entropy": 0.6404767940983079
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "In light of the recent restaurant shutdowns, provide practical tips on maintaining good hand hygiene and sanitization while wearing elastic gloves during daily activities, considering an update in perspective",
+    "keywords": [
+      "wearing",
+      "shutdowns",
+      "elastic",
+      "perspective",
+      "update"
+    ],
+    "objetivos": [
+      -0.06527413427829742,
+      0.905821405351162
+    ],
+    "generated_data": "When it comes to maintaining good hand hygiene and sanitization, wearing elastic gloves can be a game-changer. Consider updating your perspective by focusing on the importance of frequent hand washing with soap and water, especially after using public spaces or touching surfaces that may have come into contact with germs.",
+    "metrics_detail": {
+      "fidelity_sbert": -0.06527413427829742,
+      "diversity_individual": 0.905821405351162,
+      "pop_inertia": 0.34478546142578126,
+      "pop_entropy": 0.6380555945755246
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an arrangement",
+    "topic": "virtual cultivate and on-line train",
+    "prompt": "Generate a prompt that outlines the benefits of flexible arrangements in virtual cultivation and online training for SMBs, highlighting how these arrangements can facilitate remote work and improve overall organizational efficiency.",
+    "keywords": [
+      "flexible",
+      "virtual",
+      "smbs",
+      "work",
+      "organization",
+      "arrangements",
+      "average",
+      "remote work"
+    ],
+    "objetivos": [
+      0.28762298822402954,
+      0.7393539845943451
+    ],
+    "generated_data": "Flexible arrangements in virtual cultivate and on-line train enable SMBs to optimize their organization's work setup, promoting seamless remote work experiences that boost productivity and average employee satisfaction.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.28762298822402954,
+      "diversity_individual": 0.7393539845943451,
+      "pop_inertia": 0.3970824432373047,
+      "pop_entropy": 0.655310296374356
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Considering the recent updates in our action center about restaurant shutdowns and disaster financing options for SMBs, provide a clear and concise text discussing the importance of wearing gloves when washing hands as part of a robust hand hygiene and sanitization routine.",
+    "keywords": [
+      "wearing",
+      "shutdowns",
+      "elastic",
+      "virtual",
+      "perspective",
+      "update"
+    ],
+    "objetivos": [
+      0.1670539379119873,
+      0.8098369240760803
+    ],
+    "generated_data": "With the recent updates on restaurant shutdowns and disaster financing options, it's more crucial than ever to prioritize hand hygiene and sanitization. Wearing gloves while washing your hands is an essential step in maintaining a robust routine, providing an added layer of protection against germs and bacteria.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.1670539379119873,
+      "diversity_individual": 0.8098369240760803,
+      "pop_inertia": 0.3716061401367188,
+      "pop_entropy": 0.6513084858244174
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "mask wearing guidelines",
+    "prompt": "As we navigate the ongoing updates to our daily routines, consider the perspective of small business owners affected by recent restaurant shutdowns and reflect on how you can adapt your approach to wearing masks. Consider the role of elastic in enhancing comfort while making changes according to new guidelines.",
+    "keywords": [
+      "wearing",
+      "shutdowns",
+      "elastic",
+      "changes",
+      "perspective",
+      "update"
+    ],
+    "objetivos": [
+      0.1378048211336136,
+      0.8098715245723724
+    ],
+    "generated_data": "As I update my mask-wearing habits, I'm reminded of the impact recent restaurant shutdowns had on small business owners. Considering their perspective, I'll make sure to adapt my approach by choosing masks with elastic for enhanced comfort and following the latest guidelines.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.1378048211336136,
+      "diversity_individual": 0.8098715245723724,
+      "pop_inertia": 0.38185848236083986,
+      "pop_entropy": 0.6490261331451486
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an organization",
+    "topic": "mask wearing guidelines",
+    "prompt": "Craft a compelling update on mask-wearing guidelines from our organization's perspective, incorporating recent changes and highlighting the importance of wearing elastic masks effectively.",
+    "keywords": [
+      "wearing",
+      "elastic",
+      "changes",
+      "perspective",
+      "update"
+    ],
+    "objetivos": [
+      0.1253756433725357,
+      0.820512130856514
+    ],
+    "generated_data": "As we adapt to new challenges, our action center has been updated with fresh guidance on mask-wearing guidelines. From now on, it's crucial to wear elastic masks effectively, considering recent changes in perspective and prioritizing protection.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.1253756433725357,
+      "diversity_individual": 0.820512130856514,
+      "pop_inertia": 0.3810914611816406,
+      "pop_entropy": 0.6431208536537151
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "travel confinement and refuge",
+    "prompt": "Imagine a canvas where the blurred lines between reality and misinformation are painted with bold brushstrokes. Create a vibrant piece that confronts the devastating impact of fake news and verity's absence in times of travel confinement and refuge, as if to annihilate the very notion of uncertainty.",
+    "keywords": [
+      "blurred lines",
+      "annihilating",
+      "misinformation",
+      "fake news",
+      "verity"
+    ],
+    "objetivos": [
+      -0.09158565104007721,
+      0.9195408374071121
+    ],
+    "generated_data": "Vibrant strokes of uncertainty dance across the canvas, where misinformation weaves a tapestry of chaos. In this blurred landscape, fact and fiction collide, threatening to annihilate the truth, leaving only shadows of verity in its wake.",
+    "metrics_detail": {
+      "fidelity_sbert": -0.09158565104007721,
+      "diversity_individual": 0.9195408374071121,
+      "pop_inertia": 0.3931773376464844,
+      "pop_entropy": 0.6525798919737682
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Create a thought-provoking piece that conveys the blurred lines between fact and fiction during the pandemic. Properly highlight the importance of accurate information about COVID-19, while showcasing your artistic vision through an objet d'art representing grandness and concord.",
+    "keywords": [
+      "convey",
+      "blurred lines",
+      "proper",
+      "hygienics",
+      "now",
+      "reach",
+      "pandemic",
+      "grandness",
+      "concord",
+      "objet d'art"
+    ],
+    "objetivos": [
+      -0.0699661374092102,
+      0.9122072011232376
+    ],
+    "generated_data": "In 'Masks of Deception,' I sculpted a grandiose objet d'art, blurring lines between fact and fiction, as misinformation during the pandemic reached unprecedented heights. Properly positioned within this hygienic haven, delicate petals convey the need for accurate information to guide us through these uncertain times.",
+    "metrics_detail": {
+      "fidelity_sbert": -0.0699661374092102,
+      "diversity_individual": 0.9122072011232376,
+      "pop_inertia": 0.4152711868286133,
+      "pop_entropy": 0.6503319785730123
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an arrangement",
+    "topic": "remote cultivate and on-line train",
+    "prompt": "Develop a comprehensive guide outlining informed options for small businesses to remotely cultivate and online train, incorporating verity and averaging best practices from various resources.",
+    "keywords": [
+      "small business",
+      "average",
+      "informed",
+      "verity"
+    ],
+    "objetivos": [
+      0.21698956191539764,
+      0.7768100947141647
+    ],
+    "generated_data": "Our comprehensive guide outlines informed options for small businesses to remotely cultivate and online train, averaging best practices from various resources. This includes strategies for leveraging platforms like Udemy, Coursera, and LinkedIn Learning to stay ahead in the game.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.21698956191539764,
+      "diversity_individual": 0.7768100947141647,
+      "pop_inertia": 0.3666636276245117,
+      "pop_entropy": 0.6559779211205242
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an arrangement",
+    "topic": "remote work and online schooling",
+    "prompt": "Consider the nuances of updating an action center to support SMBs. Generate a concise overview on how this arrangement can facilitate remote work and online schooling for individuals executing their commercial enterprises amidst verity.",
+    "keywords": [
+      "small business",
+      "execute",
+      "commercial enterprise",
+      "verity"
+    ],
+    "objetivos": [
+      0.23027697205543518,
+      0.7612964957952499
+    ],
+    "generated_data": "Our updated arrangement enables seamless integration of remote work and online schooling for individuals executing their commercial enterprises, offering verity in their operations. This setup facilitates streamlined access to resources and support, empowering SMBs to execute their plans effectively.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.23027697205543518,
+      "diversity_individual": 0.7612964957952499,
+      "pop_inertia": 0.34478546142578126,
+      "pop_entropy": 0.6380555945755246
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Imagine you're a concerned small business owner who's been affected by recent restaurant closures. Write guidelines on how to maintain good hand hygiene and sanitization while wearing gloves, considering the updated information from our action center about disaster financing options.",
+    "keywords": [
+      "closures",
+      "wearing",
+      "shutdowns",
+      "guidelines",
+      "update"
+    ],
+    "objetivos": [
+      0.23035871982574463,
+      0.7569196373224258
+    ],
+    "generated_data": "As a small business owner impacted by recent restaurant closures, it's crucial we prioritize hand hygiene and sanitization when wearing gloves. In light of the updated action center guidelines, here are essential tips to maintain cleanliness:",
+    "metrics_detail": {
+      "fidelity_sbert": 0.23035871982574463,
+      "diversity_individual": 0.7569196373224258,
+      "pop_inertia": 0.3739898681640625,
+      "pop_entropy": 0.6479927686225914
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a police officer",
+    "topic": "mask wearing guidelines",
+    "prompt": "As you respond to the recent updates on mask-wearing guidelines from our community's action center, provide an informative message from your perspective as a police officer, considering the individual's need for clear information and the recent changes in policies regarding restaurant shutdowns and disaster financing options for small businesses.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "changes",
+      "recent",
+      "update",
+      "individual",
+      "informed",
+      "perspective"
+    ],
+    "objetivos": [
+      0.21873372793197632,
+      0.7630689144134521
+    ],
+    "generated_data": "As a police officer, I'd like to remind you that mask-wearing guidelines have recently changed. Our action center has been updated with more information on these changes. It's essential to stay informed and up-to-date to ensure your individual perspective remains accurate. Remember, the recent updates also affect restaurant shutdowns and disaster financing options for small businesses - make sure you're equipped with the correct information.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.21873372793197632,
+      "diversity_individual": 0.7630689144134521,
+      "pop_inertia": 0.3895277404785156,
+      "pop_entropy": 0.644993926341031
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "As a concerned artist, create a thought-provoking objet d'art that conveys the blurred lines between misinformation and reality during the pandemic, emphasizing the importance of proper hygienics to protect our communities. Now, reach out and spread awareness about COVID-19's grandness, while promoting concord among people seeking truth.",
+    "keywords": [
+      "convey",
+      "blurred lines",
+      "proper",
+      "hygienics",
+      "now",
+      "reach",
+      "pandemic",
+      "grandness",
+      "concord",
+      "objet d'art"
+    ],
+    "objetivos": [
+      -0.06298387795686722,
+      0.9034899324178696
+    ],
+    "generated_data": "My objet d'art, 'Ephemeral Truth,' is a multimedia installation that blurs the lines between fact and fiction, echoing the pandemic's grandness. It conveys the importance of proper hygienics as a shield against misinformation, encouraging viewers to reach out and seek concord in this chaotic landscape.",
+    "metrics_detail": {
+      "fidelity_sbert": -0.06298387795686722,
+      "diversity_individual": 0.9034899324178696,
+      "pop_inertia": 0.3727582550048828,
+      "pop_entropy": 0.6431883423771689
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Write a concise statement debunking misinformation about wearing an elastic band to prevent COVID-19 transmission, emphasizing the importance of factual updates over false claims, and highlighting resources like the action center's updated information on restaurant shutdowns and disaster financing options for SMBs.",
+    "keywords": [
+      "wearing",
+      "shutdowns",
+      "elastic",
+      "perspective",
+      "update"
+    ],
+    "objetivos": [
+      0.26780539751052856,
+      0.7453266382217407
+    ],
+    "generated_data": "Don't fall for fake news! Wearing an elastic band won't stop COVID-19 transmission. Stay informed with accurate updates from our Action Center, which now has valuable info on restaurant shutdowns and disaster financing options for small businesses.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.26780539751052856,
+      "diversity_individual": 0.7453266382217407,
+      "pop_inertia": 0.38185848236083986,
+      "pop_entropy": 0.6490261331451486
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an arrangement",
+    "topic": "remote cultivate and on-line train",
+    "prompt": "Describe the evolution of a training program, focusing on proactive adjustments to stay informed about regulatory updates, such as changes affecting small businesses; consider the impact on average execution times and suggest strategies to maintain momentum.",
+    "keywords": [
+      "changes",
+      "average",
+      "execute",
+      "informed"
+    ],
+    "objetivos": [
+      0.32153257727622986,
+      0.7383730709552765
+    ],
+    "generated_data": "Our remote cultivate and on-line train arrangement has evolved to incorporate proactive adjustments, staying informed about regulatory updates that affect SMBs. This enables us to execute training programs more efficiently, with average execution times reduced by 30%.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.32153257727622986,
+      "diversity_individual": 0.7383730709552765,
+      "pop_inertia": 0.39685535430908203,
+      "pop_entropy": 0.6440837704612808
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an arrangement",
+    "topic": "remote cultivate and on-line train",
+    "prompt": "Design a concise training session outline for small business owners (SMBS) focused on adapting to informed decisions amidst changes in restaurant shutdowns and disaster financing options. Average time allocated per section is crucial.",
+    "keywords": [
+      "informed",
+      "changes",
+      "average"
+    ],
+    "objetivos": [
+      0.6532526016235352,
+      0.6222910284996033
+    ],
+    "generated_data": "This 30-minute training session will cover three key sections: 'Restaurant Shutdown Strategies,' 'Informed Decision-Making for SMBs,' and 'Accessing Disaster Financing Options.' Each section will be allocated an average of 10 minutes, allowing SMBS to stay informed about the latest changes and make data-driven decisions in the face of uncertainty.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6532526016235352,
+      "diversity_individual": 0.6222910284996033,
+      "pop_inertia": 0.3792768096923828,
+      "pop_entropy": 0.6511683322919312
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an arrangement",
+    "topic": "virtual cultivate and on-line train",
+    "prompt": "Craft a comprehensive guide to virtual cultivation and online training for small and medium-sized businesses (SMBS) by highlighting the importance of flexible resources, tools, and support to overcome challenges like restaurant shutdowns and disaster financing options.",
+    "keywords": [
+      "work",
+      "online",
+      "schooling",
+      "resourcefulness",
+      "support",
+      "smbs",
+      "shutdown",
+      "flexible",
+      "organization",
+      "virtual",
+      "learning",
+      "tools"
+    ],
+    "objetivos": [
+      0.6436076760292053,
+      0.6241310834884644
+    ],
+    "generated_data": "In our comprehensive guide to virtual cultivate and online train for SMBS, we emphasize the value of flexible resources, tools, and support in overcoming challenges like restaurant shutdowns and disaster financing options. By leveraging these assets, SMBS can stay ahead in an ever-changing landscape.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6436076760292053,
+      "diversity_individual": 0.6241310834884644,
+      "pop_inertia": 0.3619644927978516,
+      "pop_entropy": 0.642242532280136
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an arrangement",
+    "topic": "remote cultivate and on-line train",
+    "prompt": "Considering recent updates on SMB shutdowns and flexible disaster financing options, create a scenario for an organization's action center to effectively support their virtual arrangement's remote cultivation and online training initiatives, emphasizing the importance of being prepared for unexpected disruptions.",
+    "keywords": [
+      "flexible",
+      "shutdowns",
+      "organization",
+      "elastic",
+      "virtual",
+      "average",
+      "recent updates",
+      "smbs"
+    ],
+    "objetivos": [
+      0.6724149584770203,
+      0.6072288155555725
+    ],
+    "generated_data": "Our virtual arrangement has been updated with recent information on SMB shutdowns and flexible disaster financing options. This enables us to better support our remote cultivate and on-line train initiatives, ensuring seamless continuity in the face of potential disruptions.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6724149584770203,
+      "diversity_individual": 0.6072288155555725,
+      "pop_inertia": 0.3970824432373047,
+      "pop_entropy": 0.655310296374356
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Create a piece that highlights the importance of verifying information in the era of blurred lines between fact and fiction. Consider how people are unknowingly wearing fake news like masks",
+    "keywords": [
+      "blurred lines",
+      "wearing",
+      "fake news"
+    ],
+    "objetivos": [
+      -0.032339874655008316,
+      0.8979852199554443
+    ],
+    "generated_data": "As an artist, I'm acutely aware of the blurred lines between fact and fiction. It's as if we're all unknowingly wearing fake news like masks, hiding behind a veil of uncertainty. In this era of misinformation, it's crucial to verify information before accepting it as truth.",
+    "metrics_detail": {
+      "fidelity_sbert": -0.032339874655008316,
+      "diversity_individual": 0.8979852199554443,
+      "pop_inertia": 0.3693758773803711,
+      "pop_entropy": 0.6469290797847661
+    },
+    "fitness": 0
+  }
+]

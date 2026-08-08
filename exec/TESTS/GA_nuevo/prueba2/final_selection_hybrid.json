@@ -1,0 +1,132 @@
+[
+  {
+    "role": "a normal person",
+    "topic": "social distancing practices",
+    "prompt": "Consider how your daily life has changed during this quarantine and its unforeseen consequences on your mental health. Describe your personal experience of dealing with the added stress and anxiety",
+    "keywords": [
+      "quarantine",
+      "concern",
+      "mental health",
+      "consequence",
+      "proposition",
+      "psychological impact",
+      "anxiety"
+    ],
+    "objetivos": [
+      0.8428698778152466,
+      0.5196007490158081
+    ],
+    "generated_data": "Quarantining has amplified my depression's symptoms, as my usual routine and work have been disrupted. The constant stream of corona-related updates on social media is overwhelming, causing me to avoid my phone to mitigate the anxiety.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8428698778152466,
+      "diversity_individual": 0.5196007490158081,
+      "pop_inertia": 0.3577214050292969,
+      "pop_entropy": 0.6724991505011296
+    },
+    "fitness": 0,
+    "topsis_score": 0.9344640052130944
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Reflecting on the pandemic's impact, craft a piece that captures the turmoil of misinformation and fear-mongering through a vivid cityscape mural, where chaotic scenes of false reports swirl like paint on a wall, mirroring my own anxiety and frustration as I watch the world go mad from behind my digital barricades.",
+    "keywords": [
+      "false reports",
+      "fear mongering",
+      "pandemic",
+      "chaos",
+      "anxiety",
+      "frustration",
+      "vivid colors",
+      "city wall",
+      "mural"
+    ],
+    "objetivos": [
+      0.25205984711647034,
+      0.7723380625247955
+    ],
+    "generated_data": "In this swirling vortex of chaos, a city wall once stood tall, now breached by waves of misinformation. False reports writhe like snakes, their hissing whispers fueling fear and anxiety. As an artist, I'm trapped in this digital purgatory, watching the world descend into madness. Frustration and panic seep through my pixels, as vivid colors bleed together, a cityscape mural that mirrors the turmoil within.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.25205984711647034,
+      "diversity_individual": 0.7723380625247955,
+      "pop_inertia": 0.3409381866455078,
+      "pop_entropy": 0.6669793118521326
+    },
+    "topsis_score": 0.07536068625083116
+  },
+  {
+    "role": "first respondent",
+    "topic": "travel restrictions and safety",
+    "prompt": "As a first responder on the frontline of this pandemic, I've seen firsthand how misinformation can spread like wildfire. Generate a response that reflects my concerns about travel restrictions and safety, while also acknowledging the anxiety caused by false reports and insurance implications.",
+    "keywords": [
+      "first responder",
+      "insurance",
+      "frontline",
+      "false reports"
+    ],
+    "objetivos": [
+      0.33645614981651306,
+      0.7195064425468445
+    ],
+    "generated_data": "As a first responder, seeing misinformation spreading like wildfire is concerning me more than the actual virus. Travel restrictions are necessary for our safety, but with false reports of infected areas, it's hard to know what's real. Insurance companies need accurate data to provide fair coverage – I worry about the long-term impact on our economy if we can't trust the information.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.33645614981651306,
+      "diversity_individual": 0.7195064425468445,
+      "pop_inertia": 0.35529197692871095,
+      "pop_entropy": 0.6722366928810711
+    },
+    "fitness": 0,
+    "topsis_score": 0.15418407067974468
+  },
+  {
+    "role": "a normal person",
+    "topic": "paw hygiene and sanitization",
+    "prompt": "In the midst of this quarantine, where reliable information seems to be scarce and people are collectively going crazy online, I'm struggling to stay sane while adapting to online schooling. Meanwhile, my furry friends at home need my attention too - write about practical paw hygiene and sanitization tips for everyday care.",
+    "keywords": [
+      "quarantine",
+      "reliable information",
+      "collective",
+      "struggling",
+      "online schooling",
+      "everyday"
+    ],
+    "objetivos": [
+      0.2720109224319458,
+      0.757842943072319
+    ],
+    "generated_data": "Quarantine life has me scrambling for reliable info on paw hygiene amidst the chaos. As an online schooler, I'm trying not to lose my mind while keeping Fido's paws clean. Here are some sanity-saving tips: Wash those paws daily with mild soap and warm water. Dry thoroughly to prevent bacterial growth. Trim nails regularly to avoid dirt accumulation. Sanitize high-touch areas like door handles and toys.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2720109224319458,
+      "diversity_individual": 0.757842943072319,
+      "pop_inertia": 0.35365058898925783,
+      "pop_entropy": 0.6655191332188908
+    },
+    "fitness": 0,
+    "topsis_score": 0.08035835976654518
+  },
+  {
+    "role": "first respondent",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Write a response to someone who's feeling overwhelmed by COVID-related misinformation and fake news, acknowledging their struggle with depression and offering a message of hope for finding reliable information.",
+    "keywords": [
+      "reliable information",
+      "struggling",
+      "insurance",
+      "false reports",
+      "depression"
+    ],
+    "objetivos": [
+      0.4751007556915283,
+      0.6807682514190674
+    ],
+    "generated_data": "I completely understand how you're feeling right now - it's like a never-ending nightmare! As someone who's struggled with depression myself, I know how easy it is to get sucked into the vortex of false reports and misinformation about COVID-19. But here's the thing: there is hope! By seeking out reliable information from trusted sources, you can start to regain control over your life. Don't be afraid to reach out to your insurance provider or a mental health professional for support - they're there to help you through this tough time.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.4751007556915283,
+      "diversity_individual": 0.6807682514190674,
+      "pop_inertia": 0.3577214050292969,
+      "pop_entropy": 0.6724991505011296
+    },
+    "fitness": 0,
+    "topsis_score": 0.3761736838482096
+  }
+]

@@ -1,0 +1,5 @@
+initial_gen_sec=102.929653
+evolution_sec=21726.887119
+total_sec=21949.056166
+analysis_sec=8.506469
+grand_total_sec=21987.592338

@@ -1,0 +1,2546 @@
+[
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Reflecting on your current state amidst travel restrictions, write about how quarantine has personally affected you, addressing concerns around mental well-being and the role of routine in coping with public anxiety.",
+    "keywords": [
+      "quarantine",
+      "concern",
+      "mental",
+      "routine",
+      "public anxiety"
+    ],
+    "objetivos": [
+      0.9216272830963135,
+      0.4249573349952698
+    ],
+    "generated_data": "Quarantine's got me feeling stuck, my depression creeping up as usual when my work and routine get disrupted. It's like everyone's gone crazy on social media, sending coronavirus updates nonstop - I'm avoiding my phone now just to cope with the public anxiety.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.9216272830963135,
+      "diversity_individual": 0.4249573349952698,
+      "pop_inertia": 0.3312173080444336,
+      "pop_entropy": 0.6680218795188361
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Reflecting on your recent experiences with quarantine and its impact on your mental health, consider the balance between prophylactic measures for safety and maintaining a sense of daily routine as a normal person dealing with depression.",
+    "keywords": [
+      "prophylactic",
+      "quarantine",
+      "mental",
+      "daily",
+      "of a normal",
+      "health",
+      "a normal person",
+      "depression"
+    ],
+    "objetivos": [
+      0.8433377742767334,
+      0.49688804149627686
+    ],
+    "generated_data": "As I'm stuck in this endless quarantine, my depression's been getting worse - it's like my work and routine were put on pause and I've lost all sense of control. The constant stream of corona updates is draining, but I get why people are sharing them. Still, I find myself avoiding my phone more often than not to cope with the anxiety. It's a balancing act between taking prophylactic measures for safety and trying to maintain some semblance of daily routine - as a normal person dealing with depression, it's hard to know what's right.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8433377742767334,
+      "diversity_individual": 0.49688804149627686,
+      "pop_inertia": 0.3389973449707031,
+      "pop_entropy": 0.6763305894588184
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first respondent",
+    "topic": "social distancing practices",
+    "prompt": "Generate a response to someone who's struggling with depression during the quarantine, acknowledging their concerns about staying motivated at home and finding ways to cope with anxiety while practicing social distancing.",
+    "keywords": [
+      "quarantine",
+      "concern",
+      "home",
+      "staying motivated"
+    ],
+    "objetivos": [
+      0.6910474300384521,
+      0.5365231335163116
+    ],
+    "generated_data": "I totally get it, being stuck at home can be tough when you're already struggling with depression. But here's the thing: this quarantine is not a reason to give up on self-care! Staying motivated doesn't mean leaving your house; it means finding ways to stay engaged and active within it. For me, that means setting aside time for meditation, journaling, or even just taking a walk around the block (still keeping my distance, of course). Remember, you're not alone in this - we're all figuring it out together.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6910474300384521,
+      "diversity_individual": 0.5365231335163116,
+      "pop_inertia": 0.3553911209106445,
+      "pop_entropy": 0.6738144472256826
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Explain how quarantine has affected your mental health, specifically discussing the consequences of isolation on your depression and anxiety.",
+    "keywords": [
+      "quarantine",
+      "consequence",
+      "anxiety",
+      "health",
+      "depression"
+    ],
+    "objetivos": [
+      0.9090608954429626,
+      0.4311884641647339
+    ],
+    "generated_data": "Quarantine's been a nightmare for my mental health - it's amplified my depression to an unbearable degree. The void in my routine and work life has left me feeling anxious and avoiding my phone due to the constant Corona updates, which only adds to my stress. It's a vicious cycle, and I'm struggling to cope with the isolation's toll on my health.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.9090608954429626,
+      "diversity_individual": 0.4311884641647339,
+      "pop_inertia": 0.35468421936035155,
+      "pop_entropy": 0.667066686836399
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Considering the impact of travel restrictions on your daily routine and mental health, write about the consequences you've experienced during this quarantine, focusing on how it's affected your personal struggle with depression and anxiety.",
+    "keywords": [
+      "quarantine",
+      "consequence",
+      "person",
+      "anxiety",
+      "depression"
+    ],
+    "objetivos": [
+      0.872490644454956,
+      0.48530101776123047
+    ],
+    "generated_data": "This quarantine has taken a toll on my depression, making it harder to cope with the lack of structure in my life. The constant stream of coronavirus updates is overwhelming, triggering intense anxiety that makes me want to avoid everything, including my phone.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.872490644454956,
+      "diversity_individual": 0.48530101776123047,
+      "pop_inertia": 0.3428386688232422,
+      "pop_entropy": 0.6757084924241037
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first respondent",
+    "topic": "travel restrictions and safety",
+    "prompt": "Imagine a conversation with someone who's on the frontline of navigating COVID-19 travel restrictions and their personal consequences. As this person weighs the pros and cons of quarantining to mitigate risk, consider how prophylactic measures like insurance can offer a sense of security amidst the chaos. Craft a response that acknowledges the anxiety of living in uncertain times.",
+    "keywords": [
+      "insurance",
+      "prophylactic",
+      "person",
+      "frontline",
+      "mitigate",
+      "proposition",
+      "consequence",
+      "quarantine",
+      "genial"
+    ],
+    "objetivos": [
+      0.676264226436615,
+      0.5472036302089691
+    ],
+    "generated_data": "I get it, quarantine's a tough pill to swallow, especially when your routine's disrupted and anxiety's through the roof. But think about it this way - having insurance can be a genial proposition, giving you peace of mind that you're prepared for any consequence. It's all about being proactive, taking control of your safety, and mitigating risk. As someone on the frontline, I've learned to appreciate those little precautions that make a big difference.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.676264226436615,
+      "diversity_individual": 0.5472036302089691,
+      "pop_inertia": 0.3426999664306641,
+      "pop_entropy": 0.6814958778778296
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "paw hygiene and sanitization",
+    "prompt": "Amidst this chaotic quarantine situation, share your thoughts on maintaining good paw hygiene and sanitization amidst the struggle to stay informed, with a focus on finding reliable information and sticking to a consistent routine. Consider how you've adapted your daily habits under these extraordinary circumstances.",
+    "keywords": [
+      "quarantine",
+      "reliable information",
+      "collective",
+      "struggling",
+      "online schooling",
+      "everyday"
+    ],
+    "objetivos": [
+      0.43676406145095825,
+      0.6886141896247864
+    ],
+    "generated_data": "I'm still trying to keep my paws clean during this quarantine, but it's tough when I'm stuck at home struggling to find reliable info online about corona. I've got kids doing online schooling and they're always getting into messes, so I need to stay on top of things. My usual routine is shot, but I try to stick to a consistent cleaning schedule for my paws. It's the little things that keep me sane.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.43676406145095825,
+      "diversity_individual": 0.6886141896247864,
+      "pop_inertia": 0.3279473876953125,
+      "pop_entropy": 0.667942326616813
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Write about a personal struggle with mental health during a quarantine period, highlighting the consequences on an individual's well-being, specifically focusing on the anxiety and depression that can arise when daily routines are disrupted.",
+    "keywords": [
+      "quarantine",
+      "consequence",
+      "person",
+      "anxiety",
+      "depression"
+    ],
+    "objetivos": [
+      0.814743161201477,
+      0.5352912247180939
+    ],
+    "generated_data": "Quarantining has triggered my depression, and I'm struggling to cope. The lack of structure and constant updates about corona cases have me stuck in a vicious cycle of anxiety and avoidance.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.814743161201477,
+      "diversity_individual": 0.5352912247180939,
+      "pop_inertia": 0.35729522705078126,
+      "pop_entropy": 0.666277627590359
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Imagine yourself navigating the uncertainty of travel restrictions during this pandemic, reflecting on the personal consequences it has on your mental and physical well-being. Explore how the stress and anxiety of quarantine have impacted your depression.",
+    "keywords": [
+      "consequence",
+      "quarantine",
+      "anxiety",
+      "health",
+      "depression"
+    ],
+    "objetivos": [
+      0.9044198989868164,
+      0.4377613067626953
+    ],
+    "generated_data": "Quarantine's got me stuck in a rut, feeling the consequence of my depression getting worse due to the void in my routine and work. The constant stream of Corona updates on my phone is making me anxious as hell, driving me crazy with worry about my health.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.9044198989868164,
+      "diversity_individual": 0.4377613067626953,
+      "pop_inertia": 0.3362406158447266,
+      "pop_entropy": 0.6703495315623116
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Reflect on how individuals like you cope with mental health struggles during lockdowns, specifically exploring strategies for building community resilience when faced with depression and anxiety.",
+    "keywords": [
+      "depression",
+      "online schooling",
+      "person",
+      "resilience"
+    ],
+    "objetivos": [
+      0.3011474907398224,
+      0.7697820365428925
+    ],
+    "generated_data": "As a person dealing with depression, I've found that staying connected with friends through online hangouts has been a lifesaver during lockdowns. It's amazing how just a quick video chat can boost my mood and remind me that I'm not alone in this struggle.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3011474907398224,
+      "diversity_individual": 0.7697820365428925,
+      "pop_inertia": 0.33149162292480466,
+      "pop_entropy": 0.6699508696306913
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first respondent",
+    "topic": "social distancing practices",
+    "prompt": "Write a response as someone struggling with depression during quarantine, sharing their concerns about relying on home-based resources for reliable information and practicing social distancing while dealing with increased anxiety.",
+    "keywords": [
+      "reliable information",
+      "home",
+      "depression"
+    ],
+    "objetivos": [
+      0.5125791430473328,
+      0.660749077796936
+    ],
+    "generated_data": "Honestly, I'm really struggling to find reliable information at home right now. With my depression, it's hard enough just getting out of bed, let alone venturing out to verify stuff. And the constant stream of Corona-related updates on social media is overwhelming. I've been trying to focus on staying safe and healthy while stuck at home, but even with good intentions, I find myself avoiding my phone altogether.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5125791430473328,
+      "diversity_individual": 0.660749077796936,
+      "pop_inertia": 0.3411676788330078,
+      "pop_entropy": 0.671473644738371
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Reflecting on the pandemic's impact, craft a piece that captures the turmoil of misinformation and fear-mongering through a vivid cityscape mural, where chaotic scenes of false reports swirl like paint on a wall, mirroring my own anxiety and frustration as I watch the world go mad from behind my digital barricades.",
+    "keywords": [
+      "false reports",
+      "fear mongering",
+      "pandemic",
+      "chaos",
+      "anxiety",
+      "frustration",
+      "vivid colors",
+      "city wall",
+      "mural"
+    ],
+    "objetivos": [
+      0.25205984711647034,
+      0.7723380625247955
+    ],
+    "generated_data": "In this swirling vortex of chaos, a city wall once stood tall, now breached by waves of misinformation. False reports writhe like snakes, their hissing whispers fueling fear and anxiety. As an artist, I'm trapped in this digital purgatory, watching the world descend into madness. Frustration and panic seep through my pixels, as vivid colors bleed together, a cityscape mural that mirrors the turmoil within.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.25205984711647034,
+      "diversity_individual": 0.7723380625247955,
+      "pop_inertia": 0.3409381866455078,
+      "pop_entropy": 0.6669793118521326
+    }
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "An anxious account of navigating digital communication during social isolation. Draw parallels between the psychological impact of travel restrictions on mental health and the importance of responsible phone use in this extraordinary situation.",
+    "keywords": [
+      "quarantine",
+      "health",
+      "phone etiquette",
+      "depression"
+    ],
+    "objetivos": [
+      0.8874335289001465,
+      0.44621872901916504
+    ],
+    "generated_data": "As I'm stuck at home under quarantine, my depression is spiraling out of control. The constant stream of coronavirus updates on my phone is just fueling my anxiety, making me dread even checking my notifications.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8874335289001465,
+      "diversity_individual": 0.44621872901916504,
+      "pop_inertia": 0.3429787063598633,
+      "pop_entropy": 0.6697016639271448
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote work and online schooling",
+    "prompt": "Given my current situation where this quarantine has kicked my depression up a notch due to disruptions in my work and routine, I need to find ways to cope with the anxiety caused by online schooling, relying on my personal resilience to overcome this hurdle. Please help me come up with strategies to stay motivated and productive while avoiding the overwhelm of constant notifications.",
+    "keywords": [
+      "online schooling",
+      "person",
+      "insurance",
+      "resilience",
+      "depression"
+    ],
+    "objetivos": [
+      0.3178682029247284,
+      0.7408579587936401
+    ],
+    "generated_data": "To manage online schooling stress, I'm setting aside dedicated study hours without phone distractions. I'll prioritize tasks, break them down into smaller chunks, and reward myself after completing each one. Insurance that I have a solid support system in place helps me stay focused on my goals, while recognizing my resilience helps combat depression.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3178682029247284,
+      "diversity_individual": 0.7408579587936401,
+      "pop_inertia": 0.3391715621948242,
+      "pop_entropy": 0.6740552185181546
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first respondent",
+    "topic": "remote work and online schooling",
+    "prompt": "Write a response as someone who has been forced to adapt to remote work and online schooling during the pandemic, expressing the toll it's taken on their mental health and issuing a plea for a better balance between digital life and well-being.",
+    "keywords": [
+      "plea",
+      "mental health",
+      "toll",
+      "proposition"
+    ],
+    "objetivos": [
+      0.3385821580886841,
+      0.7311317920684814
+    ],
+    "generated_data": "I'm begging you, please help me find a balance between my digital responsibilities and my mental wellbeing. This constant remote work and online schooling has taken a devastating toll on my depression, leaving me feeling like I'm drowning in anxiety and despair.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3385821580886841,
+      "diversity_individual": 0.7311317920684814,
+      "pop_inertia": 0.3391715621948242,
+      "pop_entropy": 0.6740552185181546
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first respondent",
+    "topic": "social distancing practices",
+    "prompt": "Share your experiences with social distancing during this quarantine and how you're coping at home. Concerns about routine disruption and avoiding distractions are welcome.",
+    "keywords": [
+      "quarantine",
+      "concern",
+      "home",
+      "staying motivated"
+    ],
+    "objetivos": [
+      0.601455807685852,
+      0.5847583413124084
+    ],
+    "generated_data": "I'm struggling to cope with the monotony of being stuck at home for what feels like an eternity. The lack of structure is really getting to me, and I find myself constantly checking my phone out of boredom and habit, only to get bombarded by COVID updates that just add to my anxiety.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.601455807685852,
+      "diversity_individual": 0.5847583413124084,
+      "pop_inertia": 0.335158576965332,
+      "pop_entropy": 0.6678975788875614
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Write a candid plea to the public about the struggles of staying informed during the quarantine, where misinformation about COVID-19 is spreading collectively, and online schooling adds to the digital chaos, all while trying to maintain some semblance of phone etiquette.",
+    "keywords": [
+      "quarantine",
+      "plea",
+      "collective",
+      "online schooling",
+      "phone etiquette",
+      "struggles"
+    ],
+    "objetivos": [
+      0.5907263159751892,
+      0.6301895678043365
+    ],
+    "generated_data": "I'm begging you, please be mindful of the information you're sharing online - it's like a never-ending battle against false news and anxiety during this quarantine. With everyone sending corona updates left and right, I'm overwhelmed just trying to stay informed without losing my mind.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5907263159751892,
+      "diversity_individual": 0.6301895678043365,
+      "pop_inertia": 0.35365058898925783,
+      "pop_entropy": 0.6655191332188908
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during siege",
+    "prompt": "As an artist, envision a vibrant mural on the rampart of a metropolitan neighborhood, where residents have come together to express their collective resilience during the siege. Use vivid colors and artistic expression to depict the community's determination to thrive despite lockdown, highlighting the power of creative people to foster unity and bring people together in these challenging times.",
+    "keywords": [
+      "artistic expression",
+      "together",
+      "mural",
+      "rampart",
+      "resilience",
+      "bring people together",
+      "foster community",
+      "expression",
+      "neighborhood",
+      "metropolis",
+      "creative person",
+      "lockdown",
+      "vivid colors"
+    ],
+    "objetivos": [
+      0.06270182132720947,
+      0.8409987241029739
+    ],
+    "generated_data": "On the rampart of our metropolitan neighborhood, a vibrant mural unfolds, a testament to our collective resilience during siege. Amidst the lockdown's gloom, residents unite through art, their creativity bursting forth in vivid colors, as we stand strong, together, and defiant.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.06270182132720947,
+      "diversity_individual": 0.8409987241029739,
+      "pop_inertia": 0.3381673812866211,
+      "pop_entropy": 0.6649499398088944
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Write a reflection on the consequences of travel restrictions for an individual struggling with depression and anxiety, considering the quote 'this quarantine has kicked my depression up a couple notches'.",
+    "keywords": [
+      "quarantine",
+      "consequence",
+      "person",
+      "anxiety",
+      "depression"
+    ],
+    "objetivos": [
+      0.8863434791564941,
+      0.46695780754089355
+    ],
+    "generated_data": "As I navigate this quarantine's isolation, I've felt my depression worsen, amplified by the void in my work and routine. The constant stream of coronavirus updates on my phone only adds to my anxiety, making it hard for me to cope with the new reality.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8863434791564941,
+      "diversity_individual": 0.46695780754089355,
+      "pop_inertia": 0.34988262176513674,
+      "pop_entropy": 0.667367970050896
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first respondent",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Describe a vibrant mural that brings the community together during a lockdown, reflecting the city's resilience through vivid colors and artistic expression, transforming a concrete wall into a symbol of hope.",
+    "keywords": [
+      "artistic expression",
+      "together",
+      "vivid colors",
+      "mural",
+      "wall",
+      "reflection",
+      "city",
+      "lockdown",
+      "genial"
+    ],
+    "objetivos": [
+      0.1379511058330536,
+      0.8253884017467499
+    ],
+    "generated_data": "As I gaze upon this stunning mural, painted on the once-drab city wall, I'm struck by its power to bring our community together during these trying times. The lockdown may have confined us indoors, but this vibrant masterpiece transcends barriers, filling my heart with a sense of hope and unity.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.1379511058330536,
+      "diversity_individual": 0.8253884017467499,
+      "pop_inertia": 0.32497241973876956,
+      "pop_entropy": 0.6615429466119368
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "mask wearing guidelines",
+    "prompt": "Imagine yourself painting a vibrant mural on the rampart of your neighborhood, amidst the lockdown. As a creative person, you're determined to use this quarantine as an opportunity to express yourself and bring people together through art. How can mask-wearing guidelines be visually represented in a way that fosters community, promotes resilience, and showcases vivid colors?",
+    "keywords": [
+      "artistic expression",
+      "together",
+      "mural",
+      "rampart",
+      "resilience",
+      "bring people together",
+      "foster community",
+      "expression",
+      "neighborhood",
+      "metropolis",
+      "creative person",
+      "lockdown",
+      "vivid colors"
+    ],
+    "objetivos": [
+      0.06532707810401917,
+      0.8325074315071106
+    ],
+    "generated_data": "As I paint my vibrant mural on the rampart, I envision mask-wearing guidelines taking center stage. Vibrant hues of blue and green represent the Rampart of Resilience, symbolizing our collective strength against the lockdown's challenges. Together, we can craft a mural that not only showcases our creative expression but also brings people together, fostering community and promoting unity through art.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.06532707810401917,
+      "diversity_individual": 0.8325074315071106,
+      "pop_inertia": 0.3220423889160156,
+      "pop_entropy": 0.6698774716081249
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first respondent",
+    "topic": "social distancing practices",
+    "prompt": "As I navigate this unprecedented quarantine, I'm concerned about finding ways to stay motivated at home without slipping into old habits. How do you suggest prioritizing daily routines and minimizing anxiety when everyone's on edge?",
+    "keywords": [
+      "quarantine",
+      "concern",
+      "home",
+      "staying motivated"
+    ],
+    "objetivos": [
+      0.24263757467269897,
+      0.8045596480369568
+    ],
+    "generated_data": "I've been stuck in a rut too, especially with my work and routine put on hold. To stay motivated, I set small goals for myself each day, like completing a puzzle or doing some light exercise. It's helped me maintain a sense of structure and purpose without feeling overwhelmed.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.24263757467269897,
+      "diversity_individual": 0.8045596480369568,
+      "pop_inertia": 0.34548656463623045,
+      "pop_entropy": 0.6675693558029514
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Envision a vibrant mural on a metropolitan rampart, symbolizing the resilience of your community amidst lockdown. Bring people together to express themselves through artistic endeavors and celebrate the beauty that can arise from constraints.",
+    "keywords": [
+      "artistic expression",
+      "together",
+      "mural",
+      "rampart",
+      "resilience",
+      "bring people together",
+      "foster community",
+      "expression",
+      "neighborhood",
+      "metropolis",
+      "creative person",
+      "lockdown",
+      "vivid colors"
+    ],
+    "objetivos": [
+      0.06784451007843018,
+      0.8291014730930328
+    ],
+    "generated_data": "As I gaze upon this vibrant mural on the metropolis' rampart, I'm reminded that even in lockdown, our neighborhood's creative spirit remains unbroken. The vivid colors seem to radiate resilience, a testament to how art can bring people together and foster community – reminding us that beauty can emerge from constraints.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.06784451007843018,
+      "diversity_individual": 0.8291014730930328,
+      "pop_inertia": 0.3577214050292969,
+      "pop_entropy": 0.6724991505011296
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "social distancing practices",
+    "prompt": "Consider how your daily life has changed during this quarantine and its unforeseen consequences on your mental health. Describe your personal experience of dealing with the added stress and anxiety",
+    "keywords": [
+      "quarantine",
+      "concern",
+      "mental health",
+      "consequence",
+      "proposition",
+      "psychological impact",
+      "anxiety"
+    ],
+    "objetivos": [
+      0.8428698778152466,
+      0.5196007490158081
+    ],
+    "generated_data": "Quarantining has amplified my depression's symptoms, as my usual routine and work have been disrupted. The constant stream of corona-related updates on social media is overwhelming, causing me to avoid my phone to mitigate the anxiety.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8428698778152466,
+      "diversity_individual": 0.5196007490158081,
+      "pop_inertia": 0.3577214050292969,
+      "pop_entropy": 0.6724991505011296
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first responder",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "As a frontline healthcare worker during this pandemic, write a response that effectively addresses the spread of misinformation and false reports about COVID-19, providing reliable information to calm anxiety and reduce stress, while also acknowledging the emotional toll it takes on individuals like yourself who are struggling with depression.",
+    "keywords": [
+      "reliable information",
+      "false reports",
+      "insurance",
+      "depression"
+    ],
+    "objetivos": [
+      0.37082362174987793,
+      0.7007223069667816
+    ],
+    "generated_data": "As a frontline healthcare worker, I've seen firsthand how misinformation about COVID-19 can spread like wildfire, causing unnecessary fear and anxiety. It's crucial we prioritize reliable information to calm concerns and reduce stress. For those struggling with depression, it's essential to distinguish fact from fiction – avoiding the void left by false reports can be a lifesaver. Insurers shouldn't perpetuate myths either; accurate data keeps premiums stable.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.37082362174987793,
+      "diversity_individual": 0.7007223069667816,
+      "pop_inertia": 0.3577214050292969,
+      "pop_entropy": 0.6724991505011296
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first respondent",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Write a response to someone who's feeling overwhelmed by COVID-related misinformation and fake news, acknowledging their struggle with depression and offering a message of hope for finding reliable information.",
+    "keywords": [
+      "reliable information",
+      "struggling",
+      "insurance",
+      "false reports",
+      "depression"
+    ],
+    "objetivos": [
+      0.4751007556915283,
+      0.6807682514190674
+    ],
+    "generated_data": "I completely understand how you're feeling right now - it's like a never-ending nightmare! As someone who's struggled with depression myself, I know how easy it is to get sucked into the vortex of false reports and misinformation about COVID-19. But here's the thing: there is hope! By seeking out reliable information from trusted sources, you can start to regain control over your life. Don't be afraid to reach out to your insurance provider or a mental health professional for support - they're there to help you through this tough time.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.4751007556915283,
+      "diversity_individual": 0.6807682514190674,
+      "pop_inertia": 0.3577214050292969,
+      "pop_entropy": 0.6724991505011296
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "As you navigate the challenges of quarantine, consider how travel restrictions are impacting your daily life and mental well-being. Reflect on the importance of staying informed about safety guidelines and debunking false reports that spread anxiety.",
+    "keywords": [
+      "first responder",
+      "insurance",
+      "frontline",
+      "false reports"
+    ],
+    "objetivos": [
+      0.41675639152526855,
+      0.6910081207752228
+    ],
+    "generated_data": "As a first responder, I'm on the frontline of this pandemic's impact. Insurance claims are piling up, but it's not just the financial strain that's worrying me - it's the constant stream of false reports spreading like wildfire and fueling my own anxiety.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.41675639152526855,
+      "diversity_individual": 0.6910081207752228,
+      "pop_inertia": 0.3577214050292969,
+      "pop_entropy": 0.6724991505011296
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first respondent",
+    "topic": "social distancing practices",
+    "prompt": "Reflecting on your recent experiences during this quarantine, what concerns you most about people's reactions to corona-related updates?",
+    "keywords": [
+      "quarantine",
+      "concern",
+      "proposition",
+      "staying motivated"
+    ],
+    "objetivos": [
+      0.644615888595581,
+      0.5802317261695862
+    ],
+    "generated_data": "Honestly, I'm worried that people are getting too worked up over corona updates. It's like they're avoiding reality by obsessing over it. As someone who's struggled with depression during this quarantine, I think we should focus on finding ways to stay motivated and positive rather than freaking out over every little thing.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.644615888595581,
+      "diversity_individual": 0.5802317261695862,
+      "pop_inertia": 0.3570998001098633,
+      "pop_entropy": 0.6747767970016453
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Describe the psychological impact of extended travel restrictions on an individual's mental health, specifically highlighting the consequences of prolonged isolation and social distancing measures. Incorporate personal experiences with depression and anxiety to illustrate the effects of this global crisis.",
+    "keywords": [
+      "quarantine",
+      "consequence",
+      "anxiety",
+      "health",
+      "depression"
+    ],
+    "objetivos": [
+      0.91144859790802,
+      0.4185810685157776
+    ],
+    "generated_data": "The quarantine has triggered a relapse in my depression, thanks to the void in my daily routine and work. The constant stream of coronavirus updates on my phone is driving me mad with anxiety, making it hard for me to cope with the prolonged isolation.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.91144859790802,
+      "diversity_individual": 0.4185810685157776,
+      "pop_inertia": 0.3381673812866211,
+      "pop_entropy": 0.6649499398088944
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Craft a personal reflection on the mental impact of travel restrictions, detailing the consequences of quarantine on your own mental health, specifically highlighting how it affects your depression and anxiety, while also considering the role of social media in exacerbating these issues.",
+    "keywords": [
+      "quarantine",
+      "consequence",
+      "anxiety",
+      "health",
+      "depression"
+    ],
+    "objetivos": [
+      0.9055724143981934,
+      0.4277614951133728
+    ],
+    "generated_data": "Quarantine has taken a toll on my mental health, particularly my depression. The constant uncertainty and lack of routine have sent my anxiety through the roof. I've stopped checking my phone as much, not because I'm avoiding reality but because everyone's corona-related posts are exhausting me. It's like they're competing in some kind of viral Olympics, leaving me feeling drained and helpless.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.9055724143981934,
+      "diversity_individual": 0.4277614951133728,
+      "pop_inertia": 0.3553911209106445,
+      "pop_entropy": 0.6738144472256826
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first respondent",
+    "topic": "remote work and online schooling",
+    "prompt": "Describe the unexpected psychological toll of sudden changes in routine caused by quarantine on an individual's mental health, specifically highlighting how it affects their daily life and interactions with others.",
+    "keywords": [
+      "mental health",
+      "toll",
+      "mental",
+      "individuals",
+      "impact",
+      "personal"
+    ],
+    "objetivos": [
+      0.905164897441864,
+      0.43007874488830566
+    ],
+    "generated_data": "Quarantine has taken a huge mental toll on me, making my depression worse due to the void of structure and purpose. I'm avoiding my phone now as people are driving me nuts with corona updates, causing immense anxiety.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.905164897441864,
+      "diversity_individual": 0.43007874488830566,
+      "pop_inertia": 0.32962593078613284,
+      "pop_entropy": 0.6683743883005335
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Consider the consequences of quarantine on a person's mental health. Describe how travel restrictions can either exacerbate or mitigate depression for those on the frontline of navigating this new reality, with a focus on your own personal experience and proposition.",
+    "keywords": [
+      "consequence",
+      "person",
+      "frontline",
+      "mitigate",
+      "personal",
+      "quarantine",
+      "proposition",
+      "exacerbate",
+      "genial"
+    ],
+    "objetivos": [
+      0.8489056825637817,
+      0.4724500775337219
+    ],
+    "generated_data": "Quarantine has been a nightmare for my mental health - the void in my routine and work has allowed my depression to worsen. I've started avoiding my phone due to the constant Corona-related noise, which only exacerbates my anxiety. As someone on the frontline of navigating this new reality, I believe it's crucial to mitigate the consequences of quarantine on our personal well-being.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8489056825637817,
+      "diversity_individual": 0.4724500775337219,
+      "pop_inertia": 0.3389973449707031,
+      "pop_entropy": 0.6763305894588184
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Reflect on the consequences of travel restrictions on mental health, exploring how the lack of routine and social interactions can exacerbate feelings of depression and anxiety. Consider how personal experiences during this quarantine have affected your own well-being.",
+    "keywords": [
+      "quarantine",
+      "consequence",
+      "anxiety",
+      "health",
+      "depression"
+    ],
+    "objetivos": [
+      0.7929446697235107,
+      0.5214061439037323
+    ],
+    "generated_data": "As I'm stuck in this prolonged quarantine, I've noticed a significant consequence – my depression has taken a turn for the worse due to the lack of routine and social interactions. The constant stream of corona-related updates on my phone only adds to my anxiety, making it feel like I'm drowning in uncertainty.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7929446697235107,
+      "diversity_individual": 0.5214061439037323,
+      "pop_inertia": 0.3396234893798828,
+      "pop_entropy": 0.6748735036391981
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Craft a heartfelt plea for responsible phone etiquette during quarantine, acknowledging the mental health toll of excessive corona-related notifications on individuals like yourself, and propose a gentle approach to safety guidelines.",
+    "keywords": [
+      "phone etiquette",
+      "plea",
+      "mental health",
+      "toll",
+      "proposition",
+      "mental",
+      "impact",
+      "genial"
+    ],
+    "objetivos": [
+      0.714571475982666,
+      0.5278104543685913
+    ],
+    "generated_data": "As I navigate this challenging quarantine, I implore you all to show some geniality with your phones. The constant stream of Corona updates is taking a devastating toll on my mental health - anxiety is driving me mad! I'm not asking for much, just a gentle approach to safety guidelines and some phone etiquette, please. Let's not forget the impact these notifications have on our collective well-being. Be kind, be considerate, and let's get through this together.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.714571475982666,
+      "diversity_individual": 0.5278104543685913,
+      "pop_inertia": 0.3331237030029297,
+      "pop_entropy": 0.6690593182093418
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote work and online schooling",
+    "prompt": "Create a text that captures the challenges of maintaining mental health during remote work and online schooling, incorporating concerns about reliable information and the impact of false reports on anxiety levels. Please draw parallels with your own experiences.",
+    "keywords": [
+      "reliable information",
+      "false reports",
+      "insurance",
+      "depression"
+    ],
+    "objetivos": [
+      0.6795164942741394,
+      0.5291660130023956
+    ],
+    "generated_data": "As someone who's been stuck in quarantine, I know how easy it is to get overwhelmed by the constant stream of information about corona. It's like everyone's an expert now, sharing their 'facts' and opinions without a care for mental health. The anxiety's driving me nuts, making my depression worse than ever. How am I supposed to stay on top of reliable info when it feels like every online report is just fueling the fire? And don't even get me started on insurance – will they cover my therapy sessions if this goes on too long?",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6795164942741394,
+      "diversity_individual": 0.5291660130023956,
+      "pop_inertia": 0.36631385803222655,
+      "pop_entropy": 0.6715341458693479
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "mask wearing guidelines",
+    "prompt": "Write from the perspective of someone struggling with depression during quarantine, explaining why they're concerned about following mask-wearing guidelines and how it relates to their insurance coverage.",
+    "keywords": [
+      "quarantine",
+      "insurance",
+      "struggling",
+      "anxiety"
+    ],
+    "objetivos": [
+      0.649649977684021,
+      0.5351953208446503
+    ],
+    "generated_data": "Quarantine has my depression on a rollercoaster ride, and trying to follow these mask-wearing guidelines is just adding fuel to the fire. I'm worried that if I'm not doing it right, my insurance won't cover me when things get really bad.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.649649977684021,
+      "diversity_individual": 0.5351953208446503,
+      "pop_inertia": 0.3551543426513672,
+      "pop_entropy": 0.6738808442976096
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote work and online schooling",
+    "prompt": "In light of the consequences on my mental health during this quarantine, please generate a text that addresses the plea to maintain phone etiquette and mitigate the psychological impact of online interactions, while also acknowledging the anxiety driving me up the wall.",
+    "keywords": [
+      "consequence",
+      "phone etiquette",
+      "quarantine",
+      "plea",
+      "mental health",
+      "proposition",
+      "psychological impact",
+      "anxiety",
+      "genial"
+    ],
+    "objetivos": [
+      0.6820727586746216,
+      0.5278200209140778
+    ],
+    "generated_data": "I'm begging you, friends, let's keep our phones in check during this quarantine! The consequence on my mental health has been dire, with constant notifications and endless streams of corona-related updates. My plea is to maintain some phone etiquette – a simple 'hello' or 'hi, how are you?' can go a long way in soothing anxiety driving me up the wall. Let's prioritize our psychological impact and keep our minds at ease.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6820727586746216,
+      "diversity_individual": 0.5278200209140778,
+      "pop_inertia": 0.3269852828979492,
+      "pop_entropy": 0.6673883460531024
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Plea for sanity in quarantine chaos: Amidst my mental health struggles amidst this long-standing quarantine, I'm desperate for ways to maintain personal hygiene and sanity. Please generate a concise guide on hand hygiene and sanitization practices that can be applied effectively during online schooling and daily life, taking into account the collective stress and anxiety of our situation.",
+    "keywords": [
+      "quarantine",
+      "plea",
+      "collective",
+      "online schooling",
+      "phone etiquette",
+      "struggles"
+    ],
+    "objetivos": [
+      0.28262269496917725,
+      0.7579535841941833
+    ],
+    "generated_data": "Stay sane amidst chaos: 1) Wash hands frequently with soap & water for at least 20 seconds; 2) Use hand sanitizer when soap isn't available; 3) Avoid touching face; 4) Clean phone regularly, don't be afraid to log off and take breaks from online schooling.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.28262269496917725,
+      "diversity_individual": 0.7579535841941833,
+      "pop_inertia": 0.3553911209106445,
+      "pop_entropy": 0.6738144472256826
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Imagine you're struggling with depression amidst quarantine measures. Write a passage exploring the frustration of finding reliable information on travel restrictions and safety amidst false reports and chaotic news feeds. Consider how insurance implications may exacerbate your anxiety, all while highlighting the overwhelming feeling of being stuck.",
+    "keywords": [
+      "reliable information",
+      "false reports",
+      "insurance",
+      "depression"
+    ],
+    "objetivos": [
+      0.29600250720977783,
+      0.7553782016038895
+    ],
+    "generated_data": "I'm drowning in a sea of unreliable info about travel restrictions and safety. Every news outlet seems to be spewing out different stats, making it hard for me to get reliable information. And to make matters worse, insurance companies are milking this situation for all it's worth, leaving me feeling anxious and stuck.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.29600250720977783,
+      "diversity_individual": 0.7553782016038895,
+      "pop_inertia": 0.3454365539550781,
+      "pop_entropy": 0.673967402224895
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Imagine you're speaking to someone who's struggling with depression due to the pandemic's impact on their daily routine. Write a response that addresses misinformation and fake news surrounding COVID-19, acknowledging the anxiety it can cause, while also highlighting the importance of fact-checking and responsible reporting, ultimately reassuring the person that there is no need for insurance or any kind of 'proposition' against the virus, especially for those on the frontline.",
+    "keywords": [
+      "proposition",
+      "insurance",
+      "person",
+      "frontline",
+      "depression"
+    ],
+    "objetivos": [
+      0.4778660535812378,
+      0.6601686179637909
+    ],
+    "generated_data": "Honestly, I get why you're feeling anxious - all this misinformation out there can be overwhelming! As someone who's struggled with depression myself, I know how easy it is to get caught up in fear and uncertainty. But here's the thing: we don't need to let fake news and unverified claims spiral us into panic mode. We just need to take a deep breath, fact-check what we're reading, and support responsible reporting. And especially for those on the frontline, like healthcare workers, there's no need to worry about 'proposition' or insurance - just know that you're doing your part by being brave and showing up every day. You got this!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.4778660535812378,
+      "diversity_individual": 0.6601686179637909,
+      "pop_inertia": 0.33458354949951175,
+      "pop_entropy": 0.6738523167975763
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a convention individual",
+    "topic": "paw hygiene and sanitization",
+    "prompt": "While stuck in this quarantine, share some valuable insights on maintaining good paw hygiene to mitigate the spread of germs. Consider the consequences of neglecting personal sanitation, especially for first responders who can't afford to get sick, and discuss ways to sanitize paws effectively.",
+    "keywords": [
+      "quarantine",
+      "media",
+      "consequence",
+      "first responder",
+      "mitigate",
+      "genial"
+    ],
+    "objetivos": [
+      0.499583899974823,
+      0.6426145136356354
+    ],
+    "generated_data": "Quarantining has me super aware of my paw hygiene now, guys! With all this media frenzy about COVID-19, I'm extra cautious about not spreading germs. As a first responder, you can't afford to get sick, so it's crucial to maintain good paw hygiene. Neglecting personal sanitation can have serious consequences - don't be that person!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.499583899974823,
+      "diversity_individual": 0.6426145136356354,
+      "pop_inertia": 0.35729522705078126,
+      "pop_entropy": 0.666277627590359
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Imagine being stuck at home during this quarantine, struggling with the consequence of cancelled plans and lost routine, as your mental health starts to decline. Write about the impact on your daily life and the measures you take to cope with the overwhelming anxiety and feelings of depression.",
+    "keywords": [
+      "consequence",
+      "quarantine",
+      "anxiety",
+      "health",
+      "depression"
+    ],
+    "objetivos": [
+      0.49961090087890625,
+      0.6346724629402161
+    ],
+    "generated_data": "Being stuck at home due to travel restrictions has taken a toll on my mental health. The consequence of cancelled plans and lost routine has triggered my depression, and I'm struggling to cope with the overwhelming anxiety.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.49961090087890625,
+      "diversity_individual": 0.6346724629402161,
+      "pop_inertia": 0.3570998001098633,
+      "pop_entropy": 0.6747767970016453
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first respondent",
+    "topic": "travel restrictions and safety",
+    "prompt": "As a first responder on the frontline of this pandemic, I've seen firsthand how misinformation can spread like wildfire. Generate a response that reflects my concerns about travel restrictions and safety, while also acknowledging the anxiety caused by false reports and insurance implications.",
+    "keywords": [
+      "first responder",
+      "insurance",
+      "frontline",
+      "false reports"
+    ],
+    "objetivos": [
+      0.33645614981651306,
+      0.7195064425468445
+    ],
+    "generated_data": "As a first responder, seeing misinformation spreading like wildfire is concerning me more than the actual virus. Travel restrictions are necessary for our safety, but with false reports of infected areas, it's hard to know what's real. Insurance companies need accurate data to provide fair coverage – I worry about the long-term impact on our economy if we can't trust the information.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.33645614981651306,
+      "diversity_individual": 0.7195064425468445,
+      "pop_inertia": 0.35529197692871095,
+      "pop_entropy": 0.6722366928810711
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Considering my recent experiences in quarantine, I'm more aware than ever of the importance of hand hygiene and sanitization as a proactive measure to mitigate consequences. As someone on the frontline, what prophylactic steps can I take to ensure my own safety and that of those around me?",
+    "keywords": [
+      "consequence",
+      "person",
+      "frontline",
+      "prophylactic",
+      "mitigate",
+      "quarantine",
+      "proposition",
+      "insurance",
+      "genial"
+    ],
+    "objetivos": [
+      0.29656243324279785,
+      0.7230458557605743
+    ],
+    "generated_data": "Given my recent quarantine experience, I've come to realize that maintaining good hand hygiene is crucial for both personal and public health. As someone who's been on the frontline, I'm keenly aware of the importance of prophylactic measures to mitigate consequences. In this proposition, I believe regular sanitization and proper handwashing can be a vital insurance policy against unwanted outcomes.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.29656243324279785,
+      "diversity_individual": 0.7230458557605743,
+      "pop_inertia": 0.33329559326171876,
+      "pop_entropy": 0.6707947557946468
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first respondent",
+    "topic": "paw hygiene and sanitization",
+    "prompt": "As you navigate this challenging quarantine period, share your honest thoughts on maintaining good paw hygiene and sanitization practices despite the collective anxiety and stress. Use relatable language and draw from personal experiences to provide reliable information that will help others struggling to stay sane.",
+    "keywords": [
+      "quarantine",
+      "media",
+      "reliable information",
+      "collective",
+      "struggling",
+      "genial"
+    ],
+    "objetivos": [
+      0.5927086472511292,
+      0.5841367244720459
+    ],
+    "generated_data": "Honestly, during this quarantine, I'm struggling to keep my paws clean and sanitized amidst all the chaos. With everyone freaking out on social media about Corona updates, it's hard not to get anxious. But honestly, taking care of your paws is crucial right now. Try keeping a paw sanitizer nearby and using it regularly - trust me, it'll make you feel more genial than the constant stream of unreliable information online.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5927086472511292,
+      "diversity_individual": 0.5841367244720459,
+      "pop_inertia": 0.31949031829833985,
+      "pop_entropy": 0.6756025423519793
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "paw hygiene and sanitization",
+    "prompt": "Considering your current struggle with depression and anxiety during this quarantine, what are the most crucial consequences of poor paw hygiene and sanitation for someone like you who's already overwhelmed?",
+    "keywords": [
+      "consequence",
+      "phone etiquette",
+      "quarantine",
+      "mental health",
+      "proposition",
+      "anxiety",
+      "health",
+      "a normal person",
+      "depression"
+    ],
+    "objetivos": [
+      0.5836770534515381,
+      0.6114345192909241
+    ],
+    "generated_data": "Poor paw hygiene and sanitization can have severe consequences on my mental health during this quarantine. It can lead to feelings of guilt, shame, and self-consciousness which can further exacerbate my depression and anxiety.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5836770534515381,
+      "diversity_individual": 0.6114345192909241,
+      "pop_inertia": 0.35729522705078126,
+      "pop_entropy": 0.666277627590359
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a convention individual",
+    "topic": "paw hygiene and sanitization",
+    "prompt": "Generate advice for maintaining paw hygiene during this pandemic, considering the challenges of quarantine life where routine is disrupted, and provide reliable information on how to keep your paws clean while minimizing anxiety; imagine you're sharing phone etiquette tips with a friend going through similar struggles.",
+    "keywords": [
+      "quarantine",
+      "reliable information",
+      "routine",
+      "insurance",
+      "phone etiquette",
+      "anxiety",
+      "pandemic",
+      "pandemonium"
+    ],
+    "objetivos": [
+      0.5201753377914429,
+      0.6292144954204559
+    ],
+    "generated_data": "Hey, girl! I totally get it - quarantine life can be overwhelming. To keep those paws squeaky clean during this pandemic, I've learned to stick to my routine (even if it's just a quick 10-minute paw-wash). Remember, reliable information is key! Make sure you're washing those paws regularly with soap and water, and dry them thoroughly - no pandemonium in sight! And, honey, please don't stress about phone etiquette; just prioritize your own sanity. Take care of yourself, and those adorable paws will thank you.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5201753377914429,
+      "diversity_individual": 0.6292144954204559,
+      "pop_inertia": 0.3509838104248047,
+      "pop_entropy": 0.6677916605016236
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a convention individual",
+    "topic": "paw hygiene and sanitization",
+    "prompt": "Despite the toll of quarantine on mental health, I'm making a plea to prioritize paw hygiene and sanitization. What are the most important steps I can take to maintain cleanliness and reduce the risk of infection?",
+    "keywords": [
+      "plea",
+      "toll",
+      "quarantine",
+      "consequence"
+    ],
+    "objetivos": [
+      0.524868369102478,
+      0.6213671863079071
+    ],
+    "generated_data": "I'm begging you, don't let the quarantine's consequence on your mental health distract you from prioritizing paw hygiene! With everyone going nuts about Corona, it's crucial we take control over our own sanitization. Here are the most essential steps: first, keep those paws clean by washing them frequently with soap and water; secondly, disinfect high-touch areas like door handles and tables regularly; thirdly, avoid touching your face to prevent accidental spread – it's a quarantine survival guide!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.524868369102478,
+      "diversity_individual": 0.6213671863079071,
+      "pop_inertia": 0.33329559326171876,
+      "pop_entropy": 0.6707947557946468
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "paw hygiene and sanitization",
+    "prompt": "Imagine yourself stuck in a quarantine-induced funk, struggling to find reliable information on everyday topics like paw hygiene and sanitization. Write about how the collective anxiety of dealing with online schooling and corona-related news has you avoiding your phone and seeking ways to maintain personal cleanliness despite the chaos.",
+    "keywords": [
+      "quarantine",
+      "reliable information",
+      "collective",
+      "struggling",
+      "online schooling",
+      "everyday"
+    ],
+    "objetivos": [
+      0.5488094091415405,
+      0.6157046258449554
+    ],
+    "generated_data": "quarantine life is a real struggle when it comes to keeping my paws clean - between online schooling stressing me out and the constant corona updates driving me crazy, I'm just trying to find some reliable info on paw hygiene and sanitization to keep myself sane. I'm not even joking, I've been avoiding my phone like the plague because everyone's freaking out about something new, and I just need some peace of mind... and a clean pawsome self!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5488094091415405,
+      "diversity_individual": 0.6157046258449554,
+      "pop_inertia": 0.34988262176513674,
+      "pop_entropy": 0.667367970050896
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first respondent",
+    "topic": "mask wearing guidelines",
+    "prompt": "Reflecting on this quarantine experience and feeling anxious about the state of things, imagine you're on a mission to create a vibrant mural together with fellow city residents. Write guidelines for mask wearing that not only promote safety but also encourage artistic expression, as if you were painting a vivid masterpiece on the wall",
+    "keywords": [
+      "artistic expression",
+      "together",
+      "proposition",
+      "city",
+      "vivid colors",
+      "wall",
+      "lockdown",
+      "genial"
+    ],
+    "objetivos": [
+      0.0484597273170948,
+      0.8346689939498901
+    ],
+    "generated_data": "As we rise above this lockdown's monotony, let's unleash our creativity and paint the town together! Our Masked Masterpiece Mission demands attention to detail, yet freedom of self-expression. Wear your mask with pride, just like adding brushstrokes to a vibrant mural on the city wall. Together, we'll create a masterpiece that's as colorful as it is safe. Remember: wear it with confidence, adjust it frequently, and don't be afraid to get creative!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.0484597273170948,
+      "diversity_individual": 0.8346689939498901,
+      "pop_inertia": 0.33600902557373047,
+      "pop_entropy": 0.6682578979688739
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first respondent",
+    "topic": "remote work and online schooling",
+    "prompt": "Imagine being confined at home during a quarantine, with your daily routine disrupted and feeling overwhelmed by the consequences on your mental health. Consider how remote work and online schooling can take a significant toll on individuals like yourself, exacerbating feelings of anxiety and depression.",
+    "keywords": [
+      "mental health",
+      "toll",
+      "mental",
+      "individuals",
+      "impact",
+      "personal"
+    ],
+    "objetivos": [
+      0.8815118074417114,
+      0.4526853561401367
+    ],
+    "generated_data": "I'm still reeling from the impact of this quarantine on my mental health. The loss of structure and routine has me feeling anxious and depressed. I'm starting to avoid my phone due to the constant stream of corona-related updates, which only fuels my feelings of overwhelm.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8815118074417114,
+      "diversity_individual": 0.4526853561401367,
+      "pop_inertia": 0.35668121337890624,
+      "pop_entropy": 0.6670790689657563
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Reflecting on the consequences of quarantine measures on your mental health, consider how these restrictions have impacted your travel plans and overall well-being. Explore the relationship between isolation, anxiety, and depression.",
+    "keywords": [
+      "quarantine",
+      "consequence",
+      "anxiety",
+      "health",
+      "depression"
+    ],
+    "objetivos": [
+      0.8721222877502441,
+      0.465660035610199
+    ],
+    "generated_data": "Quarantine's got me stuck in a rut, exacerbating my depression and anxiety. The lack of structure and constant stream of corona-related updates is suffocating – I'm avoiding my phone just to cope with the overwhelm.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8721222877502441,
+      "diversity_individual": 0.465660035610199,
+      "pop_inertia": 0.3454365539550781,
+      "pop_entropy": 0.673967402224895
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Describe the consequences of extended travel restrictions on mental health, exploring how it can lead to increased anxiety, depression, and avoidance behaviors in individuals like yourself who are already vulnerable to these issues.",
+    "keywords": [
+      "quarantine",
+      "consequence",
+      "psychological impact",
+      "anxiety",
+      "health",
+      "personal",
+      "depression"
+    ],
+    "objetivos": [
+      0.8835368156433105,
+      0.43992459774017334
+    ],
+    "generated_data": "The quarantine's prolonged consequence is a severe blow to my mental well-being. The lack of structure and social interaction has triggered my depression, while the constant stream of corona updates on my phone fuels my anxiety, causing me to avoid it altogether – a vicious cycle that's suffocating me.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8835368156433105,
+      "diversity_individual": 0.43992459774017334,
+      "pop_inertia": 0.3365953063964844,
+      "pop_entropy": 0.6743646955733569
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Reflecting on life under quarantine, consider the consequence of isolation on mental health - how does it affect your anxiety and depression? Discuss the impact on your daily routine and health, as well as the challenges of navigating social media amidst travel restrictions.",
+    "keywords": [
+      "quarantine",
+      "consequence",
+      "anxiety",
+      "health",
+      "depression"
+    ],
+    "objetivos": [
+      0.885238766670227,
+      0.430229127407074
+    ],
+    "generated_data": "Quarantine's got me feeling trapped, my anxiety and depression in overdrive. The void of work and routine is suffocating, making it hard to cope with the constant stream of corona updates on social media. I'm avoiding my phone like the plague, but it's a double-edged sword – the isolation's taking a toll on my mental health.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.885238766670227,
+      "diversity_individual": 0.430229127407074,
+      "pop_inertia": 0.35729522705078126,
+      "pop_entropy": 0.666277627590359
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "paw hygiene and sanitization",
+    "prompt": "Write about how to maintain good paw hygiene during this collective struggle of self-isolation, acknowledging the plea for understanding as we navigate online schooling and phone etiquette; consider my frustration with the anxiety-driven chaos caused by the quarantine, but prioritize a calm approach",
+    "keywords": [
+      "quarantine",
+      "plea",
+      "collective",
+      "online schooling",
+      "phone etiquette",
+      "struggles"
+    ],
+    "objetivos": [
+      0.11326111853122711,
+      0.81745345890522
+    ],
+    "generated_data": "During this collective struggle of self-isolation, maintaining good paw hygiene is crucial. I understand the plea for understanding as we navigate online schooling and phone etiquette, which can be overwhelming. To keep our paws clean and sanitized, try washing them frequently with soap and water or using hand sanitizer when hands are dry.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.11326111853122711,
+      "diversity_individual": 0.81745345890522,
+      "pop_inertia": 0.3520471954345703,
+      "pop_entropy": 0.6748558426951121
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first respondent",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Reflecting on life during lockdown, create a vivid description of what 'together' looks like to you - imagine a city's gray walls suddenly transformed into a stunning mural with bold, artistic expression. How do the colors reflect your personal experiences and emotions, such as coping with anxiety or depression?",
+    "keywords": [
+      "artistic expression",
+      "together",
+      "vivid colors",
+      "mural",
+      "wall",
+      "reflection",
+      "city",
+      "lockdown",
+      "genial"
+    ],
+    "objetivos": [
+      0.13226361572742462,
+      0.8147675842046738
+    ],
+    "generated_data": "As I gaze upon the once-gray walls of our city now transformed into a breathtaking mural, I see 'together' taking shape - vibrant hues dancing across the concrete canvas, a testament to the resilience of our community. Blues and greens evoke the calm of collective breathing, while fiery oranges and yellows reflect the warmth of shared laughter. The mural's bold strokes and vivid colors are my own reflection - a symphony of emotions, from the anxiety-driven reds to the hope-infused purples, all swirling together in harmony.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.13226361572742462,
+      "diversity_individual": 0.8147675842046738,
+      "pop_inertia": 0.3269852828979492,
+      "pop_entropy": 0.6673883460531024
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Paint a vibrant mural on the city's wall, reflecting the struggles and triumphs of community resilience during lockdowns. As an artist, express the emotions that come with being confined, but also inspire others to come together, fostering a sense of geniality through artistic expression.",
+    "keywords": [
+      "artistic expression",
+      "together",
+      "genial",
+      "mural",
+      "wall",
+      "resilience",
+      "foster community",
+      "bring people together",
+      "reflection",
+      "community",
+      "city",
+      "artist",
+      "lockdown",
+      "vivid colors"
+    ],
+    "objetivos": [
+      0.13696496188640594,
+      0.8104932010173798
+    ],
+    "generated_data": "Vivid colors dance across the city's wall, a vibrant mural born from the struggles and triumphs of community resilience during lockdowns. As an artist, I pour my emotions onto the canvas, reflecting on the anxiety that drove me up the wall, yet finding solace in the geniality that comes with bringing people together.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.13696496188640594,
+      "diversity_individual": 0.8104932010173798,
+      "pop_inertia": 0.34266536712646484,
+      "pop_entropy": 0.666308974274932
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first respondent",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Imagine a city's walls transformed into a vibrant canvas through a collaborative mural project, bringing people together to express their emotions and reflections amidst the lockdown. Describe how this artistic endeavor can foster community resilience, incorporating vivid colors and symbols that evoke hope and positivity.",
+    "keywords": [
+      "artistic expression",
+      "together",
+      "vivid colors",
+      "mural",
+      "wall",
+      "reflection",
+      "city",
+      "lockdown",
+      "genial"
+    ],
+    "objetivos": [
+      0.11874186992645264,
+      0.8170517832040787
+    ],
+    "generated_data": "As our city's walls transform into a vibrant canvas, I see a reflection of our collective emotions - a kaleidoscope of hope and positivity. Amidst the lockdown, we've come together to create a masterpiece that celebrates resilience through artistic expression. The mural's vivid colors evoke feelings of warmth, joy, and unity, as if the city's very walls are radiating geniality. Together, we're painting a brighter future, one brushstroke at a time.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.11874186992645264,
+      "diversity_individual": 0.8170517832040787,
+      "pop_inertia": 0.32497241973876956,
+      "pop_entropy": 0.6615429466119368
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first respondent",
+    "topic": "remote work and online schooling",
+    "prompt": "Imagine a world where vibrant hues of turquoise and coral red seep into your digital realm, as you struggle to find artistic expression in the midst of this quarantine-induced chaos. Describe how the toll of remote work and online schooling is affecting your personal life, highlighting the vivid colors that reflect your emotional state.",
+    "keywords": [
+      "artistic expression",
+      "toll",
+      "impact",
+      "personal",
+      "vivid colors"
+    ],
+    "objetivos": [
+      0.20365571975708008,
+      0.7921244353055954
+    ],
+    "generated_data": "The vibrant hues of turquoise and coral red bleed into my digital world, a constant reminder of the creative void I'm struggling to fill. As I navigate the toll of remote work and online schooling, my personal life is becoming a canvas of anxiety, with vivid colors like cobalt blue for frustration, mint green for fatigue, and fiery orange for desperation.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.20365571975708008,
+      "diversity_individual": 0.7921244353055954,
+      "pop_inertia": 0.3276692962646484,
+      "pop_entropy": 0.6711098522097865
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "In a world where quarantine chaos fuels public anxiety and misinformation spreads like wildfire through the media, I need a straightforward guide on hand hygiene and sanitization that I can trust. Write a concise guide based on reliable information that helps me maintain my daily routine and stay safe during this pandemic.",
+    "keywords": [
+      "media",
+      "routine",
+      "social",
+      "chaos",
+      "reliable information",
+      "quarantine",
+      "daily",
+      "of a normal",
+      "public anxiety",
+      "pandemic"
+    ],
+    "objetivos": [
+      0.13774991035461426,
+      0.8042527437210083
+    ],
+    "generated_data": "In these uncertain times, it's essential to prioritize hand hygiene and sanitization. Stick to your daily routine by washing your hands frequently with soap and water for at least 20 seconds, especially after using the bathroom, before eating, and after blowing your nose, coughing or sneezing. Sanitize high-touch areas regularly and avoid touching your face. Trust reliable sources like WHO and CDC for accurate information, not social media chaos.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.13774991035461426,
+      "diversity_individual": 0.8042527437210083,
+      "pop_inertia": 0.3426999664306641,
+      "pop_entropy": 0.6814958778778296
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "social distancing practices",
+    "prompt": "Imagine a world where vibrant murals of bright colors and uplifting messages spread hope during the quarantine. Write a heartfelt essay on how to foster community spirit and bring people together through creative expressions like street art, social media campaigns, or live performances that promote resilience and positivity.",
+    "keywords": [
+      "media",
+      "artistic expression",
+      "together",
+      "resilience",
+      "foster community",
+      "quarantine",
+      "bring people together",
+      "community",
+      "vivid colors"
+    ],
+    "objetivos": [
+      0.05616196244955063,
+      0.8200056701898575
+    ],
+    "generated_data": "In this uncertain time, I believe vibrant murals can be a beacon of hope, spreading messages of resilience and positivity. Through artistic expression, we can foster community spirit and bring people together. Imagine streets filled with vivid colors, telling stories of togetherness and solidarity. It's not just about creating art – it's about sparking conversations and connections that transcend physical distance.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.05616196244955063,
+      "diversity_individual": 0.8200056701898575,
+      "pop_inertia": 0.3509838104248047,
+      "pop_entropy": 0.6677916605016236
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "genial wellness during the pandemic",
+    "prompt": "Craft a plea for self-care and mental well-being during the pandemic's isolation phase, highlighting the psychological impact of quarantine on mental health, as if addressing someone struggling with anxiety and depression.",
+    "keywords": [
+      "quarantine",
+      "plea",
+      "mental health",
+      "proposition",
+      "phone etiquette",
+      "psychological impact",
+      "anxiety",
+      "genial"
+    ],
+    "objetivos": [
+      0.819625735282898,
+      0.49606019258499146
+    ],
+    "generated_data": "Hey there, friend! I totally get it - this quarantine can be overwhelming, especially when our routines are disrupted and social media is flooded with Corona-related updates. It's normal to feel anxious and depressed. But here's the thing: we have the power to take control of our mental well-being. Take breaks from your phone, engage in activities that bring you joy, and prioritize self-care. Remember, it's okay not to be okay - but it's also okay to ask for help. Let's look out for each other and get through this together!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.819625735282898,
+      "diversity_individual": 0.49606019258499146,
+      "pop_inertia": 0.33458354949951175,
+      "pop_entropy": 0.6738523167975763
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Reflecting on the consequence of travel restrictions on mental health during quarantine, consider how phone etiquette plays a role in coping with anxiety and depression.",
+    "keywords": [
+      "consequence",
+      "phone etiquette",
+      "quarantine",
+      "mental health",
+      "proposition",
+      "anxiety",
+      "health",
+      "depression"
+    ],
+    "objetivos": [
+      0.8342121243476868,
+      0.4747779369354248
+    ],
+    "generated_data": "Quarantine's got me stuck in this anxiety loop - constant notifications from everyone freaking out about Corona only worsen my depression. I've lost all phone etiquette sense, avoiding screens altogether to shield myself from the pressure",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8342121243476868,
+      "diversity_individual": 0.4747779369354248,
+      "pop_inertia": 0.340943603515625,
+      "pop_entropy": 0.6693267068129319
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Describe the consequences of extended travel restrictions on mental health, specifically addressing how quarantine affects individuals with existing anxiety and depression, considering the impact on daily routines, work, and online schooling.",
+    "keywords": [
+      "quarantine",
+      "consequence",
+      "online schooling",
+      "anxiety",
+      "depression"
+    ],
+    "objetivos": [
+      0.8313076496124268,
+      0.48815375566482544
+    ],
+    "generated_data": "The extended quarantine has taken a toll on my mental health, exacerbating my existing anxiety and depression. The loss of structure from being stuck at home and the constant stream of alarming online updates have me avoiding my phone to cope with the overwhelming feelings of dread.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8313076496124268,
+      "diversity_individual": 0.48815375566482544,
+      "pop_inertia": 0.3577214050292969,
+      "pop_entropy": 0.6724991505011296
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Imagine you're a frustrated artist, stuck at home during quarantine. Your usual creative outlets have been disrupted by the constant barrage of misinformation and false reports about COVID-19. Write a piece that expresses your frustration with the situation, using vivid language to convey the anxiety and feelings of being overwhelmed.",
+    "keywords": [
+      "reliable information",
+      "false reports",
+      "insurance",
+      "depression"
+    ],
+    "objetivos": [
+      0.3465281128883362,
+      0.6969633102416992
+    ],
+    "generated_data": "The never-ending stream of fake news has me trapped in a maze of despair, my creative spark suffocated by the weight of unreliable information. I'm desperate for reliable facts, not just sensationalized headlines that fuel my depression and anxiety. Insurance companies are peddling fear, and the public is buying it hook, line, and sinker. I'm an artist, stuck in this digital purgatory, with only my sanity to lose.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3465281128883362,
+      "diversity_individual": 0.6969633102416992,
+      "pop_inertia": 0.3365953063964844,
+      "pop_entropy": 0.6743646955733569
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Generate a response to a friend sharing concerns about the impact of COVID-19 misinformation on their mental health, focusing on finding reliable sources for accurate information and coping with false reports, considering the influence on daily routines and emotional well-being.",
+    "keywords": [
+      "reliable information",
+      "false reports",
+      "insurance",
+      "depression"
+    ],
+    "objetivos": [
+      0.3428298830986023,
+      0.7005963623523712
+    ],
+    "generated_data": "I totally get where you're coming from! The constant barrage of misinformation can be overwhelming. To cope, I try to stick to trusted sources like government health sites and reputable news outlets for reliable information. When it comes to insurance and financial concerns, I double-check facts with experts before sharing anything online. It's tough not to let false reports get under your skin, but taking a step back, practicing self-care, and prioritizing my mental well-being helps me stay grounded. Remember, you're not alone in this! We can all use a little support and understanding right now.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3428298830986023,
+      "diversity_individual": 0.7005963623523712,
+      "pop_inertia": 0.35611194610595703,
+      "pop_entropy": 0.6739627686289047
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a convention individual",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "As an individual navigating the challenges of quarantine, describe how you believe misinformation and fake news about COVID-19 can be mitigated through responsible media practices and highlight the unintended consequences that may arise when first responders are overwhelmed by unverified reports.",
+    "keywords": [
+      "quarantine",
+      "media",
+      "consequence",
+      "first responder",
+      "mitigate",
+      "genial"
+    ],
+    "objetivos": [
+      0.3690616488456726,
+      0.6959660947322845
+    ],
+    "generated_data": "As someone stuck in this quarantine, I've seen firsthand how misinformation and fake news about COVID-19 spread like wildfire. It's crucial to have genial and reliable media sources to mitigate the chaos. But what worries me is the consequence of overloading first responders with unverified reports - it could lead to a breakdown in trust and efficiency.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3690616488456726,
+      "diversity_individual": 0.6959660947322845,
+      "pop_inertia": 0.34988262176513674,
+      "pop_entropy": 0.667367970050896
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote work and online schooling",
+    "prompt": "As a person dealing with depression during this pandemic, describe how you're coping with online schooling and remote work, incorporating your experience with anxiety and thoughts on building resilience through it all.",
+    "keywords": [
+      "online schooling",
+      "person",
+      "insurance",
+      "resilience",
+      "depression"
+    ],
+    "objetivos": [
+      0.35869792103767395,
+      0.696740984916687
+    ],
+    "generated_data": "Dealing with depression while juggling online schooling and remote work has been tough, but I'm trying to stay positive by establishing a routine and taking breaks when needed. It's also helped that my insurance covers mental health resources, allowing me to seek support whenever I need it.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.35869792103767395,
+      "diversity_individual": 0.696740984916687,
+      "pop_inertia": 0.32497241973876956,
+      "pop_entropy": 0.6615429466119368
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first responder",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "As a first responder, consider the psychological impact of misinformation on individuals like me during this quarantine, where constant exposure to false claims via phones can amplify anxiety and have severe consequences. Create a compelling plea to promote genial phone etiquette, highlighting the importance of verifying sources to combat the spread of misinformation.",
+    "keywords": [
+      "consequence",
+      "phone etiquette",
+      "genial",
+      "quarantine",
+      "plea",
+      "proposition",
+      "psychological impact",
+      "anxiety",
+      "misinformation"
+    ],
+    "objetivos": [
+      0.4525071382522583,
+      0.6668788194656372
+    ],
+    "generated_data": "As first responders, we're acutely aware of the psychological impact of misinformation on individuals during this quarantine. Constant exposure to false claims via phones can amplify anxiety and have severe consequences. That's why I'm pleading with you: let's promote genial phone etiquette by verifying sources before sharing information. It's crucial to combat the spread of misinformation, which can lead to devastating consequences for those already struggling.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.4525071382522583,
+      "diversity_individual": 0.6668788194656372,
+      "pop_inertia": 0.3411676788330078,
+      "pop_entropy": 0.671473644738371
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote work and online schooling",
+    "prompt": "From the perspective of a normal person struggling with mental health, describe how you're coping with the challenges of remote work and online schooling during the quarantine. Consider how your daily routine has been disrupted, and how you're staying motivated despite concerns for your own health.",
+    "keywords": [
+      "normal person struggling",
+      "concern",
+      "individuals",
+      "home",
+      "quarantine",
+      "from the perspective",
+      "of a normal",
+      "health",
+      "staying motivated",
+      "a normal person",
+      "depression"
+    ],
+    "objetivos": [
+      0.38990482687950134,
+      0.6775654554367065
+    ],
+    "generated_data": "Staying at home 24/7 is taking a toll on my mental health, I'm struggling to maintain a daily routine without leaving the house. The constant stream of corona-related updates isn't helping either, it's hard not to get overwhelmed with anxiety and concern for my own health. Despite all this, I'm trying to find ways to stay motivated, whether it's taking short breaks or doing something creative, but some days are tougher than others.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.38990482687950134,
+      "diversity_individual": 0.6775654554367065,
+      "pop_inertia": 0.3276692962646484,
+      "pop_entropy": 0.6711098522097865
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first respondent",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Pleading for accuracy in the face of chaos: As you generate text, imagine being on the frontline as a first responder, where every minute counts. Confronting the dire consequences of spreading misinformation about COVID-19 - particularly false reports and unverified claims that fuel anxiety among those struggling like me.",
+    "keywords": [
+      "plea",
+      "consequence",
+      "first responder",
+      "insurance",
+      "false reports",
+      "anxiety",
+      "frontline"
+    ],
+    "objetivos": [
+      0.4157959818840027,
+      0.6739969849586487
+    ],
+    "generated_data": "As a first responder, I'm begging you: please, for the sake of those on the frontline, be accurate in your reporting. False information is driving us all nuts, especially when it comes to COVID-19. The consequence is dire - anxiety that's crippling our ability to respond effectively and keep ourselves and others safe. Don't let insurance companies or anyone else profit from spreading misinformation. We're fighting for lives here, not clicks or views.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.4157959818840027,
+      "diversity_individual": 0.6739969849586487,
+      "pop_inertia": 0.3391715621948242,
+      "pop_entropy": 0.6740552185181546
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Reflect on your experience with misinformation during this quarantine and explore how it affects your mental health. Consider what would make you feel more secure about your well-being as a frontline person dealing with depression.",
+    "keywords": [
+      "proposition",
+      "insurance",
+      "person",
+      "frontline",
+      "depression"
+    ],
+    "objetivos": [
+      0.3892739415168762,
+      0.6887211203575134
+    ],
+    "generated_data": "I'm feeling like I'm drowning in a sea of misinformation, which is exacerbating my depression. As a frontline person, I'm constantly bombarded with proposition after proposition, claiming to have the 'real' solution to COVID-19. It's exhausting trying to sift through it all, and the lack of concrete facts makes me feel like I'm walking on shaky ground. If only insurance companies would stop peddling their half-truths and focus on providing real support, I'd feel more secure about my well-being.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3892739415168762,
+      "diversity_individual": 0.6887211203575134,
+      "pop_inertia": 0.3577214050292969,
+      "pop_entropy": 0.6724991505011296
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Describe the consequences of spreading misinformation about COVID-19 during this quarantine, considering how it affects mental health and daily life, like your own experience with depression.",
+    "keywords": [
+      "quarantine",
+      "consequence",
+      "first responder",
+      "phone etiquette",
+      "depression"
+    ],
+    "objetivos": [
+      0.6078703999519348,
+      0.5793805122375488
+    ],
+    "generated_data": "As a first responder, I've seen firsthand how spreading misinformation about COVID-19 can have devastating consequences, especially during this quarantine. It's exacerbated my own depression, making me dread the thought of checking my phone for fear of being bombarded with unverified claims.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6078703999519348,
+      "diversity_individual": 0.5793805122375488,
+      "pop_inertia": 0.3396234893798828,
+      "pop_entropy": 0.6748735036391981
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Imagine you're trying to cope with the psychological impact of ongoing quarantine measures on your mental health. Considering the consequence of avoiding others' messages on your phone due to their reaction to COVID-19 news, write a plea for responsible phone etiquette amidst the chaos, focusing on personal safety and travel restrictions, as if proposing a solution to mitigate anxiety's grip.",
+    "keywords": [
+      "consequence",
+      "phone etiquette",
+      "quarantine",
+      "plea",
+      "mental health",
+      "proposition",
+      "psychological impact",
+      "anxiety",
+      "genial"
+    ],
+    "objetivos": [
+      0.6385877132415771,
+      0.5526314079761505
+    ],
+    "generated_data": "I'm begging you, please keep your Corona updates to yourself! I get it, we're all concerned about our safety, but constant notifications are driving me crazy! As we cope with this quarantine life, let's prioritize phone etiquette and respect each other's mental health. Avoid sending unnecessary messages and let's focus on personal safety and travel restrictions. It's time to take a deep breath, stay calm, and find common ground. Let's look out for each other without losing our minds – genial communication is key!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6385877132415771,
+      "diversity_individual": 0.5526314079761505,
+      "pop_inertia": 0.35529197692871095,
+      "pop_entropy": 0.6722366928810711
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Generate text discussing the consequences of extended travel restrictions on mental health, specifically highlighting how quarantine can exacerbate existing issues like depression and anxiety, incorporating personal experiences with voided routines and phone avoidance.",
+    "keywords": [
+      "consequence",
+      "quarantine",
+      "anxiety",
+      "health",
+      "depression"
+    ],
+    "objetivos": [
+      0.6197009086608887,
+      0.5757965445518494
+    ],
+    "generated_data": "The consequence of prolonged travel restrictions is a ripple effect on our mental wellbeing. For someone like me who's already struggled with depression, the forced isolation during quarantine only worsens the anxiety, making it difficult to cope with the loss of daily routine and social connections.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6197009086608887,
+      "diversity_individual": 0.5757965445518494,
+      "pop_inertia": 0.3577214050292969,
+      "pop_entropy": 0.6724991505011296
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Explain how the current travel restrictions and safety measures are impacting your mental health, describing the specific consequences you're experiencing due to the quarantine and how it's affecting your daily life.",
+    "keywords": [
+      "consequence",
+      "quarantine",
+      "anxiety",
+      "health",
+      "depression"
+    ],
+    "objetivos": [
+      0.9032790660858154,
+      0.404175341129303
+    ],
+    "generated_data": "Quarantine has triggered a surge in my depression, as my work and routine have come to a standstill. I'm struggling with anxiety, avoiding my phone due to the overwhelming Corona-related updates, which only exacerbates my mental health concerns.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.9032790660858154,
+      "diversity_individual": 0.404175341129303,
+      "pop_inertia": 0.3409381866455078,
+      "pop_entropy": 0.6669793118521326
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first respondent",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Imagine a city's iconic wall transformed into a vibrant mural through collective artistic expression, symbolizing community resilience. What kind of message would you propose to spread hope and unity during lockdowns? Use vivid colors to bring your idea together.",
+    "keywords": [
+      "artistic expression",
+      "together",
+      "vivid colors",
+      "mural",
+      "wall",
+      "proposition",
+      "city",
+      "lockdown",
+      "genial"
+    ],
+    "objetivos": [
+      -0.007991485297679901,
+      0.8328847438097
+    ],
+    "generated_data": "I'd paint a mural that says 'Together We Rise' in bold, bright colors on the city's iconic wall. The proposition would be simple yet powerful: that even in isolation, our collective creativity can bridge gaps and spread hope. Vivid colors would radiate positivity, reminding everyone that we're not alone – and that together, we can rise above the challenges of lockdown.",
+    "metrics_detail": {
+      "fidelity_sbert": -0.007991485297679901,
+      "diversity_individual": 0.8328847438097,
+      "pop_inertia": 0.3570998001098633,
+      "pop_entropy": 0.6747767970016453
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "paw hygiene and sanitization",
+    "prompt": "In the midst of this quarantine, where reliable information seems to be scarce and people are collectively going crazy online, I'm struggling to stay sane while adapting to online schooling. Meanwhile, my furry friends at home need my attention too - write about practical paw hygiene and sanitization tips for everyday care.",
+    "keywords": [
+      "quarantine",
+      "reliable information",
+      "collective",
+      "struggling",
+      "online schooling",
+      "everyday"
+    ],
+    "objetivos": [
+      0.2720109224319458,
+      0.757842943072319
+    ],
+    "generated_data": "Quarantine life has me scrambling for reliable info on paw hygiene amidst the chaos. As an online schooler, I'm trying not to lose my mind while keeping Fido's paws clean. Here are some sanity-saving tips: Wash those paws daily with mild soap and warm water. Dry thoroughly to prevent bacterial growth. Trim nails regularly to avoid dirt accumulation. Sanitize high-touch areas like door handles and toys.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2720109224319458,
+      "diversity_individual": 0.757842943072319,
+      "pop_inertia": 0.35365058898925783,
+      "pop_entropy": 0.6655191332188908
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "social distancing practices",
+    "prompt": "Reflecting on your experience with quarantine, consider how social distancing practices have personally impacted your mental health. Describe the effects of this isolation on your daily routine and coping mechanisms.",
+    "keywords": [
+      "mental",
+      "insurance",
+      "struggling",
+      "anxiety",
+      "impact",
+      "personal"
+    ],
+    "objetivos": [
+      0.46346014738082886,
+      0.6452138125896454
+    ],
+    "generated_data": "The constant reminder to stay at home has taken a toll on my mental well-being. I'm struggling to cope with the anxiety that comes with wondering if my insurance will cover any potential health issues, leaving me feeling stuck in a rut.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.46346014738082886,
+      "diversity_individual": 0.6452138125896454,
+      "pop_inertia": 0.3577214050292969,
+      "pop_entropy": 0.6724991505011296
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Imagine being stuck in isolation with uncertainty surrounding travel restrictions and safety guidelines. Consider sharing trusted sources for reliable information amidst false reports and misinformation. Discuss how insurance coverage affects your mental health during this time, especially when dealing with underlying conditions like depression, as reflected in the passage.",
+    "keywords": [
+      "reliable information",
+      "false reports",
+      "insurance",
+      "depression"
+    ],
+    "objetivos": [
+      0.31960830092430115,
+      0.7126352190971375
+    ],
+    "generated_data": "Stuck at home, I'm desperate for reliable info on travel restrictions and safety guidelines. Amidst all the false reports, I'm trying to stay informed without losing my mind. Insurance coverage is a constant worry, especially with underlying depression - it's like being stuck in a never-ending loop of uncertainty.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.31960830092430115,
+      "diversity_individual": 0.7126352190971375,
+      "pop_inertia": 0.34988262176513674,
+      "pop_entropy": 0.667367970050896
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote work and online schooling",
+    "prompt": "Write about a normal person's daily life during quarantine, highlighting their struggles with staying motivated while working from home and learning remotely.",
+    "keywords": [
+      "quarantine",
+      "struggling",
+      "insurance",
+      "home",
+      "staying motivated"
+    ],
+    "objetivos": [
+      0.5189084410667419,
+      0.6143959164619446
+    ],
+    "generated_data": "I'm still trying to stay motivated during this quarantine, but it's tough when my work routine is disrupted. I'm struggling to find the right balance between staying productive at home and keeping up with online schooling.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5189084410667419,
+      "diversity_individual": 0.6143959164619446,
+      "pop_inertia": 0.3577214050292969,
+      "pop_entropy": 0.6724991505011296
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first respondent",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Create a response that captures the frustration of being bombarded with misinformation about COVID-19, set against the backdrop of a vibrant city's community where artistic expression is paramount. Reflect on how the spread of fake news affects everyday life, using vivid colors to paint a picture of resilience and its impact on mental health.",
+    "keywords": [
+      "artistic expression",
+      "community",
+      "city",
+      "impact",
+      "resilience",
+      "vivid colors"
+    ],
+    "objetivos": [
+      0.1878206431865692,
+      0.7692819982767105
+    ],
+    "generated_data": "As I navigate this kaleidoscope city, where street art weaves magic on every wall, I'm suffocating under the weight of misinformation. The vibrant hues that once danced across my soul now feel like toxic pollutants, poisoning my reality. Fake news is a virus, spreading fear and anxiety like wildfire, leaving me gasping for air. In this maelstrom, artistic expression, usually a balm to my soul, feels futile against the tidal wave of disinformation. The city's community, once a tapestry of diverse voices, now seems fragmented and lost.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.1878206431865692,
+      "diversity_individual": 0.7692819982767105,
+      "pop_inertia": 0.3381673812866211,
+      "pop_entropy": 0.6649499398088944
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "social distancing practices",
+    "prompt": "Write about how you're coping with the stress of online schooling during this pandemic-induced quarantine, highlighting any changes in your daily routine and how you're adapting to the new reality.",
+    "keywords": [
+      "quarantine",
+      "personal",
+      "online schooling"
+    ],
+    "objetivos": [
+      0.8279819488525391,
+      0.48305338621139526
+    ],
+    "generated_data": "This quarantine has me feeling anxious, especially since my routine and work have taken a hit. I'm trying to stay focused on my online schoolwork but it's tough with the constant stream of corona-related updates online - I've even stopped checking my phone as much because everyone seems so crazy about it.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8279819488525391,
+      "diversity_individual": 0.48305338621139526,
+      "pop_inertia": 0.3312173080444336,
+      "pop_entropy": 0.6680218795188361
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a convention individual",
+    "topic": "paw hygiene and sanitization",
+    "prompt": "While stuck in quarantine's rut, I'm trying to stay on top of my paw hygiene amidst the chaos. Generate a reliable guide on how to sanitize my paws during this pandemic, and provide some reassurance about maintaining a healthy routine despite the uncertainty.",
+    "keywords": [
+      "quarantine",
+      "reliable information",
+      "routine",
+      "insurance",
+      "phone etiquette",
+      "anxiety",
+      "pandemic",
+      "pandemonium"
+    ],
+    "objetivos": [
+      0.4171009361743927,
+      0.6662568747997284
+    ],
+    "generated_data": "Staying calm and sanitized during this pandemic is crucial! When stuck in quarantine, it's easy to let paw hygiene slide, but I've got you covered with a reliable guide on how to sanitize your paws amidst the chaos. Follow these simple steps: wash your hands thoroughly before and after touching your paws, use mild soap and lukewarm water, and dry them completely to prevent bacterial growth. Remember, maintaining a healthy routine is key – stick to your usual hygiene habits and prioritize self-care during this uncertain time.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.4171009361743927,
+      "diversity_individual": 0.6662568747997284,
+      "pop_inertia": 0.35365058898925783,
+      "pop_entropy": 0.6655191332188908
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first respondent",
+    "topic": "mask wearing guidelines",
+    "prompt": "As I'm stuck on this lockdown 'wall' of self-doubt and anxiety, I'd love to creatively express myself through vivid colors and together, we can craft a mask-wearing guide that's not just a proposition for the city's inhabitants, but an artistic expression of unity.",
+    "keywords": [
+      "artistic expression",
+      "together",
+      "proposition",
+      "city",
+      "vivid colors",
+      "wall",
+      "lockdown",
+      "genial"
+    ],
+    "objetivos": [
+      0.042516276240348816,
+      0.8213027864694595
+    ],
+    "generated_data": "From this lockdown 'wall', I envision a canvas of unity - vibrant colors blending together as we craft a mask-wearing guide that's not just a proposition for our city, but an artistic expression of togetherness.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.042516276240348816,
+      "diversity_individual": 0.8213027864694595,
+      "pop_inertia": 0.34383769989013674,
+      "pop_entropy": 0.6707943423272784
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Create a vivid description of a city street during lockdown, where an artist has brought the community together to create a massive mural on a wall, serving as a beacon of resilience and hope amidst misinformation. Incorporate themes of depression, reflection, and artistic expression, highlighting the power of collective effort in fostering a sense of community.",
+    "keywords": [
+      "artistic expression",
+      "together",
+      "mural",
+      "wall",
+      "resilience",
+      "foster community",
+      "bring people together",
+      "depression",
+      "reflection",
+      "community",
+      "city",
+      "artist",
+      "lockdown",
+      "vivid colors"
+    ],
+    "objetivos": [
+      0.1492488533258438,
+      0.7913013845682144
+    ],
+    "generated_data": "The city street, once desolate during lockdown, now pulsates with vibrant energy. A massive mural sprawls across the wall, a masterpiece of hope and resilience born from the collective efforts of the community. Amidst the vivid colors, I find solace in the reflection that this artistic expression has brought us together, fostering a sense of unity amidst the chaos of misinformation. As an artist myself, I'm struck by the power of creativity to overcome even the darkest moments of depression. The mural serves as a beacon, reminding me that together, we can build a brighter future.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.1492488533258438,
+      "diversity_individual": 0.7913013845682144,
+      "pop_inertia": 0.3350242614746094,
+      "pop_entropy": 0.6688750499844026
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first respondent",
+    "topic": "remote work and online schooling",
+    "prompt": "Imagine a frontliner struggling with quarantine's consequences. Describe how they're coping with the void of their routine and work, which has triggered depression, anxiety, and phone avoidance due to overwhelming corona-related messages.",
+    "keywords": [
+      "quarantine",
+      "consequence",
+      "person",
+      "struggling with quarantine",
+      "frontline",
+      "remote work",
+      "genial"
+    ],
+    "objetivos": [
+      0.7832414507865906,
+      0.4960781931877136
+    ],
+    "generated_data": "As a frontline worker stuck in this quarantine, I'm struggling to cope with the sudden void in my routine and work. The consequence is a surge in depression and anxiety that's driving me crazy. I've started avoiding my phone entirely because every notification feels like a constant reminder of the chaos outside. It's hard not to feel overwhelmed when everyone seems to be going nuts sending corona-related messages.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7832414507865906,
+      "diversity_individual": 0.4960781931877136,
+      "pop_inertia": 0.33058364868164064,
+      "pop_entropy": 0.6706207361930825
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Imagine you're sharing your personal experience about living under travel restrictions due to a pandemic. Describe how the consequences of staying at home have affected your mental and emotional well-being, using specific examples from your own life.",
+    "keywords": [
+      "quarantine",
+      "consequence",
+      "anxiety",
+      "health",
+      "depression"
+    ],
+    "objetivos": [
+      0.8781404495239258,
+      0.44087451696395874
+    ],
+    "generated_data": "Living under quarantine has taken a toll on my mental health, with depression kicking in as a consequence of being stuck at home. The constant anxiety of avoiding corona-related updates on my phone has become overwhelming, making it hard for me to cope.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8781404495239258,
+      "diversity_individual": 0.44087451696395874,
+      "pop_inertia": 0.3326031494140625,
+      "pop_entropy": 0.6686952560687071
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Reflect on your recent experience with quarantine and its impact on your mental health. Describe how the sudden lack of work and routine has affected your daily life, particularly in regards to your struggle with depression and anxiety.",
+    "keywords": [
+      "quarantine",
+      "consequence",
+      "person",
+      "anxiety",
+      "depression"
+    ],
+    "objetivos": [
+      0.8622259497642517,
+      0.45151329040527344
+    ],
+    "generated_data": "The quarantine's been a nightmare for my mental health - the sudden void of structure and purpose had me struggling with depression again. The constant stream of coronavirus updates only added fuel to my anxiety fire, making it hard to shake off the feeling that I'm losing control.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8622259497642517,
+      "diversity_individual": 0.45151329040527344,
+      "pop_inertia": 0.3577214050292969,
+      "pop_entropy": 0.6724991505011296
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Imagine navigating the emotional rollercoaster of quarantine while grappling with the psychological impact of being confined. How do you think not adhering to phone etiquette could have a consequence on your personal mental health and overall well-being during this difficult time?",
+    "keywords": [
+      "consequence",
+      "phone etiquette",
+      "personal",
+      "quarantine",
+      "mental health",
+      "proposition",
+      "psychological impact",
+      "anxiety",
+      "genial"
+    ],
+    "objetivos": [
+      0.663177490234375,
+      0.5280413329601288
+    ],
+    "generated_data": "Quarantine has taken a toll on my mental health, and avoiding my phone is a desperate attempt to calm the anxiety storm brewing inside. Not practicing good phone etiquette can lead to an overwhelming sense of isolation, further exacerbating the psychological impact of confinement – it's a proposition I'm not willing to take.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.663177490234375,
+      "diversity_individual": 0.5280413329601288,
+      "pop_inertia": 0.3220423889160156,
+      "pop_entropy": 0.6698774716081249
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first respondent",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "As I navigate the anxiety of being on the frontline during this pandemic, I plead with you to consider the devastating consequence of spreading misinformation. Please address the issue of false reports and COVID-19 news that's fueling my stress as a first responder, especially regarding insurance claims and medical coverage. As someone who's seen the impact firsthand, I urge you to prioritize accurate reporting to protect our well-being.",
+    "keywords": [
+      "plea",
+      "consequence",
+      "first responder",
+      "insurance",
+      "false reports",
+      "anxiety",
+      "frontline"
+    ],
+    "objetivos": [
+      0.38368111848831177,
+      0.6841652691364288
+    ],
+    "generated_data": "As a frontline first responder, I'm pleading with you to address the devastating consequence of spreading misinformation about COVID-19 news. False reports are fueling my anxiety and stress, especially regarding insurance claims and medical coverage, which can have severe consequences on our well-being.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.38368111848831177,
+      "diversity_individual": 0.6841652691364288,
+      "pop_inertia": 0.35365058898925783,
+      "pop_entropy": 0.6655191332188908
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "An anxious individual seeking reliable information on travel restrictions during the pandemic shares their concerns about the chaos in the media's reporting and the consequences of staying informed. Write a thoughtful reflection on coping with public anxiety.",
+    "keywords": [
+      "media",
+      "consequence",
+      "chaos",
+      "quarantine",
+      "reliable information",
+      "daily",
+      "anxiety",
+      "of a normal",
+      "public anxiety",
+      "pandemic"
+    ],
+    "objetivos": [
+      0.3205847442150116,
+      0.6849397718906403
+    ],
+    "generated_data": "I'm exhausted from scrolling through news feeds daily, trying to stay informed amidst the chaotic media coverage. The constant updates on travel restrictions are overwhelming, and I find myself avoiding reliable sources altogether just to escape the anxiety that comes with it.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3205847442150116,
+      "diversity_individual": 0.6849397718906403,
+      "pop_inertia": 0.3570998001098633,
+      "pop_entropy": 0.6747767970016453
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "journey confinement and refuge",
+    "prompt": "Describe your personal struggle with anxiousness and depression during the current quarantine, incorporating the impact on daily routine and phone use; explore how this experience has affected you as an individual.",
+    "keywords": [
+      "quarantine",
+      "outcome",
+      "individual",
+      "anxiousness",
+      "depression"
+    ],
+    "objetivos": [
+      0.7545032501220703,
+      0.5194843709468842
+    ],
+    "generated_data": "As I navigate this prolonged quarantine, my anxiety and depression have taken a toll on my daily life. The absence of structure and routine has left me feeling lost and disconnected from the world. Avoiding my phone has become a coping mechanism to shield myself from the constant stream of coronavirus updates, but in doing so, I've inadvertently isolated myself further. This experience has forced me to confront my individual struggles head-on, and I'm grappling with the outcome - will this quarantine ultimately lead to personal growth or prolonged suffering?",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7545032501220703,
+      "diversity_individual": 0.5194843709468842,
+      "pop_inertia": 0.3570998001098633,
+      "pop_entropy": 0.6747767970016453
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during siege",
+    "prompt": "As I contemplate creating a powerful mural that captures the essence of community resilience during this siege, I need you to craft a message that highlights the importance of reliable information in bringing people together. In this turbulent time, how can we use art and vivid colors to uplift each other and foster a sense of unity?",
+    "keywords": [
+      "reliable information",
+      "together",
+      "bring people together",
+      "mural",
+      "vivid colors"
+    ],
+    "objetivos": [
+      0.07122556120157242,
+      0.8006057739257812
+    ],
+    "generated_data": "As an artist, I believe our mural can be a beacon of hope and resilience. Reliable information is key to bringing people together, and through vibrant colors and powerful imagery, we can create a masterpiece that inspires unity and uplifts the community.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.07122556120157242,
+      "diversity_individual": 0.8006057739257812,
+      "pop_inertia": 0.34548656463623045,
+      "pop_entropy": 0.6675693558029514
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "paw hygiene and sanitization",
+    "prompt": "Write a passage about the importance of maintaining personal paw hygiene during this quarantine period, taking into account the increased media attention on COVID-19 related topics. As someone who's feeling overwhelmed with anxiety, I'd like to explore how one can create a sense of security and control by following simple sanitization propositions.",
+    "keywords": [
+      "media",
+      "quarantine",
+      "proposition",
+      "insurance"
+    ],
+    "objetivos": [
+      0.5342179536819458,
+      0.5856212973594666
+    ],
+    "generated_data": "I've been stuck in this quarantine rut, and it's hard not to get anxious when every media outlet is screaming about COVID-19. But what really gets my paws sweating is the thought of getting sick because I wasn't taking care of myself. That's why I'm making a proposition: let's take control back by prioritizing paw hygiene! It's simple, really – wash those paws frequently, especially after touching anything that might have come into contact with germs. And don't forget to dry them thoroughly! With this quarantine insurance policy in place, I can finally feel like I'm doing something right.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5342179536819458,
+      "diversity_individual": 0.5856212973594666,
+      "pop_inertia": 0.32969978332519534,
+      "pop_entropy": 0.6691370402977136
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during siege",
+    "prompt": "As a creative person, envision a metropolis under siege where lockdowns have ravaged the landscape. Amidst this chaos, design a vibrant mural that brings people together and fosters community, using vivid colors to convey hope and resilience in the face of adversity.",
+    "keywords": [
+      "together",
+      "neighborhood",
+      "bring people together",
+      "foster community",
+      "metropolis",
+      "expression",
+      "lockdown",
+      "rampart",
+      "artistic expression",
+      "mural",
+      "resilience",
+      "creative person",
+      "vivid colors"
+    ],
+    "objetivos": [
+      0.10323083400726318,
+      0.7989141643047333
+    ],
+    "generated_data": "As I paint on the rampart's concrete wall, my brush strokes dance with vibrant colors, weaving a tapestry of hope amidst lockdown's desolate landscape. The metropolis, once divided by barricades, now unites through the neighborhood's collective expression – a mural that stands tall, a beacon of community resilience, reminding us that together, we can face any siege.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.10323083400726318,
+      "diversity_individual": 0.7989141643047333,
+      "pop_inertia": 0.3570998001098633,
+      "pop_entropy": 0.6747767970016453
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote work and online schooling",
+    "prompt": "Create a reflection on the challenges of working from home during this ongoing quarantine, acknowledging the struggle to stay motivated while dealing with the added stress of depression. Consider how one's daily routine and social interactions are affected by the lack of physical separation, and explore strategies for maintaining productivity and emotional well-being in this new normal.",
+    "keywords": [
+      "quarantine",
+      "struggling",
+      "insurance",
+      "home",
+      "staying motivated"
+    ],
+    "objetivos": [
+      0.7557672262191772,
+      0.5167586505413055
+    ],
+    "generated_data": "I'm struggling to stay motivated during this quarantine as my daily routine is void and I'm constantly stuck at home. It's like my depression has kicked in a few notches - the isolation is suffocating me. I've stopped checking my phone, trying to avoid the overwhelming news and anxiety that comes with it. Without insurance, worrying about what could happen if we get infected keeps me up all night. Staying motivated feels like climbing a never-ending mountain.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7557672262191772,
+      "diversity_individual": 0.5167586505413055,
+      "pop_inertia": 0.35468421936035155,
+      "pop_entropy": 0.667066686836399
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first respondent",
+    "topic": "remote work and online schooling",
+    "prompt": "As an individual adapting to the challenges of remote work and online schooling during quarantine, describe the toll this experience has taken on your mental health and personal creative outlets, using vivid colors to illustrate the emotional impact.",
+    "keywords": [
+      "artistic expression",
+      "toll",
+      "impact",
+      "personal",
+      "vivid colors"
+    ],
+    "objetivos": [
+      0.550068736076355,
+      0.5825179219245911
+    ],
+    "generated_data": "The quarantine's silence is a dull gray that suffocates my artistic expression, once a vibrant splash of colors on canvas now reduced to a faint whisper. The constant anxiety has drained my palette, leaving only muted hues and a sense of desperation. It's as if the vivid colors I once used to paint my world have been replaced with a dull, monotonous beige that chokes the life out of me.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.550068736076355,
+      "diversity_individual": 0.5825179219245911,
+      "pop_inertia": 0.3570998001098633,
+      "pop_entropy": 0.6747767970016453
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "paw hygiene and sanitization",
+    "prompt": "Imagine you're in quarantine and your mental state is already affected by the isolation. Now, as someone struggling with anxiety, please write about the importance of good paw hygiene during this time, acknowledging the consequence of not prioritizing it.",
+    "keywords": [
+      "quarantine",
+      "anxiety",
+      "consequence",
+      "plea"
+    ],
+    "objetivos": [
+      0.5832840800285339,
+      0.5743599236011505
+    ],
+    "generated_data": "I'm stuck in this quarantine nightmare, my anxiety's at an all-time high, and the thought of getting sick because of some careless paw hygiene is just too much to handle. Please, for the sake of our sanity, remember to wash those paws regularly - it's a small consequence compared to the anxiety that'll come with getting sick.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5832840800285339,
+      "diversity_individual": 0.5743599236011505,
+      "pop_inertia": 0.35611194610595703,
+      "pop_entropy": 0.6739627686289047
+    },
+    "fitness": 0
+  },
+  {
+    "role": "first respondent",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Imagine you're stuck at home during this quarantine, feeling anxious and avoiding your phone due to overwhelming Corona-related messages. Please craft a heartfelt plea about the importance of proper hand hygiene and sanitization in preventing the spread of illnesses when people are physically close at home.",
+    "keywords": [
+      "quarantine",
+      "health",
+      "plea",
+      "home"
+    ],
+    "objetivos": [
+      0.6243981122970581,
+      0.5506895482540131
+    ],
+    "generated_data": "I'm begging you, friends! As I'm stuck at home during this quarantine, I'm feeling anxious and overwhelmed by the constant messages about Corona. It's hard to focus on my own health when everyone around me is struggling. That's why I'm pleading with you: please, for your own sake and those around you, make sure to practice proper hand hygiene and sanitization! When we're physically close at home, it's crucial that we take extra precautions to prevent the spread of illnesses. Let's work together to stay healthy and strong.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6243981122970581,
+      "diversity_individual": 0.5506895482540131,
+      "pop_inertia": 0.3220423889160156,
+      "pop_entropy": 0.6698774716081249
+    },
+    "fitness": 0
+  }
+]

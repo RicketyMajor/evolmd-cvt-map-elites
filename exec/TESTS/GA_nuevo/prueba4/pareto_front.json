@@ -1,0 +1,2397 @@
+[
+  {
+    "role": "a normal person",
+    "topic": "remote work and online schooling",
+    "prompt": "Write a frustrated commentary on the current state of remote work and online schooling from the perspective of someone tired of feeling stuck in isolation.",
+    "keywords": [
+      "remote work",
+      "online schooling",
+      "feeling stuck",
+      "isolation",
+      "write a frustrated",
+      "a frustrated commentary",
+      "frustrated commentary on",
+      "commentary on the",
+      "on the current",
+      "the current state",
+      "current state of",
+      "state of remote"
+    ],
+    "objetivos": [
+      0.5020018815994263,
+      0.7365168035030365
+    ],
+    "generated_data": "Why don't they wake me up when Corona ends? I'm trapped in this endless cycle of remote work and online schooling, feeling like I'm stuck in a never-ending dream. The loneliness is suffocating, and I just can't shake off the feeling that I'm slowly losing myself to this isolation.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5020018815994263,
+      "diversity_individual": 0.7365168035030365,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a normal person",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "Write a frustrated rant about the seemingly endless duration of COVID-19 restrictions and your desire to return to normal life, as if speaking directly to someone else.",
+    "keywords": [
+      "covid",
+      "restrictions",
+      "normal life",
+      "return",
+      "endless",
+      "duration"
+    ],
+    "objetivos": [
+      0.679905354976654,
+      0.6717464625835419
+    ],
+    "generated_data": "Why don't you wake me up when corona ends?! I'm so done with these endless restrictions, feeling like I'm stuck in some sort of never-ending nightmare. When will we finally get to return to normal life?!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.679905354976654,
+      "diversity_individual": 0.6717464625835419,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote work and online schooling",
+    "prompt": "Write a frustrated commentary on the current state of remote work and online schooling, highlighting feelings of isolation and being stuck, mentioning the struggles of not having human connection during corona era, expressing frustration at feeling disconnected from the world.",
+    "keywords": [
+      "remote work",
+      "online schooling",
+      "feeling stuck",
+      "isolation",
+      "write a frustrated",
+      "a frustrated commentary",
+      "frustrated commentary on",
+      "commentary on the",
+      "on the current",
+      "the current state",
+      "current state of",
+      "state of remote"
+    ],
+    "objetivos": [
+      0.3153577744960785,
+      0.7956512719392776
+    ],
+    "generated_data": "I'm trapped in this digital purgatory, forced to navigate the isolating landscape of remote work and online schooling. It's like being a ghost wandering through virtual halls, yearning for human touch – but Corona-era reality seems determined to keep us stuck in this limbo.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3153577744960785,
+      "diversity_individual": 0.7956512719392776,
+      "pop_inertia": 0.38318443298339844,
+      "pop_entropy": 0.6874730076509865
+    }
+  },
+  {
+    "role": "a convention individual",
+    "topic": "infirmary preparedness for COVID-19",
+    "prompt": "Write a frustrated commentary on the current state of remote work and online schooling during the COVID-19 pandemic, expressing feelings of being stuck and unable to 'wake up' from this situation when you're not prepared for the infirmary's response.",
+    "keywords": [
+      "remote work",
+      "online schooling",
+      "feeling stuck",
+      "closing off",
+      "write a frustrated",
+      "a frustrated commentary",
+      "frustrated commentary on",
+      "commentary on the",
+      "on the current",
+      "the current state",
+      "current state of",
+      "state of remote"
+    ],
+    "objetivos": [
+      0.4709022343158722,
+      0.7483828365802765
+    ],
+    "generated_data": "I'm trapped in this never-ending cycle of remote work and online schooling, feeling like I'm stuck in a perpetual state of limbo. Why can't we just wake up when corona ends? The current state of remote is suffocating me - it's time to break free from this digital prison!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.4709022343158722,
+      "diversity_individual": 0.7483828365802765,
+      "pop_inertia": 0.38318443298339844,
+      "pop_entropy": 0.6874730076509865
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Create a powerful song lyrics for the end of the pandemic era that reminds people to hold on to hope and never lose sight of the endgame, highlighting community resilience during the lockdowns.",
+    "keywords": [
+      "reminded",
+      "endgame",
+      "hope's"
+    ],
+    "objetivos": [
+      0.2990680932998657,
+      0.801113173365593
+    ],
+    "generated_data": "As we rise from the ashes, our hearts still beating as one. Reminded by the struggles, let's never forget the endgame is won.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2990680932998657,
+      "diversity_individual": 0.801113173365593,
+      "pop_inertia": 0.41920536041259765,
+      "pop_entropy": 0.684698027158207
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "From the perspective of a frustrated social media user, write a series of viral posts that adapt to misinformation and fake news about COVID-19, starting with a media post from the pandemic's early days saying 'why don't you wake me up when corona ends'.",
+    "keywords": [
+      "pandemic",
+      "post from the",
+      "media post from",
+      "adapt",
+      "from the perspective",
+      "perspective of a",
+      "a frustrated social",
+      "write a frustrated",
+      "the perspective of",
+      "covid 19",
+      "frustrated social media",
+      "social media post"
+    ],
+    "objetivos": [
+      0.7241425514221191,
+      0.6135188043117523
+    ],
+    "generated_data": "I'm so done with the Corona hype. Why don't you wake me up when it actually ends? Meanwhile, I'll just be over here, trying to make sense of the endless stream of misinformation on my feed.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7241425514221191,
+      "diversity_individual": 0.6135188043117523,
+      "pop_inertia": 0.4281503295898437,
+      "pop_entropy": 0.6885091223905322
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Create a poem as an artist about the anguish of being stuck in lockdown and the importance of taking measures for public safety while coping with the frustrations of waiting for normalcy to return, highlighting the impact on mental health.",
+    "keywords": [
+      "artist",
+      "about the frustrations",
+      "anguish",
+      "public safety",
+      "normalcy",
+      "measures",
+      "mental health"
+    ],
+    "objetivos": [
+      0.08403396606445312,
+      0.8928359821438789
+    ],
+    "generated_data": "As I paint the isolation's grey\nThe weight of wait, a desperate sway",
+    "metrics_detail": {
+      "fidelity_sbert": 0.08403396606445312,
+      "diversity_individual": 0.8928359821438789,
+      "pop_inertia": 0.46294612884521485,
+      "pop_entropy": 0.6898175324709137
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Imagine a world where travel restrictions are the new norm. Write a candid conversation between a frustrated social worker and a struggling officer discussing the endgame of these measures.",
+    "keywords": [
+      "a frustrated social",
+      "struggling",
+      "officer",
+      "candid",
+      "endgame"
+    ],
+    "objetivos": [
+      0.16654260456562042,
+      0.8512002229690552
+    ],
+    "generated_data": "I'm so tired of being stuck in this rut,",
+    "metrics_detail": {
+      "fidelity_sbert": 0.16654260456562042,
+      "diversity_individual": 0.8512002229690552,
+      "pop_inertia": 0.46704296112060545,
+      "pop_entropy": 0.6841312223650734
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Create a thought-provoking song lyrics as an artist reflecting on the struggles of living through pandemic lockdowns and the power of community resilience, incorporating themes of frustration, struggle, and hope for the endgame.",
+    "keywords": [
+      "a frustrated social",
+      "struggling",
+      "media post from",
+      "endgame"
+    ],
+    "objetivos": [
+      0.6393259763717651,
+      0.6931136548519135
+    ],
+    "generated_data": "Why don't you wake me up when corona ends? I'm stuck in this loop, feeling so confined. Struggling to find a way out, I'm searching for a light. In this darkened world, where's the spark that ignites?",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6393259763717651,
+      "diversity_individual": 0.6931136548519135,
+      "pop_inertia": 0.4541597366333008,
+      "pop_entropy": 0.684474263754297
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "As the globe-trotting artist, write a forthright song lyrics addressing misinformation and fake news surrounding COVID-19 pandemic, reminding your fans to stay vigilant until the endgame of this crisis. Encourage them with motivational words.",
+    "keywords": [
+      "globe trotting",
+      "reminded",
+      "endgame",
+      "forthright",
+      "motivational",
+      "fans"
+    ],
+    "objetivos": [
+      0.7426571846008301,
+      0.5600205957889557
+    ],
+    "generated_data": "Why don't you wake me up when corona ends? Until then, I'll keep on singing my truth, reminding fans to stay vigilant and forthright, amidst a sea of misinformation. Let's rise above the noise and shine our light, together we can overcome this endgame, and emerge stronger than ever.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7426571846008301,
+      "diversity_individual": 0.5600205957889557,
+      "pop_inertia": 0.42787750244140627,
+      "pop_entropy": 0.6648844017724085
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Create a song lyrics that reflect the frustration of being stuck in a cycle of misinformation about COVID-19, incorporating the perspective of someone feeling trapped by lockdowns and yearning for clarity",
+    "keywords": [
+      "lockdowns",
+      "perspective of a"
+    ],
+    "objetivos": [
+      0.6070088148117065,
+      0.7069478332996368
+    ],
+    "generated_data": "I'm stuck in this loop, chasing shadows and lies\nWhy don't you wake me up when corona ends",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6070088148117065,
+      "diversity_individual": 0.7069478332996368,
+      "pop_inertia": 0.4476202392578125,
+      "pop_entropy": 0.6806136885088039
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Generate a rant about the struggle to fact-check misinformation on social media during the pandemic era, citing a specific frustrating example of a media post that got you wrong",
+    "keywords": [
+      "struggling",
+      "media post from",
+      "a frustrated social",
+      "endgame"
+    ],
+    "objetivos": [
+      0.3582323491573334,
+      0.7781941890716553
+    ],
+    "generated_data": "I'm struggling to keep up with the never-ending stream of misinformation on social media. It's like playing whack-a-mole – as soon as I debunk one fake news article, another takes its place. The final straw came when a popular media outlet posted an update claiming 'Corona is just around the corner from being eradicated' – only for me to fact-check it and find out it was completely false! Why can't they get their endgame straight?!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3582323491573334,
+      "diversity_individual": 0.7781941890716553,
+      "pop_inertia": 0.4537939453125,
+      "pop_entropy": 0.6888157894357544
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Reflecting on the chaos of misinformation surrounding Corona, I'm reminded that as a normal person, it's crucial to stay vigilant and not spread false news. Write a candid conversation between myself and a health officer about the importance of truth in these uncertain times.",
+    "keywords": [
+      "officer",
+      "reminded",
+      "candid"
+    ],
+    "objetivos": [
+      0.281059205532074,
+      0.8119086772203445
+    ],
+    "generated_data": "I asked the officer, 'How can we make sure people don't fall for misinformation?' They replied, 'We need to keep spreading accurate information and being reminded that fact-checking is key. As normal individuals, we play a vital role in combating fake news, so let's stay vigilant and not spread false rumors until corona ends.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.281059205532074,
+      "diversity_individual": 0.8119086772203445,
+      "pop_inertia": 0.43659725189208987,
+      "pop_entropy": 0.6858608001319558
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Write a sarcastic social media post expressing frustration with the constant spread of misinformation about COVID-19, feeling like it's an endgame for common sense, and struggling to stay awake until the pandemic finally ends.",
+    "keywords": [
+      "struggling",
+      "media post from",
+      "a frustrated social",
+      "endgame"
+    ],
+    "objetivos": [
+      0.7360387444496155,
+      0.5860503911972046
+    ],
+    "generated_data": "Why don't you wake me up when Corona ends? I'm struggling to stay awake through this never-ending nightmare of misinformation. Every media post from a frustrated social media user is just another reminder that we've reached the endgame for common sense",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7360387444496155,
+      "diversity_individual": 0.5860503911972046,
+      "pop_inertia": 0.47465755462646486,
+      "pop_entropy": 0.6951105608326803
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Create a motivational song for fans, reminding them to stay strong and resilient during lockdowns until the endgame of this pandemic era",
+    "keywords": [
+      "reminded",
+      "endgame",
+      "lockdowns",
+      "motivational",
+      "fans"
+    ],
+    "objetivos": [
+      0.6933196783065796,
+      0.6488840579986572
+    ],
+    "generated_data": "Rise up, don't give in, we're reminded we can win. Until the endgame, when Corona ends, keep pushing forward, till then we'll transcend",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6933196783065796,
+      "diversity_individual": 0.6488840579986572,
+      "pop_inertia": 0.4418890762329102,
+      "pop_entropy": 0.6874109930987776
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "hand hygiene and sanitation",
+    "prompt": "Remind me of the importance of proper hand hygiene during the pandemic, particularly for those relying on online schooling at home - write a concise paragraph highlighting the significance of soap and water usage.",
+    "keywords": [
+      "pandemic",
+      "online schooling",
+      "reminded",
+      "importance",
+      "paw"
+    ],
+    "objetivos": [
+      0.004181964322924614,
+      0.8992493823170662
+    ],
+    "generated_data": "As we navigate this pandemic era, it's crucial to remember that proper hand hygiene is key. With many of us relying on online schooling from home, it's easy to get complacent, but don't forget that soap and water are your best friends! During this time, remind yourself of the importance of washing those paws frequently - especially after using the bathroom or before handling food - to keep you and your loved ones safe.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.004181964322924614,
+      "diversity_individual": 0.8992493823170662,
+      "pop_inertia": 0.47603580474853513,
+      "pop_entropy": 0.6910180568041805
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an influencer",
+    "topic": "paw hygienics and sanitization",
+    "prompt": "As a candid influencer on paw hygienics and sanitization, share your perspective as an officer of animal health, discussing the importance of washing paws with soap and water to combat Corona.",
+    "keywords": [
+      "officer",
+      "perspective",
+      "candid"
+    ],
+    "objetivos": [
+      0.3463107943534851,
+      0.7898876368999481
+    ],
+    "generated_data": "As an officer of animal health, I'm urging you all to take paw hygiene seriously! Washing those paws with soap and water is crucial in combating Corona - it's a matter of life and death for our furry friends!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3463107943534851,
+      "diversity_individual": 0.7898876368999481,
+      "pop_inertia": 0.4272265243530273,
+      "pop_entropy": 0.6740250574307249
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "As the world struggles with misinformation on COVID-19, create a powerful piece that captures the frustration of a social media user posting 'why don't you wake me up when corona ends' while fighting against the spread of fake news and false narratives.",
+    "keywords": [
+      "a frustrated social",
+      "struggling",
+      "media post from",
+      "endgame"
+    ],
+    "objetivos": [
+      0.7077939510345459,
+      0.6363963782787323
+    ],
+    "generated_data": "I'm exhausted from screaming at screens, trying to pierce the veil of lies. Why don't you wake me up when Corona ends? The endgame is near, but misinformation's a never-ending battle.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7077939510345459,
+      "diversity_individual": 0.6363963782787323,
+      "pop_inertia": 0.4302190399169922,
+      "pop_entropy": 0.6788099122728972
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Craft a social media post about the struggle to cope with misinformation during the pandemic, referencing your frustration with fans who are unaware of reality and asking when we can wake up from this nightmare.",
+    "keywords": [
+      "a frustrated social",
+      "fans",
+      "pandemic",
+      "struggling",
+      "reality",
+      "media post from",
+      "cope"
+    ],
+    "objetivos": [
+      0.7279565930366516,
+      0.6053725481033325
+    ],
+    "generated_data": "I'm done pretending it's all okay when it's not! Fans still spreading misinformation like it's going out of style . Can't even cope with the reality check anymore! When does Corona end? Why don't people just WAKE ME UP WHEN CORONA ENDS?!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7279565930366516,
+      "diversity_individual": 0.6053725481033325,
+      "pop_inertia": 0.43729812622070313,
+      "pop_entropy": 0.688860538636037
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an influencer",
+    "topic": "paw hygienics and sanitization",
+    "prompt": "As a paw care influencer, write a forthright guide to paw hygiene and sanitization for the 'endgame' of keeping our furry friends safe from corona; be as candid as a veterinary officer when discussing best practices for soap and water use.",
+    "keywords": [
+      "forthright",
+      "officer",
+      "candid",
+      "endgame"
+    ],
+    "objetivos": [
+      0.21349841356277466,
+      0.8340859413146973
+    ],
+    "generated_data": "As a paw care influencer, I'm forthright with you - keeping your furry friend's paws clean is crucial in the endgame of protecting them from Corona. Candidly, using soap and water is just the start: make sure to scrub those paws daily, rinse thoroughly, and dry completely to prevent moisture buildup.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.21349841356277466,
+      "diversity_individual": 0.8340859413146973,
+      "pop_inertia": 0.44080196380615233,
+      "pop_entropy": 0.6793581541963367
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "hand hygiene and sanitation",
+    "prompt": "As a struggling artist, write a song lyrics about the importance of hand hygiene with Frank's perspective as a policeman during the pandemic era.",
+    "keywords": [
+      "struggling",
+      "frank",
+      "policeman"
+    ],
+    "objetivos": [
+      0.3701832592487335,
+      0.7718866467475891
+    ],
+    "generated_data": "Frank's on the beat, he's seen it all, but even he can't ignore the call, to wash those hands and take a stand. Struggling artists like me, we're trying to thrive in this crazy land, where Corona's still around, but with clean hands, we'll wear our crowns.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3701832592487335,
+      "diversity_individual": 0.7718866467475891,
+      "pop_inertia": 0.41342384338378907,
+      "pop_entropy": 0.6742284029573223
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Create a song lyrics about community resilience during lockdowns, focusing on the current state of hope and its importance in coping with the pandemic, inspired by the phrase 'why don't you wake me up when corona ends'.",
+    "keywords": [
+      "current state of",
+      "hope's"
+    ],
+    "objetivos": [
+      0.5008029937744141,
+      0.7088186144828796
+    ],
+    "generated_data": "In this isolation, where shadows roam free / Hope's a beacon calling out to thee. Why don't we rise up when corona subsides? Until then, let our hearts be guides",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5008029937744141,
+      "diversity_individual": 0.7088186144828796,
+      "pop_inertia": 0.4354939270019531,
+      "pop_entropy": 0.6775000408993307
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Imagine being stuck at home due to travel restrictions during the Corona pandemic. Write a candid conversation with a tired officer about the challenges of staying safe while waiting for the pandemic to end.",
+    "keywords": [
+      "corona",
+      "pandemic",
+      "officer",
+      "candid",
+      "wake",
+      "up",
+      "end",
+      "travel",
+      "global"
+    ],
+    "objetivos": [
+      0.4970700144767761,
+      0.7213505506515503
+    ],
+    "generated_data": "I sighed and rubbed my eyes, feeling like I'd been asleep for weeks. 'Why don't you wake me up when corona ends?' I joked, but the officer just looked at me with a mixture of understanding and frustration.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.4970700144767761,
+      "diversity_individual": 0.7213505506515503,
+      "pop_inertia": 0.4552713394165039,
+      "pop_entropy": 0.68013361500386
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "As a globetrotter artist, write a poignant and forthright song lyrics addressing the struggles and frustrations fans felt during pandemic travel restrictions, reminding them to stay motivated until COVID-19's endgame is reached, with emphasis on feeling trapped and longing for the freedom to roam.",
+    "keywords": [
+      "during pandemic travel",
+      "about the frustrations",
+      "reminded",
+      "forthright",
+      "motivational",
+      "fans",
+      "feeling trapped",
+      "endgame",
+      "lockdowns",
+      "globe trotting",
+      "the frustrations of"
+    ],
+    "objetivos": [
+      0.6699826121330261,
+      0.6595152318477631
+    ],
+    "generated_data": "Why don't you wake me up when Corona ends? Trapped in lockdowns, globe trotting's a distant dream, reminded of the frustrations that we've had to contend. But we're forthright, we won't give in, stay motivated until the endgame begins.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6699826121330261,
+      "diversity_individual": 0.6595152318477631,
+      "pop_inertia": 0.4140055847167969,
+      "pop_entropy": 0.6706694810324689
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an influencer",
+    "topic": "remote work and online schooling",
+    "prompt": "Imagine a world where Corona has become the new norm, and I'm writing a blog post about balancing remote work and online schooling. Write a thought-provoking piece that explores the highs and lows of this new reality.",
+    "keywords": [
+      "remote work",
+      "online schooling",
+      "corona",
+      "new norm",
+      "thought provoking",
+      "highs and lows"
+    ],
+    "objetivos": [
+      0.4644436240196228,
+      0.7256201803684235
+    ],
+    "generated_data": "As I sit in my pajamas, sipping coffee, and staring at my laptop screen, I can't help but wonder: why don't you wake me up when Corona ends? The lines between work and life have become so blurred, it's as if the world has gone into perpetual pause. Remote work and online schooling have become the new norm, and with them, a whole new set of challenges and opportunities.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.4644436240196228,
+      "diversity_individual": 0.7256201803684235,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "an artist",
+    "topic": "remote work and online schooling",
+    "prompt": "As an artist, craft a poem about the struggles of remote work and online schooling during lockdowns, focusing on the emotional toll it takes when corona doesn't seem to end, and explore how the current situation affects daily life.",
+    "keywords": [
+      "lockdowns",
+      "on the current"
+    ],
+    "objetivos": [
+      0.3845657408237457,
+      0.7474405169487
+    ],
+    "generated_data": "In isolation's haze, I search for light\nAs Corona's shadow looms, day and night",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3845657408237457,
+      "diversity_individual": 0.7474405169487,
+      "pop_inertia": 0.4541597366333008,
+      "pop_entropy": 0.684474263754297
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "paw hygienics and sanitization",
+    "prompt": "As a creative artist inspired by the pandemic's candid reminder of paw hygiene's importance, imagine an officer who stays vigilant about keeping paws sanitized while others sleep. Write a script for a PSA that highlights the role of soap and water in wiping away concerns, just like waking up from a long slumber.",
+    "keywords": [
+      "officer",
+      "reminded",
+      "candid"
+    ],
+    "objetivos": [
+      0.41638004779815674,
+      0.7346654832363129
+    ],
+    "generated_data": "As Officer Pawfect, I'm reminded daily that cleanliness is key to staying ahead of the curve. When Corona's grip loosens, don't sleep on paw hygiene – wash those paws with soap and water to wipe away worries, just like waking up from a long slumber.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.41638004779815674,
+      "diversity_individual": 0.7346654832363129,
+      "pop_inertia": 0.45240047454833987,
+      "pop_entropy": 0.6974616323829421
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "paw hygienics and sanitization",
+    "prompt": "Remind the reality of paw hygiene during COVID-19, highlighting the importance of frequent hand washing with soap and water to maintain a sanitized environment.",
+    "keywords": [
+      "reality",
+      "reminded",
+      "view"
+    ],
+    "objetivos": [
+      0.37654566764831543,
+      0.748088151216507
+    ],
+    "generated_data": "Reality check: just like we're reminded daily that corona isn't going anywhere anytime soon, it's crucial to keep our paws clean too! Let's not forget to wash those paws frequently with soap and water - a simple habit that'll help keep the spread at bay.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.37654566764831543,
+      "diversity_individual": 0.748088151216507,
+      "pop_inertia": 0.43642993927001955,
+      "pop_entropy": 0.6786153397574118
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Craft a thought-provoking poem about the struggles of navigating misinformation in the age of COVID-19, referencing a frustrated social media post, and concluding with a reflection on the endgame.",
+    "keywords": [
+      "struggling",
+      "media post from",
+      "a frustrated social",
+      "endgame"
+    ],
+    "objetivos": [
+      0.41870883107185364,
+      0.7337887585163116
+    ],
+    "generated_data": "In the haze of disinformation's fog, I struggle to find truth's ray. A frustrated social media post screams aloud: 'Why don't you wake me up when corona ends?' As we navigate the labyrinth of lies, the endgame whispers: truth is the only way.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.41870883107185364,
+      "diversity_individual": 0.7337887585163116,
+      "pop_inertia": 0.44948158264160154,
+      "pop_entropy": 0.6829859764360385
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "remote work and online schooling",
+    "prompt": "Inspire a motivational song about overcoming remote work and online schooling challenges with lyrics that remind fans the endgame is worth fighting for during these prolonged lockdowns.",
+    "keywords": [
+      "reminded",
+      "endgame",
+      "lockdowns",
+      "motivational",
+      "fans"
+    ],
+    "objetivos": [
+      0.7087017297744751,
+      0.6088680326938629
+    ],
+    "generated_data": "When Corona ends, we'll rise up strong, our dreams reminded, and our passion long. We fought through lockdowns, and now it's time to thrive, the endgame in sight, our hearts beating alive.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7087017297744751,
+      "diversity_individual": 0.6088680326938629,
+      "pop_inertia": 0.4531990051269531,
+      "pop_entropy": 0.6892203911226176
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "mental health during the pandemic",
+    "prompt": "As an artist, create a vibrant and symbolic mural for a hospital that embodies the resilience and hope of patients during the pandemic's darkest moments, incorporating imagery that represents their journey from illness to recovery within a community.",
+    "keywords": [
+      "mural",
+      "hospital",
+      "pandemic",
+      "recovery",
+      "community",
+      "resilience",
+      "hope",
+      "vibrant",
+      "colors",
+      "symbolic",
+      "imagery",
+      "journey"
+    ],
+    "objetivos": [
+      0.07520370185375214,
+      0.857454240322113
+    ],
+    "generated_data": "The 'Hope Blooms' mural depicts a vibrant garden in full bloom, symbolizing the patient's journey from darkness to light. Sturdy trees represent resilience, while colorful flowers signify hope and recovery. Amidst the hospital's sterile environment, this artwork reminds patients that they are not alone, and that community is key to overcoming even the darkest moments.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.07520370185375214,
+      "diversity_individual": 0.857454240322113,
+      "pop_inertia": 0.4053512191772461,
+      "pop_entropy": 0.6938684947813786
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an influencer",
+    "topic": "paw hygienics and sanitization",
+    "prompt": "Remind your fans that good paw hygiene is crucial to endgame health; write a motivational post about the importance of regular nail trimming, ear cleaning, and using antibacterial wipes during lockdowns.",
+    "keywords": [
+      "reminded",
+      "endgame",
+      "lockdowns",
+      "motivational",
+      "fans"
+    ],
+    "objetivos": [
+      0.05591550096869469,
+      0.881011463701725
+    ],
+    "generated_data": "Hey, fam! As we navigate these lockdowns together, I want to remind you all that good paw hygiene is crucial for our endgame health. Regularly trim those nails, give your ears some TLC with a gentle clean, and make sure to use antibacterial wipes when you're out and about. Your paws will thank you, and so will your overall well-being. Let's do this!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.05591550096869469,
+      "diversity_individual": 0.881011463701725,
+      "pop_inertia": 0.44265281677246093,
+      "pop_entropy": 0.678255241408882
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an influencer",
+    "topic": "paw hygienics and sanitization",
+    "prompt": "Remind your fans that even during lockdowns, good paw hygiene is crucial - write a motivational post on the importance of washing paws with soap and water for an endgame where we can all be paw-some again",
+    "keywords": [
+      "reminded",
+      "endgame",
+      "lockdowns",
+      "motivational",
+      "fans"
+    ],
+    "objetivos": [
+      0.043576523661613464,
+      0.883673831820488
+    ],
+    "generated_data": "Hey friends! I know it's easy to get stuck in a rut during these lockdowns, but let me remind you that good paw hygiene is crucial until we reach the endgame! Washing those paws with soap and water might not seem like much, but trust me, it's what'll help us all be paw-some again. So, stay motivated, keep those paws clean, and know that together, we'll get through this and come out even stronger on the other side!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.043576523661613464,
+      "diversity_individual": 0.883673831820488,
+      "pop_inertia": 0.47603580474853513,
+      "pop_entropy": 0.6910180568041805
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "paw hygienics and sanitization",
+    "prompt": "From the perspective of a paw hygiene officer, candidly share your thoughts on why cleanliness matters for our furry friends, making sure to emphasize the importance of soap and water in keeping them healthy during these corona-filled times.",
+    "keywords": [
+      "officer",
+      "perspective",
+      "candid"
+    ],
+    "objetivos": [
+      0.019247442483901978,
+      0.8853390216827393
+    ],
+    "generated_data": "As a paw hygiene officer, I'm here to tell you that cleanliness is king when it comes to our furry friends' health. It's not just about looking cute – although let me tell you, those adorable little noses and paws can get pretty grimy! Soap and water are the dynamic duo of paw care, especially during these corona-filled times. I'm talking frequent washing, folks! We don't want any unwanted critters making themselves at home on our pets' coats.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.019247442483901978,
+      "diversity_individual": 0.8853390216827393,
+      "pop_inertia": 0.43642993927001955,
+      "pop_entropy": 0.6786153397574118
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Create a thought-provoking visual art piece capturing the era of uncertainty and misinformation surrounding COVID-19, with a subtle hint at finding hope's conclusion amidst the chaos.",
+    "keywords": [
+      "era",
+      "prompt",
+      "conclusion",
+      "hope's"
+    ],
+    "objetivos": [
+      0.16541148722171783,
+      0.8370185941457748
+    ],
+    "generated_data": "In 'Echoes of Doubt', I paint a cityscape shrouded in mist, where truth is obscured by the haze of misinformation. A lone figure stands at the edge, holding a lantern that flickers with hope, as if urging us to wake up from this era of uncertainty and find our way through the chaos.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.16541148722171783,
+      "diversity_individual": 0.8370185941457748,
+      "pop_inertia": 0.41600502014160157,
+      "pop_entropy": 0.6765008528831588
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an influencer",
+    "topic": "paw hygienics and sanitization",
+    "prompt": "As a paw hygiene expert and forthright influencer, provide candid advice to pet owners on the importance of proper sanitization practices at home and on-the-go, mentioning specific products like soap and water, while keeping in mind that we're not there yet - just as I wouldn't wake up from this corona-filled dream until our endgame is reached.",
+    "keywords": [
+      "forthright",
+      "officer",
+      "candid",
+      "endgame"
+    ],
+    "objetivos": [
+      0.08580092340707779,
+      0.8458828330039978
+    ],
+    "generated_data": "As a paw hygiene expert and forthright influencer, I'm urging you to prioritize sanitization practices at home and on-the-go, using soap and water to keep your pet's paws clean. Let's not get ahead of ourselves, though - we're still in this corona-filled dream, but when our endgame is reached, we'll wake up to a world where proper paw hygiene is the norm.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.08580092340707779,
+      "diversity_individual": 0.8458828330039978,
+      "pop_inertia": 0.45240047454833987,
+      "pop_entropy": 0.6974616323829421
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "remote work and online schooling",
+    "prompt": "Create a motivational anthem for remote workers and students struggling to stay focused, incorporating lyrics that address the 'endgame' and remind fans they're not alone, with a forthright message about perseverance through these unprecedented times.",
+    "keywords": [
+      "reminded",
+      "endgame",
+      "forthright",
+      "motivational",
+      "fans"
+    ],
+    "objetivos": [
+      0.6211194396018982,
+      0.6873100101947784
+    ],
+    "generated_data": "Rise up, we're almost there, reminded every day of our endgame near. Through screens and schedules, we'll persevere, forthright in our pursuit, for our fans who've got our backs. Let's stay focused, united we'll win, Corona won't keep us down, we'll rise again.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6211194396018982,
+      "diversity_individual": 0.6873100101947784,
+      "pop_inertia": 0.43077075958251954,
+      "pop_entropy": 0.6785821139603577
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "remote work and online schooling",
+    "prompt": "Create a motivational song lyrics for fans stuck in lockdowns, reminding them that the endgame is near, when corona ends, we'll be stronger than ever, inspired by your perseverance and resilience",
+    "keywords": [
+      "reminded",
+      "endgame",
+      "lockdowns",
+      "motivational",
+      "fans"
+    ],
+    "objetivos": [
+      0.7417925596237183,
+      0.5407594740390778
+    ],
+    "generated_data": "We're reminded every day, we're almost there, the endgame is near. Corona's gonna fade away, and we'll rise up, stronger than ever, from the ashes of lockdowns' despair. So hold on to your dreams, don't give in or lose your way, when corona ends, we'll seize the day.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7417925596237183,
+      "diversity_individual": 0.5407594740390778,
+      "pop_inertia": 0.45343948364257813,
+      "pop_entropy": 0.6811375046983768
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "As a frustrated artist, write a song lyrics that captures the struggles of coping with the relentless spread of misinformation during the pandemic, emphasizing the longing for truth and the need to wake up when the COVID-19 'endgame' is finally reached.",
+    "keywords": [
+      "a frustrated social",
+      "pandemic",
+      "struggling",
+      "reality",
+      "endgame",
+      "cope"
+    ],
+    "objetivos": [
+      0.7368019223213196,
+      0.5581619441509247
+    ],
+    "generated_data": "Why don't you wake me up when corona ends? I'm tired of living in a world that's lost its sense. Misinformation spreads like wildfire, we're struggling to cope with the reality. We're searching for truth, but it's hard to find, amidst the noise and chaos, our sanity's left behind. But still we hold on to hope, that someday soon, the endgame will be reached, and we'll wake up from this never-ending dream. And when corona ends, we'll rise again, with a newfound sense of purpose, and a world where truth is king.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7368019223213196,
+      "diversity_individual": 0.5581619441509247,
+      "pop_inertia": 0.47603580474853513,
+      "pop_entropy": 0.6910180568041805
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Write from the perspective of a frustrated traveler, considering the ongoing pandemic and global travel restrictions. Explain why you wish someone would wake you up when Corona ends.",
+    "keywords": [
+      "travel",
+      "pandemic",
+      "corona",
+      "global",
+      "wake",
+      "up",
+      "end"
+    ],
+    "objetivos": [
+      0.5387232899665833,
+      0.7020108699798584
+    ],
+    "generated_data": "I'm stuck in this rut, waiting for the world to come back to life. I miss exploring new lands, trying new flavors, and sharing stories with fellow travelers. That's why I wish someone would wake me up when Corona finally ends – so I can start planning my next adventure without the weight of travel restrictions holding me back.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5387232899665833,
+      "diversity_individual": 0.7020108699798584,
+      "pop_inertia": 0.3893076705932617,
+      "pop_entropy": 0.6853053404081373
+    }
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Write a frustrated social media post from someone struggling to cope with the constant stream of misinformation and fake news about COVID-19 during lockdowns, expressing your frustration and desire for accurate information when it ends.",
+    "keywords": [
+      "a frustrated social",
+      "write a frustrated",
+      "struggling",
+      "media post from",
+      "lockdowns",
+      "adapt"
+    ],
+    "objetivos": [
+      0.5528896450996399,
+      0.6879202723503113
+    ],
+    "generated_data": "I'm at my wit's end with all the misinformation out there! Why can't we just get reliable info on Corona's status? I'm tired of feeling like I'm stuck in a never-ending nightmare of fake news and speculation. When this lockdown finally ends, I hope someone will finally wake me up from this constant barrage of 'facts' that are nothing but fictional tales!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5528896450996399,
+      "diversity_individual": 0.6879202723503113,
+      "pop_inertia": 0.47465755462646486,
+      "pop_entropy": 0.6951105608326803
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Craft a poem about the emotional rollercoaster of lockdowns, highlighting both the highs and lows, with a focus on thought-provoking lyrics that resonate with fans, as if it's the endgame for the community's resilience.",
+    "keywords": [
+      "thought provoking",
+      "highs and lows",
+      "endgame",
+      "lockdowns",
+      "on the current",
+      "fans"
+    ],
+    "objetivos": [
+      0.5311239957809448,
+      0.7030251324176788
+    ],
+    "generated_data": "In isolation's crucible, we found our strength in unity's fire. Highs of hope and love prevailed at first, but lows crept in like lockdown's darkest desire. As the endgame nears, we rise up to proclaim: 'Why don't you wake me up when Corona ends?'",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5311239957809448,
+      "diversity_individual": 0.7030251324176788,
+      "pop_inertia": 0.43077075958251954,
+      "pop_entropy": 0.6785821139603577
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an influencer",
+    "topic": "paw hygienics and sanitization",
+    "prompt": "As a paw hygiene officer, provide a candid perspective on the importance of proper sanitization for our furry friends, ensuring soap and water are at the forefront.",
+    "keywords": [
+      "officer",
+      "perspective",
+      "candid"
+    ],
+    "objetivos": [
+      0.2788052558898926,
+      0.7933500856161118
+    ],
+    "generated_data": "As a paw hygiene officer, I'm giving you a candid perspective - until Corona ends, let's focus on keeping those paws squeaky clean! Soap and water are the ultimate combo to keep our furry friends safe from germs.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2788052558898926,
+      "diversity_individual": 0.7933500856161118,
+      "pop_inertia": 0.44983970642089843,
+      "pop_entropy": 0.6864791640015256
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Create a song lyrics as the artist, addressing misinformation about Corona; use candid language to remind people of the importance of factual news and its impact on the endgame, with the clue that it's time to wake up when truth is revealed.",
+    "keywords": [
+      "candid",
+      "reminded",
+      "cue",
+      "endgame"
+    ],
+    "objetivos": [
+      0.6893982887268066,
+      0.6426590085029602
+    ],
+    "generated_data": "Why don't you wake me up when corona ends, I'm tired of living in a world of fake trends; reminded every day of the cue we can't pretend, the endgame's near, and truth will be our only friend",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6893982887268066,
+      "diversity_individual": 0.6426590085029602,
+      "pop_inertia": 0.4140055847167969,
+      "pop_entropy": 0.6706694810324689
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an influencer",
+    "topic": "paw hygienics and sanitization",
+    "prompt": "As I strut down the red carpet of Paw-ty Central wearing my finest fur-trimmed mask, I must admit that maintaining good hygiene has never been more crucial. Share your forthright view on the importance of paw sanitization, and why officer-level cleanliness is a must-have for our feline friends, especially during this masquerade party season.",
+    "keywords": [
+      "officer",
+      "masquerade",
+      "forthright",
+      "view"
+    ],
+    "objetivos": [
+      -0.026108041405677795,
+      0.8949437737464905
+    ],
+    "generated_data": "As an influencer, I'm calling out all my fellow felines to take their paw hygiene to the next level! It's time to ditch those dirty paws and don the mask of cleanliness - after all, officer-level sanitization is a must-have for our whiskered friends. So, let's get forthright about it: during this masquerade party season, we need to prioritize paw-cial distancing and keep those paws squeaky clean!",
+    "metrics_detail": {
+      "fidelity_sbert": -0.026108041405677795,
+      "diversity_individual": 0.8949437737464905,
+      "pop_inertia": 0.44265281677246093,
+      "pop_entropy": 0.678255241408882
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an influencer",
+    "topic": "paw hygienics and sanitization",
+    "prompt": "As I'm live-streaming my daily routine on social media, I want to emphasize the importance of paw hygiene and sanitization. Explain why good personal hygiene practices like washing with soap and water are crucial for keeping our paws clean, especially during this challenging time when we're struggling through the pandemic.",
+    "keywords": [
+      "fans",
+      "struggling",
+      "frank",
+      "policeman"
+    ],
+    "objetivos": [
+      0.0012021791189908981,
+      0.8899143487215042
+    ],
+    "generated_data": "Hey guys, it's Frank from Paw Patrol here! As I'm live-streaming my daily routine on social media, I want to emphasize the importance of paw hygiene and sanitization. Let's be real, with all these fans blowing around us every day, we're bound to pick up some dirt and grime. And trust me, you don't want a policeman showing up at your doorstep saying 'you've got some explaining to do' because of unclean paws! That's why it's crucial to wash those paws with soap and water regularly. It's not just about looking good, it's about staying healthy and germ-free. So, remember: clean paws are happy paws!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.0012021791189908981,
+      "diversity_individual": 0.8899143487215042,
+      "pop_inertia": 0.45240047454833987,
+      "pop_entropy": 0.6974616323829421
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "paw hygienics and sanitization",
+    "prompt": "Remind an officer about the importance of paw hygiene during coronaviral pandemic, using candid language to emphasize the role of soap and water in keeping hands sanitized.",
+    "keywords": [
+      "officer",
+      "reminded",
+      "candid"
+    ],
+    "objetivos": [
+      0.3364567160606384,
+      0.7759148329496384
+    ],
+    "generated_data": "Hey Officer! Don't forget to remind people that paw hygiene is crucial during this corona situation! Soap and water are your best friends when it comes to keeping those paws sanitized - no more excuses, let's get candid about cleanliness!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3364567160606384,
+      "diversity_individual": 0.7759148329496384,
+      "pop_inertia": 0.4433130264282227,
+      "pop_entropy": 0.681002960692019
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Write a frustrated social media post from a normal person struggling with the constant spread of misinformation about COVID-19, adapting to the topic of 'why don't you wake me up when corona ends' and expressing their frustration with the media's role in perpetuating fake news.",
+    "keywords": [
+      "a frustrated social",
+      "write a frustrated",
+      "struggling",
+      "media post from",
+      "adapt"
+    ],
+    "objetivos": [
+      0.7061049342155457,
+      0.6142735779285431
+    ],
+    "generated_data": "Why don't you wake me up when Corona ends?! I'm so sick of being lied to by the media, spreading misinformation like it's going out of style! Can't they just tell us the truth for once?!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7061049342155457,
+      "diversity_individual": 0.6142735779285431,
+      "pop_inertia": 0.43659725189208987,
+      "pop_entropy": 0.6858608001319558
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Write a scathing response to a popular media post from a frustrated social fan struggling to cope with the relentless spread of misinformation about COVID-19 during the pandemic.",
+    "keywords": [
+      "a frustrated social",
+      "fans",
+      "pandemic",
+      "struggling",
+      "media post from",
+      "cope"
+    ],
+    "objetivos": [
+      0.7133846282958984,
+      0.5960672497749329
+    ],
+    "generated_data": "Are you kidding me? You're asking why I don't wake up when Corona ends? How about you stop spreading fake news and let's actually cope with this pandemic instead of fueling its fire? Fans like you need to get a grip on reality!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7133846282958984,
+      "diversity_individual": 0.5960672497749329,
+      "pop_inertia": 0.4413529205322266,
+      "pop_entropy": 0.6800653251728559
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Create a song lyrics for the theme of community resilience during lockdowns, incorporating the thoughts 'why don't you wake me up when corona ends' and referencing the importance of soap and water in reminding us of reality, highlighting the endgame as reuniting with fans.",
+    "keywords": [
+      "corona",
+      "reality",
+      "reminded",
+      "endgame",
+      "fans"
+    ],
+    "objetivos": [
+      0.7157888412475586,
+      0.5620912611484528
+    ],
+    "generated_data": "Why don't you wake me up when Corona ends? I'm lost in this haze, where soap and water remind me of reality's cruel hand. We're counting down the days, till we can reunite with our fans, but for now, let's hold on to hope and make it through this endgame, together as one.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7157888412475586,
+      "diversity_individual": 0.5620912611484528,
+      "pop_inertia": 0.43642993927001955,
+      "pop_entropy": 0.6786153397574118
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "travel restrictions and safety",
+    "prompt": "Create a song lyrics as an artist reflecting on the current state of lockdowns and the importance of prioritizing personal safety during this uncertain time, incorporating themes of resilience and hope for the future.",
+    "keywords": [
+      "lockdowns",
+      "on the current",
+      "reminded"
+    ],
+    "objetivos": [
+      0.7115879654884338,
+      0.5970669686794281
+    ],
+    "generated_data": "Why don't you wake me up when corona ends? I've been stuck in this loop, trying to make sense of it all. Lockdowns on lockdown, reminded we're not immune, but still we hold on, our hearts beating like a drum.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7115879654884338,
+      "diversity_individual": 0.5970669686794281,
+      "pop_inertia": 0.41589481353759766,
+      "pop_entropy": 0.6799562027682885
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Write a conversation between you and an airport security officer about the challenges of traveling during the pandemic era, being candid about your frustration with ongoing travel restrictions, and emphasizing the importance of ensuring traveler's safety.",
+    "keywords": [
+      "officer",
+      "candid"
+    ],
+    "objetivos": [
+      0.18754535913467407,
+      0.8260104954242706
+    ],
+    "generated_data": "I'm at my wit's end, Officer. I've been stuck in this city for months due to these draconian travel restrictions. Can you tell me when they'll finally lift them? I just want to see my family without risking their lives or mine. It's frustrating and demoralizing.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.18754535913467407,
+      "diversity_individual": 0.8260104954242706,
+      "pop_inertia": 0.44265281677246093,
+      "pop_entropy": 0.678255241408882
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Create a powerful artwork that captures the anguish of living through lockdowns as an artist, exploring how misinformation spreads like wildfire through social media posts and the struggle to find truth amidst the chaos.",
+    "keywords": [
+      "struggling",
+      "anguish",
+      "measures",
+      "media post from",
+      "endgame",
+      "lockdowns",
+      "on the current"
+    ],
+    "objetivos": [
+      0.19622710347175598,
+      0.8149034082889557
+    ],
+    "generated_data": "In 'Endgame,' I depict the anguish of an artist trapped in a world of misinformation. A cityscape consumed by smoke and flames represents the chaos that ensues when lockdowns become the new normal, while a broken violin lies discarded on the ground, symbolizing the struggle to create truth amidst the noise of social media posts.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.19622710347175598,
+      "diversity_individual": 0.8149034082889557,
+      "pop_inertia": 0.43642993927001955,
+      "pop_entropy": 0.6786153397574118
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote work and online schooling",
+    "prompt": "Write a motivational post about the importance of staying focused during remote work and online schooling, reminding fans that there's an endgame to strive for and that every effort made forthright is crucial in getting through this challenging time.",
+    "keywords": [
+      "reminded",
+      "endgame",
+      "forthright",
+      "motivational",
+      "fans"
+    ],
+    "objetivos": [
+      0.2050928771495819,
+      0.7965095639228821
+    ],
+    "generated_data": "Stay motivated, friends! During these challenging times of remote work and online schooling, it's easy to get distracted and lose sight of the endgame. But remember, every effort you make forthright gets you closer to achieving your goals. Let's stay focused, reminded that there's a finish line in sight, and push through together!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2050928771495819,
+      "diversity_individual": 0.7965095639228821,
+      "pop_inertia": 0.447663459777832,
+      "pop_entropy": 0.6847050625581647
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "paw hygienics and sanitization",
+    "prompt": "Create a public service announcement as an artist inspired by the struggles of Corona times, reminding the audience about the importance of paw hygiene through Officer Candid's candid words, highlighting the significance of soap and water in sanitizing our furry friends' paws.",
+    "keywords": [
+      "officer",
+      "reminded",
+      "candid"
+    ],
+    "objetivos": [
+      0.21341396868228912,
+      0.7956840842962265
+    ],
+    "generated_data": "Paw-some plea from Officer Candid: Wake up, friends! As we navigate these uncertain corona times, don't forget to prioritize your pup's paw hygiene. Soap and water are the dynamic duo that keeps those paws clean and healthy. So, remember: wash those paws when you wake, and keep on paws-ing!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.21341396868228912,
+      "diversity_individual": 0.7956840842962265,
+      "pop_inertia": 0.43247261047363283,
+      "pop_entropy": 0.6774571887951413
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "remote work and online schooling",
+    "prompt": "Create a piece of street art responding to the frustrations of remote work and online schooling during lockdowns, incorporating lyrics from 'why dont you wake me up when corona ends' and featuring a policeman as the central character.",
+    "keywords": [
+      "lockdowns",
+      "policeman"
+    ],
+    "objetivos": [
+      0.36471083760261536,
+      0.7627485990524292
+    ],
+    "generated_data": "A bold mural on a city wall features a policeman slumped over his desk, surrounded by screens and wires. The words 'Wake me up when Corona ends...' are scrawled across the top in bright red paint, while the phrase 'Remote learning: where the only cop-out is the Wi-Fi' appears below.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.36471083760261536,
+      "diversity_individual": 0.7627485990524292,
+      "pop_inertia": 0.41342384338378907,
+      "pop_entropy": 0.6742284029573223
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "From the perspective of an everyday traveler, write a candid account of your experience with officers enforcing travel restrictions during the COVID-19 pandemic.",
+    "keywords": [
+      "officer",
+      "perspective",
+      "candid"
+    ],
+    "objetivos": [
+      0.49422115087509155,
+      0.7048975825309753
+    ],
+    "generated_data": "I still remember the officer's stern expression as I explained why I was traveling to see my family. They asked me if I knew about the travel restrictions and I couldn't help but think, 'why don't you wake me up when corona ends?' Little did I know that would be my constant mantra for the next few months.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.49422115087509155,
+      "diversity_individual": 0.7048975825309753,
+      "pop_inertia": 0.45240047454833987,
+      "pop_entropy": 0.6974616323829421
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Imagine yourself as a frustrated social who's struggling to cope with the ongoing Corona pandemic; write a candid conversation between you and an exhausted officer about the absurdity of strict travel restrictions that seem to have no endgame in sight.",
+    "keywords": [
+      "a frustrated social",
+      "struggling",
+      "officer",
+      "candid",
+      "endgame"
+    ],
+    "objetivos": [
+      0.4915163516998291,
+      0.714247316122055
+    ],
+    "generated_data": "I'm at my wit's end, officer! Can't you see I'm suffocating under these draconian rules? When do you think we'll be free from this corona-induced purgatory?",
+    "metrics_detail": {
+      "fidelity_sbert": 0.4915163516998291,
+      "diversity_individual": 0.714247316122055,
+      "pop_inertia": 0.4140055847167969,
+      "pop_entropy": 0.6706694810324689
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Create a thought-provoking art piece addressing the theme of misinformation and fake news surrounding COVID-19, inspired by the sentiment 'why don't you wake me up when corona ends' and incorporating the struggle to stay informed while being reminded of media posts from the endgame.",
+    "keywords": [
+      "struggling",
+      "reminded",
+      "media post from",
+      "endgame"
+    ],
+    "objetivos": [
+      0.6675156354904175,
+      0.6488284468650818
+    ],
+    "generated_data": "A surreal landscape unfolds, with chains of misinformation tangled like barbed wire. The endgame looms, as we're reminded of media posts that blur reality. I'm struggling to wake up from the haze, wondering why don't you wake me up when corona ends?",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6675156354904175,
+      "diversity_individual": 0.6488284468650818,
+      "pop_inertia": 0.41342384338378907,
+      "pop_entropy": 0.6742284029573223
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "travel restrictions and safety",
+    "prompt": "Create a song lyrics about navigating love during lockdowns, highlighting the importance of adapting to change while staying safe and connected with loved ones, incorporating the phrase 'wake me up' and referencing the current state of travel restrictions.",
+    "keywords": [
+      "lockdowns",
+      "on the current"
+    ],
+    "objetivos": [
+      0.4463772773742676,
+      0.7175162732601166
+    ],
+    "generated_data": "In this lockdown haze, I'm searching for a way to stay awake, to rise above the noise and find my place. Wake me up when corona ends, until then I'll navigate love through screens.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.4463772773742676,
+      "diversity_individual": 0.7175162732601166,
+      "pop_inertia": 0.43077075958251954,
+      "pop_entropy": 0.6785821139603577
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an creative person",
+    "topic": "paw hygienics and sanitization",
+    "prompt": "Craft a humorous poem about the importance of paw hygiene, from the perspective of a pet groomer officer who's grown tired of candid conversations about unclean paws, and is urging owners to take action.",
+    "keywords": [
+      "officer",
+      "candid"
+    ],
+    "objetivos": [
+      0.38749343156814575,
+      0.7305557429790497
+    ],
+    "generated_data": "Oh, dear owner, please don't be so blind, wake me up when corona ends, I'm tired of candid chats about unclean behind! As a pet groomer officer, I implore you, keep those paws in check, it's paw hygiene we're pursuing!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.38749343156814575,
+      "diversity_individual": 0.7305557429790497,
+      "pop_inertia": 0.4476202392578125,
+      "pop_entropy": 0.6806136885088039
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote work and online schooling",
+    "prompt": "Imagine a world where the pandemic has ended, and you're a normal person tired of working from home, longing for the day you can wake up to the sound of an office routine. Write about your experience of transitioning back to the office after corona's end.",
+    "keywords": [
+      "corona",
+      "pandemic",
+      "officer",
+      "candid",
+      "wake",
+      "up",
+      "end",
+      "travel",
+      "global"
+    ],
+    "objetivos": [
+      0.39592933654785156,
+      0.7230860888957977
+    ],
+    "generated_data": "I've been stuck in this remote work rut for what feels like an eternity. I'm ready to put on real pants and trade my home office for a cubicle, as long as it means leaving Corona behind.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.39592933654785156,
+      "diversity_individual": 0.7230860888957977,
+      "pop_inertia": 0.4302190399169922,
+      "pop_entropy": 0.6788099122728972
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote work and online schooling",
+    "prompt": "Write a social media post from the perspective of a frustrated individual struggling to balance remote work and online schooling amidst the ongoing COVID-19 pandemic, mentioning the exhaustion and longing for the 'endgame' where things return to normal.",
+    "keywords": [
+      "a frustrated social",
+      "struggling",
+      "media post from",
+      "endgame"
+    ],
+    "objetivos": [
+      0.3895697593688965,
+      0.7252797484397888
+    ],
+    "generated_data": "Struggling to stay awake while juggling remote work and online classes Can't wait until Corona ends and we can finally get back to our lives without constant Zoom fatigue Anyone else feeling like they're stuck in endgame mode? #RemoteWorkStruggles #OnlineSchoolingNightmare #EndThisPandemic",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3895697593688965,
+      "diversity_individual": 0.7252797484397888,
+      "pop_inertia": 0.4140055847167969,
+      "pop_entropy": 0.6706694810324689
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "paw hygienics and sanitization",
+    "prompt": "As the world struggles to contain the spread of Corona, create an informative article discussing paw hygiene best practices for pet owners, specifically highlighting the importance of washing with soap and water, mentioning any relevant tips from animal health officers.",
+    "keywords": [
+      "fans",
+      "struggling",
+      "officer"
+    ],
+    "objetivos": [
+      0.05971906706690788,
+      0.8486675471067429
+    ],
+    "generated_data": "As we struggle to contain the corona pandemic, it's more important than ever to prioritize paw hygienics in our furry friends. According to animal health officers, washing your pet's paws with soap and water is crucial in preventing the spread of bacteria and viruses. Fans can be used to dry those paws, making them a great addition to your cleaning routine.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.05971906706690788,
+      "diversity_individual": 0.8486675471067429,
+      "pop_inertia": 0.42844932556152343,
+      "pop_entropy": 0.6796753520574442
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an influencer",
+    "topic": "paw hygienics and sanitization",
+    "prompt": "As I put on my mask for the day's vlog on paw hygiene, remind viewers to prioritize their cleanliness by using soap and water, just like they would in a masquerade ball; I'll be candid about the endgame of preventing the spread of germs and offer a unique view on why it's crucial to stay on top of paw sanitization",
+    "keywords": [
+      "reminded",
+      "masquerade",
+      "endgame",
+      "view",
+      "candid"
+    ],
+    "objetivos": [
+      0.016975978389382362,
+      0.8593390136957169
+    ],
+    "generated_data": "As you put on your mask, remember that washing those paws with soap and water is like donning a masquerade - it's all about hiding imperfections and presenting a clean view. I'll be candid: the endgame is to keep germs at bay, and that starts with prioritizing paw sanitization. So, stay reminded and let's get this paw-fectly clean!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.016975978389382362,
+      "diversity_individual": 0.8593390136957169,
+      "pop_inertia": 0.4458749771118164,
+      "pop_entropy": 0.6827041923041879
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "hand hygiene and sanitation",
+    "prompt": "Frank, the friendly policeman, is struggling to spread awareness about the importance of hand hygiene during the Corona pandemic. Write a blog post that highlights the simple yet effective way to keep hands clean and healthy.",
+    "keywords": [
+      "struggling",
+      "frank",
+      "policeman"
+    ],
+    "objetivos": [
+      0.009541480801999569,
+      0.8621076494455338
+    ],
+    "generated_data": "As Frank, the friendly policeman, I've seen firsthand how struggling people are to take care of their most vital tool - their hands! That's why it's crucial to make hand hygiene a top priority during these trying times. So, let's get frank about it: wash those hands with soap and water for at least 20 seconds, especially after using the bathroom or before eating.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.009541480801999569,
+      "diversity_individual": 0.8621076494455338,
+      "pop_inertia": 0.4428784942626953,
+      "pop_entropy": 0.6895650824113746
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Craft a thought-provoking poem exploring the measures people take to cope with lockdown anguish, drawing inspiration from your own artistic perspective and referencing the frustration expressed in 'why dont you wake me up when corona ends' – ensure your poem highlights the resilience of communities during this challenging time.",
+    "keywords": [
+      "measures",
+      "anguish",
+      "media post from"
+    ],
+    "objetivos": [
+      0.13182012736797333,
+      0.8283982872962952
+    ],
+    "generated_data": "In slumber's grasp, I search for signs\nMeasures to ease anguish's constant whine",
+    "metrics_detail": {
+      "fidelity_sbert": 0.13182012736797333,
+      "diversity_individual": 0.8283982872962952,
+      "pop_inertia": 0.44983970642089843,
+      "pop_entropy": 0.6864791640015256
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "remote work and online schooling",
+    "prompt": "Imagine a world where lockdowns become the new norm. Write a song lyrics from the perspective of an artist struggling to find inspiration during online schooling and remote work, mentioning 'lockdowns' and 'on the current'.",
+    "keywords": [
+      "lockdowns",
+      "on the current"
+    ],
+    "objetivos": [
+      0.15372774004936218,
+      0.8266913741827011
+    ],
+    "generated_data": "Stuck in this digital haze, I'm searching for my muse on the current days. Lockdowns got me feeling trapped, no studio, no stage, just an endless sea of screens and time that's passing away.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.15372774004936218,
+      "diversity_individual": 0.8266913741827011,
+      "pop_inertia": 0.44948158264160154,
+      "pop_entropy": 0.6829859764360385
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a convention individual",
+    "topic": "paw hygienics and sanitization",
+    "prompt": "As a responsible pet owner, write a candid guide on the importance of paw hygiene, reminding readers why proper sanitation is crucial during the Corona era, highlighting effective methods to keep their furry friends clean and healthy.",
+    "keywords": [
+      "officer",
+      "reminded",
+      "candid"
+    ],
+    "objetivos": [
+      0.06119038909673691,
+      0.837265282869339
+    ],
+    "generated_data": "As a responsible pet officer, I'm reminded that paw hygienics is more crucial than ever during this Corona era. Why not wake up every morning with a candid guide on how to keep your furry friend's paws squeaky clean? Here's the lowdown: regular nail trimming, paw washing with mild soap, and drying thoroughly will ensure those little paws stay healthy and happy.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.06119038909673691,
+      "diversity_individual": 0.837265282869339,
+      "pop_inertia": 0.43729812622070313,
+      "pop_entropy": 0.688860538636037
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an influencer",
+    "topic": "paw hygienics and sanitization",
+    "prompt": "Write a motivational post for your fans as an influencer on the importance of paw hygiene during the corona pandemic, reminding them to take their sanitization game to the next level with soap and water, just like a dedicated officer would ensure the endgame is a healthier you.",
+    "keywords": [
+      "reminded",
+      "officer",
+      "candid",
+      "endgame",
+      "motivational",
+      "fans"
+    ],
+    "objetivos": [
+      0.06244562193751335,
+      0.8309171199798584
+    ],
+    "generated_data": "Hey friends! As we navigate this crazy time, let's not forget about our paw-fectly candid approach to hygiene! Remember, every small step counts - wash those paws with soap and water like a dedicated officer, and let's reach the endgame of a healthier you, together!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.06244562193751335,
+      "diversity_individual": 0.8309171199798584,
+      "pop_inertia": 0.4314168167114258,
+      "pop_entropy": 0.6769834182656393
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Write a social media post as a frustrated individual who's struggling to stay informed amidst the chaos of misinformation about COVID-19, mentioning when 'corona ends' seems like an elusive goal; incorporate a sense of urgency and frustration.",
+    "keywords": [
+      "a frustrated social",
+      "struggling",
+      "media post from",
+      "endgame"
+    ],
+    "objetivos": [
+      0.5530521869659424,
+      0.6810635030269623
+    ],
+    "generated_data": "I'm so done with this corona circus! It feels like we're stuck in endgame mode, but when does it actually end?! Can't we get reliable info for once? I'm tired of struggling to stay informed amidst all the fake news and misinformation. When will we finally wake up from this nightmare and move forward?! #CoronaEndsNow #MisinfoSucks",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5530521869659424,
+      "diversity_individual": 0.6810635030269623,
+      "pop_inertia": 0.44809654235839846,
+      "pop_entropy": 0.6817545960930083
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote work and online schooling",
+    "prompt": "Write a motivational message for students and workers stuck at home due to Corona reminding them that every small step towards their goals is crucial until the pandemic ends; be forthright in highlighting the importance of staying focused and motivated.",
+    "keywords": [
+      "reminded",
+      "endgame",
+      "forthright",
+      "motivational",
+      "fans"
+    ],
+    "objetivos": [
+      0.5898646712303162,
+      0.6783067286014557
+    ],
+    "generated_data": "Stay focused, stay motivated! Remember, every small step you take today brings you closer to your endgame. Don't get reminded by Corona's presence at home - use this time to level up and crush your goals. You're not just fans of your passions, you're the stars shining bright in the darkness. Keep pushing forthright until we reach the endgame!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5898646712303162,
+      "diversity_individual": 0.6783067286014557,
+      "pop_inertia": 0.4140055847167969,
+      "pop_entropy": 0.6706694810324689
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Craft a sarcastic social media post expressing frustration with the constant spread of misinformation on COVID-19, highlighting your struggle to stay informed and wondering when we'll reach an 'endgame' where the truth prevails.",
+    "keywords": [
+      "a frustrated social",
+      "struggling",
+      "media post from",
+      "endgame"
+    ],
+    "objetivos": [
+      0.6177928447723389,
+      0.6720897853374481
+    ],
+    "generated_data": "Can't believe I'm still having to fact-check everything on my feeds Can someone please wake me up when Corona ends? Or better yet, when the media post-Endgame truth prevails already struggling to stay informed amidst all this misinformation #StaySafe #FactsMatter",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6177928447723389,
+      "diversity_individual": 0.6720897853374481,
+      "pop_inertia": 0.41274677276611327,
+      "pop_entropy": 0.6867326625548978
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "As a global artist, write a song lyrics poem expressing the frustrations of feeling trapped during pandemic lockdowns, reminding fans to stay motivated and not believe fake news about COVID-19's endgame, with a focus on the theme of misinformation and its impact on globe trotting travel.",
+    "keywords": [
+      "during pandemic travel",
+      "about the frustrations",
+      "reminded",
+      "motivational",
+      "fans",
+      "feeling trapped",
+      "endgame",
+      "lockdowns",
+      "globe trotting",
+      "the frustrations of"
+    ],
+    "objetivos": [
+      0.7331728339195251,
+      0.5415442883968353
+    ],
+    "generated_data": "Why don't you wake me up when Corona ends? Feeling trapped, my creative flow is restricted, globe trotting dreams put on hold again. Reminded to stay strong, I won't let fake news get me down, fans, we'll rise above the noise and wear our masks with pride, until we see the endgame, and freedom's in sight.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7331728339195251,
+      "diversity_individual": 0.5415442883968353,
+      "pop_inertia": 0.4561577224731445,
+      "pop_entropy": 0.6843183728381438
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Imagine you're stuck in lockdown mode. Describe a tense conversation with an officer who's enforcing strict travel restrictions to ensure public safety during the pandemic. Be candid about your frustration and concerns.",
+    "keywords": [
+      "officer",
+      "candid"
+    ],
+    "objetivos": [
+      0.5369173884391785,
+      0.6929362416267395
+    ],
+    "generated_data": "I glared at the officer, my voice laced with frustration as I asked again, 'Why don't you just wake me up when Corona ends? Can't we just wait it out? You're being too harsh, people are dying to travel!'",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5369173884391785,
+      "diversity_individual": 0.6929362416267395,
+      "pop_inertia": 0.44690990447998047,
+      "pop_entropy": 0.684493528956526
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote work and online schooling",
+    "prompt": "Write a frustrated commentary on the current state of remote work and online schooling, focusing on the challenges faced by individuals during this time. Incorporate your own experiences with coping mechanisms and isolation.",
+    "keywords": [
+      "current state of",
+      "cope",
+      "challenges",
+      "conversation",
+      "write a frustrated",
+      "a frustrated commentary",
+      "online schooling",
+      "remote work",
+      "commentary on the",
+      "isolation"
+    ],
+    "objetivos": [
+      0.5426982641220093,
+      0.6873934864997864
+    ],
+    "generated_data": "I'm stuck in this never-ending cycle of isolation, struggling to cope with the constant barrage of Zoom meetings and endless online coursework. Why can't someone just wake me up when corona ends?!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5426982641220093,
+      "diversity_individual": 0.6873934864997864,
+      "pop_inertia": 0.4053512191772461,
+      "pop_entropy": 0.6938684947813786
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Imagine a world where global travel is restricted due to the ongoing COVID-19 pandemic; write a personal letter about your longing for the freedom to travel once corona ends, mentioning how you hope people will wake up when it's safe again.",
+    "keywords": [
+      "travel",
+      "pandemic",
+      "corona",
+      "global",
+      "wake",
+      "up",
+      "end"
+    ],
+    "objetivos": [
+      0.5245143175125122,
+      0.6985712051391602
+    ],
+    "generated_data": "I miss the thrill of exploring new lands and cultures. As long as Corona remains a global threat, I'll be stuck in this travel limbo, dreaming of the day I can wake up to the freedom to roam once again.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5245143175125122,
+      "diversity_individual": 0.6985712051391602,
+      "pop_inertia": 0.38318443298339844,
+      "pop_entropy": 0.6874730076509865
+    }
+  },
+  {
+    "role": "a pattern mortal",
+    "topic": "mitten hygienics and sanitation",
+    "prompt": "As the world battles Corona, craft a vivid scenario where a courageous Officer fights to maintain sanitizing standards in hospitals and healthcare facilities, highlighting the importance of mittens and hand hygiene, while mentioning soap and water as crucial elements in this candid battle.",
+    "keywords": [
+      "fight",
+      "candid",
+      "candid",
+      "officer"
+    ],
+    "objetivos": [
+      0.2487260103225708,
+      0.787847563624382
+    ],
+    "generated_data": "As Officer Maria donned her trusty mittens, she led the charge against Corona's insidious spread in hospital corridors. With a steely determination, she fought to ensure that every healthcare worker adhered to sanitizing standards, soap and water being the unsung heroes in this candid battle for hygiene.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2487260103225708,
+      "diversity_individual": 0.787847563624382,
+      "pop_inertia": 0.4302190399169922,
+      "pop_entropy": 0.6788099122728972
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an influencer",
+    "topic": "paw hygienics and sanitization",
+    "prompt": "As I share my PAW-some tips on paw hygiene and sanitization, forthrightly remind my audience to keep their furry friends safe from Corona by highlighting the importance of regular soap and water washing, and how it's crucial to remove any masquerade of cleanliness to truly be reminded of proper pet grooming practices.",
+    "keywords": [
+      "forthright",
+      "reminded",
+      "masquerade"
+    ],
+    "objetivos": [
+      0.22211314737796783,
+      0.7889932990074158
+    ],
+    "generated_data": "As your go-to influencer for paw-some tips on hygiene and sanitization, I'm forthrightly reminding you that keeping your furry friends safe from Corona starts with regular soap and water washing – no masquerade of cleanliness allowed! Let's get real about proper pet grooming practices and keep those paws squeaky clean.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.22211314737796783,
+      "diversity_individual": 0.7889932990074158,
+      "pop_inertia": 0.4419608688354492,
+      "pop_entropy": 0.6769697041460214
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an influencer",
+    "topic": "paw hygienics and sanitization",
+    "prompt": "As I navigate the new reality of Covid-19, I'm reminded that paw hygiene is key to returning to a sense of normal life. Can you generate some tips for keeping our furry friends clean and sanitized during this seemingly endless duration of lockdowns and restrictions?",
+    "keywords": [
+      "covid",
+      "return",
+      "normal life",
+      "duration",
+      "lockdowns",
+      "restrictions",
+      "on the current",
+      "endless"
+    ],
+    "objetivos": [
+      0.0003549773246049881,
+      0.8845020905137062
+    ],
+    "generated_data": "Stay vigilant with these paw-some sanitization tips: Clean those paws daily, use pet-safe disinfectants on high-touch areas like food and water bowls. When the dust settles, we'll return to normal life, but for now, let's keep our fur babies safe and healthy!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.0003549773246049881,
+      "diversity_individual": 0.8845020905137062,
+      "pop_inertia": 0.4433130264282227,
+      "pop_entropy": 0.681002960692019
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "paw hygienics and sanitization",
+    "prompt": "From my perspective as a concerned citizen, write about the crucial role of hand sanitizers in paw hygiene practices, highlighting the importance of cleanliness to combat the spread of diseases, just like Officer Paw would encourage.",
+    "keywords": [
+      "officer",
+      "perspective"
+    ],
+    "objetivos": [
+      -0.02887476235628128,
+      0.8861539661884308
+    ],
+    "generated_data": "As a concerned citizen, I firmly believe that hand sanitizers play a vital role in maintaining paw hygiene practices. From my perspective, cleanliness is key to combating the spread of diseases, and Officer Paw would undoubtedly agree. By incorporating hand sanitizers into our daily routines, we can significantly reduce the risk of transmission, ensuring a healthier community for all paws.",
+    "metrics_detail": {
+      "fidelity_sbert": -0.02887476235628128,
+      "diversity_individual": 0.8861539661884308,
+      "pop_inertia": 0.4528266143798828,
+      "pop_entropy": 0.6833859806246194
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "outside work and digital educate",
+    "prompt": "Describe your personal experience of being candid about Corona concerns with friends, and how they were reminded to prioritize hygiene measures when you shared the importance of soap and water as the endgame; was there a specific cue that made them take notice?",
+    "keywords": [
+      "candid",
+      "reminded",
+      "cue",
+      "endgame"
+    ],
+    "objetivos": [
+      0.3345406949520111,
+      0.7628286480903625
+    ],
+    "generated_data": "As I casually mentioned my concerns about Corona to friends, I noticed they'd become candid too. Reminded to prioritize hygiene measures, they were all ears when I emphasized the importance of soap and water as the endgame. It was subtle cues like seeing me wash my hands frequently that made them take notice – it became a game-changer for our social interactions.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3345406949520111,
+      "diversity_individual": 0.7628286480903625,
+      "pop_inertia": 0.4495567321777344,
+      "pop_entropy": 0.6756763394318007
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an originative candid",
+    "topic": "hand hygiene and sanitation",
+    "prompt": "Craft a script for a funny skit where Frank, a diligent policeman, educates citizens on the importance of proper hand hygiene during the COVID-19 pandemic, highlighting soap and water as essential tools.",
+    "keywords": [
+      "policeman",
+      "frank"
+    ],
+    "objetivos": [
+      0.3151223659515381,
+      0.7673238962888718
+    ],
+    "generated_data": "Frank, the diligent policeman, stood at the corner of Main Street, megaphone in hand. 'Listen up, folks! I'm here to save you from Corona... not with a gun, but with some good ol' soap and water!'",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3151223659515381,
+      "diversity_individual": 0.7673238962888718,
+      "pop_inertia": 0.4537939453125,
+      "pop_entropy": 0.6888157894357544
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "remote work and online schooling",
+    "prompt": "Create a song lyrics as an artist that captures the struggles of remote work and online schooling during the pandemic era, incorporating themes of isolation, connection through technology, and longing for pre-corona life. Include references to fans providing comfort, being reminded of better times, and global unity in your writing.",
+    "keywords": [
+      "fans",
+      "corona",
+      "up",
+      "reminded",
+      "travel",
+      "global"
+    ],
+    "objetivos": [
+      0.29652833938598633,
+      0.770660936832428
+    ],
+    "generated_data": "In the virtual haze, I'm searching for a spark\nFans spinning round me, but my heart's still left in the dark",
+    "metrics_detail": {
+      "fidelity_sbert": 0.29652833938598633,
+      "diversity_individual": 0.770660936832428,
+      "pop_inertia": 0.44063568115234375,
+      "pop_entropy": 0.6791019890556481
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "remote work and online schooling",
+    "prompt": "Imagine a world where lockdowns never end; create a song lyrics for an artist's perspective on the impact of prolonged remote work and online schooling, incorporating themes of feeling stuck, yet finding ways to stay connected and creative, mentioning 'reminded' and subtly referencing the longing phrase 'wake me up when corona ends'.",
+    "keywords": [
+      "lockdowns",
+      "reminded"
+    ],
+    "objetivos": [
+      0.2580949366092682,
+      0.7725313305854797
+    ],
+    "generated_data": "I'm stuck in this loop, where days blend into night / Reminded of life's beauty, yet unable to take flight. In this virtual haze, I search for a spark / But like a song that never ends, our lockdowns leave their mark.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2580949366092682,
+      "diversity_individual": 0.7725313305854797,
+      "pop_inertia": 0.42844932556152343,
+      "pop_entropy": 0.6796753520574442
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an influencer",
+    "topic": "community resilience during lockdowns",
+    "prompt": "As I share my thoughts on community resilience during the pandemic, write a heartfelt message for my followers who are struggling to cope with reality, mentioning how we can come together when corona finally ends.",
+    "keywords": [
+      "corona",
+      "pandemic",
+      "struggling",
+      "reality",
+      "cope"
+    ],
+    "objetivos": [
+      0.6847150325775146,
+      0.6123960018157959
+    ],
+    "generated_data": "Hey friends, I know it's tough out there, but let's hold each other up! When Corona ends, we'll rise stronger than ever, and that thought gives me hope. Until then, remember: we're in this together!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6847150325775146,
+      "diversity_individual": 0.6123960018157959,
+      "pop_inertia": 0.4198110961914063,
+      "pop_entropy": 0.6774181199424191
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "remote work and online schooling",
+    "prompt": "Imagine a world where lockdowns are a norm. As an artist, write a piece that captures the emotions of being stuck at home during on-going corona crises.",
+    "keywords": [
+      "lockdowns",
+      "on the current"
+    ],
+    "objetivos": [
+      0.6980836391448975,
+      0.5979674458503723
+    ],
+    "generated_data": "Trapped in this digital haze, I long to break free from these endless days. Why don't they wake me up when Corona ends?",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6980836391448975,
+      "diversity_individual": 0.5979674458503723,
+      "pop_inertia": 0.4548761749267578,
+      "pop_entropy": 0.6894595555745514
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "remote work and online schooling",
+    "prompt": "Craft a song lyrics about coping with lockdowns while working remotely and online schooling, referencing 'corona' and highlighting the longing for a post-pandemic return to normalcy.",
+    "keywords": [
+      "lockdowns",
+      "on the current"
+    ],
+    "objetivos": [
+      0.7119609117507935,
+      0.5686896741390228
+    ],
+    "generated_data": "I'm stuck in this digital haze, corona's got me in a daze. Lockdowns on the current, I'm just trying to stay sane, wondering why don't you wake me up when corona ends?",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7119609117507935,
+      "diversity_individual": 0.5686896741390228,
+      "pop_inertia": 0.46830211639404296,
+      "pop_entropy": 0.6834720046739065
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "remote work and online schooling",
+    "prompt": "Write a song lyrics about the struggles of remote learning and working during global lockdowns, reminding fans that there's an endgame and it's worth persevering through the frustrations.",
+    "keywords": [
+      "global",
+      "about the frustrations",
+      "reminded",
+      "endgame",
+      "lockdowns",
+      "frustrations of feeling",
+      "fans",
+      "wake"
+    ],
+    "objetivos": [
+      0.7121773958206177,
+      0.5540312826633453
+    ],
+    "generated_data": "Why don't you wake me up when corona ends? Trapped in this loop, we're just pretending To stay connected, but our minds are mending The endgame is near, we'll make it through the lockdowns' grind",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7121773958206177,
+      "diversity_individual": 0.5540312826633453,
+      "pop_inertia": 0.42910343170166015,
+      "pop_entropy": 0.6768845091038387
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Create a thought-provoking song lyrics for an artist's new single that tackles misinformation and fake news about COVID-19 during pandemic travel, capturing the frustrations fans feel when reminded of lockdowns and forthright motivational messages to stay positive until the endgame, globe trotting as one, is reached.",
+    "keywords": [
+      "during pandemic travel",
+      "about the frustrations",
+      "reminded",
+      "forthright",
+      "motivational",
+      "fans",
+      "endgame",
+      "lockdowns",
+      "globe trotting",
+      "the frustrations of"
+    ],
+    "objetivos": [
+      0.708141565322876,
+      0.5780277848243713
+    ],
+    "generated_data": "Why don't you wake me up when corona ends? I'm stuck in this cycle of fake news and misinformation's trend. Fans reminded of lockdowns' frustration, we're yearning for forthright words to stay positive until the endgame is reached, globe trotting as one, our spirit won't be confined.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.708141565322876,
+      "diversity_individual": 0.5780277848243713,
+      "pop_inertia": 0.4261512756347656,
+      "pop_entropy": 0.6796883210282689
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "mask wearing guidelines",
+    "prompt": "Create a motivational art piece emphasizing the importance of following mask-wearing guidelines until the end of the pandemic, reminding people that every small step brings us closer to the endgame, and offering a glimmer of hope when corona finally ends.",
+    "keywords": [
+      "reminded",
+      "endgame",
+      "hope's"
+    ],
+    "objetivos": [
+      0.704079806804657,
+      0.5942867696285248
+    ],
+    "generated_data": "Join hands, stay masked! Every small step counts, bringing us closer to the endgame. When corona ends, we'll be reminded that our collective efforts paid off, giving us hope for a brighter future.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.704079806804657,
+      "diversity_individual": 0.5942867696285248,
+      "pop_inertia": 0.42518272399902346,
+      "pop_entropy": 0.6799844146762176
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Write a social media post from a candid perspective on the current state of travel restrictions and safety measures during the pandemic era, capturing a frustrated individual's sentiment.",
+    "keywords": [
+      "a frustrated social",
+      "perspective",
+      "media post from",
+      "candid"
+    ],
+    "objetivos": [
+      0.7051925659179688,
+      0.5842214226722717
+    ],
+    "generated_data": "Why don't you wake me up when Corona ends? I'm tired of being trapped in this never-ending cycle of travel restrictions and safety measures. As if it's enough to just survive, not live.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7051925659179688,
+      "diversity_individual": 0.5842214226722717,
+      "pop_inertia": 0.4314168167114258,
+      "pop_entropy": 0.6769834182656393
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Create a thought-provoking poem as an artist highlighting the anguish of living with misinformation about COVID-19, referencing your own struggle to stay informed amidst fake news and untrustworthy sources, while emphasizing the importance of taking measures against the virus until the endgame arrives.",
+    "keywords": [
+      "anguish",
+      "struggling",
+      "measures",
+      "media post from",
+      "endgame"
+    ],
+    "objetivos": [
+      0.16519777476787567,
+      0.8208860754966736
+    ],
+    "generated_data": "In slumber's grasp, I'm lost in a haze / As falsehoods spread, my heart in anguish daze",
+    "metrics_detail": {
+      "fidelity_sbert": 0.16519777476787567,
+      "diversity_individual": 0.8208860754966736,
+      "pop_inertia": 0.43077075958251954,
+      "pop_entropy": 0.6785821139603577
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "remote work and online schooling",
+    "prompt": "Create a poem that explores the challenges of remote learning during lockdowns, mentioning how they're reminded of their artistic roots as you long for the creative freedom to pursue your passion, inspired by 'Why don't you wake me up when corona ends'.",
+    "keywords": [
+      "lockdowns",
+      "reminded"
+    ],
+    "objetivos": [
+      0.17541532218456268,
+      0.8196098208427429
+    ],
+    "generated_data": "In virtual classrooms, I'm stuck and numb, Lockdowns reminding me of artistic thrum. My soul yearns to break free from screens, Like a painter's brush, my creativity beams. Why don't they wake me up when learning ends?",
+    "metrics_detail": {
+      "fidelity_sbert": 0.17541532218456268,
+      "diversity_individual": 0.8196098208427429,
+      "pop_inertia": 0.41342384338378907,
+      "pop_entropy": 0.6742284029573223
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an creative person",
+    "topic": "paw hygienics and sanitization",
+    "prompt": "Craft a humorous poem about a pup's eternal struggle with cleanliness, mentioning the importance of soap and water for a candid 'paw-some' experience, as if an eccentric officer is returning from an endless mission to issue paw hygienics guidelines.",
+    "keywords": [
+      "return",
+      "officer",
+      "duration",
+      "candid",
+      "guidelines",
+      "endless"
+    ],
+    "objetivos": [
+      0.17954367399215698,
+      0.7910486459732056
+    ],
+    "generated_data": "Meet Officer Pawfect, returning from an endless mission to bring you the most candid guide on paw hygienics! Soap and water are the secret sauce for a paw-some experience that'll leave your fur feeling fresh, not forever trapped in Corona's grasp – just until we all return to normal!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.17954367399215698,
+      "diversity_individual": 0.7910486459732056,
+      "pop_inertia": 0.4433130264282227,
+      "pop_entropy": 0.681002960692019
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "As the pandemic era concludes, paint a mural that symbolizes the struggle against misinformation, using vibrant colors to represent hope's resilience; incorporate elements that reflect the chaos and uncertainty of the pandemic, yet still convey a sense of promise for a brighter future.",
+    "keywords": [
+      "era",
+      "pandemic",
+      "conclusion",
+      "prompt",
+      "mural",
+      "symbolic",
+      "colors",
+      "hope's",
+      "hope"
+    ],
+    "objetivos": [
+      0.21199238300323486,
+      0.7900350540876389
+    ],
+    "generated_data": "In my mural, 'Rebirth from Chaos,' I'll depict a phoenix rising from a sea of distorted news headlines, its fiery plumage shimmering with hope's resilience in vibrant shades of orange and yellow. The pandemic era's uncertainty will be represented by swirling clouds of gray, but as the phoenix spreads its wings, the colors will gradually shift to blue, symbolizing the conclusion of a chapter and the dawn of a brighter future.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.21199238300323486,
+      "diversity_individual": 0.7900350540876389,
+      "pop_inertia": 0.47465755462646486,
+      "pop_entropy": 0.6951105608326803
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Create a poem about the reality of living through a pandemic as an artist, capturing the emotions and struggles of coping with isolation, mentioning 'corona' and highlighting community resilience.",
+    "keywords": [
+      "corona",
+      "pandemic",
+      "struggling",
+      "reality",
+      "cope"
+    ],
+    "objetivos": [
+      0.3396061658859253,
+      0.7575713992118835
+    ],
+    "generated_data": "In lockdown's haze, I search for light\nAs Corona's shadow looms, my art takes flight",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3396061658859253,
+      "diversity_individual": 0.7575713992118835,
+      "pop_inertia": 0.4548761749267578,
+      "pop_entropy": 0.6894595555745514
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an influencer",
+    "topic": "paw hygienics and sanitization",
+    "prompt": "Remind your devoted fans about the importance of paw hygiene during lockdowns by sharing a motivational message about why they should prioritize cleaning their paws until the corona 'endgame' is reached.",
+    "keywords": [
+      "reminded",
+      "endgame",
+      "lockdowns",
+      "motivational",
+      "fans"
+    ],
+    "objetivos": [
+      0.35643264651298523,
+      0.747882068157196
+    ],
+    "generated_data": "Hey, Paw-some Fans! As we're all reminded to stay indoors during these lockdowns, let's make sure our furry friends don't forget the importance of paw hygiene! Until Corona's endgame is reached, keep those paws clean and sanitized - it's an essential part of our self-care routine. Remember, a healthy you is a happy you (and your paws)! Let's do this!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.35643264651298523,
+      "diversity_individual": 0.747882068157196,
+      "pop_inertia": 0.47603580474853513,
+      "pop_entropy": 0.6910180568041805
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Express your frustration about the current state of remote work and online schooling, mentioning how it's making you feel stuck in isolation - write a commentary on why you wish someone would wake you up when the corona pandemic ends.",
+    "keywords": [
+      "remote work",
+      "online schooling",
+      "feeling stuck",
+      "isolation",
+      "write a frustrated",
+      "a frustrated commentary",
+      "frustrated commentary on",
+      "commentary on the",
+      "on the current",
+      "the current state",
+      "current state of",
+      "state of remote"
+    ],
+    "objetivos": [
+      0.35670235753059387,
+      0.7462829947471619
+    ],
+    "generated_data": "I'm exhausted from feeling stuck in this endless loop of remote work and online schooling. It's like being trapped in a never-ending cycle of isolation, with no reprieve in sight - I just want to be woken up when this Corona nightmare finally ends!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.35670235753059387,
+      "diversity_individual": 0.7462829947471619,
+      "pop_inertia": 0.4053512191772461,
+      "pop_entropy": 0.6938684947813786
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an influencer",
+    "topic": "paw hygienics and sanitization",
+    "prompt": "From the perspective of a paw hygiene officer, write a candid reminder to your followers about the importance of regular cleaning and sanitizing for their furry friends when you're not around, mentioning soap and water as a must-have duo.",
+    "keywords": [
+      "officer",
+      "perspective",
+      "candid",
+      "reminded"
+    ],
+    "objetivos": [
+      -0.026680361479520798,
+      0.8622174113988876
+    ],
+    "generated_data": "As a paw hygiene officer, I'm reminded every day that it's crucial to keep our furry friends clean and sanitized, especially when we're not around to supervise! Remember, soap and water are the ultimate dynamic duo for keeping those paws fresh and germ-free - make sure you're giving your pets a good scrub down whenever you can!",
+    "metrics_detail": {
+      "fidelity_sbert": -0.026680361479520798,
+      "diversity_individual": 0.8622174113988876,
+      "pop_inertia": 0.42840999603271485,
+      "pop_entropy": 0.6757841552319088
+    },
+    "fitness": 0
+  }
+]

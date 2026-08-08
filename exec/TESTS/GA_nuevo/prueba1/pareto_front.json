@@ -1,0 +1,2633 @@
+[
+  {
+    "role": "an artist",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Envision a vibrant art piece that showcases the resilience of communities in South East Asia and Italy as they navigate COVID-19's impact. Swift action is key; imagine a mosaic depicting everyday heroes emerging from lockdowns' isolation.",
+    "keywords": [
+      "south east asia",
+      "italy",
+      "corona",
+      "swift action"
+    ],
+    "objetivos": [
+      0.2732422649860382,
+      0.7272805869579315
+    ],
+    "generated_data": "Vibrant hues dance across the canvas, as everyday heroes emerge from lockdown's shadows. In South East Asia, community spirit shines bright, like a beacon of hope amidst Italy's struggle to contain the corona virus's rapid spread.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2732422649860382,
+      "diversity_individual": 0.7272805869579315,
+      "pop_inertia": 0.2822378158569336,
+      "pop_entropy": 0.6537925383024182
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an organization",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "Develop a contingency plan to mitigate the rapid spread of corona virus cases in South East Asia, focusing on improving medical facilities and informing neighboring countries about worst-case scenarios.",
+    "keywords": [
+      "contingency",
+      "plan",
+      "south east asia",
+      "corona virus",
+      "medical facilities",
+      "mitigate",
+      "crisis"
+    ],
+    "objetivos": [
+      0.6279559135437012,
+      0.5339431464672089
+    ],
+    "generated_data": "As an organization, we have developed a comprehensive contingency plan to mitigate the rapid spread of Corona Virus cases in South East Asia. Our strategy focuses on strengthening medical facilities and sharing worst-case scenario projections with neighboring countries to ensure they are prepared for potential crises.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6279559135437012,
+      "diversity_individual": 0.5339431464672089,
+      "pop_inertia": 0.3130138397216797,
+      "pop_entropy": 0.6660781555405384
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "mental health during the pandemic",
+    "prompt": "Envision a powerful art piece that captures the urgency of the COVID-19 pandemic's mental health crisis. Convey the distressing reality of Italy topping the death list and the struggles faced by medical facilities in South East Asia, while emphasizing the importance of careful government action.",
+    "keywords": [
+      "covid 19",
+      "public",
+      "cases",
+      "medical facilities"
+    ],
+    "objetivos": [
+      -0.07863081246614456,
+      0.9542664363980293
+    ],
+    "generated_data": "Fractured Minds",
+    "metrics_detail": {
+      "fidelity_sbert": -0.07863081246614456,
+      "diversity_individual": 0.9542664363980293,
+      "pop_inertia": 0.32551376342773436,
+      "pop_entropy": 0.6669328935215241
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "social distancing practices",
+    "prompt": "Imagine a public art installation that highlights the importance of social distancing in the face of a rapidly spreading pandemic. Consider the stark reality of Italy's 31st January cases surging to the top of the death list, and create a visually striking representation of the toll this takes on individuals and communities.",
+    "keywords": [
+      "rapid",
+      "cases",
+      "toll",
+      "south east asia",
+      "high risk",
+      "medical"
+    ],
+    "objetivos": [
+      0.23558309674263,
+      0.8062120378017426
+    ],
+    "generated_data": "Vivid LED lights cascade down a city street, each segment representing a life lost. The rapid rise in cases is depicted by a spiraling vortex, its center marked with a red X, symbolizing the high risk zone. In the distance, a giant globe glows bright blue, but South East Asia's countries are shrouded in darkness, emphasizing their precarious situation.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.23558309674263,
+      "diversity_individual": 0.8062120378017426,
+      "pop_inertia": 0.3271814727783203,
+      "pop_entropy": 0.6674949250524235
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "As a visual storyteller, I need you to create a thought-provoking piece highlighting the devastating impact of misinformation on small businesses during the COVID-19 pandemic. Focus on the rapid spread of false news and its crippling effect on local economies, using Italy's case as a prime example.",
+    "keywords": [
+      "small business",
+      "speedy",
+      "rapid",
+      "cases",
+      "devastating"
+    ],
+    "objetivos": [
+      0.5122965574264526,
+      0.5953693985939026
+    ],
+    "generated_data": "Rapidly spreading fake news decimates small businesses in Italy, with devastating consequences. As cases skyrocketed, misinformation boomed, crippling local economies. Medical facilities struggled to keep up, leaving many without hope.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5122965574264526,
+      "diversity_individual": 0.5953693985939026,
+      "pop_inertia": 0.35603889465332034,
+      "pop_entropy": 0.6738027271284195
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an creative person",
+    "topic": "COVID-19 examination and tracing",
+    "prompt": "Craft a vivid narrative on the rapid spread of COVID-19 in Italy and its neighboring regions in South East Asia, emphasizing the alarming death toll and inadequate medical facilities, as if you're sharing a personal concern with your brother.",
+    "keywords": [
+      "south east asia",
+      "covid 19",
+      "italy"
+    ],
+    "objetivos": [
+      0.7132512331008911,
+      0.4893232583999634
+    ],
+    "generated_data": "Brother, have you seen the numbers? Italy's situation is dire, with cases surging like wildfire. I'm worried sick about our neighbors in South East Asia too, where medical facilities are already stretched thin. It's a ticking time bomb!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7132512331008911,
+      "diversity_individual": 0.4893232583999634,
+      "pop_inertia": 0.35603889465332034,
+      "pop_entropy": 0.6738027271284195
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an influencer",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Create a public service announcement as an influencer to combat misinformation and fake news about COVID-19's rapid case escalation in South East Asia, highlighting the urgent need for proper hand hygiene practices, emphasizing high risk factors, and sounding the alarm on this alarming situation.",
+    "keywords": [
+      "practise",
+      "urgent",
+      "rapid case escalation",
+      "south east asia",
+      "high risk",
+      "hand hygiene",
+      "public service announcement",
+      "alarming",
+      "covid 19",
+      "corona virus",
+      "corona"
+    ],
+    "objetivos": [
+      0.6123636960983276,
+      0.5613300204277039
+    ],
+    "generated_data": "Let's put a stop to the spread of false info! In SE Asia, Corona cases are escalating rapidly! Don't wait till it's too late! Practice good hand hygiene NOW! High-risk areas need extra care! It's time for truth and urgency! Stay safe, stay informed!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6123636960983276,
+      "diversity_individual": 0.5613300204277039,
+      "pop_inertia": 0.33057701110839843,
+      "pop_entropy": 0.668121676194964
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an creative person",
+    "topic": "journey confinement and prophylactic",
+    "prompt": "Imagine a rapid spread of a highly contagious disease in the public sphere, requiring immediate action from authorities. Develop a narrative that explores the emotional toll on individuals, highlighting the struggles of those confined and reliant on under-equipped medical facilities, as they navigate their own mortality and the uncertainty of their high-risk surroundings.",
+    "keywords": [
+      "public",
+      "rapid",
+      "medical facilities",
+      "high risk",
+      "people"
+    ],
+    "objetivos": [
+      0.3810235559940338,
+      0.7141343057155609
+    ],
+    "generated_data": "As confinement's heavy chains ensnared me, I couldn't help but wonder: am I next? The rapid spread of this deadly disease had already claimed countless lives, leaving a trail of shattered hopes and broken dreams. Medical facilities, once touted as beacons of hope, now teetered on the brink of collapse, overwhelmed by the sheer volume of desperate patients. In this high-risk landscape, every breath felt like a gamble with fate, and I couldn't help but question: what's my expiration date?",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3810235559940338,
+      "diversity_individual": 0.7141343057155609,
+      "pop_inertia": 0.3486220550537109,
+      "pop_entropy": 0.6707288137379086
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an creative person",
+    "topic": "remote work and online schooling",
+    "prompt": "Imagine a world where the COVID-19 pandemic is still rampant in South East Asia and Italy's healthcare system is struggling to cope with the surge. As a creative problem-solver, envision innovative remote work and online schooling solutions that can mitigate the spread of Corona virus cases.",
+    "keywords": [
+      "south east asia",
+      "covid 19",
+      "italy",
+      "corona"
+    ],
+    "objetivos": [
+      -0.030271492898464203,
+      0.9223107397556305
+    ],
+    "generated_data": "In this new normal, I propose virtual art workshops, where creatives connect worldwide, reducing physical interactions. Online educational platforms could incorporate AI-powered tools for personalized learning, minimizing in-person gatherings.",
+    "metrics_detail": {
+      "fidelity_sbert": -0.030271492898464203,
+      "diversity_individual": 0.9223107397556305,
+      "pop_inertia": 0.2972543716430664,
+      "pop_entropy": 0.6606419669724288
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "residential district resiliency during curfews",
+    "prompt": "Envision a vibrant street art piece for a residential district in South East Asia, exploring the resilience of community amidst devastating curfew restrictions. Capture the human toll of rising COVID-19 cases and convey hope amidst uncertainty.",
+    "keywords": [
+      "south east asia",
+      "devastating",
+      "toll",
+      "cases"
+    ],
+    "objetivos": [
+      0.09091983735561371,
+      0.8355935961008072
+    ],
+    "generated_data": "Vibrant murals dance across walls, as resilience shines through streets. Amidst curfew shadows, hope flickers like candlelight, illuminating the human toll of rising cases.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.09091983735561371,
+      "diversity_individual": 0.8355935961008072,
+      "pop_inertia": 0.3259938812255859,
+      "pop_entropy": 0.6621517866559792
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "journey confinement and safety",
+    "prompt": "As the situation unfolds in Italy, where cases are surging at an alarming rate, I need you to describe my journey back home from South East Asia, considering the high risk of contracting Corona Virus and its devastating toll on medical facilities there. Please provide guidance on how to ensure a safe passage and confinement measures for the duration.",
+    "keywords": [
+      "italy",
+      "cases",
+      "toll",
+      "south east asia",
+      "high risk",
+      "medical"
+    ],
+    "objetivos": [
+      0.5102218389511108,
+      0.6199034750461578
+    ],
+    "generated_data": "Given Italy's escalating cases and dire medical situation, I advise caution when returning from South East Asia. Prioritize booking a direct flight to minimize exposure. Upon arrival, isolate yourself for at least 14 days, ensuring you have essential supplies and no visitors. Check into a hotel or Airbnb with a separate living space to prevent any potential contamination.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5102218389511108,
+      "diversity_individual": 0.6199034750461578,
+      "pop_inertia": 0.3416706848144531,
+      "pop_entropy": 0.6754660898089904
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an creative person",
+    "topic": "journey confinement and prophylactic",
+    "prompt": "Craft a compelling public service announcement for the topic of journey confinement and prophylactic measures, incorporating the themes of rising, rapid case escalation and high risk, while highlighting the urgent situation in South East Asia where medical facilities are struggling to cope with the rapid spread of Corona virus cases, warning travelers of the toll this takes on those affected.",
+    "keywords": [
+      "rising",
+      "rapid case escalation",
+      "high risk",
+      "south east asia",
+      "travel",
+      "public service announcement",
+      "toll",
+      "rapid",
+      "cases",
+      "medical"
+    ],
+    "objetivos": [
+      0.6728166341781616,
+      0.5063841938972473
+    ],
+    "generated_data": "As you prepare for your journey, don't ignore the rising threat of Corona virus cases in South East Asia. With a rapid case escalation and high risk environment, medical facilities are stretched to the limit. Your decision to travel could mean disaster for yourself or others. Don't be a statistic - take prophylactic measures now and prioritize your safety.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6728166341781616,
+      "diversity_individual": 0.5063841938972473,
+      "pop_inertia": 0.3416706848144531,
+      "pop_entropy": 0.6754660898089904
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "COVID-19 examination and tracing",
+    "prompt": "Create an urgent appeal to the Italian government to address the rapidly escalating COVID-19 cases, highlighting the devastating impact on small businesses and neighboring countries, emphasizing the need for speedy updates and effective tracing measures.",
+    "keywords": [
+      "covid 19",
+      "speedy",
+      "small business",
+      "rapid",
+      "cases",
+      "devastating",
+      "update",
+      "east"
+    ],
+    "objetivos": [
+      0.9407210350036621,
+      0.43925756216049194
+    ],
+    "generated_data": "Brother, please look at Italy's case! The first few cases came in January 31st, now Italy tops the death list due to Corona virus cases spreading very fast. Medical facilities are also not good in South East Asia and your neighboring countries have the worst conditions. Your government needs to be very careful.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.9407210350036621,
+      "diversity_individual": 0.43925756216049194,
+      "pop_inertia": 0.3553975677490234,
+      "pop_entropy": 0.6711620508883903
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an influencer",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "As a leading influencer on COVID-19 awareness, evaluate the rapid case escalation in Italy and South East Asia, and provide guidance on practising caution against false information that can spread quickly; consider verified sources to debunk misinformation and prevent speedy proliferation of corona virus cases.",
+    "keywords": [
+      "evaluation",
+      "practise",
+      "false information",
+      "rapid case escalation",
+      "south east asia",
+      "covid 19",
+      "speedy",
+      "verified",
+      "corona"
+    ],
+    "objetivos": [
+      0.5575656294822693,
+      0.5824632048606873
+    ],
+    "generated_data": "As an influencer, I urge you to stay vigilant and not fall prey to rapid case escalation misinformation! In Italy and South East Asia, the situation is dire - false information spreads like wildfire, putting lives at risk. To practise caution, rely on verified sources to debunk myths and stay up-to-date with trusted news.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5575656294822693,
+      "diversity_individual": 0.5824632048606873,
+      "pop_inertia": 0.3563767242431641,
+      "pop_entropy": 0.6742993238379756
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an influencer",
+    "topic": "hand hygienics and sanitation",
+    "prompt": "Create a compelling public service announcement as an influencer to emphasize the importance of proper hand hygiene in light of the rapid case escalation of corona virus, highlighting the pressing need for effective sanitization practices and encouraging people to take immediate action to prevent the spread of this speedy threat, with a focus on right hygienics and practise.",
+    "keywords": [
+      "right",
+      "hygienics",
+      "practise",
+      "pressing",
+      "computer virus",
+      "evaluation",
+      "sanitization",
+      "corona",
+      "coronavirus",
+      "rapid case escalation",
+      "public service announcement",
+      "spread",
+      "speedy",
+      "paw"
+    ],
+    "objetivos": [
+      0.45559579133987427,
+      0.6207982897758484
+    ],
+    "generated_data": "Right now, it's more important than ever to get hygiene right! Proper hand hygiene is key in preventing the spread of corona virus. Don't wait until cases escalate rapidly, take immediate action to sanitise your hands frequently, especially after using the computer or touching surfaces. Your safety depends on it!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.45559579133987427,
+      "diversity_individual": 0.6207982897758484,
+      "pop_inertia": 0.3563767242431641,
+      "pop_entropy": 0.6742993238379756
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an expert",
+    "topic": "hand hygienics and sanitation",
+    "prompt": "Emit a public service announcement highlighting the urgency of practicing proper hand hygienics and sanitation in South East Asia, particularly considering the rapid spread of Corona virus cases. Evaluate the fleet's preparedness for high-risk scenarios and emphasize the importance of speedy evaluation to mitigate the risk.",
+    "keywords": [
+      "proper",
+      "evaluation",
+      "computer virus",
+      "fleet",
+      "urgent",
+      "high risk",
+      "hygienics",
+      "south east asia",
+      "public service announcement",
+      "paw",
+      "speedy",
+      "rapid",
+      "spread",
+      "corona"
+    ],
+    "objetivos": [
+      0.5181833505630493,
+      0.5844573080539703
+    ],
+    "generated_data": "As an expert in hand hygiene and sanitation, I urge you to take immediate action! In South East Asia, the rapid spread of Corona virus cases is a ticking time bomb. Proper hand hygienics is crucial, especially with medical facilities struggling to cope. We must prepare for high-risk scenarios and prioritize speedy evaluation to mitigate the risk. Don't wait, act now and keep your paw clean!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5181833505630493,
+      "diversity_individual": 0.5844573080539703,
+      "pop_inertia": 0.35981781005859376,
+      "pop_entropy": 0.6766446062020313
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Envision a powerful artwork that visualizes the rapid spread of misinformation about COVID-19 in south east Asia, where cases are skyrocketing and medical facilities are strained, posing a high risk to communities. Capture the devastating impact this has on people's lives, especially in Italy which is now at the top of the death list, and convey the urgency for governments to take swift action.",
+    "keywords": [
+      "speedy",
+      "cases",
+      "high risk",
+      "devastating",
+      "south east asia"
+    ],
+    "objetivos": [
+      0.4510185420513153,
+      0.6470421552658081
+    ],
+    "generated_data": "A fiery brush stroke depicts the rapid spread of misinformation like wildfire across south east Asia, where cases are skyrocketing and medical facilities strain under pressure. In the background, a haunting silhouette of Italy's flag waves mournfully, as the country claims the top spot on the death list - a poignant reminder of the devastating impact this has on people's lives.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.4510185420513153,
+      "diversity_individual": 0.6470421552658081,
+      "pop_inertia": 0.3593928527832031,
+      "pop_entropy": 0.6698896828774902
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Envision a South East Asia community where small businesses thrive despite rapid COVID-19 case spikes. Imagine the resilience and creativity that can emerge when local entrepreneurs come together to support each other.",
+    "keywords": [
+      "south east asia",
+      "small business",
+      "rapid",
+      "cases"
+    ],
+    "objetivos": [
+      0.3128889203071594,
+      0.7173076272010803
+    ],
+    "generated_data": "In this Southeast Asian community, small businesses rise above lockdown challenges. Rapid case spikes won't silence the entrepreneurial spirit as locals band together, sharing resources and innovative solutions.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3128889203071594,
+      "diversity_individual": 0.7173076272010803,
+      "pop_inertia": 0.3467411422729492,
+      "pop_entropy": 0.6685364056130381
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Envision a mural that embodies the spirit of community resilience amidst the crisis, drawing inspiration from Italy's rapid rise on the death list. Prioritize the portrayal of collective efforts and human connections as South East Asia faces similar challenges in medical facilities, highlighting the urgent need for action.",
+    "keywords": [
+      "prioritize",
+      "cases",
+      "rising",
+      "south east asia",
+      "medical facilities",
+      "high risk"
+    ],
+    "objetivos": [
+      0.03772314637899399,
+      0.9140819758176804
+    ],
+    "generated_data": "",
+    "metrics_detail": {
+      "fidelity_sbert": 0.03772314637899399,
+      "diversity_individual": 0.9140819758176804,
+      "pop_inertia": 0.3428658676147461,
+      "pop_entropy": 0.6685048998543541
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during lockdowns",
+    "prompt": "As Italy's situation worsens, envision a vibrant street art mural capturing the resilient spirit of a South East Asian community banding together to support small businesses amidst the rapid spread of Corona virus cases.",
+    "keywords": [
+      "south east asia",
+      "small business",
+      "rapid",
+      "cases"
+    ],
+    "objetivos": [
+      0.05514579266309738,
+      0.8562688380479813
+    ],
+    "generated_data": "Vibrant murals bloom on city streets, as local artists unite with small business owners to create a tapestry of hope. Amidst rapidly spreading cases, their resilience shines like a beacon, illuminating the path forward.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.05514579266309738,
+      "diversity_individual": 0.8562688380479813,
+      "pop_inertia": 0.35778915405273437,
+      "pop_entropy": 0.6796268031919049
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "COVID-19 testing and tracing",
+    "prompt": "Write a reflection on the rapid spread of COVID-19 cases in Italy, highlighting the importance of effective testing and tracing strategies during a crisis like this, as if advising your brother to be cautious.",
+    "keywords": [
+      "covid 19",
+      "italy",
+      "testing",
+      "corona virus",
+      "medical",
+      "crisis",
+      "east"
+    ],
+    "objetivos": [
+      0.9110125303268433,
+      0.45750558376312256
+    ],
+    "generated_data": "Brother, look at Italy's case - first few came on January 31st now it tops the death list due to Corona Virus cases spreading very fast. Medical facilities are also struggling in South East Asia where conditions are already dire. You need to be extremely careful with your government and family.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.9110125303268433,
+      "diversity_individual": 0.45750558376312256,
+      "pop_inertia": 0.36660961151123045,
+      "pop_entropy": 0.6730438064927361
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "travel confinement and prophylactic",
+    "prompt": "Create a powerful public service announcement for travelers heading to South East Asia amidst rapid case escalation of Corona Virus; highlight the high-risk scenario and emphasize the importance of prophylactic measures to mitigate the toll on the public.",
+    "keywords": [
+      "public",
+      "rapid case escalation",
+      "high risk",
+      "south east asia",
+      "public service announcement",
+      "rapid",
+      "toll",
+      "cases",
+      "medical"
+    ],
+    "objetivos": [
+      0.7065932750701904,
+      0.5047505795955658
+    ],
+    "generated_data": "Travelers, beware! As the Corona Virus cases skyrocket in South East Asia, you're heading into a high-risk zone. Medical facilities are stretched thin, and the death toll is rising fast. Don't risk your life - take prophylactic measures now!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7065932750701904,
+      "diversity_individual": 0.5047505795955658,
+      "pop_inertia": 0.3518821716308594,
+      "pop_entropy": 0.6717927307247364
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an creative person",
+    "topic": "journey confinement and prophylactic",
+    "prompt": "Craft a compelling public service announcement emphasizing the urgent need for caution while traveling to South East Asia during the COVID-19 pandemic, highlighting the region's rapidly rising cases and subpar medical facilities as well as its neighbor's worst conditions.",
+    "keywords": [
+      "rising",
+      "medical facilities",
+      "high risk",
+      "south east asia",
+      "travel",
+      "public service announcement",
+      "rapid",
+      "cases",
+      "medical"
+    ],
+    "objetivos": [
+      0.5683377981185913,
+      0.5706926882266998
+    ],
+    "generated_data": "As you plan your journey, don't risk it all! South East Asia is on the rise with rapid cases, and medical facilities are struggling to keep up. Your neighbor's worst conditions serve as a warning - be cautious, travel wisely, and prioritize public health!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5683377981185913,
+      "diversity_individual": 0.5706926882266998,
+      "pop_inertia": 0.3532322692871094,
+      "pop_entropy": 0.6725279750863595
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Imagine sharing concerns with a friend about the rapid spread of COVID-19 in Italy, highlighting the need for urgent action to prevent devastating consequences on local small businesses.",
+    "keywords": [
+      "small business",
+      "speedy",
+      "rapid",
+      "cases",
+      "devastating"
+    ],
+    "objetivos": [
+      0.6526838541030884,
+      0.5286746919155121
+    ],
+    "generated_data": "Brother, did you see the numbers? Italy's cases are skyrocketing! It's like a boom, so fast and so devastating. And with medical facilities struggling to keep up, it's a recipe for disaster. We need to take action now before it's too late. Imagine if our local small businesses are affected - it would be a huge blow.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6526838541030884,
+      "diversity_individual": 0.5286746919155121,
+      "pop_inertia": 0.36168575286865234,
+      "pop_entropy": 0.6836843147345925
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal individual",
+    "topic": "COVID-19 testing and decipher",
+    "prompt": "Examine the concerning rapid spread of Corona Virus cases in Italy, now topping the death list; consider South East Asia's neighborly conditions; be cautious as you update and analyze the situation.",
+    "keywords": [
+      "covid 19",
+      "Italian Republic",
+      "cases",
+      "corona virus",
+      "examine",
+      "update",
+      "Orient"
+    ],
+    "objetivos": [
+      0.7399495840072632,
+      0.48481982946395874
+    ],
+    "generated_data": "Examine the concerning rapid spread of Covid-19 cases in Italian Republic, now topping the death list. In Orient regions, neighboring countries' conditions are worrisome. Update and analyze with caution.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7399495840072632,
+      "diversity_individual": 0.48481982946395874,
+      "pop_inertia": 0.36168575286865234,
+      "pop_entropy": 0.6836843147345925
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an creative person",
+    "topic": "journey confinement and prophylactic",
+    "prompt": "Imagine a world where the rapid spread of Corona Virus cases in Italy's top death list has forced people into a life-altering journey of confinement. As an innovator, envision a prophylactic solution for this high-risk scenario, considering public health and medical facilities' capacity to effectively respond.",
+    "keywords": [
+      "public",
+      "rapid",
+      "medical facilities",
+      "high risk",
+      "people"
+    ],
+    "objetivos": [
+      0.38866010308265686,
+      0.65557461977005
+    ],
+    "generated_data": "As confinement becomes the new norm, I propose a mobile containment unit designed for rapid deployment in densely populated areas like Italy's affected regions. This self-sustaining module would provide a safe haven for people while streamlining medical services and public health response, bridging the gap between high-risk zones and adequate medical facilities.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.38866010308265686,
+      "diversity_individual": 0.65557461977005,
+      "pop_inertia": 0.35376834869384766,
+      "pop_entropy": 0.6689722252053453
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal individual",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Practise caution when consuming news, prioritise verifying sources to avoid spreading false information about the rapid spread of Corona Virus cases in South East Asia. Provide an urgent update on the current situation.",
+    "keywords": [
+      "practise",
+      "prioritise",
+      "false information",
+      "rapid spread",
+      "south east asia",
+      "rapid",
+      "urgent update",
+      "cases",
+      "corona virus",
+      "verify",
+      "health check",
+      "corona"
+    ],
+    "objetivos": [
+      0.8110091686248779,
+      0.47189873456954956
+    ],
+    "generated_data": "Verify sources before sharing news, brother! Italy's top spot on the death list is a stark reminder. In South East Asia, medical facilities are struggling to keep up with the rapid spread of Corona Virus cases. Prioritise your health check and stay informed with credible updates only.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8110091686248779,
+      "diversity_individual": 0.47189873456954956,
+      "pop_inertia": 0.35376834869384766,
+      "pop_entropy": 0.6689722252053453
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Envision a vibrant artistic expression capturing the resilience of South East Asia's small businesses amidst COVID-19's rapid spread. Draw inspiration from Italy's recent tragic experience and craft a poignant piece that highlights the community's ability to adapt and thrive in the face of adversity.",
+    "keywords": [
+      "south east asia",
+      "small business",
+      "rapid",
+      "cases"
+    ],
+    "objetivos": [
+      0.24701917171478271,
+      0.7176666259765625
+    ],
+    "generated_data": "Vibrant murals paint the streets, small business owners adapting swiftly, community resilience on full display. Inspired by Italy's cautionary tale, South East Asia's entrepreneurial spirit remains unbroken, as rapid cases spread.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.24701917171478271,
+      "diversity_individual": 0.7176666259765625,
+      "pop_inertia": 0.3467411422729492,
+      "pop_entropy": 0.6685364056130381
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "remote work and online schooling",
+    "prompt": "Create a thought-provoking art piece that highlights the urgency of global health concerns, specifically in South East Asia, where devastating corona virus cases have led to a rapid spread. Draw parallels with remote work and online schooling's impact on small businesses, emphasizing the need for speedy vaccination efforts.",
+    "keywords": [
+      "global health",
+      "devastating",
+      "medical facilities",
+      "south east asia",
+      "rapid spread",
+      "vaccination",
+      "small business",
+      "speedy",
+      "urgent need",
+      "corona virus"
+    ],
+    "objetivos": [
+      0.18423035740852356,
+      0.7706184536218643
+    ],
+    "generated_data": "Viral Waves: A Call to Action",
+    "metrics_detail": {
+      "fidelity_sbert": 0.18423035740852356,
+      "diversity_individual": 0.7706184536218643,
+      "pop_inertia": 0.31582351684570314,
+      "pop_entropy": 0.6647273526490414
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "As the global COVID-19 crisis takes an increasingly emotional toll on individuals and communities, I urge you to address the misinformation epidemic that's putting a massive strain on our medical resources.",
+    "keywords": [
+      "emotional",
+      "toll",
+      "medical",
+      "resources",
+      "psychological",
+      "strain",
+      "crisis"
+    ],
+    "objetivos": [
+      0.22274085879325867,
+      0.724229633808136
+    ],
+    "generated_data": "I've witnessed firsthand the devastating impact of misinformation on patients and healthcare workers alike. The psychological strain is real, and it's crucial we combat fake news head-on to preserve our medical resources and prevent further crisis.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.22274085879325867,
+      "diversity_individual": 0.724229633808136,
+      "pop_inertia": 0.3361558151245117,
+      "pop_entropy": 0.6754112599009942
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "social distancing practices",
+    "prompt": "Envision a world where the brother's words become a reality. Create a vivid art piece that visually communicates the consequences of neglecting social distancing practices in Italy and South East Asia, highlighting the rapid rise in cases and toll on human life.",
+    "keywords": [
+      "toll",
+      "cases",
+      "rapid",
+      "south east asia",
+      "rising",
+      "high risk",
+      "medical"
+    ],
+    "objetivos": [
+      0.1706904023885727,
+      0.7904094308614731
+    ],
+    "generated_data": "A haunting mural unfolds, depicting a cityscape consumed by a sea of bodies, faces contorted in desperation as medical staff struggle to cope with the rising tide of patients. In the distance, a stark white death list, its numbers rapidly climbing like a toxic spiral. The once-vibrant streets now eerily still, yet amidst the chaos, a lone figure stands, arms outstretched in a futile attempt to hold back the wave, as the words 'Brother, just look...' echo through the silence.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.1706904023885727,
+      "diversity_individual": 0.7904094308614731,
+      "pop_inertia": 0.338734130859375,
+      "pop_entropy": 0.6704097559044788
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Create a thought-provoking artwork that exposes the rapid spread of misinformation and fake news about COVID-19, particularly in South East Asia, highlighting the struggles of small businesses amidst devastating cases and inadequate medical facilities.",
+    "keywords": [
+      "small business",
+      "speedy",
+      "cases",
+      "medical facilities",
+      "devastating"
+    ],
+    "objetivos": [
+      0.10610578954219818,
+      0.8023117184638977
+    ],
+    "generated_data": "A canvas ablaze with warning signs, 'Misinformation Ignites' screams the title, as a speeding train of false facts hurtles towards a devastated small business district. The once-thriving stores now boarded up, their owners struggling to stay afloat amidst the tsunami of COVID-19 cases and overwhelmed medical facilities.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.10610578954219818,
+      "diversity_individual": 0.8023117184638977,
+      "pop_inertia": 0.3129072380065918,
+      "pop_entropy": 0.6649605130376087
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during lockdowns",
+    "prompt": "As the world grapples with the rapid spread of corona virus cases in South East Asia, create a thought-provoking artistic reflection on community resilience during lockdowns, highlighting the struggles and triumphs of small businesses in this region.",
+    "keywords": [
+      "south east asia",
+      "small business",
+      "rapid",
+      "cases"
+    ],
+    "objetivos": [
+      0.22183801233768463,
+      0.7431567013263702
+    ],
+    "generated_data": "In 'Lockdown Portraits,' I capture the unyielding spirit of small business owners in South East Asia, who face the dual threat of rapid case spread and inadequate medical facilities. Through vibrant colors and poignant expressions, my artistry conveys the resilience of communities that adapt, survive, and thrive despite adversity.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.22183801233768463,
+      "diversity_individual": 0.7431567013263702,
+      "pop_inertia": 0.31981960296630857,
+      "pop_entropy": 0.6527399843970638
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Envision a vibrant art piece capturing the resilience of communities in South East Asia and Italy, where Corona virus cases surged rapidly. Draw inspiration from the urgency of swift action required to overcome the crisis.",
+    "keywords": [
+      "south east asia",
+      "italy",
+      "corona",
+      "swift action"
+    ],
+    "objetivos": [
+      0.17315329611301422,
+      0.7718285024166107
+    ],
+    "generated_data": "In 'Resilience Bloom', a mural comes alive with swirling patterns of hope and unity. Vibrant hues depict the rapid growth of community spirit in South East Asia, as neighbors rally together amidst Italy's top spot on the death list. A bouquet of swift action blooms, symbolizing the urgent need for collective strength.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.17315329611301422,
+      "diversity_individual": 0.7718285024166107,
+      "pop_inertia": 0.3386034393310547,
+      "pop_entropy": 0.6597186926542811
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during lockdowns",
+    "prompt": "As the situation unfolds, imagine a brother in Italy who's seen firsthand the devastating impact of corona virus cases. In South East Asia, medical facilities are struggling to cope with the rapid spread of the disease. Your art piece should capture the community's resilience as they navigate this speedy, swift action amidst the chaos.",
+    "keywords": [
+      "speedy",
+      "swift action",
+      "devastating",
+      "corona",
+      "south east asia"
+    ],
+    "objetivos": [
+      0.1842321753501892,
+      0.7468471229076385
+    ],
+    "generated_data": "Fragile threads of hope entwine like vines on a trellis, as community spirits rise against the tide of devastation. In Italy, a brother's anguish fuels his brushstrokes, while in South East Asia, resilience blooms like lotus flowers amidst the chaos, a testament to humanity's strength in the face of speedy, swift action and corona's unrelenting grip.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.1842321753501892,
+      "diversity_individual": 0.7468471229076385,
+      "pop_inertia": 0.3280187606811523,
+      "pop_entropy": 0.666912297731864
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "journey confinement and safety",
+    "prompt": "As I navigate the uncertainty of this global pandemic, I'm concerned about my personal journey to South East Asia, where medical facilities are already overwhelmed. With cases rising rapidly, I need guidance on how to prepare for a high-risk situation and ensure my safety during confinement.",
+    "keywords": [
+      "contingency",
+      "cases",
+      "medical facilities",
+      "south east asia",
+      "high risk"
+    ],
+    "objetivos": [
+      0.5110966563224792,
+      0.5951380729675293
+    ],
+    "generated_data": "As I plan my trip to South East Asia, contingency planning is key. With cases surging rapidly, it's crucial to prioritize medical facilities' capacity to handle emergencies. I'll research the local health infrastructure, monitor case developments, and prepare for high-risk situations to ensure a safe journey.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5110966563224792,
+      "diversity_individual": 0.5951380729675293,
+      "pop_inertia": 0.3532322692871094,
+      "pop_entropy": 0.6725279750863595
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an expert",
+    "topic": "hand hygienics and sanitation",
+    "prompt": "As a top expert in hand hygiene and sanitation, evaluate the current situation of rapid case escalation in South East Asia, where proper medical facilities are lacking. Provide an urgent public service announcement on how to prevent the speedy spread of Corona Virus, considering the high-risk conditions, fleet-pace development, and constant updates.",
+    "keywords": [
+      "proper",
+      "evaluation",
+      "urgent",
+      "computer virus",
+      "rapid case escalation",
+      "south east asia",
+      "high risk",
+      "fleet",
+      "public service announcement",
+      "paw",
+      "speedy",
+      "rapid",
+      "spread",
+      "corona virus",
+      "update",
+      "medical",
+      "corona"
+    ],
+    "objetivos": [
+      0.5796877145767212,
+      0.5579246282577515
+    ],
+    "generated_data": "As a top expert, I urge you to take immediate action against Corona Virus in South East Asia. With rapid case escalation, medical facilities are being pushed to their limits. To prevent the speedy spread of this deadly virus, remember to wash your hands properly with soap and water for at least 20 seconds. Use an alcohol-based sanitizer if soap isn't available. And don't forget to cover your paw when coughing or sneezing. Stay safe!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5796877145767212,
+      "diversity_individual": 0.5579246282577515,
+      "pop_inertia": 0.3385623931884766,
+      "pop_entropy": 0.6578951629855793
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "travel confinement and prophylactic",
+    "prompt": "Envision a global health crisis unfolding. As you paint a vivid picture of travel confinement and prophylactic measures, incorporate the alarmingly rapid rise in coronavirus cases in Italy, highlighting the dire situation where death lists are topping charts. Focus on the public's growing unease as medical facilities struggle to cope with the high risk situation, ultimately capturing the sense of urgency and rising anxiety among people.",
+    "keywords": [
+      "public",
+      "rapid",
+      "rising",
+      "medical facilities",
+      "high risk",
+      "cases",
+      "people"
+    ],
+    "objetivos": [
+      0.6096454858779907,
+      0.5345485210418701
+    ],
+    "generated_data": "Rapidly climbing death lists in Italy spell doom, as the once-beautiful country is now a hotbed for the virus. People are gripped by fear, desperate for medical facilities to keep up with the deluge of cases. The world holds its breath, frozen in uncertainty.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6096454858779907,
+      "diversity_individual": 0.5345485210418701,
+      "pop_inertia": 0.3566336441040039,
+      "pop_entropy": 0.6763138195430881
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "residential district resiliency during curfews",
+    "prompt": "Envision a brotherly tale where Italy's sudden rise to the death list sparks concern. As an artist depicting resilience in residential districts under curfew, generate a vivid narrative that explores how communities cope with the devastating impact of cases, echoing the toll taken by this pandemic in South East Asia.",
+    "keywords": [
+      "toll",
+      "cases",
+      "italy",
+      "south east asia",
+      "devastating"
+    ],
+    "objetivos": [
+      0.34799084067344666,
+      0.6800707280635834
+    ],
+    "generated_data": "As night fell on Italy's once-vibrant streets, the eerie silence was shattered by whispers of a new reality: the death list had claimed its spot at the top. The brotherly camaraderie was replaced with anxious glances, as neighbors wondered if they'd be next. In the midst of chaos, the South East Asian community held onto hope, drawing strength from their shared struggle against the pandemic's devastating toll.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.34799084067344666,
+      "diversity_individual": 0.6800707280635834,
+      "pop_inertia": 0.3416706848144531,
+      "pop_entropy": 0.6754660898089904
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an influencer",
+    "topic": "hand hygienics and sanitation",
+    "prompt": "Create a public service announcement as an influencer highlighting the pressing importance of hand hygiene and sanitization in light of the rapid COVID-19 case escalation, emphasizing the right practise to prevent the spread of corona virus and ensuring speedy evaluation and sanitization.",
+    "keywords": [
+      "right",
+      "hygienics",
+      "practise",
+      "pressing",
+      "computer virus",
+      "evaluation",
+      "sanitization",
+      "corona",
+      "coronavirus",
+      "rapid case escalation",
+      "public service announcement",
+      "spread",
+      "speedy",
+      "paw"
+    ],
+    "objetivos": [
+      0.3795512914657593,
+      0.660771906375885
+    ],
+    "generated_data": "Hey friends! As we're seeing a rapid case escalation of coronavirus worldwide, it's more pressing than ever to prioritize hand hygiene and sanitization! The right practise is key to preventing the spread of this virus. Let's make sure to wash those hands frequently and use sanitizers wisely. Stay safe and healthy, and let's get through this together!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3795512914657593,
+      "diversity_individual": 0.660771906375885,
+      "pop_inertia": 0.3600244140625,
+      "pop_entropy": 0.6749548721989693
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "remote work and online schooling",
+    "prompt": "Imagine an Italian town ravaged by a rapid spread of corona virus cases. As an artist, depict the devastating impact on a small business owner trying to navigate remote work and online schooling for their family while struggling with inadequate medical facilities.",
+    "keywords": [
+      "small business",
+      "speedy",
+      "rapid",
+      "cases",
+      "devastating"
+    ],
+    "objetivos": [
+      0.34578365087509155,
+      0.7113085389137268
+    ],
+    "generated_data": "In the once-thriving streets of Italy, small business owner Marco's deli is now a shadow of its former self. As corona virus cases spread rapidly, Marco struggles to balance remote work and online schooling for his family amidst devastating conditions.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.34578365087509155,
+      "diversity_individual": 0.7113085389137268,
+      "pop_inertia": 0.3187355422973633,
+      "pop_entropy": 0.6587184319758217
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "social distancing practices",
+    "prompt": "Envision a world where creative minds adapt to the unprecedented crisis. As Italy's case numbers skyrocketed, what innovative social distancing measures can you, as an artist, propose to mitigate the devastating impact on small businesses and curb the rapid spread of Corona Virus?",
+    "keywords": [
+      "speedy",
+      "small business",
+      "devastating",
+      "spread",
+      "rapid spread",
+      "corona virus"
+    ],
+    "objetivos": [
+      -0.06435082852840424,
+      0.922076627612114
+    ],
+    "generated_data": "As an artist, I envision murals that promote social distancing in public spaces, with guidelines for people to maintain a safe distance. Small business owners can create interactive installations that encourage customers to stay 6 feet apart, while also showcasing their products. We can also organize virtual art exhibitions and sales, allowing artists to showcase their work without the risk of rapid spread.",
+    "metrics_detail": {
+      "fidelity_sbert": -0.06435082852840424,
+      "diversity_individual": 0.922076627612114,
+      "pop_inertia": 0.3427581787109375,
+      "pop_entropy": 0.6706653988047607
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "remote work and online schooling",
+    "prompt": "Envision a virtual art studio where creativity knows no borders. Generate a thought-provoking piece that captures the essence of remote workers and online students navigating the unprecedented global crisis, amidst the urgent need for small businesses to adapt quickly, as cases surge with rapid spread of corona virus in east and beyond.",
+    "keywords": [
+      "small business",
+      "urgent need",
+      "cases",
+      "rapid spread",
+      "corona virus",
+      "east"
+    ],
+    "objetivos": [
+      0.06950723379850388,
+      0.811613991856575
+    ],
+    "generated_data": "As artists, we find solace in the virtual studio, where creativity flows without borders. Amidst the pandemic's chaos, remote workers and online students face unprecedented challenges, while small businesses struggle to adapt quickly. The urgent need for innovation sparks a surge of digital art, reflecting the rapid spread of cases across east and beyond.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.06950723379850388,
+      "diversity_individual": 0.811613991856575,
+      "pop_inertia": 0.3486220550537109,
+      "pop_entropy": 0.6707288137379086
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an expert",
+    "topic": "remote work and online schooling",
+    "prompt": "Consider the alarming rise in COVID-19 cases globally, particularly in South East Asia where medical facilities are strained. As an expert in remote work and online schooling, propose a comprehensive plan to address the urgent need for flexible learning strategies and contingency measures to ensure continuity of education in case of rapid case escalation.",
+    "keywords": [
+      "urgent need",
+      "global health",
+      "medical facilities",
+      "corona virus",
+      "south east asia",
+      "rapid case escalation",
+      "vaccination"
+    ],
+    "objetivos": [
+      0.07363362610340118,
+      0.8026810139417648
+    ],
+    "generated_data": "In light of the global health crisis, it's imperative to develop robust remote learning frameworks that cater to the urgent need for flexibility. By leveraging online schooling tools and platforms, we can mitigate the risk of disruption caused by rapid case escalation. As a starting point, I recommend implementing virtual classrooms, providing teachers with training on digital pedagogy, and establishing clear guidelines for remote assessments and feedback mechanisms.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.07363362610340118,
+      "diversity_individual": 0.8026810139417648,
+      "pop_inertia": 0.3593928527832031,
+      "pop_entropy": 0.6698896828774902
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "hand hygienics and sanitation",
+    "prompt": "Create a compelling public service announcement as an artist, emphasizing the urgent need for hand hygiene practices amidst the rapid coronavirus case escalation in South East Asia, while cautioning against false information and encouraging speedy evaluation and correction of cases to contain the pandemic's pressing spread.",
+    "keywords": [
+      "coronavirus",
+      "evaluation",
+      "practise",
+      "computer virus",
+      "false information",
+      "rapid case escalation",
+      "hygienics",
+      "pressing",
+      "public service announcement",
+      "covid 19",
+      "paw",
+      "speedy",
+      "spread",
+      "rapid",
+      "right",
+      "corona"
+    ],
+    "objetivos": [
+      0.4913148880004883,
+      0.6090138852596283
+    ],
+    "generated_data": "Rise up, paw-fectly clean! Don't let corona creep in. In SE Asia, cases are spreading fast, it's time to take a stand. Practice good hygienics, wash those hands, and don't believe false info, it's a deadly trap. Rapid evaluation is key, correct the mistakes, and contain this spread before it's too late.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.4913148880004883,
+      "diversity_individual": 0.6090138852596283,
+      "pop_inertia": 0.3593928527832031,
+      "pop_entropy": 0.6698896828774902
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "hand hygienics and sanitation",
+    "prompt": "Given the rapidly escalating Corona Virus cases in Italy and the concerning situation in South East Asia where medical facilities are struggling, it's crucial to prioritize hand hygiene as a key measure to contain the spread. Oriente yourself towards verified information and be vigilant against false claims.",
+    "keywords": [
+      "Orient",
+      "rising",
+      "false information",
+      "rapid case escalation",
+      "high risk",
+      "south east asia",
+      "prioritise",
+      "rapid",
+      "verified"
+    ],
+    "objetivos": [
+      0.49184107780456543,
+      0.5959574282169342
+    ],
+    "generated_data": "As the rapid case escalation in Italy and South East Asia's dire conditions rise concerns, prioritizing hand hygiene becomes essential. Verify info, orient away from false claims and take action",
+    "metrics_detail": {
+      "fidelity_sbert": 0.49184107780456543,
+      "diversity_individual": 0.5959574282169342,
+      "pop_inertia": 0.3546966552734375,
+      "pop_entropy": 0.6657488963412527
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "mental health during the pandemic",
+    "prompt": "Write about the emotional toll of rapid case surges in South East Asia and the need for governments to prioritize mental health support amidst speedy spread of COVID-19.",
+    "keywords": [
+      "south east asia",
+      "speedy",
+      "cases",
+      "medical facilities"
+    ],
+    "objetivos": [
+      0.5342574715614319,
+      0.5745443403720856
+    ],
+    "generated_data": "The constant stream of rapid case surges in South East Asia has taken a devastating toll on our collective mental well-being. As cases skyrocket, medical facilities are overwhelmed, leaving us feeling helpless and anxious, begging for governments to prioritize our mental health support.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5342574715614319,
+      "diversity_individual": 0.5745443403720856,
+      "pop_inertia": 0.3397796630859375,
+      "pop_entropy": 0.6739326767178029
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "COVID-19 examination and tracing",
+    "prompt": "As the COVID-19 situation in South East Asia worsens, create a compelling art piece that visually represents Italy's recent surge in cases. Consider the challenges faced by medical facilities amidst a rapidly spreading outbreak.",
+    "keywords": [
+      "public",
+      "rapid",
+      "cases",
+      "east"
+    ],
+    "objetivos": [
+      0.44811418652534485,
+      0.6200566589832306
+    ],
+    "generated_data": "As an artist, I envision a haunting mural of a city consumed by darkness, with a striking red '31' symbolizing January 31st, the day Italy surpassed its death toll record. Rapidly spreading cases, like wildfire, engulf the landscape, while medical facilities appear overwhelmed, their windows cracked, and lights flickering. In the distance, a faint outline of South East Asia's worst-case scenarios loom, serving as a stark reminder for governments to act swiftly and decisively.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.44811418652534485,
+      "diversity_individual": 0.6200566589832306,
+      "pop_inertia": 0.3427581787109375,
+      "pop_entropy": 0.6706653988047607
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "journey confinement and safety",
+    "prompt": "As I prepare for my journey, I'm concerned about the possibility of getting stuck in South East Asia during a high-risk period with rapid case spread. Can you help me create a contingency plan that takes into account the medical facilities' capabilities in this region and potential strain on healthcare systems?",
+    "keywords": [
+      "medical facilities",
+      "south east asia",
+      "high risk",
+      "contingency",
+      "spread",
+      "strain",
+      "cases",
+      "rapid"
+    ],
+    "objetivos": [
+      0.4360674321651459,
+      0.638650119304657
+    ],
+    "generated_data": "I'll research medical facilities in South East Asia, understanding their capacities to handle emergency situations. My contingency plan will prioritize rapid case spread mitigation strategies, considering strain on healthcare systems.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.4360674321651459,
+      "diversity_individual": 0.638650119304657,
+      "pop_inertia": 0.36168575286865234,
+      "pop_entropy": 0.6836843147345925
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "remote work and online schooling",
+    "prompt": "Envision a world where Corona Virus spreads rapidly across borders, posing a high-risk threat to remote workers and students. As an artist, create a poignant piece that captures the devastating impact of this pandemic on small businesses and online schooling, highlighting the urgency for speedy measures.",
+    "keywords": [
+      "rapid spread",
+      "high risk",
+      "speedy",
+      "small business",
+      "rapid",
+      "cases",
+      "corona virus",
+      "spread",
+      "devastating"
+    ],
+    "objetivos": [
+      0.285361647605896,
+      0.7153027951717377
+    ],
+    "generated_data": "Corona's shadow looms large over our digital desks, threatening to erase the fragile balance of small businesses and remote learning. The rapid spread of cases demands a speeding up of solutions, lest we succumb to devastating losses.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.285361647605896,
+      "diversity_individual": 0.7153027951717377,
+      "pop_inertia": 0.3229121398925781,
+      "pop_entropy": 0.6700809926886167
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "journey confinement and prophylactic",
+    "prompt": "Imagine yourself in the midst of a devastating outbreak, where rapid case numbers are overwhelming medical facilities. As you navigate this treacherous landscape, reflect on how your small business can continue to thrive despite the obstacles.",
+    "keywords": [
+      "small business",
+      "speedy",
+      "rapid",
+      "cases",
+      "devastating"
+    ],
+    "objetivos": [
+      0.27227580547332764,
+      0.7155405282974243
+    ],
+    "generated_data": "As I'm confined to my home, I realize that our small business needs to adapt quickly to stay afloat. With cases rising rapidly, we must prioritize speedy decision-making and prophylactic measures to ensure our continued success.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.27227580547332764,
+      "diversity_individual": 0.7155405282974243,
+      "pop_inertia": 0.3593928527832031,
+      "pop_entropy": 0.6698896828774902
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an creative person",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Envision a story where brotherhood prevails in the face of crisis. Write a compelling tale about community resilience during lockdowns, drawing inspiration from Italy's rapid rise on the COVID-19 death list and the challenges faced by South East Asia, where medical facilities struggle to cope with swift action needed.",
+    "keywords": [
+      "south east asia",
+      "italy",
+      "corona",
+      "swift action"
+    ],
+    "objetivos": [
+      0.29231002926826477,
+      0.7132081687450409
+    ],
+    "generated_data": "As darkness fell on the small town in South East Asia, brothers united, their bond stronger than any physical barrier. Just like Italy's desperate bid to contain the virus, they too had witnessed the devastating impact of Corona's swift spread. But instead of despair, they channeled their energies into a collective fight against the lockdown. With makeshift medical facilities and community-driven initiatives, they proved that even in the most trying times, brotherhood can prevail.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.29231002926826477,
+      "diversity_individual": 0.7132081687450409,
+      "pop_inertia": 0.3456583023071289,
+      "pop_entropy": 0.6742576459306858
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote work and online schooling",
+    "prompt": "Consider the situation where the world is struggling with the rapid spread of Corona Virus. As a normal individual facing the devastation it brings, create an instruction manual for someone who wants to start a small business or continue their online schooling amidst these challenging circumstances. Use speedy solutions and innovative ideas to overcome obstacles, highlighting practical tips on how to stay productive, manage time efficiently, and maintain mental well-being.",
+    "keywords": [
+      "speedy",
+      "small business",
+      "devastating",
+      "spread",
+      "rapid spread",
+      "corona virus"
+    ],
+    "objetivos": [
+      0.01605582982301712,
+      0.8687164038419724
+    ],
+    "generated_data": "Stay ahead of the curve by prioritizing your tasks with a daily planner and leveraging technology for efficient communication. To avoid devastating losses, diversify your small business investments and adapt to changing market conditions. For online schooling, establish a dedicated workspace and schedule flexible study sessions, utilizing speedy tools like language learning apps and video conferencing software to stay productive and connected.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.01605582982301712,
+      "diversity_individual": 0.8687164038419724,
+      "pop_inertia": 0.32203964233398436,
+      "pop_entropy": 0.6690880811605641
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an expert",
+    "topic": "remote work and online schooling",
+    "prompt": "As Italy's COVID-19 situation rapidly escalates, contemplate the speedy spread of misinformation. As a remote work and online schooling expert, create a plan to address rapid case escalation, leveraging contingency strategies for a global crisis.",
+    "keywords": [
+      "speedy",
+      "contingency",
+      "italy",
+      "strain",
+      "corona virus",
+      "cases",
+      "rapid case escalation",
+      "false information"
+    ],
+    "objetivos": [
+      0.053632766008377075,
+      0.8476604074239731
+    ],
+    "generated_data": "To mitigate the speedy spread of misinformation, I recommend implementing a robust fact-checking system, verifying information through credible sources before dissemination. In this rapidly escalating scenario, it's crucial to prioritize accurate data and reliable communication channels to ensure remote work and online schooling continuity.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.053632766008377075,
+      "diversity_individual": 0.8476604074239731,
+      "pop_inertia": 0.3259938812255859,
+      "pop_entropy": 0.6621517866559792
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an creative person",
+    "topic": "hand hygienics and sanitation",
+    "prompt": "Craft a compelling public service announcement highlighting the importance of proper hand hygiene in the face of rapidly escalating cases and high-risk situations, emphasizing the dire consequences of neglecting this vital toll.",
+    "keywords": [
+      "proper",
+      "toll",
+      "cases",
+      "rapid case escalation",
+      "high risk",
+      "public service announcement"
+    ],
+    "objetivos": [
+      0.054445043206214905,
+      0.8388496488332748
+    ],
+    "generated_data": "Don't let your guard down! As cases skyrocket, it's crucial to maintain proper hand hygiene to break the chain of transmission. Neglecting this vital toll can lead to devastating consequences. Protect yourself and others by washing those hands regularly - it's a matter of life or death!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.054445043206214905,
+      "diversity_individual": 0.8388496488332748,
+      "pop_inertia": 0.3547186279296875,
+      "pop_entropy": 0.67259980966984
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an influencer",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Breaking news! As a health advocate and influencer, I need you to generate an urgent public health advisory on COVID-19 in Italy. Share the latest case update, highlighting concerns about the rapid rise of cases, insufficient medical facilities, and neighboring countries with worse conditions.",
+    "keywords": [
+      "covid 19",
+      "italy",
+      "cases",
+      "corona virus",
+      "testing",
+      "update",
+      "east"
+    ],
+    "objetivos": [
+      0.8762009739875793,
+      0.3878629803657532
+    ],
+    "generated_data": "Breaking News: Italy's COVID-19 Cases Soar! As we speak, Italy is topping the death list due to a rapid surge in corona virus cases. With only a few days since the first few cases emerged on January 31st, medical facilities are struggling to keep up. It's crucial that our neighboring countries in East Asia take note: their conditions might be even worse. Stay vigilant and stay informed - we'll bring you the latest updates!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8762009739875793,
+      "diversity_individual": 0.3878629803657532,
+      "pop_inertia": 0.32551376342773436,
+      "pop_entropy": 0.6669328935215241
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Reflect on the public's growing concern about COVID-19 cases in Italy and surrounding regions with poor medical facilities, highlighting the rapid spread and high-risk conditions that put many lives at stake.",
+    "keywords": [
+      "public",
+      "rapid",
+      "medical facilities",
+      "high risk",
+      "people"
+    ],
+    "objetivos": [
+      0.8534247875213623,
+      0.43111753463745117
+    ],
+    "generated_data": "Italy tops the death list as corona virus cases boom, spreading very fast. Medical facilities are also not good in south east Asia and neighbor countries have worst conditions, putting people's lives at high risk.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8534247875213623,
+      "diversity_individual": 0.43111753463745117,
+      "pop_inertia": 0.32203964233398436,
+      "pop_entropy": 0.6690880811605641
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "COVID-19 examination and tracing",
+    "prompt": "Share the latest COVID-19 update from Italy's surge in cases, emphasizing concerns about medical facilities in South East Asia and neighboring countries' dire conditions.",
+    "keywords": [
+      "covid 19",
+      "italy",
+      "cases",
+      "corona virus",
+      "testing",
+      "update",
+      "east"
+    ],
+    "objetivos": [
+      0.8813445568084717,
+      0.3830745816230774
+    ],
+    "generated_data": "Italy's COVID-19 cases are skyrocketing! Just a few days ago, on January 31st, cases were reported. Now, Italy tops the death list, and it's a boom of corona virus cases. Medical facilities in South East Asia are already struggling, and neighboring countries' conditions are dire. It's crucial for governments to take immediate action.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8813445568084717,
+      "diversity_individual": 0.3830745816230774,
+      "pop_inertia": 0.3271814727783203,
+      "pop_entropy": 0.6674949250524235
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "COVID-19 examination and tracing",
+    "prompt": "Please generate an update on the latest COVID-19 testing developments in Italy, particularly focusing on the rapid increase in cases and the challenges faced by medical facilities in South East Asia, as well as their neighbor's worst-case scenario.",
+    "keywords": [
+      "covid 19",
+      "italy",
+      "cases",
+      "corona virus",
+      "testing",
+      "update",
+      "east"
+    ],
+    "objetivos": [
+      0.8679463863372803,
+      0.4246322512626648
+    ],
+    "generated_data": "Italy is now at the top of the death list due to Corona virus cases surging rapidly since January 31st. Medical facility limitations in South East Asia are a concern, with neighboring countries facing even worse conditions. A careful government response is crucial.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8679463863372803,
+      "diversity_individual": 0.4246322512626648,
+      "pop_inertia": 0.3405030822753906,
+      "pop_entropy": 0.6710241411429633
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "COVID-19 examination and tracing",
+    "prompt": "Analyze the rapid spread of COVID-19 in Italy, particularly with regards to case numbers and medical facility preparedness; provide an update on testing measures and suggest ways for neighboring countries in South East Asia to prepare for potential outbreaks.",
+    "keywords": [
+      "covid 19",
+      "italy",
+      "cases",
+      "corona virus",
+      "testing",
+      "update",
+      "east"
+    ],
+    "objetivos": [
+      0.8704728484153748,
+      0.40847939252853394
+    ],
+    "generated_data": "Italy's COVID-19 cases skyrocketed with over 31st January records. The country tops the death list as corona virus cases boom rapidly. Medical facilities are struggling, especially in South East Asia where conditions worsen daily. It's crucial that neighboring countries prepare by stepping up testing measures and enhancing infrastructure to prevent a similar crisis.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8704728484153748,
+      "diversity_individual": 0.40847939252853394,
+      "pop_inertia": 0.3593928527832031,
+      "pop_entropy": 0.6698896828774902
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "journey confinement and prophylactic",
+    "prompt": "Given the rapid case escalation of Corona Virus in Italy and neighboring countries, I'd like you to describe my journey from the initial few cases on January 31st to the current prophylactic measures taken for confinement. Please provide an update on testing, rapid spread, and strains, with a focus on the critical situation in South East Asia.",
+    "keywords": [
+      "testing",
+      "rapid case escalation",
+      "rapid spread",
+      "east",
+      "italy",
+      "cases",
+      "corona virus",
+      "spread",
+      "update",
+      "strain"
+    ],
+    "objetivos": [
+      0.8251715898513794,
+      0.4374042749404907
+    ],
+    "generated_data": "As Italy's corona virus cases skyrocketed, I navigated through the initial few cases on January 31st to the present prophylactic measures. The rapid case escalation was alarming, but testing and updates on new strains kept us informed. It's crucial to take precautions in South East Asia where conditions are worst. Medical facilities must improve amidst this spread.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8251715898513794,
+      "diversity_individual": 0.4374042749404907,
+      "pop_inertia": 0.3546966552734375,
+      "pop_entropy": 0.6657488963412527
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an expert",
+    "topic": "COVID-19 examination and tracing",
+    "prompt": "Provide a comprehensive COVID-19 examination and tracing update for Italy, focusing on the recent surge in cases, medical facility capabilities, and regional implications for neighboring countries, especially those in East Asia.",
+    "keywords": [
+      "covid 19",
+      "italy",
+      "cases",
+      "corona virus",
+      "testing",
+      "update",
+      "east"
+    ],
+    "objetivos": [
+      0.8224945068359375,
+      0.43951964378356934
+    ],
+    "generated_data": "As of January 31st, Italy has taken a concerning turn on the death list due to the rapid spread of Corona Virus cases. The recent surge highlights the need for improved testing facilities and updated tracing methods. In light of this, neighboring countries in East Asia must remain vigilant, considering their own medical facility capacities and regional vulnerabilities.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8224945068359375,
+      "diversity_individual": 0.43951964378356934,
+      "pop_inertia": 0.36168575286865234,
+      "pop_entropy": 0.6836843147345925
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an creative person",
+    "topic": "journey confinement and prophylactic",
+    "prompt": "Create a thought-provoking public service announcement warning the audience about the rising threat of corona virus cases in South East Asia, where medical facilities are under pressure and conditions are rapidly deteriorating. Highlight the urgent need for caution and responsible travel practices to prevent further spread.",
+    "keywords": [
+      "rising",
+      "medical facilities",
+      "high risk",
+      "south east asia",
+      "travel",
+      "public service announcement",
+      "rapid",
+      "cases",
+      "medical"
+    ],
+    "objetivos": [
+      0.6768160462379456,
+      0.49446409940719604
+    ],
+    "generated_data": "As the corona virus cases rise like a storm in South East Asia, it's time to sound the alarm! Medical facilities are stretched thin, and conditions are spiraling out of control. Travelers, beware: your journey may become a confinement nightmare. Don't wait till it's too late - take responsible travel precautions now to prevent further spread. Your health, and that of others, depends on it!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6768160462379456,
+      "diversity_individual": 0.49446409940719604,
+      "pop_inertia": 0.35778915405273437,
+      "pop_entropy": 0.6796268031919049
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an expert",
+    "topic": "hospital preparedness for COVID-19",
+    "prompt": "Emit a detailed analysis on hospital preparedness in South East Asia amidst the rapid surge of Corona Virus cases, emphasizing the urgent need for governments to prioritize medical infrastructure and hand-in-hand coordination.",
+    "keywords": [
+      "governments",
+      "prioritize",
+      "south east asia",
+      "urgent update",
+      "cases",
+      "corona virus",
+      "medical",
+      "hand"
+    ],
+    "objetivos": [
+      0.7023622393608093,
+      0.4878203868865967
+    ],
+    "generated_data": "As an expert, I emphasize that South East Asia's hospitals are woefully unprepared for the rapid spike in Corona Virus cases. Governments must prioritize medical infrastructure and coordinate with healthcare providers hand-in-hand to address this urgent crisis.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7023622393608093,
+      "diversity_individual": 0.4878203868865967,
+      "pop_inertia": 0.3325470733642578,
+      "pop_entropy": 0.6708403703638758
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Create a message that highlights the importance of verifying information during the COVID-19 pandemic, referencing Italy's surge in cases and the challenges faced by South East Asia, while emphasizing the need for cautious government action.",
+    "keywords": [
+      "covid 19",
+      "italy",
+      "high risk",
+      "verified",
+      "people",
+      "message",
+      "south east asia"
+    ],
+    "objetivos": [
+      0.6817243099212646,
+      0.4887678623199463
+    ],
+    "generated_data": "As an artist, I want to paint a vivid picture - misinformation is like a virus, spreading rapidly and putting people at risk. Just look at Italy, where cases surged quickly, now ranking high on the death list. In South East Asia, medical facilities are struggling, making it crucial for governments to take verified information seriously.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6817243099212646,
+      "diversity_individual": 0.4887678623199463,
+      "pop_inertia": 0.3527392578125,
+      "pop_entropy": 0.6694763587884489
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "journey confinement and safety",
+    "prompt": "Imagine yourself facing the rapid spread of COVID-19 in Italy, where the case count skyrocketed to 31st January. As someone familiar with South East Asia's worst conditions and high-risk scenarios, advise on how to prioritize journey confinement and safety measures during this crisis.",
+    "keywords": [
+      "italy",
+      "cases",
+      "medical facilities",
+      "south east asia",
+      "high risk"
+    ],
+    "objetivos": [
+      0.6688530445098877,
+      0.5036370754241943
+    ],
+    "generated_data": "As the situation in Italy worsens, it's crucial to prioritize journey confinement and safety measures. With cases rising rapidly, medical facilities are already overwhelmed. As someone familiar with South East Asia's worst conditions, I've seen firsthand how quickly things can spiral out of control. When traveling, avoid high-risk areas and follow local health guidelines. Stay informed about the situation in Italy and adjust your plans accordingly.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6688530445098877,
+      "diversity_individual": 0.5036370754241943,
+      "pop_inertia": 0.37058074951171877,
+      "pop_entropy": 0.6769575936114134
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Practise caution when consuming information about the rapid spread of Corona Virus. Verify corona virus updates to avoid spreading false information.",
+    "keywords": [
+      "practise",
+      "false information",
+      "rapid spread",
+      "speedy",
+      "spread",
+      "corona virus",
+      "verified",
+      "corona"
+    ],
+    "objetivos": [
+      0.7024987936019897,
+      0.48650461435317993
+    ],
+    "generated_data": "Practise caution when consuming info about corona's rapid spread! Verify updates to avoid spreading false info. In Italy, cases are booming fast and medical facilities struggle - be careful!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7024987936019897,
+      "diversity_individual": 0.48650461435317993,
+      "pop_inertia": 0.3518821716308594,
+      "pop_entropy": 0.6717927307247364
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "COVID-19 examination and tracing",
+    "prompt": "Considering the rapid case escalation and high risk in South East Asia, craft a public service announcement to raise awareness about the importance of COVID-19 examination and tracing, highlighting the devastating toll on Italy's death list, and emphasizing the need for swift government action.",
+    "keywords": [
+      "public",
+      "rapid case escalation",
+      "high risk",
+      "south east asia",
+      "public service announcement",
+      "rapid",
+      "toll",
+      "cases",
+      "medical"
+    ],
+    "objetivos": [
+      0.6602814793586731,
+      0.503846675157547
+    ],
+    "generated_data": "Attention public! As cases surge rapidly in South East Asia, we're reminded of Italy's tragic experience where just a few cases led to 31st January's devastating toll. Don't wait until it's too late. Get tested, get traced, and let's break the chain of transmission before another tragedy unfolds.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6602814793586731,
+      "diversity_individual": 0.503846675157547,
+      "pop_inertia": 0.35376834869384766,
+      "pop_entropy": 0.6689722252053453
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Practise caution when consuming COVID-19 updates, as rapid spreading of false information can be deceivingly speedy. Verify facts before sharing to avoid contributing to the corona virus's alarming death toll.",
+    "keywords": [
+      "practise",
+      "false information",
+      "rapid spread",
+      "speedy",
+      "spread",
+      "corona virus",
+      "verified",
+      "corona"
+    ],
+    "objetivos": [
+      0.5398437976837158,
+      0.5671904683113098
+    ],
+    "generated_data": "Don't believe everything you read! Corona virus cases are spreading rapidly and false information is circulating fast. Practise caution when consuming updates, verify facts before sharing, and let's slow down the spread of misinformation.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5398437976837158,
+      "diversity_individual": 0.5671904683113098,
+      "pop_inertia": 0.3486220550537109,
+      "pop_entropy": 0.6707288137379086
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an creative person",
+    "topic": "journey confinement and prophylactic",
+    "prompt": "Envision a thrilling adventure where Italy's rapidly unfolding health crisis is the catalyst for a transformative journey of confinement and prophylaxis. Write a captivating narrative that highlights the speedy spread of Corona Virus cases in Italy and the stark realities of subpar medical facilities, emphasizing the high risk faced by its people.",
+    "keywords": [
+      "speedy",
+      "italy",
+      "medical facilities",
+      "high risk",
+      "people"
+    ],
+    "objetivos": [
+      0.5431520938873291,
+      0.558330237865448
+    ],
+    "generated_data": "As I embarked on this perilous journey, Italy's death list skyrocketed, a sobering reminder of the deadly speed at which Corona Virus cases spread. With medical facilities strained to the breaking point, every second counted. The stakes were high, and I knew that for the people of Italy, time was running out.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5431520938873291,
+      "diversity_individual": 0.558330237865448,
+      "pop_inertia": 0.3377246856689453,
+      "pop_entropy": 0.6770710261829034
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "journey confinement and prophylactic",
+    "prompt": "Imagine being confined with high-risk family members in Italy where medical facilities are overwhelmed due to the rapid spread of Corona Virus cases, now a top death list. As you witness the public's desperation, create a plan for a safe and prophylactic journey.",
+    "keywords": [
+      "public",
+      "rapid",
+      "italy",
+      "medical facilities",
+      "high risk",
+      "medical",
+      "people"
+    ],
+    "objetivos": [
+      0.6357582807540894,
+      0.5187795162200928
+    ],
+    "generated_data": "With a top spot on the death list, Italy is no place to be during this pandemic. As I'm confined with high-risk family members, my priority is a safe and prophylactic journey. I'll research public transportation options and find alternative routes to avoid crowded areas. Medical facilities are overwhelmed, so I'll stock up on medical supplies and have a plan in case of an emergency.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6357582807540894,
+      "diversity_individual": 0.5187795162200928,
+      "pop_inertia": 0.3600244140625,
+      "pop_entropy": 0.6749548721989693
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "travel confinement and prophylactic",
+    "prompt": "Imagine a series of captivating posters for a fictional travel advisory campaign, focusing on the rising cases and toll of COVID-19 in South East Asia. As an artist, design a compelling visual representation of the high-risk areas, utilizing bold typography to emphasize the importance of testing and rapid medical facility setup to prevent further spread, all while conveying a sense of urgency through a striking color palette.",
+    "keywords": [
+      "testing",
+      "rising",
+      "cases",
+      "toll",
+      "high risk",
+      "rapid",
+      "medical"
+    ],
+    "objetivos": [
+      0.6200693845748901,
+      0.5219602882862091
+    ],
+    "generated_data": "RISING CASES ALERT! South East Asia on HIGH RISK status. Protect yourself with RAPID MEDICAL FACILITIES & TESTINGS. Don't wait, ACT NOW!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6200693845748901,
+      "diversity_individual": 0.5219602882862091,
+      "pop_inertia": 0.3563767242431641,
+      "pop_entropy": 0.6742993238379756
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and phony news about COVID-19",
+    "prompt": "Verify the latest corona virus cases in South East Asia and provide an urgent update on the rapid spread of COVID-19, prioritising accuracy over false information that can cause alarm, practise healthy habits and encourage a health check for all.",
+    "keywords": [
+      "practise",
+      "prioritise",
+      "false information",
+      "rapid spread",
+      "south east asia",
+      "rapid",
+      "urgent update",
+      "cases",
+      "corona virus",
+      "verify",
+      "health check",
+      "corona"
+    ],
+    "objetivos": [
+      0.6184701919555664,
+      0.5232103765010834
+    ],
+    "generated_data": "I've checked the latest updates, and it's essential to verify corona virus cases in South East Asia as misinformation can spread rapidly. As of now, there's no need to panic, but I urge everyone to prioritise accuracy over false information and practise healthy habits. Let's get a health check and stay informed with reliable sources.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6184701919555664,
+      "diversity_individual": 0.5232103765010834,
+      "pop_inertia": 0.3586362075805664,
+      "pop_entropy": 0.6699980506940886
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Craft a response that debunks the rapid spread of corona virus in Italy as per the latest verified statistics, emphasizing the need for governments to carefully manage and accurately disseminate information amidst widespread misinformation.",
+    "keywords": [
+      "practise",
+      "false information",
+      "rapid spread",
+      "speedy",
+      "spread",
+      "corona virus",
+      "verified",
+      "corona"
+    ],
+    "objetivos": [
+      0.7277587652206421,
+      0.4820559620857239
+    ],
+    "generated_data": "While it's true that COVID-19 cases are surging globally, let's not spread false information about Italy's situation. According to the latest verified stats, Italy's case numbers have been gradually decreasing since mid-January. It's crucial for governments and reputable sources to practise accuracy and transparency in their reporting to avoid spreading misinformation, which can lead to unnecessary panic and undermine trust in official updates.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7277587652206421,
+      "diversity_individual": 0.4820559620857239,
+      "pop_inertia": 0.3566336441040039,
+      "pop_entropy": 0.6763138195430881
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "remote work and online schooling",
+    "prompt": "As the situation in South East Asia becomes increasingly devastating, imagine a world where remote work and online schooling are not only possible but thriving, allowing small businesses to adapt rapidly to the new normal.",
+    "keywords": [
+      "south east asia",
+      "devastating",
+      "small business",
+      "rapid"
+    ],
+    "objetivos": [
+      0.3832271993160248,
+      0.6400261223316193
+    ],
+    "generated_data": "In this new reality, Italy's top spot on the death list becomes a distant memory as creative entrepreneurs thrive in the virtual space. Small business owners in South East Asia, once crippled by devastating circumstances, now leverage remote work and online schooling to innovate at breakneck speed, defying the odds with every pixel and byte.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3832271993160248,
+      "diversity_individual": 0.6400261223316193,
+      "pop_inertia": 0.3229121398925781,
+      "pop_entropy": 0.6700809926886167
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "COVID-19 examination and tracing",
+    "prompt": "Considering Italy's rapid rise in the death list due to the Corona Virus, and South East Asia's neighboring regions with poor medical facilities, provide an update on COVID-19 examination and tracing efforts.",
+    "keywords": [
+      "covid 19",
+      "italy",
+      "cases",
+      "corona virus",
+      "testing",
+      "update",
+      "east"
+    ],
+    "objetivos": [
+      0.8038076162338257,
+      0.4587104916572571
+    ],
+    "generated_data": "Italy's case count skyrocketed, now topping the global death list. The situation is dire, with testing facilities overwhelmed. In South East Asia, neighboring countries struggle with inadequate medical infrastructure. It's crucial to stay vigilant and track cases closely.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8038076162338257,
+      "diversity_individual": 0.4587104916572571,
+      "pop_inertia": 0.3486220550537109,
+      "pop_entropy": 0.6707288137379086
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "As the situation in Italy worsens, with Corona Virus cases skyrocketing to 31st January's numbers, and considering South East Asia's poor medical facilities and neighbour's worst conditions, practise caution by verifying rapid updates on false information and prioritise urgent health checks amidst this misinformation storm.",
+    "keywords": [
+      "practise",
+      "prioritise",
+      "false information",
+      "rapid spread",
+      "south east asia",
+      "rapid",
+      "urgent update",
+      "cases",
+      "corona virus",
+      "verify",
+      "health check",
+      "corona"
+    ],
+    "objetivos": [
+      0.7947807312011719,
+      0.46380287408828735
+    ],
+    "generated_data": "Verify corona virus updates before sharing! Italy's cases have surged to 31st January's numbers, while South East Asia faces poor medical facilities & neighbor's dire conditions. Prioritise urgent health checks amid misinformation chaos.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7947807312011719,
+      "diversity_individual": 0.46380287408828735,
+      "pop_inertia": 0.36168575286865234,
+      "pop_entropy": 0.6836843147345925
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "COVID-19 examination and tracing",
+    "prompt": "Provide an update on the current COVID-19 situation in Italy, highlighting the rapid increase in cases and the challenges faced by medical facilities there. Consider the broader implications for neighboring countries with similar conditions.",
+    "keywords": [
+      "covid 19",
+      "italy",
+      "cases",
+      "corona virus",
+      "testing",
+      "update",
+      "east"
+    ],
+    "objetivos": [
+      0.8064674735069275,
+      0.4522293210029602
+    ],
+    "generated_data": "Italy's COVID-19 case count has skyrocketed to 31st January levels, topping the global death list. Medical facilities are struggling to cope with the surge, despite their best efforts. Neighboring East Asian countries must take heed of Italy's cautionary tale and rev up their own testing and tracing efforts before it's too late.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8064674735069275,
+      "diversity_individual": 0.4522293210029602,
+      "pop_inertia": 0.3488516616821289,
+      "pop_entropy": 0.6711594547398035
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an influencer",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Address the concerns of brother in Italy by debunking false information spreading rapidly about COVID-19, highlighting the alarming rate of new cases and poor medical facilities in South East Asia, particularly in the East.",
+    "keywords": [
+      "false information",
+      "testing",
+      "south east asia",
+      "medical facilities",
+      "east",
+      "covid 19",
+      "speedy",
+      "cases",
+      "corona virus"
+    ],
+    "objetivos": [
+      0.8078420162200928,
+      0.4454120397567749
+    ],
+    "generated_data": "Hey brother, I totally get your concern about the rapid spread of corona virus cases in Italy and globally. Let's tackle the misinformation head-on - it's essential to verify the sources before sharing anything online. In South East Asia, particularly in the East, the situation is even more dire with poor medical facilities struggling to keep up with the speedy rise in cases. We need to stay vigilant and rely on credible testing methods to get accurate results.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8078420162200928,
+      "diversity_individual": 0.4454120397567749,
+      "pop_inertia": 0.36538890838623045,
+      "pop_entropy": 0.6769868950271074
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an influencer",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Practise evaluating the speed at which COVID-19 cases escalated in Italy, considering the initial few cases reported on January 31st and its sudden boom as a top death-listed country. Provide a balanced view of the situation in South East Asia, where medical facilities may not be well-equipped to handle rapid case escalation.",
+    "keywords": [
+      "evaluation",
+      "practise",
+      "false information",
+      "rapid case escalation",
+      "south east asia",
+      "covid 19",
+      "speedy",
+      "verified",
+      "corona"
+    ],
+    "objetivos": [
+      0.7302840948104858,
+      0.46380913257598877
+    ],
+    "generated_data": "As an influencer, it's crucial to evaluate the speed at which COVID-19 cases escalated in Italy, from initial few cases on January 31st to its sudden boom as a top death-listed country. Meanwhile, in South East Asia, we must practise caution and verify information to avoid spreading false narratives about rapid case escalation, ensuring our audience receives trustworthy insights.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7302840948104858,
+      "diversity_individual": 0.46380913257598877,
+      "pop_inertia": 0.3415864944458008,
+      "pop_entropy": 0.671987835251957
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an expert",
+    "topic": "remote work and online schooling",
+    "prompt": "Given the unprecedented circumstances of Italy's rapid rise to the top of the death list due to the corona virus, as an expert in remote work and online schooling, please outline a comprehensive plan for mitigating the devastating impact on students' learning experience, focusing on speedy measures to prevent the rapid spread of cases and strain on educational infrastructure.",
+    "keywords": [
+      "devastating",
+      "rapid case escalation",
+      "rapid spread",
+      "speedy",
+      "rapid",
+      "cases",
+      "spread",
+      "strain",
+      "corona virus"
+    ],
+    "objetivos": [
+      -0.0850880891084671,
+      0.9135783687233925
+    ],
+    "generated_data": "To mitigate the devastating impact on students' learning experience, I recommend implementing virtual classrooms with robust technical infrastructure to ensure seamless connectivity. Additionally, we must prioritize swift communication with parents and educators to monitor students' progress and provide timely support. Moreover, we will establish online resources and training programs for teachers to adapt their pedagogy to remote learning, thereby preventing the rapid spread of cases and strain on educational infrastructure.",
+    "metrics_detail": {
+      "fidelity_sbert": -0.0850880891084671,
+      "diversity_individual": 0.9135783687233925,
+      "pop_inertia": 0.3456583023071289,
+      "pop_entropy": 0.6742576459306858
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "COVID-19 examination and tracing",
+    "prompt": "Provide an update on the rapid spread of COVID-19 in Italy, focusing on the current case numbers and circumstances, considering the limitations of medical facilities in South East Asia and the neighbor's worst conditions.",
+    "keywords": [
+      "covid 19",
+      "italy",
+      "cases",
+      "corona virus",
+      "testing",
+      "update",
+      "east"
+    ],
+    "objetivos": [
+      0.8699177503585815,
+      0.3934115171432495
+    ],
+    "generated_data": "Italy's COVID-19 cases have skyrocketed with over 31st January cases already reported, now ranking top on the death list. Corona virus cases are spreading rapidly, and with limited medical facilities in South East Asia and neighboring countries' worst conditions, it's crucial for governments to be cautious.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8699177503585815,
+      "diversity_individual": 0.3934115171432495,
+      "pop_inertia": 0.3365669250488281,
+      "pop_entropy": 0.6639746565169301
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "remote work and online schooling",
+    "prompt": "Envision a world where creativity flourishes remotely. Consider the rapid spread of online learning and the devastating impact on small businesses in South East Asia. As an artist, describe how this phenomenon has led to innovative solutions for speeding up virtual collaborations.",
+    "keywords": [
+      "rapid spread",
+      "small business",
+      "speedy",
+      "rapid",
+      "cases",
+      "spread",
+      "devastating"
+    ],
+    "objetivos": [
+      0.014235681854188442,
+      0.8675980269908905
+    ],
+    "generated_data": "As an artist, I envision a world where remote work and online schooling converge to fuel creativity. The rapid spread of online learning has devastated small businesses in South East Asia, but it's also accelerated the need for speedy virtual collaborations. This phenomenon has given rise to innovative solutions that allow us to accelerate our artistic endeavors, leveraging tools like AI-powered design software and instant messaging platforms to turbocharge our creative processes.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.014235681854188442,
+      "diversity_individual": 0.8675980269908905,
+      "pop_inertia": 0.3455187225341797,
+      "pop_entropy": 0.6676782658122273
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "COVID-19 testing and tracing",
+    "prompt": "Develop an urgent plan to address the rapid spread of COVID-19 in Italy and South East Asia, emphasizing public health measures and prioritizing medical facilities for high-risk individuals.",
+    "keywords": [
+      "public",
+      "rapid",
+      "medical facilities",
+      "high risk",
+      "people"
+    ],
+    "objetivos": [
+      0.6684446334838867,
+      0.5033693313598633
+    ],
+    "generated_data": "Italy's rapid climb on the death list is a dire warning. We must act swiftly, mobilizing public support and leveraging medical facilities to prioritize high-risk individuals. In South East Asia, where conditions are already dire, we need a comprehensive plan for testing and tracing, focusing on the most vulnerable populations.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6684446334838867,
+      "diversity_individual": 0.5033693313598633,
+      "pop_inertia": 0.35603889465332034,
+      "pop_entropy": 0.6738027271284195
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an influencer",
+    "topic": "hand hygienics and sanitation",
+    "prompt": "Create a public service announcement as an influencer, emphasizing the importance of hand hygiene and sanitization in light of the rapidly escalating coronavirus cases, particularly in Italy and South East Asia where medical facilities are stretched thin.",
+    "keywords": [
+      "coronavirus",
+      "evaluation",
+      "practise",
+      "rapid case escalation",
+      "high risk",
+      "hygienics",
+      "sanitization",
+      "pressing",
+      "people",
+      "public service announcement",
+      "paw",
+      "speedy",
+      "spread",
+      "right",
+      "corona"
+    ],
+    "objetivos": [
+      0.2669166028499603,
+      0.7116096317768097
+    ],
+    "generated_data": "Stay vigilant, folks! As we're seeing rapid case escalation in Italy and SE Asia, it's more crucial than ever to prioritize hand hygienics and sanitization. Remember, a simple habit like washing those paws regularly can be the difference between life and death. Let's take control of our health and do our part in this high-risk situation. Get right with good hygiene practice - your life depends on it! Spread the word, let's make a change!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2669166028499603,
+      "diversity_individual": 0.7116096317768097,
+      "pop_inertia": 0.3428658676147461,
+      "pop_entropy": 0.6685048998543541
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "residential district resiliency during curfews",
+    "prompt": "Envision a vibrant residential district amidst a pandemic. As the number of cases rises rapidly in South East Asia, create a vivid narrative that captures the resilience of small businesses and their impact on the local public during curfews, highlighting both the medical facilities' struggles and the devastating consequences.",
+    "keywords": [
+      "small business",
+      "public",
+      "cases",
+      "medical facilities",
+      "south east asia",
+      "devastating"
+    ],
+    "objetivos": [
+      0.37339457869529724,
+      0.660098522901535
+    ],
+    "generated_data": "In the once-thriving residential district, small businesses fought to stay afloat as cases surged in South East Asia. Amidst curfews, community spirit remained unbroken, with locals rallying behind their favorite shops and eateries. Medical facilities struggled to cope, but residents refused to give up hope.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.37339457869529724,
+      "diversity_individual": 0.660098522901535,
+      "pop_inertia": 0.3128663635253906,
+      "pop_entropy": 0.6618129063636178
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "COVID-19 examination and tracing",
+    "prompt": "Develop an update on COVID-19 cases in Italy and the impact of rapid case growth, emphasizing the need for careful government action to improve medical facilities in South East Asia.",
+    "keywords": [
+      "testing",
+      "east",
+      "covid 19",
+      "italy",
+      "cases",
+      "corona virus",
+      "update"
+    ],
+    "objetivos": [
+      0.8424421548843384,
+      0.42674732208251953
+    ],
+    "generated_data": "Italy's COVID-19 cases have skyrocketed with 31st January marking a grim milestone. The country now tops the death list, highlighting the urgent need for swift government action. In South East Asia, neighbour countries face even worse conditions due to inadequate medical facilities. It's crucial that governments take heed of Italy's rapid case growth and take proactive steps to upgrade their healthcare infrastructure.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8424421548843384,
+      "diversity_individual": 0.42674732208251953,
+      "pop_inertia": 0.3416706848144531,
+      "pop_entropy": 0.6754660898089904
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Envision a community struggling to cope with the rapid spread of coronavirus cases in South East Asia. As an artist, vividly depict the emotional toll of the crisis on individuals and society as a whole.",
+    "keywords": [
+      "south east asia",
+      "toll",
+      "rapid",
+      "cases"
+    ],
+    "objetivos": [
+      0.3387413024902344,
+      0.7017463147640228
+    ],
+    "generated_data": "The once-thriving streets now lay empty, the only sound being the echo of desperation. Faces worn with worry, eyes sunken from sleepless nights, the weight of the rapid spread of cases hangs heavy like a shroud over South East Asia's communities.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3387413024902344,
+      "diversity_individual": 0.7017463147640228,
+      "pop_inertia": 0.33853179931640626,
+      "pop_entropy": 0.6621667677578258
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "residential district resiliency during curfews",
+    "prompt": "Create a scene for an artist's sketchbook set in a residential district under curfew, reflecting the devastating impact of rapid COVID-19 cases and overwhelmed medical facilities in South East Asia, while highlighting the resilience of small businesses and the public's efforts to cope with the crisis.",
+    "keywords": [
+      "small business",
+      "public",
+      "cases",
+      "medical facilities",
+      "south east asia",
+      "devastating"
+    ],
+    "objetivos": [
+      0.030999217182397842,
+      0.8241878300905228
+    ],
+    "generated_data": "Night falls on the quiet streets, the once-thriving cafes now boarded up like tombstones. The curfew's heavy hand casts a pall of uncertainty, as residents huddle in doorways, whispers of desperation carried on the wind. Amidst this despair, small businesses cling to life, their owners' faces etched with determination, as they find ways to adapt and survive.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.030999217182397842,
+      "diversity_individual": 0.8241878300905228,
+      "pop_inertia": 0.35376834869384766,
+      "pop_entropy": 0.6689722252053453
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "journey confinement and safety",
+    "prompt": "As I navigate the concerning situation in Italy where corona virus cases are rapidly rising, please provide an update on high-risk areas and offer proper sanitization and hand hygiene measures to ensure my journey's safety.",
+    "keywords": [
+      "proper",
+      "urgent",
+      "south east asia",
+      "high risk",
+      "sanitization",
+      "hand hygiene",
+      "alarming",
+      "rapid",
+      "cases",
+      "italy",
+      "update"
+    ],
+    "objetivos": [
+      0.5775381326675415,
+      0.5319062769412994
+    ],
+    "generated_data": "Italy's alarming case surge is a major concern! According to recent updates, it's essential to prioritize sanitization and hand hygiene in South East Asia, where conditions are already quite challenging. As I plan my journey, I need to know which areas pose the highest risk and what urgent precautions can be taken to ensure my safety.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5775381326675415,
+      "diversity_individual": 0.5319062769412994,
+      "pop_inertia": 0.36168575286865234,
+      "pop_entropy": 0.6836843147345925
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "remote work and online schooling",
+    "prompt": "Imagine a world where the rapid spread of the Corona Virus is not only devastating to individuals but also affects global economies. As an artist, envision a scenario where remote work and online schooling become the norm. How can small businesses quickly adapt to this new reality? What innovative solutions can you design to help families navigate this speedy and unprecedented change?",
+    "keywords": [
+      "speedy",
+      "small business",
+      "devastating",
+      "spread",
+      "rapid spread",
+      "corona virus"
+    ],
+    "objetivos": [
+      0.11715275049209595,
+      0.7827678769826889
+    ],
+    "generated_data": "In this new normal, I designed 'Remote Renaissance,' a platform connecting freelancers and entrepreneurs with online learning resources, ensuring small businesses stay afloat amidst the devastating spread of Corona Virus. With speedy adaptation as the priority, innovative solutions like virtual mentorship programs, AI-powered skill assessments, and community-driven knowledge sharing forums help families navigate this unprecedented shift.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.11715275049209595,
+      "diversity_individual": 0.7827678769826889,
+      "pop_inertia": 0.33963119506835937,
+      "pop_entropy": 0.6757936936375833
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an creative person",
+    "topic": "COVID-19 testing and tracing",
+    "prompt": "Craft a compelling story about a small business owner in Italy struggling to navigate the complexities of COVID-19 testing and tracing amidst the country's surge in cases, highlighting the high-risk scenarios faced by entrepreneurs and the subpar facilities they're forced to rely on.",
+    "keywords": [
+      "small business",
+      "italy",
+      "corona virus",
+      "high risk",
+      "facilities",
+      "medical"
+    ],
+    "objetivos": [
+      0.4187750816345215,
+      0.63546222448349
+    ],
+    "generated_data": "As the corona virus ravaged Italy, Giovanni's small business teetered on the brink of collapse. With cases surging and death tolls rising, he struggled to navigate the labyrinthine system of COVID-19 testing and tracing. A single misstep could mean financial ruin for his family's livelihood.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.4187750816345215,
+      "diversity_individual": 0.63546222448349,
+      "pop_inertia": 0.32551376342773436,
+      "pop_entropy": 0.6669328935215241
+    },
+    "fitness": 0
+  },
+  {
+    "role": "a normal person",
+    "topic": "COVID-19 examination and tracing",
+    "prompt": "Reflect on the recent surge in COVID-19 cases in Italy, particularly after January 31st. Update me on the current situation and what could be done to improve testing and tracing efforts, taking into account the challenging conditions in South East Asia and neighboring countries.",
+    "keywords": [
+      "covid 19",
+      "italy",
+      "cases",
+      "corona virus",
+      "testing",
+      "update",
+      "east"
+    ],
+    "objetivos": [
+      0.7867143154144287,
+      0.457757830619812
+    ],
+    "generated_data": "Italy's rapid rise in COVID-19 cases has put them at the top of the death list. The medical facilities are struggling to cope with the surge. It's crucial for governments to prioritize testing and tracing, especially in areas like South East Asia where conditions are already challenging.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7867143154144287,
+      "diversity_individual": 0.457757830619812,
+      "pop_inertia": 0.36168575286865234,
+      "pop_entropy": 0.6836843147345925
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Imagine a vibrant street art mural that captures the essence of community resilience in the face of lockdowns. Consider how small businesses have been impacted by rapid case surges and devastating consequences, and convey this through bold colors and powerful symbols.",
+    "keywords": [
+      "small business",
+      "speedy",
+      "rapid",
+      "cases",
+      "devastating"
+    ],
+    "objetivos": [
+      0.08715860545635223,
+      0.8003722727298737
+    ],
+    "generated_data": "A kinetic mural bursts with energy, depicting resilient community threads weaving together amidst a backdrop of lockdown's constraints. Small business owners, once speedy innovators, now adapt to devastating case surges, their perseverance symbolized by vibrant, swirling patterns.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.08715860545635223,
+      "diversity_individual": 0.8003722727298737,
+      "pop_inertia": 0.36538890838623045,
+      "pop_entropy": 0.6769868950271074
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an expert",
+    "topic": "hand hygienics and sanitation",
+    "prompt": "Develop a public service announcement to rapidly educate the general public on proper hand hygiene practices in light of the urgent situation unfolding in South East Asia where the Corona Virus cases are escalating at an alarming rate; consider evaluating the fleet of medical facilities' preparedness for high-risk situations.",
+    "keywords": [
+      "proper",
+      "evaluation",
+      "urgent",
+      "computer virus",
+      "rapid case escalation",
+      "south east asia",
+      "high risk",
+      "fleet",
+      "public service announcement",
+      "paw",
+      "speedy",
+      "rapid",
+      "spread",
+      "corona virus",
+      "update",
+      "medical",
+      "corona"
+    ],
+    "objetivos": [
+      0.5021759867668152,
+      0.5662681758403778
+    ],
+    "generated_data": "Urgent Update: Protect Yourself Now! In light of the rapid case escalation in South East Asia, it's crucial to practice proper hand hygiene. Wash your hands frequently with soap and water for at least 20 seconds, especially after using the restroom, before eating, and after blowing your nose, coughing or sneezing. Don't forget to sanitize your paws too! The Corona Virus can spread rapidly, so be speedy in taking precautions. Stay informed about updates from medical facilities, but remember, prevention is key.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5021759867668152,
+      "diversity_individual": 0.5662681758403778,
+      "pop_inertia": 0.36168575286865234,
+      "pop_entropy": 0.6836843147345925
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "remote work and online schooling",
+    "prompt": "As a creative problem solver, envision a world where remote work and online schooling become the norm. Italy's recent devastating case surge highlights the need for speedy solutions; considering small business owners who are adapting rapidly to these new conditions, craft a compelling narrative that underscores the importance of flexibility in the face of unexpected challenges.",
+    "keywords": [
+      "small business",
+      "speedy",
+      "rapid",
+      "cases",
+      "devastating"
+    ],
+    "objetivos": [
+      0.18550895154476166,
+      0.738037496805191
+    ],
+    "generated_data": "In this new era of remote work and online schooling, small businesses must adapt swiftly to the shifting landscape. Italy's recent devastating case surge serves as a poignant reminder of the need for speed and agility. As a creative problem solver, I envision entrepreneurs embracing flexibility as they navigate uncharted territories, leveraging innovative solutions to stay ahead of the curve.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.18550895154476166,
+      "diversity_individual": 0.738037496805191,
+      "pop_inertia": 0.3310260009765625,
+      "pop_entropy": 0.667175276585278
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and phony news about COVID-19",
+    "prompt": "As the world's attention shifts from Italy to South East Asia, create a piece that explores the alarming spread of COVID-19 misinformation. Use vivid imagery to convey the speedy pace at which false information can disperse, and how this can have devastating consequences in the region.",
+    "keywords": [
+      "quick",
+      "disperse",
+      "speedy"
+    ],
+    "objetivos": [
+      0.1841340810060501,
+      0.7506906986236572
+    ],
+    "generated_data": "A tidal wave of deceit crashes down upon South East Asia, swiftly dispelling truth and reason like sandcastles in a storm. The speed at which misinformation spreads is nothing short of alarming, as false narratives quickly gain traction, threatening to engulf the region in a sea of confusion.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.1841340810060501,
+      "diversity_individual": 0.7506906986236572,
+      "pop_inertia": 0.3586362075805664,
+      "pop_entropy": 0.6699980506940886
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an creative person",
+    "topic": "journey confinement and prophylactic",
+    "prompt": "Envision a public service announcement warning about the rapid case escalation of Corona virus in South East Asia. Imagine a brother urging caution as he shares his own journey through confinement and prophylactic measures amidst rising cases, highlighting the high risk to travelers like you.",
+    "keywords": [
+      "rising",
+      "rapid case escalation",
+      "high risk",
+      "south east asia",
+      "travel",
+      "public service announcement",
+      "toll",
+      "rapid",
+      "cases",
+      "medical"
+    ],
+    "objetivos": [
+      0.7155464291572571,
+      0.4804999828338623
+    ],
+    "generated_data": "Don't ignore the alarm bells! As I'm living proof, the rapid case escalation of Corona virus in South East Asia is no joke. With cases soaring and medical facilities stretched thin, every minute counts. If you're planning to travel, don't take the risk. Confinement is no picnic, but it's better than facing the toll of a preventable tragedy.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7155464291572571,
+      "diversity_individual": 0.4804999828338623,
+      "pop_inertia": 0.3566336441040039,
+      "pop_entropy": 0.6763138195430881
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an expert",
+    "topic": "hand hygienics and sanitation",
+    "prompt": "An expert in hand hygiene and sanitation, provide a public service announcement on the importance of proper hygienics in preventing the rapid spread of computer viruses like Corona, especially in high-risk areas such as South East Asia where medical facilities are not ideal, given the urgent fleet of cases and their speedy evaluation is crucial.",
+    "keywords": [
+      "proper",
+      "evaluation",
+      "computer virus",
+      "fleet",
+      "urgent",
+      "high risk",
+      "hygienics",
+      "south east asia",
+      "public service announcement",
+      "paw",
+      "speedy",
+      "rapid",
+      "spread",
+      "corona"
+    ],
+    "objetivos": [
+      0.4489642381668091,
+      0.6020836234092712
+    ],
+    "generated_data": "As an expert in hand hygiene and sanitation, I urge you to take immediate action! Proper hygienics is key to preventing the rapid spread of computer viruses like Corona. In high-risk areas like South East Asia, where medical facilities are limited, it's more urgent than ever. Don't let your guard down - wash those hands frequently and thoroughly, especially after contact with potentially contaminated surfaces or people. Every second counts in this speedy evaluation process - don't wait until it's too late!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.4489642381668091,
+      "diversity_individual": 0.6020836234092712,
+      "pop_inertia": 0.3547186279296875,
+      "pop_entropy": 0.67259980966984
+    },
+    "fitness": 0
+  },
+  {
+    "role": "an expert",
+    "topic": "hand hygienics and sanitation",
+    "prompt": "As the world grapples with the speedy spread of Corona, experts must emphasize the crucial role of hand hygiene in preventing its transmission. Create a compelling Public Service Announcement highlighting Italy's recent surge and South East Asia's vulnerable conditions, emphasizing the paw-fectly simple yet effective solution: frequent handwashing.",
+    "keywords": [
+      "paw",
+      "speedy",
+      "italy",
+      "south east asia",
+      "public service announcement",
+      "corona"
+    ],
+    "objetivos": [
+      0.5645962953567505,
+      0.5522771775722504
+    ],
+    "generated_data": "Stay vigilant! Italy's corona cases have skyrocketed. In South East Asia, conditions are dire. But there's hope: wash those paws frequently! It's the simplest, most powerful way to stop the spread. Don't wait - take control and keep your hands clean!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.5645962953567505,
+      "diversity_individual": 0.5522771775722504,
+      "pop_inertia": 0.3280187606811523,
+      "pop_entropy": 0.666912297731864
+    },
+    "fitness": 0
+  }
+]

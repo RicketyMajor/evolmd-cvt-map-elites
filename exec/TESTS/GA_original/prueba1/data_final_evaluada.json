@@ -1,0 +1,1939 @@
+[
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Provide an update on the rapid spread of COVID-19 in Italy and its implications for South East Asia, considering the current situation's impact on medical facilities and outbreak prevention.",
+    "keywords": [
+      "spread",
+      "cases",
+      "south east asia",
+      "coronavirus",
+      "update",
+      "italy",
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "outbreaks",
+      "death"
+    ],
+    "fitness": 0.7758187651634216,
+    "generated_data": "Italy is now at the top of the death list due to corona virus cases spreading very fast. Medical facility is also not good in south east asia and you have neighbor worst conditions. Your government be very careful."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, please provide an update on the COVID-19 pandemic's rapid spread in Italy and worldwide, highlighting the alarming number of deaths and cases, as well as the struggles faced by under-equipped medical facilities, particularly in Southeast Asia.",
+    "keywords": [
+      "update",
+      "medical",
+      "covid 19",
+      "spread",
+      "italy",
+      "death",
+      "cases"
+    ],
+    "fitness": 0.7460601925849915,
+    "generated_data": "Italy tops the death list due to Corona Virus cases spreading very fast. Medical facility is also not good in South East Asia where you have neighbor with worst conditions. Your government should be very careful."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned individual, please provide an update on the current COVID-19 situation in Italy, highlighting the rapid spread of cases and its implications for public health, particularly considering the country's medical facilities and comparing it to neighboring countries' conditions.",
+    "keywords": [
+      "update",
+      "medical",
+      "covid 19",
+      "spread",
+      "italy",
+      "coronavirus",
+      "death",
+      "cases"
+    ],
+    "fitness": 0.7380194664001465,
+    "generated_data": "Italy is now topping the death list due to corona virus cases which are spreading very fast. Medical facility is also not good in South East Asia and you have a neighbor with worst conditions. Your government should be very careful."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, provide an urgent public health advisory on the rapid spread of COVID-19 in Italy, specifically highlighting concerns over the country's medical facilities and the need for increased caution to mitigate the growing number of deaths.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.7371638417243958,
+    "generated_data": "Italy, top the death list from corona virus cases boom very fast! Medical facility is also not good in South East Asia, your neighbor with worst conditions. Your government be very careful, this situation is getting out of control."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Considering Italy's alarming coronavirus case numbers, provide an update on the current situation and offer advice for mitigating the spread of COVID-19 in light of inadequate medical facilities in southern Europe.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.7364931702613831,
+    "generated_data": "Italy tops the death list as corona virus cases boom very fast. Medical facility is also not good in South East Asia where you have neighbor worst conditions. Your government should be very careful considering this alarming situation."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, provide an urgent public health advisory on the rapid spread of COVID-19 in Italy, emphasizing the alarming number of cases, inadequate medical facilities, and dire neighboring conditions in South East Asia, urging immediate government action to mitigate the outbreak.",
+    "keywords": [
+      "Italian Republic",
+      "covid 19",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "eruption",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5348932147026062,
+    "generated_data": "Urgent Public Health Advisory: COVID-19 Eruption in Italy - Cases Soar! As a concerned citizen, I'm issuing this advisory due to the alarming spread of coronavirus cases in Italy. With over 31st January cases reported, Italy now tops the death list. Medical facilities are struggling to cope with the surge, and neighboring South East Asia is facing even worse conditions. Your government must act swiftly to mitigate this outbreak!"
+  },
+  {
+    "role": "a normal person",
+    "topic": "social distancing practices",
+    "prompt": "As a concerned citizen of the world, consider the rapid spread of Covid-19 in Italy, particularly with the recent update on January 31st, and discuss practical social distancing practices to mitigate the medical facility's strain and reduce the death toll. Consider drawing from Italy's experience as it tops the death list.",
+    "keywords": [
+      "Italian Republic",
+      "covid 19",
+      "medical",
+      "spread",
+      "eruption",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.4245416522026062,
+    "generated_data": "As a global concern, we must learn from Italy's devastating experience. Practical social distancing measures are crucial; avoid crowded areas, maintain at least 6 feet distance, wash hands frequently, and stay home when unwell. By taking these simple steps, we can mitigate the strain on medical facilities and reduce the death toll – let's spread awareness, not the virus!"
+  },
+  {
+    "role": "a normal person",
+    "topic": "public wellness consultative on coronavirus",
+    "prompt": "As a concerned citizen, please provide an update on the COVID-19 situation in Italy, focusing on the rapid spread and concerning number of deaths, considering the country's medical facility limitations and its implications for public wellness.",
+    "keywords": [
+      "update",
+      "medical",
+      "covid 19",
+      "spread",
+      "italy",
+      "death",
+      "cases"
+    ],
+    "fitness": 0.6070139408111572,
+    "generated_data": "Italy is now at the top of the death list due to Corona Virus cases, with a boom in very fast spread despite limited medical facilities. As your neighbor in South East Asia, we urge our government to be extremely cautious."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, provide an urgent public health advisory regarding the rapid spread of COVID-19 cases in Italy and South East Asia, focusing on the recent surge in deaths and the need for immediate medical updates.",
+    "keywords": [
+      "spread",
+      "cases",
+      "south east asia",
+      "update",
+      "coronavirus",
+      "italy",
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "outbreaks",
+      "death"
+    ],
+    "fitness": 0.5002526044845581,
+    "generated_data": "Urgent Public Health Advisory: Rapid Spread of COVID-19 Cases in Italy and South East Asia. As of 31st January, Italy has topped the death list with a sharp spike in cases. It's essential to note that medical facilities in these regions are struggling to cope with the outbreak's rapid spread. I urge everyone to take immediate action to prevent further outbreaks and prioritize their health."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned individual, provide an urgent public health advisory on the rapid spread of COVID-19 in Italy, incorporating the latest updates and emphasizing the critical need for improved medical facilities to combat the rising death toll.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5098562836647034,
+    "generated_data": "Italy's COVID-19 cases are skyrocketing! As of January 31st, they've topped the global death list. Medical facilities are overwhelmed, and neighboring countries are struggling with poor conditions. Your government must act fast to prevent a catastrophe!"
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen and brother, craft an urgent public health advisory for the Italian Republic regarding the rapid spread of Covid-19 cases and outbreaks, emphasizing the critical need for swift action to address medical facility limitations and prevent further fatalities.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5267683267593384,
+    "generated_data": "Brother, I'm urging you - Italy's Covid-19 cases are exploding! As of January 31st, it's now among the top death lists globally. Medical facilities in South East Asia are already overwhelmed, and with neighboring countries struggling too, our government must act swiftly to prevent further fatalities."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, craft a clear and concise public health advisory regarding the rapid spread of COVID-19 in Italy, highlighting concerns about medical facilities' preparedness to handle the surge in cases and offering words of caution for neighboring countries in South East Asia.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5065444111824036,
+    "generated_data": "Attention citizens! The rapid spread of COVID-19 in Italy is alarming. With 31st January marking a milestone in the country's death toll, it's crucial we take notice. Medical facilities are struggling to cope with the surge in cases, and neighboring countries in South East Asia must be prepared for potential outbreaks. Stay vigilant, stay informed."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, provide an urgent public health advisory on the rapid spread of COVID-19 in Italy, highlighting the country's alarming death toll and emphasizing the importance of immediate medical support to mitigate the crisis, considering the devastating impact on neighboring regions.",
+    "keywords": [
+      "update",
+      "medical",
+      "covid 19",
+      "spread",
+      "italy",
+      "coronavirus",
+      "death",
+      "cases"
+    ],
+    "fitness": 0.5134665369987488,
+    "generated_data": "Italy is now at the top of the death list due to the rapid spread of coronavirus cases. The situation is extremely concerning, with a boom in new cases every day. Medical facilities are struggling to cope, and we urge the government to take immediate action to address this crisis."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Create a realistic and informative public health advisory regarding the rapid spread of COVID-19 in Italy, highlighting concerns about inadequate medical facilities in South East Asia, and offering cautious guidance to governments amidst alarming outbreak statistics.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "demise",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5064864158630371,
+    "generated_data": "Attention citizens! As COVID-19 cases surge rapidly in Italy, we urge governments worldwide to take immediate action. The Italian Republic's rapid rise on the death list should serve as a warning. With medical facilities in South East Asia already struggling to cope, the spread of this virus poses an alarming threat. Governments, please be vigilant and take precautions to prevent demise from this pandemic."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, please generate an update on the rapidly spreading COVID-19 cases in Italy and their neighboring countries in South East Asia, emphasizing the challenges posed by limited medical facilities.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "south east asia",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5249306559562683,
+    "generated_data": "Italy's COVID-19 situation worsens with 31st January seeing a surge in new cases, now ranking top in the death list. Neighboring South East Asian countries face even more dire conditions with limited medical facilities struggling to cope."
+  },
+  {
+    "role": "a normal person",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Analyze the rapid spread of COVID-19 in Italy and its neighboring regions in South East Asia, considering the lack of adequate medical facilities, and discuss the economic impact of this demise. Circulate your findings to keep everyone updated.",
+    "keywords": [
+      "Italian Republic",
+      "covid 19",
+      "medical",
+      "circulate",
+      "cases",
+      "south east asia",
+      "demise",
+      "update",
+      "coronavirus",
+      "eruption",
+      "death"
+    ],
+    "fitness": 0.4632168412208557,
+    "generated_data": "Italy's rapid descent into a COVID-19 hotspot has catastrophic economic implications for both the country and its neighbors in South East Asia. The eruption of cases in Italy has put immense pressure on medical facilities, which are already struggling to cope with the influx of patients, leading to a demise that's not just affecting human lives but also the economy."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, provide an urgent public health advisory on the rapid spread of COVID-19 in Italy, highlighting its deadly toll and inadequate medical facilities compared to South East Asia, urging immediate attention from governments.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5627730488777161,
+    "generated_data": "Italian Republic's COVID-19 cases have surged to 31st January levels, topping the death list. Medical facilities are overwhelmed, unlike in South East Asia where conditions are dire. Urgent action is needed - your government must take heed."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned individual, provide a COVID-19 public health advisory update for the Italian Republic, highlighting the rapid spread and alarming death toll, emphasizing the need for improved medical facilities in Italy to tackle the current outbreak, and offering cautionary advice to neighboring countries.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.40655407309532166,
+    "generated_data": "As a concerned individual, I urge the Italian Republic to take immediate action against COVID-19's alarming spread and devastating death toll. With medical facilities struggling to cope, it's crucial we prioritize resources to combat this outbreak before it's too late."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Write a public health advisory on the rapid spread of COVID-19 in Italy, providing an update on the current situation and emphasizing the need for careful government action to mitigate the outbreak's impact.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5137935280799866,
+    "generated_data": "Italy's COVID-19 cases are soaring! As of January 31st, it tops the death list - a worrying trend that demands swift government action. Medical facilities in South East Asia, our neighbors, are already struggling with similar conditions. We urge caution and a well-coordinated response to contain this outbreak."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a normal person concerned about the rapid spread of Covid-19 in Italy, provide an urgent public health advisory update on the current situation, highlighting concerns over medical facilities and case numbers, especially considering South East Asia's worst-case scenarios and neighboring countries' struggles.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "update",
+      "coronavirus",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5527686476707458,
+    "generated_data": "Italy is now topping the death list due to Corona virus cases spreading very fast. As a normal person, I urge caution from my government and neighbors in South East Asia who are facing even worse conditions. Medical facilities are struggling to cope with the surge in cases, making it crucial we take immediate action to prevent further spread."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned individual in South East Asia, provide a public health advisory for the rapid spread of COVID-19 in Italy, emphasizing the urgency to follow Italian Republic guidelines and highlighting concerns about medical facilities and neighboring countries' worst conditions.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.47926104068756104,
+    "generated_data": "Italy's COVID-19 cases are surging at an alarming rate, with the 31st January update showing a drastic spike. As your neighbor, we urge you to take immediate action and heed the Italian Republic's guidelines to contain the spread. Medical facilities in Italy are already strained, and neighboring countries' conditions are equally dire. It's crucial to stay vigilant and follow expert advice to prevent further outbreaks."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Write an update on the COVID-19 pandemic in Italy, emphasizing the rapid spread of cases and high number of deaths, while also highlighting the need for improved medical facilities to combat the crisis.",
+    "keywords": [
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "update",
+      "coronavirus",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.527984082698822,
+    "generated_data": "Italy is now topping the list of countries affected by the rapid spread of coronavirus cases. The situation is alarming with a very high death toll. Medical facilities in South East Asia are already struggling to cope with the surge, and it's crucial that governments take immediate action to improve healthcare infrastructure to combat this crisis."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, provide an urgent update on the current COVID-19 situation in Italy and its neighboring countries in South East Asia, focusing on the rapid spread of cases, medical facility capacities, and potential death toll.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.48385900259017944,
+    "generated_data": "Italy's COVID-19 outbreak is spiraling out of control with a surge in cases since January 31st. The situation is dire, and I urge my government to take immediate action to prevent further spread. Neighboring countries in South East Asia are also at risk, with inadequate medical facilities to cope with the influx of patients. We must act swiftly to contain this pandemic before it's too late."
+  },
+  {
+    "role": "a formula individual",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Craft a public health advisory on the rapid spread of COVID-19 in Italy, highlighting concerns about medical facilities and emphasizing the need for caution, especially considering neighboring countries' worst-case scenarios.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.47323575615882874,
+    "generated_data": "Fellow citizens, I'm issuing a urgent public health advisory regarding the rapid spread of COVID-19 in Italy. As of 31st January, our country has risen to the top death list, with cases multiplying at an alarming rate. Medical facilities are struggling to cope, and we urge your government to exercise extreme caution to prevent the virus from spreading further. Neighboring countries are already facing worst-case scenarios; let's not repeat their mistakes."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Generate an urgent public health advisory on the rapid spread of coronavirus in South East Asia and Italy, providing a critical update on recent cases and fatalities, while emphasizing the need for swift medical responses to mitigate the crisis.",
+    "keywords": [
+      "spread",
+      "cases",
+      "south east asia",
+      "update",
+      "coronavirus",
+      "italy",
+      "Italian Republic",
+      "covid 19",
+      "medical",
+      "outbreaks",
+      "death"
+    ],
+    "fitness": 0.5156955122947693,
+    "generated_data": "URGENT PUBLIC HEALTH ADVISORY: Coronavirus cases are spreading rapidly in South East Asia and Italy, with 31st January marking a concerning milestone. As of now, Italian Republic is topping the death list, underscoring the need for swift medical responses to mitigate this crisis. We urge governments to be vigilant and take immediate action to contain outbreaks and prevent further fatalities."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, please provide an update on the COVID-19 situation in Italy, focusing on the rapid spread of cases and potential threats to the medical facility's capacity, and offer advice on how neighboring countries in South East Asia can learn from their experience and prepare for possible outbreaks.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5040678381919861,
+    "generated_data": "Italy's COVID-19 cases have surged, making it top the death list. The rapid spread is concerning, given Italy's already-strained medical facilities. As a precautionary measure, I urge neighboring countries in South East Asia to learn from Italy's experience and prepare for potential outbreaks by strengthening their medical infrastructure."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Create a concise and informative public health advisory on the rapid spread of COVID-19 in Italy, highlighting the current death toll, challenges with medical facilities, and comparisons to neighboring countries in Southeast Asia.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5313807725906372,
+    "generated_data": "Italy's COVID-19 cases are booming, with 31st January marking the first few cases. Unfortunately, toppling the death list as coronovirus spreads rapidly. Medical facilities are struggling to cope, a concerning reality shared by many South East Asian nations. A stark reminder for governments to exercise caution."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned individual, I'd like the LLM to generate an informative public health advisory on the rapid spread of COVID-19 in Italy, highlighting the urgent need for improvement in medical facilities and government efforts, while drawing parallels with the dire situation in South East Asia.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "update",
+      "coronavirus",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.4866082966327667,
+    "generated_data": "Urgent Public Health Advisory: COVID-19 Spread in Italy Reaches Alarming Rate. As cases surge to 31st January levels, it's crucial that Italian authorities prioritize improving medical facilities to combat the rapid spread. The comparison with South East Asia's dire situation serves as a stark reminder of the importance of swift action."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, provide an update on the rapid spread of coronavirus in Italy and other parts of South East Asia, discussing the alarming number of cases, medical facility capacity, and government response to mitigate the outbreak's impact.",
+    "keywords": [
+      "spread",
+      "cases",
+      "south east asia",
+      "update",
+      "coronavirus",
+      "italy",
+      "Italian Republic",
+      "covid 19",
+      "medical",
+      "outbreaks",
+      "death"
+    ],
+    "fitness": 0.5044002532958984,
+    "generated_data": "Italy has taken a terrible turn, with coronavirus cases skyrocketing since January 31st. As of now, it tops the death list. The situation is dire, especially considering South East Asia's already poor medical infrastructure. Our neighboring countries are in even worse shape. It's crucial for our government to take swift action and learn from Italy's struggles."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Craft an urgent public health advisory update regarding the rapid spread of COVID-19 in Italy, highlighting concerns about medical facilities and demographics in South East Asia, with a focus on the alarming rise in cases and deaths, emphasizing cautionary measures for governments.",
+    "keywords": [
+      "Italian Republic",
+      "covid 19",
+      "medical",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "demise",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5326855182647705,
+    "generated_data": "Italy's COVID-19 crisis worsens: 31st January marks a grim milestone as the country tops the death list. The rapid spread of coronavirus cases is booming, with medical facilities struggling to cope. We urge governments in South East Asia, neighboring Italy, to exercise extreme caution and prepare for potential outbreaks."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Provide a public health advisory on COVID-19, focusing on the rapid spread of cases in Italy and its deadly impact, with an emphasis on the need for effective medical facilities to combat the crisis and potential updates for neighboring countries.",
+    "keywords": [
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "update",
+      "coronavirus",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5042932629585266,
+    "generated_data": "Italy's COVID-19 situation is worsening by the day. With over 31st January cases, it's now topping the death list, and we're seeing a very fast spread of the virus. Medical facilities are struggling to cope with the surge in patients, and neighboring countries should take heed - our government must be vigilant to prevent a similar outbreak."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public wellness consultative on coronavirus",
+    "prompt": "As a concerned citizen, provide an urgent public wellness consultative update on the rapid spread of COVID-19 cases in Italy and South East Asia, highlighting the severe strain on medical facilities and recommending measures for the government to take.",
+    "keywords": [
+      "spread",
+      "cases",
+      "south east asia",
+      "update",
+      "coronavirus",
+      "italy",
+      "Italian Republic",
+      "covid 19",
+      "medical",
+      "outbreaks",
+      "death"
+    ],
+    "fitness": 0.5305522680282593,
+    "generated_data": "The situation is dire! Italy's COVID-19 cases are skyrocketing, now topping the death list. We must act fast! Medical facilities in South East Asia are already overwhelmed, with neighboring countries facing even worse conditions. The Italian Republic needs to be very careful and take immediate measures to contain this outbreak, update our vaccination protocols, and provide a unified public wellness consultative strategy."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Please generate a public health advisory on the rapid spread of COVID-19 in Italy and its neighboring countries in South East Asia, highlighting the poor medical facilities and high death toll, and providing an urgent update on the current situation.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "circulate",
+      "cases",
+      "south east asia",
+      "demise",
+      "update",
+      "coronavirus",
+      "eruption",
+      "outbreaks",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.46573546528816223,
+    "generated_data": "Attention, neighbors! The rapid spread of COVID-19 in Italy has taken a deadly turn, with cases surging to alarming rates. As you witness the demise unfolding before your eyes, remember that similar circumstances are brewing in South East Asia where medical facilities are already overwhelmed, setting the stage for an eruption of outbreaks. Stay vigilant and take heed of this urgent update: it's crucial we work together to contain this pandemic!"
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, provide an urgent public health advisory on the rapidly spreading coronavirus outbreak in Italy, emphasizing the alarming rate of cases and demise, and drawing parallels to the concerning medical conditions in neighboring South East Asia.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "demise",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5129870772361755,
+    "generated_data": "Attention citizens! I'm sounding the alarm as Italy tops the death list with a rapid surge in coronavirus cases. The situation is dire, with poor medical facilities exacerbating the issue. We're seeing similar outbreaks in South East Asia, where neighbors are struggling with inadequate healthcare systems. It's crucial we take immediate action to contain this spread and prevent further demise. Stay vigilant!"
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, provide an urgent public health advisory on the rapid spread of COVID-19 in Italy and its devastating impact, considering the country's top position on the death list and the poor medical facilities in South East Asia.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "south east asia",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.47847509384155273,
+    "generated_data": "Italy has reached a critical point in the COVID-19 pandemic, with cases surging rapidly. As a concerned citizen, I urge everyone to take immediate action to contain the spread. With Italy topping the death list, it's crucial we learn from their experience and strengthen our own medical facilities. Unfortunately, South East Asia faces similar challenges, making it essential for governments to prioritize public health."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Create a public health advisory on the rapid spread of COVID-19 in Italy, focusing on the country's ranking as one of the top countries with the highest number of cases and deaths. Consider the strain on medical facilities and provide an update on the current situation.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.44446200132369995,
+    "generated_data": "Italy's COVID-19 crisis is escalating rapidly, now ranking among the top countries with the highest number of cases and deaths. Medical facilities are struggling to cope with the surge in patients, underscoring the urgent need for caution."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Generate a public health advisory on the rapid spread of COVID-19 in Italy and surrounding regions, considering the country's recent surge to the top of the global death list, highlighting concerns about medical facilities and neighboring countries' worst-case scenarios.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5110885500907898,
+    "generated_data": "Italy's rapid spread of COVID-19 has led it to the top of the global death list. Medical facilities are struggling to cope with the surge in cases. The situation is concerning, especially considering the poor conditions in neighboring south east Asian countries. We urge Italy's government to take immediate action to contain the outbreak and provide support to affected regions."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen and neighbor to South East Asia, I need an urgent update on the COVID-19 situation in Italy, particularly regarding recent outbreaks, case spreads, and medical facility preparedness, given its current ranking among countries with high coronavirus-related deaths.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5271193981170654,
+    "generated_data": "Italy's COVID-19 cases are surging rapidly, now topping the death list. As a neighbor to South East Asia, it's crucial we monitor the situation closely. Medical facilities in Italy need to improve their preparedness to combat this outbreak effectively."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Considering the rapid spread of COVID-19 in Italy and neighboring countries, provide an urgent public health advisory on the current outbreak situation and offer guidance to mitigate its impact.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.6055673360824585,
+    "generated_data": "Italy tops the death list as corona virus cases surge very fast. Medical facilities are also under pressure in South East Asia where neighboring countries are facing worst conditions. Governments must be extremely cautious to contain this outbreak."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen of the world, provide an urgent public health advisory on the rapid spread of COVID-19 in Italy, highlighting the alarming rate of cases and deaths, poor medical facilities, and the need for cautionary measures from neighboring countries.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.49303141236305237,
+    "generated_data": "The situation in Italy is dire - 31st January marked a turning point as coronavirus cases surged to the top of the death list. The rapid spread is unprecedented, with outbreaks occurring left and right. Medical facilities are struggling to cope, making it crucial for neighboring countries like yours to take immediate action."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Create an urgent public health advisory for the general public in South East Asia regarding the rapid spread of Covid-19 in Italy, highlighting the alarming death toll and strain on medical facilities, while emphasizing the importance of neighbor governments being proactive in addressing their own potential outbreak scenarios.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.47301769256591797,
+    "generated_data": "Attention South East Asia! The rapid spread of Covid-19 in Italy has reached a critical point, with 31st January marking a grim milestone. With death tolls skyrocketing and medical facilities under immense pressure, it's crucial that neighboring governments take proactive measures to address potential outbreak scenarios."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public wellness consultative on coronavirus",
+    "prompt": "As a normal individual concerned about public wellness, generate an update on the COVID-19 situation in Italy, specifically focusing on the rapid spread of cases and medical facilities' preparedness to combat the outbreak.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.4437066614627838,
+    "generated_data": "As you know, Italy has become a major concern regarding the rapid spread of COVID-19 cases. In just a few weeks, their death toll has skyrocketed to 31st January numbers. It's crucial we address this situation, especially considering our neighboring countries' equally dire conditions. Let's hope the Italian government takes immediate action."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Imagine yourself as a concerned citizen providing a public health advisory to your government and fellow citizens regarding the rapid spread of COVID-19 in Italy, specifically highlighting the alarming number of deaths and medical facilities' struggles. Using this reference text, craft an informative update on the current situation.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5041425228118896,
+    "generated_data": "Fellow citizens, I urge you to take immediate action as the COVID-19 outbreak in Italy has taken a devastating turn. As of January 31st, Italy tops the death list with alarming cases surging at an unprecedented rate. South East Asia's neighboring countries are facing worse conditions, and our government must be proactive to prevent further spread. Medical facilities are struggling to cope, emphasizing the urgent need for collective action."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, provide an urgent public health advisory on the rapid spread of coronavirus cases in Italy and its implications for South East Asia. Focus on the recent surge in cases, potential risks, and necessary updates to ensure timely action.",
+    "keywords": [
+      "spread",
+      "cases",
+      "south east asia",
+      "coronavirus",
+      "update",
+      "italy",
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "outbreaks",
+      "death"
+    ],
+    "fitness": 0.4812498390674591,
+    "generated_data": "As a concerned citizen, I urge immediate attention to the alarming spread of coronavirus cases in Italy, now topping the global death list. Recent outbreaks have accelerated at an unprecedented rate, highlighting critical shortfalls in medical facilities, making it essential for governments worldwide, particularly those in South East Asia, to take swift action to mitigate this crisis."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a normal individual, provide an urgent public health advisory on the rapid spread of COVID-19 in Italy and South East Asia, focusing on the recent increase in cases, medical facility shortcomings, and neighboring countries' worst conditions.",
+    "keywords": [
+      "spread",
+      "cases",
+      "south east asia",
+      "update",
+      "coronavirus",
+      "italy",
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "outbreaks",
+      "death"
+    ],
+    "fitness": 0.5132874846458435,
+    "generated_data": "Attention is urgently needed as COVID-19 cases in Italy have skyrocketed to the top death list, with outbreaks happening at an alarming rate. In South East Asia, the situation worsens, with medical facilities struggling to cope with the surge. Neighboring countries, take heed: your government must be vigilant and proactive in preventing the rapid spread of this deadly virus."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a normal person concerned about the rapid spread of coronavirus in South East Asia and Italy's alarming case update, provide a public health advisory on the current situation, highlighting the need for caution and emphasizing the importance of effective medical facilities in preventing further outbreaks.",
+    "keywords": [
+      "spread",
+      "cases",
+      "south east asia",
+      "update",
+      "coronavirus",
+      "italy",
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "outbreaks",
+      "death"
+    ],
+    "fitness": 0.4824029803276062,
+    "generated_data": "As we're witnessing the rapid spread of coronavirus in South East Asia and Italy, it's crucial to prioritize our health and safety. With cases surging, especially in Italy where medical facilities are already stretched thin, it's essential we exercise caution and take proactive measures against further outbreaks."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, provide an update on the COVID-19 pandemic in Italy, highlighting the rapid spread of cases and death toll, considering the country's medical facility constraints and neighboring countries' worst-case scenarios.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.48645541071891785,
+    "generated_data": "As you know, brother, Italy has taken a sharp turn for the worse with Covid-19 cases skyrocketing since January 31st. Sadly, it now tops the global death list, a stark reminder that the virus is spreading rapidly despite medical facilities struggling to cope. With neighboring countries experiencing even more dire conditions, our government must be extremely cautious to prevent a similar crisis unfolding here."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, craft an urgent public health advisory for the people of Italy regarding the rapid spread of COVID-19 cases, highlighting the dire situation and emphasizing the importance of immediate government action to address the crisis.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.4982486963272095,
+    "generated_data": "Italy is in a state of emergency as COVID-19 cases surge at an alarming rate. With over 31st January's initial few cases, it has now topped the death list. It's crucial for the government to take swift action and strengthen medical facilities to contain the spread."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, provide an update on the COVID-19 situation in Italy, highlighting concerns about the rapid spread of cases and poor medical facilities, particularly compared to neighboring South East Asian countries where conditions are even worse; consider the high number of deaths reported since January 31st.",
+    "keywords": [
+      "Italian Republic",
+      "propagate",
+      "covid 19",
+      "medical",
+      "cases",
+      "south east asia",
+      "demise",
+      "coronavirus",
+      "update",
+      "outbreaks",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5043686032295227,
+    "generated_data": "Italy's COVID-19 crisis is getting out of control! Since January 31st, the death toll has skyrocketed, making it one of the top spots on the list. The rapid spread of cases is alarming, and medical facilities are struggling to cope. Compare this to South East Asia where conditions are even worse - we're seeing a concerning trend. As citizens, it's crucial we stay vigilant and demand better from our governments."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Considering the rapid spread of coronavirus cases in Italy and South East Asia, provide an urgent public health advisory update for the Italian Republic, highlighting the alarming situation, the need for immediate medical facility improvement, and crucial steps to contain outbreaks and mitigate deaths, specifically addressing the concerns raised by a brother who is worried about the situation.",
+    "keywords": [
+      "spread",
+      "cases",
+      "south east asia",
+      "update",
+      "coronavirus",
+      "italy",
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "outbreaks",
+      "death"
+    ],
+    "fitness": 0.5303788185119629,
+    "generated_data": "As of today's update, Italy tops the death list due to the rapid spread of coronavirus cases. The situation in South East Asia is also critical, with medical facilities struggling to cope. I urge the Italian Republic to take immediate action to improve healthcare infrastructure and implement containment measures to prevent further outbreaks and deaths. Your government must be proactive in addressing this crisis."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Write a concise and informative public health advisory update on the rapid spread of coronavirus cases in Italy, considering its neighboring countries in South East Asia with similar outbreak conditions, focusing on the urgency for prompt medical action.",
+    "keywords": [
+      "spread",
+      "cases",
+      "south east asia",
+      "update",
+      "coronavirus",
+      "italy",
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "outbreaks",
+      "death"
+    ],
+    "fitness": 0.4621164798736572,
+    "generated_data": "As of our latest update, Italy's COVID-19 situation has taken a concerning turn. The rapid spread of cases is alarming, and we urge immediate medical attention to prevent further outbreaks. Neighboring countries in South East Asia should take note, as similar conditions exist, requiring swift action to mitigate the crisis."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Provide an urgent public health advisory update on the rapid spread of coronavirus in Italy and its impact on global cases, with a special focus on the dire medical conditions in South East Asia and offer cautious words to governments, considering the neighboring countries' worst-case scenarios.",
+    "keywords": [
+      "spread",
+      "cases",
+      "south east asia",
+      "coronavirus",
+      "update",
+      "italy",
+      "Italian Republic",
+      "covid 19",
+      "medical",
+      "outbreaks",
+      "death"
+    ],
+    "fitness": 0.5136323571205139,
+    "generated_data": "Attention! The coronavirus outbreak is spreading rapidly in Italy, now topping the death list. As of today, 31st January, cases are booming, and medical facilities are struggling to keep up. We urge governments, especially those in South East Asia, to be vigilant and proactive in responding to this crisis. With neighboring countries facing worst-case scenarios, it's crucial to take immediate action to prevent further outbreaks and save lives."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned individual, provide an urgent public health advisory update on the rapid spread of COVID-19 in Italy and South East Asia, highlighting the country's alarming death toll and urging governments to take swift action to address medical facility limitations.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.4971361756324768,
+    "generated_data": "Italy tops the list with over 31st January cases, a worrying trend. Medical facilities are stretched thin, making it crucial for governments to take immediate action to upgrade infrastructure and tackle the rapid spread of COVID-19 in South East Asia before it's too late."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, provide an update on the COVID-19 situation in Italy, specifically focusing on the rapid spread of cases and the impact on medical facilities, considering the worst-case scenario in South East Asia and offering crucial advice to governments.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.4951794147491455,
+    "generated_data": "Italy's COVID-19 cases are booming, with 31st January marking a grim milestone - it now tops the death list. Medical facilities are struggling to cope, and I urge neighboring countries in South East Asia to take heed. As a concerned citizen, I implore governments to act swiftly, learn from Italy's mistakes, and prioritize public health before it's too late."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned individual, provide an update on the rapid spread of coronavirus cases in Italy and South East Asia, highlighting the severity of the situation, medical facility challenges, and offering cautionary advice to governments.",
+    "keywords": [
+      "spread",
+      "cases",
+      "south east asia",
+      "update",
+      "coronavirus",
+      "italy",
+      "Italian Republic",
+      "covid 19",
+      "medical",
+      "outbreaks",
+      "death"
+    ],
+    "fitness": 0.5090869665145874,
+    "generated_data": "Italy's coronavirus case count has skyrocketed, ranking it at the top of the death list as of January 31st. The rapid spread is alarming, with medical facilities in South East Asia struggling to cope with the surge. As a concerned individual, I urge governments to be vigilant and take swift action to prevent further outbreaks, lest we face catastrophic consequences."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned individual, provide an update on the current state of the COVID-19 pandemic in Italy and South East Asia, focusing on the rapid spread of cases, the capacity of medical facilities, and the impact on mortality rates.",
+    "keywords": [
+      "spread",
+      "cases",
+      "south east asia",
+      "update",
+      "coronavirus",
+      "italy",
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "outbreaks",
+      "death"
+    ],
+    "fitness": 0.5258880257606506,
+    "generated_data": "Italy's situation is alarming! The country has topped the death list due to the rapid spread of coronavirus cases. In just a few days, there were over 31st January cases reported. Medical facilities are struggling to cope with the surge in patients. As a neighbor, South East Asia is no exception. With worsening conditions and inadequate medical infrastructure, it's crucial that governments take immediate action to prevent further outbreaks."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Please provide an updated public health advisory on the rapid spread of COVID-19 in Italy and South East Asia, highlighting concerns over medical facilities and case numbers, particularly the recent spike in deaths.",
+    "keywords": [
+      "spread",
+      "cases",
+      "south east asia",
+      "coronavirus",
+      "update",
+      "italy",
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "outbreaks",
+      "death"
+    ],
+    "fitness": 0.45753929018974304,
+    "generated_data": "Italy's situation worsens as COVID-19 cases surge, with 31st January marking a grim milestone. The Italian Republic faces an unprecedented outbreak, with death tolls rising alarmingly. South East Asia, our neighbors, are struggling with similar conditions, underscoring the urgent need for cautious measures."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Generate an update on the COVID-19 situation in Italy, highlighting concerns about the rapid spread of cases and potential impact on medical facilities, considering its neighbor countries' worse conditions.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "demise",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5122292637825012,
+    "generated_data": "Italy's COVID-19 case count has skyrocketed to 31st January levels, pushing it to the top death list. The rapid spread has raised alarm bells, especially with medical facilities already strained in south east Asia and neighboring countries experiencing even worse conditions. As a precautionary measure, I urge my government to take immediate action."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health consultative on coronavirus",
+    "prompt": "As a concerned citizen, provide an update on the COVID-19 situation in Italy and its neighboring countries in South East Asia, highlighting the rapid increase in cases and potential consequences, focusing on health checks and medical facilities.",
+    "keywords": [
+      "Italian Republic",
+      "covid 19",
+      "health check",
+      "circulate",
+      "caseful",
+      "south east asia",
+      "eruption",
+      "update",
+      "coronavirus",
+      "death",
+      "Italian Republic",
+      "demise"
+    ],
+    "fitness": 0.5249482989311218,
+    "generated_data": "Italy's COVID-19 case count has skyrocketed to 31st January levels, topping the global death list. The situation is dire, with medical facilities struggling to cope in South East Asia where neighbor countries face even worse conditions. As a concerned citizen, I urge the government to be vigilant and take immediate action to circulate accurate information and conduct thorough health checks."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Consider the recent surge in coronavirus cases in Italy, now topping the global death list. Provide an urgent public health advisory update on the rapid spread of Covid-19 in South East Asia and neighboring countries.",
+    "keywords": [
+      "spread",
+      "cases",
+      "south east asia",
+      "update",
+      "coronavirus",
+      "italy",
+      "Italian Republic",
+      "covid 19",
+      "medical",
+      "outbreaks",
+      "death"
+    ],
+    "fitness": 0.5131677389144897,
+    "generated_data": "The COVID-19 situation is dire. Recent outbreaks in Italy have topped the global death list, with cases spreading rapidly. In South East Asia, medical facilities are already stretched thin, making it crucial to take immediate action. Neighboring countries must be vigilant, as their proximity increases the risk of transmission. We urge everyone to exercise extreme caution and follow guidelines carefully."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Craft a public health advisory on the rapid spread of COVID-19 in Italy, highlighting concerns over inadequate medical facilities and neighboring countries' dire conditions.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5390780568122864,
+    "generated_data": "Attention Italy! As of 31st January, your country has taken the top spot on the death list due to coronavirus cases spreading at an alarming rate. With medical facilities already struggling, it's crucial for your government to take immediate action. The situation in neighboring countries is just as dire, with South East Asia particularly vulnerable. Stay vigilant and stay safe."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, provide an urgent public health advisory on the rapid spread of COVID-19 in Italy and its neighboring regions in South East Asia, considering the current death toll, medical facility capacity, and government responses.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "south east asia",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.524360179901123,
+    "generated_data": "Italy's coronavirus cases have surged to 31st January levels, topping the global death list. As a concerned citizen, I urge caution: medical facilities in South East Asia are already strained, making neighboring regions vulnerable to outbreaks. Update your knowledge: COVID-19 is spreading rapidly, and it's crucial governments take swift action."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, please generate an update on the COVID-19 situation in Italy, focusing on recent case spikes and the impact on medical facilities, considering parallels with South East Asia's challenges and offering advice to neighboring countries.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5331421494483948,
+    "generated_data": "Italy is now top of the death list due to corona virus cases, which are spreading very fast. Medical facilities are also struggling in this crisis. As a concerned citizen, I urge my government to take immediate action to prevent further outbreaks."
+  },
+  {
+    "role": "a normal person",
+    "topic": "world wellness consultative on coronavirus",
+    "prompt": "As a normal person concerned about the global wellness consultative on COVID-19, provide an update on the rapid spread of cases and potential demise in Italy, highlighting key concerns for health checks and neighboring countries' worst-case scenarios.",
+    "keywords": [
+      "health check",
+      "covid 19",
+      "spread",
+      "cases",
+      "outbreaks",
+      "update",
+      "italy",
+      "demise"
+    ],
+    "fitness": 0.45493653416633606,
+    "generated_data": "As I follow the coronavirus updates, I'm worried about the rapid spread in Italy - it's now topping the death list. The situation is critical, especially with medical facilities struggling to cope. It's essential that governments take proactive measures to prevent outbreaks and provide health checks for those at risk. And let's not forget neighboring countries, which are already facing worst-case scenarios. We need an update on this critical issue before it's too late."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Given the rapid spread of COVID-19 in Italy and its recent ranking as the top country on the death list, provide an urgent public health advisory update on the current situation in South East Asia, specifically highlighting the challenges faced by medical facilities and offering guidance for preventing further outbreaks.",
+    "keywords": [
+      "spread",
+      "cases",
+      "south east asia",
+      "update",
+      "coronavirus",
+      "italy",
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "outbreaks",
+      "death"
+    ],
+    "fitness": 0.46341952681541443,
+    "generated_data": "South East Asia, be cautious! COVID-19 cases are spreading rapidly, just like in Italy. Our medical facilities are already struggling to keep up. It's crucial we take immediate action to prevent further outbreaks. Wear masks, wash hands frequently, and avoid crowded areas. Let's work together to stay ahead of this pandemic."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen and a neighbor to South East Asia, please provide an urgent public health advisory on the rapid spread of COVID-19 in Italy, specifically highlighting the concerning death toll and the need for immediate action to contain the outbreak.",
+    "keywords": [
+      "Italian Republic",
+      "covid 19",
+      "medical",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "demise",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.479999303817749,
+    "generated_data": "Italy's COVID-19 situation is alarming! With cases surging at a deadly rate, it's crucial we take immediate action. Medical facilities are already stretched thin, making containment of outbreaks in South East Asia even more pressing."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Please generate a public health advisory on the rapid spread of COVID-19 in Italy, considering the recent surge in cases and concerns about the medical facilities' capacity to handle the outbreak, as well as comparisons to neighboring countries in South East Asia.",
+    "keywords": [
+      "Italian Republic",
+      "covid 19",
+      "medical",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "demise",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5111019611358643,
+    "generated_data": "A public health advisory is issued due to the alarming surge in COVID-19 cases in Italy. As of the 31st January, the country has moved to the top of the death list, with a rapid spread that's overwhelming medical facilities. We urge caution and vigilance, as neighboring countries in South East Asia are facing similar worst-case scenarios."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, provide an update on the rapid spread of COVID-19 in Italy and its neighboring regions in South East Asia, emphasizing the urgency to address medical facility shortages and tragic outbreak statistics.",
+    "keywords": [
+      "spread",
+      "cases",
+      "south east asia",
+      "update",
+      "coronavirus",
+      "italy",
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "outbreaks",
+      "death"
+    ],
+    "fitness": 0.49772822856903076,
+    "generated_data": "Italy's coronavirus cases are spiraling out of control, with fatalities reaching alarming rates. As a concerned citizen, I urge our government to take immediate action to bolster medical facilities in South East Asia, where conditions are already dire."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned individual, generate an urgent public health advisory for the Italian Republic regarding the rapid spread of COVID-19 cases, highlighting the critical situation and emphasizing the need for swift medical responses to mitigate the outbreak's devastating impact on Italy and neighboring countries.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.48489612340927124,
+    "generated_data": "Urgent Public Health Advisory: Italy, you are at a critical juncture. As of January 31st, your country has taken the top spot in COVID-19 death cases. The spread is very fast, and medical facilities are struggling to cope. As a neighboring country myself, I urge your government to take immediate action to contain this outbreak before it's too late."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned individual, craft a public health advisory message to address the rapid spread of COVID-19 in Italy and its neighboring countries in South East Asia, highlighting concerns over medical facilities and fatalities, with an emphasis on urging governments to take immediate action.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "demise",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5140265226364136,
+    "generated_data": "Italy's COVID-19 situation is alarming! With cases surging rapidly, it's now top of the death list. Medical facilities are struggling, and neighboring countries in South East Asia are equally vulnerable. We urge governments to take immediate action to contain this spread before it's too late."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, please provide an urgent public health advisory on the rapid spread of coronavirus in Italy and South East Asia, highlighting the increasing number of cases, death rates, and strained medical facilities, and offer critical updates on the situation.",
+    "keywords": [
+      "spread",
+      "cases",
+      "south east asia",
+      "update",
+      "coronavirus",
+      "italy",
+      "Italian Republic",
+      "covid 19",
+      "medical",
+      "outbreaks",
+      "death"
+    ],
+    "fitness": 0.5109232068061829,
+    "generated_data": "Attention citizens! With coronavirus cases surging in Italy and South East Asia, it's crucial to take immediate action. As of today, Italian Republic reports 31st January as a turning point, with death rates skyrocketing. Medical facilities are overwhelmed, and outbreaks are spreading rapidly. Stay vigilant and stay informed for the latest updates."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, provide an urgent public health advisory on the rapid spread of coronavirus in Italy and its neighboring countries in South East Asia, including updates on cases, death toll, and medical facility preparedness.",
+    "keywords": [
+      "spread",
+      "cases",
+      "south east asia",
+      "update",
+      "coronavirus",
+      "italy",
+      "Italian Republic",
+      "covid 19",
+      "medical",
+      "outbreaks",
+      "death"
+    ],
+    "fitness": 0.523935854434967,
+    "generated_data": "Urgent Public Health Advisory: The rapid spread of coronavirus in Italy has put it at the top of the death list. Cases are booming very fast, with medical facilities struggling to cope. As a concerned citizen, I urge neighboring countries in South East Asia to take immediate action to prevent further outbreaks. Please get updated information on cases and death tolls daily."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Consider the concerns of a brother who shares news about Italy's concerning COVID-19 situation, including rapid spread and high mortality rates, and provide an update on the current state of medical facilities in Italy, highlighting any potential risks or challenges in South East Asia due to nearby outbreaks.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.505739688873291,
+    "generated_data": "Italy's COVID-19 situation is dire, with a rapid surge in cases and death toll climbing. Medical facilities are struggling to cope, raising concerns about spread to neighboring countries in South East Asia."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned individual in South East Asia, consider a public health advisory update on the COVID-19 pandemic, focusing on Italy's recent surge in cases and deaths, highlighting the rapid spread of the virus, inadequate medical facilities, and neighboring countries' worst conditions.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "south east asia",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.517264723777771,
+    "generated_data": "As COVID-19 cases surge in Italy, I urge caution for South East Asia. Italy's death toll is alarming - 31st January saw a devastating spike. Medical facilities are struggling to cope with the rapid spread of the virus. Neighboring countries, beware: your conditions are equally dire."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Considering the rapid spread of coronavirus cases in Italy and its recent topping of the death list, provide an urgent public health advisory update on measures to contain the outbreak, especially in South East Asia where medical facilities are already strained.",
+    "keywords": [
+      "spread",
+      "cases",
+      "south east asia",
+      "update",
+      "coronavirus",
+      "italy",
+      "Italian Republic",
+      "covid 19",
+      "medical",
+      "outbreaks",
+      "death"
+    ],
+    "fitness": 0.4744971990585327,
+    "generated_data": "As the COVID-19 pandemic continues to spread rapidly across the globe, I urge everyone to take immediate action to protect themselves and their loved ones. In Italy, the situation has taken a dire turn with the country topping the death list. With South East Asia's medical facilities already under strain, it is crucial that we take proactive measures to contain this outbreak."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, provide an urgent public health advisory on the rapid spread of COVID-19 in Italy, highlighting the alarming case numbers and tragic consequences, particularly in light of limited medical facilities in South East Asia, emphasizing the need for careful government action to mitigate the outbreak's deadly impact.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.487448126077652,
+    "generated_data": "Dear fellow citizens, I'm sharing this urgent public health advisory as we're witnessing a concerning surge in COVID-19 cases in Italy. As of January 31st, their death toll has skyrocketed, and with medical facilities already stretched thin in South East Asia, it's crucial our government takes immediate action to prevent further outbreaks."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, provide an urgent public health advisory on the rapid spread of COVID-19 in Italy and neighboring South East Asia, highlighting the dire need for improved medical facilities and government action to contain outbreaks.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.49204936623573303,
+    "generated_data": "Italy's COVID-19 situation is rapidly deteriorating as cases surge past 31st January numbers. With deaths mounting, it's crucial that governments in the region prioritize medical facility upgrades and swift containment measures to stem the spread. South East Asia, take note: Italy's experience serves as a stark warning, and your own vulnerable conditions demand urgent attention."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, provide an urgent public health advisory on the rapid spread of COVID-19 in Italy, specifically addressing concerns about overwhelmed medical facilities and neighboring countries with worsening conditions.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "south east asia",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5006532669067383,
+    "generated_data": "Fellow citizens, I'm issuing this urgent public health advisory due to the alarming rate of COVID-19 outbreaks in Italy. As of January 31st, Italy has taken the top spot on the death list, and the situation is spiraling out of control. Medical facilities are struggling to cope with the surge in cases, putting a massive strain on resources. I urge neighboring countries in South East Asia, who are already experiencing worsening conditions, to take immediate action to prevent further spread."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Create a public health advisory for the general public, addressing concerns about the rapid spread of COVID-19 in Italy and its neighboring regions in South East Asia, highlighting medical facility challenges and emphasizing the importance of government action to mitigate the situation.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.4757198989391327,
+    "generated_data": "As COVID-19 cases surge in Italy and neighboring countries in South East Asia, it's crucial we take immediate action to contain the spread. With medical facilities already stretched thin, our government must prioritize swift interventions to prevent further outbreaks. Let's stay vigilant and support each other during this critical moment."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Create a public health advisory updating the current situation of COVID-19 in Italy and its alarming rate of cases, emphasizing the need for caution and highlighting concerns about medical facilities in South East Asia.",
+    "keywords": [
+      "update",
+      "medical",
+      "covid 19",
+      "spread",
+      "italy",
+      "coronavirus",
+      "death",
+      "cases"
+    ],
+    "fitness": 0.48906996846199036,
+    "generated_data": "Update on COVID-19 in Italy: The situation is dire as cases continue to surge at an alarming rate. With over 31st January cases reported, Italy has topped the death list, making it crucial that your government takes immediate action to contain the spread."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Provide a public health advisory update on the rapid spread of coronavirus in South East Asia and Italy, specifically highlighting the concerning surge in cases, mortality rate, and overwhelmed medical facilities.",
+    "keywords": [
+      "spread",
+      "cases",
+      "south east asia",
+      "update",
+      "coronavirus",
+      "italy",
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "outbreaks",
+      "death"
+    ],
+    "fitness": 0.4747872054576874,
+    "generated_data": "Attention all! As the situation worsens, I urge you to take immediate action against the rapid spread of coronavirus in South East Asia and Italy. The case count is skyrocketing, with 31st January marking a grim milestone. Medical facilities are struggling to cope, leaving us vulnerable to devastating outcomes. The Italian Republic has joined the list of countries severely affected, and it's crucial we learn from their experience. Let's work together to curb this pandemic, stay vigilant, and prioritize our health."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, provide an urgent public health advisory update on the rapid spread of Covid-19 in Italy, highlighting the alarming death toll and strain on medical facilities.",
+    "keywords": [
+      "update",
+      "medical",
+      "covid 19",
+      "spread",
+      "italy",
+      "death",
+      "cases"
+    ],
+    "fitness": 0.4351085424423218,
+    "generated_data": "Fellow citizens, I'm issuing an urgent alert. The Covid-19 situation in Italy has taken a dire turn. With cases surging at an unprecedented rate, the death toll is rising alarmingly. Our medical facilities are struggling to cope with the influx of patients, putting immense pressure on healthcare workers. It's crucial we take immediate action to contain this spread and save lives."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Given the rapid spread of COVID-19 in Italy, provide an update on the current situation and offer public health advice to mitigate the outbreak's impact, particularly considering the challenges faced by medical facilities in South East Asia.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.45299866795539856,
+    "generated_data": "As the situation in Italy worsens, I urge everyone to take immediate action against COVID-19. The rapid spread of cases has put a strain on medical facilities, and we're seeing a concerning surge in death tolls. It's crucial that governments worldwide learn from Italy's experience and strengthen their healthcare systems to prevent further outbreaks."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen and neighbor of South East Asia, generate an urgent public health advisory update regarding the rapid spread of COVID-19 in Italy, citing specific statistics on cases and deaths, and offering recommendations for mitigating measures to contain the outbreak.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5038854479789734,
+    "generated_data": "Urgent Public Health Advisory: COVID-19 Outbreak in Italy - A Concerned Neighbor's Alert! As of 31st January, Italy has taken a worrisome turn, climbing to the top of the death list due to corona virus cases spreading rapidly. With medical facilities also struggling, it's crucial that governments take swift action to mitigate this outbreak."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As someone in the know about public health advisories, please provide an update on the COVID-19 situation in Italy, focusing on the rapid spread of cases and outbreaks, with particular attention to medical facility preparedness and government efforts to contain the eruption.",
+    "keywords": [
+      "Italian Republic",
+      "covid 19",
+      "medical",
+      "spread",
+      "cases",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "eruption",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5341850519180298,
+    "generated_data": "Italy's COVID-19 case count has skyrocketed, making it a top death list candidate. The rapid spread is alarming, with poor medical facilities in South East Asia making matters worse. As your neighbor, our government must be cautious and take swift action to contain this outbreak."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, provide a public health advisory on the rapidly spreading coronavirus in Italy, focusing on the current case count, medical facilities, and neighboring countries' conditions. Consider the recent 31st January updates and offer recommendations for containment.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.47727930545806885,
+    "generated_data": "As a concerned citizen, I urge caution regarding the rapid spread of COVID-19 in Italy, where cases have reached alarming levels since the 31st of January. Medical facilities are strained, and neighboring countries in South East Asia face similar challenges. It's crucial that governments take immediate action to contain outbreaks, ensure proper medical care, and monitor case counts to prevent further transmission."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a normal person in the midst of the global pandemic, provide an update on the spread and outbreaks of COVID-19 in Italy, highlighting the alarming number of deaths, particularly concerning medical facility capacity, and emphasizing the importance of cautionary measures for neighboring countries.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5138053297996521,
+    "generated_data": "Italy's COVID-19 cases are skyrocketing with 31st January marking a grim milestone. The country has taken a devastating leap to the top of the death list, raising concerns about underprepared medical facilities in South East Asia and neighboring countries. It's crucial for governments to exercise extreme caution to prevent further outbreaks."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Generate a concise public health advisory on the rapid spread of COVID-19 in Italy, focusing on the recent surge in cases and deaths, emphasizing the need for immediate action from authorities to mitigate the crisis.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.4859928786754608,
+    "generated_data": "Italy's COVID-19 situation is worsening rapidly. As of today, 31st January, Italy has topped the death list with a concerning surge in cases. Medical facilities are under strain, and we urge the Italian Republic to take immediate action to contain the outbreak before it's too late."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, provide an updated public health advisory regarding the rapid spread of COVID-19 in Italy and South East Asia, emphasizing the urgency to address medical facility shortages and neighbor countries' worst conditions.",
+    "keywords": [
+      "spread",
+      "cases",
+      "south east asia",
+      "update",
+      "coronavirus",
+      "italy",
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "outbreaks",
+      "death"
+    ],
+    "fitness": 0.5467351675033569,
+    "generated_data": "As we're seeing a rapid spread of COVID-19 cases in Italy, it's crucial to update our public health advisory. With 31st January marking the first few cases in Italy, they've now topped the death list. South East Asia is also struggling with medical facility shortages, and neighboring countries are experiencing even worse conditions."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned individual, provide an update on the coronavirus situation in Italy and South East Asia, highlighting the alarming rate of cases and deaths, and emphasizing the importance of government action to contain the spread and protect public health.",
+    "keywords": [
+      "Italian Republic",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "eruption",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5270981192588806,
+    "generated_data": "Italy's top spot on the death list is a dire warning for South East Asia, where medical facilities are already strained. The rapid eruption of covid 19 cases demands urgent government action to stem the tide, or else we risk catastrophic consequences."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Consider the current outbreak in Italy and provide an update on the COVID-19 situation, emphasizing the need for caution and proper medical facilities to prevent further spread of cases in both Italy and surrounding regions.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5222325921058655,
+    "generated_data": "Italy's COVID-19 cases are skyrocketing, with a recent surge in fatalities making it the new top death list. As neighboring countries in South East Asia struggle with poor medical facilities, our government must be vigilant in containing outbreaks and providing essential updates to prevent further spread."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a normal person concerned about the public health advisory on coronavirus, provide an update on Italy's situation and emphasize the importance of medical facilities in controlling the rapid spread of COVID-19 cases and potential outbreaks, highlighting concerns over high death rates in Italy, the Italian Republic's efforts to mitigate the crisis, and the urgency for neighboring countries to take preventive measures.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.45723670721054077,
+    "generated_data": "Italy's COVID-19 situation has taken a concerning turn, with cases surging rapidly. Medical facilities are struggling to cope, and death rates are alarmingly high. Neighbors, take note: Italy's top spot on the death list is a stark reminder of the crisis' severity. It's crucial we learn from their struggles and act swiftly to prevent similar outbreaks in our own countries."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Create an urgent public health advisory for a neighbor country to heed Italy's rapid COVID-19 case spike and learn from their experience, emphasizing the need for increased medical facilities and vigilance in responding to outbreaks.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.4345085322856903,
+    "generated_data": "As your neighbor, we urge you to take immediate action to prevent a similar crisis unfolding in our country. The Italian Republic's rapid rise in COVID-19 cases serves as a stark reminder of the devastating consequences of underpreparedness. With medical facilities already stretched thin and outbreaks spreading rapidly, it is crucial that we prioritize increased healthcare infrastructure and vigilance in responding to emerging cases."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, provide a timely public health advisory on the rapidly spreading COVID-19 cases in Italy and South East Asia, highlighting the need for increased medical facility capacity to mitigate the outbreak's severe consequences, including the alarming rate of deaths.",
+    "keywords": [
+      "Italian Republic",
+      "covid 19",
+      "spread",
+      "south east asia",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "demise",
+      "eruption",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.5494744777679443,
+    "generated_data": "Italy's COVID-19 case count has reached an alarming 31st January milestone, now topping the death list. The rapid spread in South East Asia is equally concerning, with neighbours facing dire conditions. Our government must act swiftly to boost medical facility capacity and prevent further demise, as the coronavirus outbreak continues its devastating eruption."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned individual, provide a public health advisory update on the rapid spread of COVID-19 in Italy, focusing on the alarming number of cases and deaths, as well as the challenges faced by medical facilities in the region.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "outbreaks",
+      "coronavirus",
+      "update",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.49719899892807007,
+    "generated_data": "Italy's COVID-19 crisis worsens as death toll reaches 31st January mark. Medical facilities struggle to cope with rapid spread, highlighting concerns for neighboring countries with similar conditions. Government urged to take immediate action."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Generate an urgent public health advisory on the rapid spread of COVID-19 in Italy, highlighting the alarming number of cases and deaths, while also referencing the poor medical facilities in South East Asia as a cautionary tale for neighboring countries to take proactive measures against the outbreaks.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "demise",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.48849740624427795,
+    "generated_data": "URGENT PUBLIC HEALTH ADVISORY: The Italian Republic is grappling with an unprecedented surge in COVID-19 cases, with devastating consequences. As of 31st January, Italy has topped the death list, underscoring the need for swift action. The rapid spread is a stark reminder of the dire situation in South East Asia, where medical facilities are woefully inadequate. Neighboring countries, take heed: it's imperative to be proactive against outbreaks and prioritize public health measures before it's too late."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned individual, please provide an urgent public health advisory on the current COVID-19 outbreak in Italy, considering the rapid increase in cases and deaths, highlighting the need for prompt medical facility improvements to combat the virus's spread.",
+    "keywords": [
+      "Italian Republic",
+      "covid 19",
+      "cases",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "eruption",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.46752557158470154,
+    "generated_data": "Italy's coronavirus situation is alarming! Cases are rising rapidly, with 31st January marking a milestone. With death tolls increasing, it's crucial that authorities prioritize medical facility upgrades to contain the outbreak."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, provide an update on the rapid spread of coronavirus cases in Italy and its implications for public health, especially considering the neighboring countries in South East Asia that face even more challenging conditions; what lessons can be learned from the Italian Republic's response to manage the outbreak effectively.",
+    "keywords": [
+      "spread",
+      "cases",
+      "south east asia",
+      "update",
+      "coronavirus",
+      "italy",
+      "Italian Republic",
+      "covid 19",
+      "medical",
+      "outbreaks",
+      "death"
+    ],
+    "fitness": 0.5056946873664856,
+    "generated_data": "As the coronavirus cases continue to boom in Italy, I urge my fellow citizens to remain vigilant and take necessary precautions. The rapid spread of the virus has pushed Italy to the top of the death list, serving as a stark reminder of the gravity of the situation. Neighboring countries in South East Asia are even more vulnerable due to their already challenging medical facilities. It's crucial that our government learns from Italy's experience and takes proactive measures to manage outbreaks effectively."
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "As a concerned citizen, create a public health advisory update about the rapid spread of Covid-19 in Italy and its neighboring countries in South East Asia, emphasizing the need for medical facilities to improve and the alarming rate of cases and demise circulating, urging governments to take immediate action.",
+    "keywords": [
+      "Italian Republic",
+      "covid 19",
+      "medical",
+      "circulate",
+      "cases",
+      "south east asia",
+      "demise",
+      "update",
+      "coronavirus",
+      "eruption",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.4804898202419281,
+    "generated_data": "Covid-19 Update: Italy's Alarming Eruption Demands Immediate Action! As cases continue to circulate at an unprecedented rate, it's crucial that neighboring countries in South East Asia take heed. The Italian Republic is top of the death list, and medical facilities must improve to stem the tide. Governments, please be cautious - every minute counts!"
+  },
+  {
+    "role": "a normal person",
+    "topic": "public wellness consultative on coronavirus",
+    "prompt": "As a concerned citizen, generate an update on the COVID-19 situation in Italy, highlighting the rapid spread of cases and medical challenges, and provide recommendations for neighboring countries in South East Asia to mitigate outbreaks.",
+    "keywords": [
+      "Italian Republic",
+      "medical",
+      "covid 19",
+      "spread",
+      "cases",
+      "south east asia",
+      "outbreaks",
+      "update",
+      "coronavirus",
+      "italy",
+      "death"
+    ],
+    "fitness": 0.488594114780426,
+    "generated_data": "As we're closely watching the COVID-19 crisis unfold in Italy, where the death toll has sadly risen to 31st January's count, it's crucial we acknowledge the rapid spread of cases. Medical facilities are struggling to cope with the surge, and I urge neighboring countries in South East Asia to take heed: strengthen your healthcare systems now to avoid a similar catastrophe."
+  }
+]

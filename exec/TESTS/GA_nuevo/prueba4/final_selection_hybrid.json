@@ -1,0 +1,120 @@
+[
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Write a sarcastic social media post expressing frustration with the constant spread of misinformation about COVID-19, feeling like it's an endgame for common sense, and struggling to stay awake until the pandemic finally ends.",
+    "keywords": [
+      "struggling",
+      "media post from",
+      "a frustrated social",
+      "endgame"
+    ],
+    "objetivos": [
+      0.7360387444496155,
+      0.5860503911972046
+    ],
+    "generated_data": "Why don't you wake me up when Corona ends? I'm struggling to stay awake through this never-ending nightmare of misinformation. Every media post from a frustrated social media user is just another reminder that we've reached the endgame for common sense",
+    "metrics_detail": {
+      "fidelity_sbert": 0.7360387444496155,
+      "diversity_individual": 0.5860503911972046,
+      "pop_inertia": 0.47465755462646486,
+      "pop_entropy": 0.6951105608326803
+    },
+    "fitness": 0,
+    "topsis_score": 0.9488417958147888
+  },
+  {
+    "role": "an influencer",
+    "topic": "community resilience during lockdowns",
+    "prompt": "As I share my thoughts on community resilience during the pandemic, write a heartfelt message for my followers who are struggling to cope with reality, mentioning how we can come together when corona finally ends.",
+    "keywords": [
+      "corona",
+      "pandemic",
+      "struggling",
+      "reality",
+      "cope"
+    ],
+    "objetivos": [
+      0.6847150325775146,
+      0.6123960018157959
+    ],
+    "generated_data": "Hey friends, I know it's tough out there, but let's hold each other up! When Corona ends, we'll rise stronger than ever, and that thought gives me hope. Until then, remember: we're in this together!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6847150325775146,
+      "diversity_individual": 0.6123960018157959,
+      "pop_inertia": 0.4198110961914063,
+      "pop_entropy": 0.6774181199424191
+    },
+    "fitness": 0,
+    "topsis_score": 0.8731695086692469
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Imagine yourself as a frustrated social who's struggling to cope with the ongoing Corona pandemic; write a candid conversation between you and an exhausted officer about the absurdity of strict travel restrictions that seem to have no endgame in sight.",
+    "keywords": [
+      "a frustrated social",
+      "struggling",
+      "officer",
+      "candid",
+      "endgame"
+    ],
+    "objetivos": [
+      0.4915163516998291,
+      0.714247316122055
+    ],
+    "generated_data": "I'm at my wit's end, officer! Can't you see I'm suffocating under these draconian rules? When do you think we'll be free from this corona-induced purgatory?",
+    "metrics_detail": {
+      "fidelity_sbert": 0.4915163516998291,
+      "diversity_individual": 0.714247316122055,
+      "pop_inertia": 0.4140055847167969,
+      "pop_entropy": 0.6706694810324689
+    },
+    "fitness": 0,
+    "topsis_score": 0.4823224797823247
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Create a song lyrics that reflect the frustration of being stuck in a cycle of misinformation about COVID-19, incorporating the perspective of someone feeling trapped by lockdowns and yearning for clarity",
+    "keywords": [
+      "lockdowns",
+      "perspective of a"
+    ],
+    "objetivos": [
+      0.6070088148117065,
+      0.7069478332996368
+    ],
+    "generated_data": "I'm stuck in this loop, chasing shadows and lies\nWhy don't you wake me up when corona ends",
+    "metrics_detail": {
+      "fidelity_sbert": 0.6070088148117065,
+      "diversity_individual": 0.7069478332996368,
+      "pop_inertia": 0.4476202392578125,
+      "pop_entropy": 0.6806136885088039
+    },
+    "fitness": 0,
+    "topsis_score": 0.7196062788016938
+  },
+  {
+    "role": "an creative person",
+    "topic": "paw hygienics and sanitization",
+    "prompt": "Craft a humorous poem about the importance of paw hygiene, from the perspective of a pet groomer officer who's grown tired of candid conversations about unclean paws, and is urging owners to take action.",
+    "keywords": [
+      "officer",
+      "candid"
+    ],
+    "objetivos": [
+      0.38749343156814575,
+      0.7305557429790497
+    ],
+    "generated_data": "Oh, dear owner, please don't be so blind, wake me up when corona ends, I'm tired of candid chats about unclean behind! As a pet groomer officer, I implore you, keep those paws in check, it's paw hygiene we're pursuing!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.38749343156814575,
+      "diversity_individual": 0.7305557429790497,
+      "pop_inertia": 0.4476202392578125,
+      "pop_entropy": 0.6806136885088039
+    },
+    "fitness": 0,
+    "topsis_score": 0.26951419168118373
+  }
+]

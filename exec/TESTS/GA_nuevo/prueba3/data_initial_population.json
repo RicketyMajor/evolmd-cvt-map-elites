@@ -1,0 +1,2072 @@
+[
+  {
+    "role": "a policymaker",
+    "topic": "mask wearing guidelines",
+    "prompt": "From the perspective of a policymaker, draft an update to our mask-wearing guidelines considering recent developments in small business support, specifically addressing restaurant shutdowns and disaster financing options.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "guidelines",
+      "small business",
+      "support",
+      "restaurant",
+      "shutdowns",
+      "disaster",
+      "financing",
+      "options"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Envision a vibrant art piece, 'Hand Hygiene Harmony,' that visually communicates the importance of proper hand hygiene in today's pandemic world.",
+    "keywords": [
+      "hand",
+      "hygiene",
+      "harmony",
+      "pandemic",
+      "proper",
+      "today",
+      "art",
+      "piece",
+      "visual",
+      "communicates",
+      "importance"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an expert",
+    "topic": "quarantine and isolation protocols",
+    "prompt": "Draft a comprehensive guide to quarantine and isolation protocols from the perspective of an expert, highlighting best practices and recent updates, including insights on restaurant shutdowns and disaster financing options for small businesses.",
+    "keywords": [
+      "quarantine",
+      "isolation",
+      "protocols",
+      "best practices",
+      "recent updates",
+      "restaurant shutdowns",
+      "disaster financing",
+      "small business"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "quarantine and isolation protocols",
+    "prompt": "Addressing the recent updates to our action center, discuss ways to enhance quarantine and isolation protocols for small businesses affected by shutdowns and natural disasters.",
+    "keywords": [
+      "quarantine",
+      "isolation",
+      "protocols",
+      "small business",
+      "shutdowns",
+      "natural disasters",
+      "action center",
+      "enhance",
+      "update",
+      "affected"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "hospital preparedness for COVID-19",
+    "prompt": "From the perspective of a seasoned leader, draft a statement emphasizing the importance of hospital preparedness in combating COVID-19, highlighting recent updates to our action center featuring information on restaurant shutdowns and disaster financing options for small businesses.",
+    "keywords": [
+      "hospital",
+      "preparedness",
+      "covid 19",
+      "action center",
+      "restaurant shutdowns",
+      "disaster financing",
+      "small businesses"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "remote work and online schooling",
+    "prompt": "Consider the challenges faced by small business owners in the wake of restaurant shutdowns, then draft a brief update on how you, as a healthcare professional, are adapting to remote work and online schooling for your patients.",
+    "keywords": [
+      "remote work",
+      "online schooling",
+      "healthcare professional",
+      "patients",
+      "consider the challenges",
+      "the challenges faced",
+      "challenges faced by",
+      "faced by small",
+      "by small business",
+      "small business owners",
+      "business owners in",
+      "owners in the"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "hospital preparedness for COVID-19",
+    "prompt": "From the perspective of a dedicated law enforcement professional, describe how hospital preparedness for COVID-19 can be improved, considering the lessons learned from updates on restaurant shutdowns and disaster financing options for SMBs.",
+    "keywords": [
+      "hospital preparedness",
+      "covid 19",
+      "restaurant shutdowns",
+      "disaster financing",
+      "lessons learned"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "From the perspective of a police officer, provide an update on the current situation with COVID-19 cases in our community, including any new developments or recommendations regarding small business support and disaster financing options.",
+    "keywords": [
+      "covid 19",
+      "cases",
+      "community",
+      "small business",
+      "disaster financing",
+      "options",
+      "update",
+      "situation",
+      "recommendations"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Update our constituents on the latest developments regarding small business resilience during the pandemic, incorporating new data on restaurant closures and financial aid opportunities.",
+    "keywords": [
+      "small business",
+      "pandemic",
+      "restaurant closures",
+      "financial aid",
+      "constituents",
+      "latest developments",
+      "new data",
+      "resilience"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Imagine you're an average person following updates on the pandemic. Write a message to friends sharing your concerns and thoughts on the recent vaccination campaign, referencing the recent update about restaurant shutdowns and disaster financing options.",
+    "keywords": [
+      "vaccination",
+      "pandemic",
+      "restaurant shutdowns",
+      "disaster financing",
+      "concerns",
+      "thoughts",
+      "update",
+      "recent",
+      "friends"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "mask wearing guidelines",
+    "prompt": "Draft updated mask-wearing guidelines considering the recent updates to our action center on restaurant shutdowns and disaster financing options, prioritizing small businesses.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "guidelines",
+      "restaurant",
+      "shutdowns",
+      "disaster",
+      "financing",
+      "options",
+      "small",
+      "businesses"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "mask wearing guidelines",
+    "prompt": "From my office, address the pressing need to update mask-wearing guidelines in light of recent events, emphasizing the importance of public health and economic resilience.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "guidelines",
+      "public",
+      "health",
+      "economic",
+      "resilience",
+      "update",
+      "recent",
+      "events"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Draft a memo to fellow officers, highlighting the importance of getting vaccinated against COVID-19 amidst the ongoing pandemic and recent business closures.",
+    "keywords": [
+      "covid 19",
+      "pandemic",
+      "business closures",
+      "ongoing pandemic",
+      "getting vaccinated"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Imagine you just got an update notice from the government, writing a personal reflection on how the new information about restaurant shutdowns and disaster financing options for small businesses impacts your daily life during the ongoing public health advisory on coronavirus.",
+    "keywords": [
+      "coronavirus",
+      "public health advisory",
+      "restaurant shutdowns",
+      "disaster financing",
+      "small businesses",
+      "daily life"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "hospital preparedness for COVID-19",
+    "prompt": "Draft a memo to colleagues on hospital preparedness measures amidst COVID-19, considering updates on action center resources for small businesses affected by restaurant closures and disaster financing.",
+    "keywords": [
+      "hospital",
+      "preparedness",
+      "covid 19",
+      "action center",
+      "small business",
+      "restaurant closure",
+      "disaster financing"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "From the perspective of a local law enforcement official, write an update on efforts to combat spreading misinformation and fake news about COVID-19 in our community, specifically addressing recent rumors surrounding restaurant shutdowns and disaster financing options for small businesses.",
+    "keywords": [
+      "covid 19",
+      "misinformation",
+      "fake news",
+      "restaurant shutdowns",
+      "disaster financing",
+      "small businesses",
+      "community",
+      "local law enforcement",
+      "efforts",
+      "combat",
+      "rumors",
+      "update"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "hospital preparedness for COVID-19",
+    "prompt": "Write an email to local businesses sharing recent updates on restaurant shutdowns and disaster financing, while emphasizing the importance of hospital preparedness for COVID-19.",
+    "keywords": [
+      "hospital",
+      "preparedness",
+      "covid 19",
+      "restaurant",
+      "shutdowns",
+      "disaster",
+      "financing",
+      "local",
+      "businesses",
+      "updates",
+      "recent"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "remote work and online schooling",
+    "prompt": "Draft an announcement highlighting the recent updates to our action center, focusing on how small businesses can adapt to remote work and online schooling amid restaurant shutdowns and disaster financing options.",
+    "keywords": [
+      "remote work",
+      "online schooling",
+      "small business",
+      "restaurant shutdowns",
+      "disaster financing",
+      "action center",
+      "update"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "travel restrictions and safety",
+    "prompt": "Consider the recent updates to the Action Center, particularly the new information on restaurant shutdowns and disaster financing options for small businesses. Write a personal reflection on how these developments might impact your upcoming travels and safety concerns.",
+    "keywords": [
+      "travel",
+      "safety",
+      "shutdowns",
+      "financing",
+      "disaster",
+      "travels",
+      "concerns"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "first responder",
+    "topic": "mask wearing guidelines",
+    "prompt": "From the perspective of a first responder, provide updated guidance on mask wearing protocols considering recent developments in restaurant shutdowns and disaster financing options for SMBs.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "first responder",
+      "restaurant",
+      "shutdowns",
+      "disaster",
+      "financing",
+      "smbs"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a public figure",
+    "topic": "travel restrictions and safety",
+    "prompt": "From the perspective of a concerned global citizen, discuss how recent updates to action centers can inform SMBs' decisions regarding travel restrictions and safety measures amid pandemic-related closures and disasters.",
+    "keywords": [
+      "travel",
+      "restrictions",
+      "safety",
+      "pandemic",
+      "closures",
+      "disasters",
+      "action",
+      "centers",
+      "measures",
+      "decisions",
+      "amid"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "COVID-19 testing and tracing",
+    "prompt": "Consider the challenges of delivering accurate COVID-19 testing and tracing amidst recent changes in community infrastructure. Write from the perspective of a healthcare worker familiar with updates to our action center, highlighting how the latest information on restaurant shutdowns and disaster financing options for small businesses affects your work.",
+    "keywords": [
+      "covid 19",
+      "testing",
+      "tracing",
+      "community infrastructure",
+      "action center",
+      "restaurant shutdowns",
+      "disaster financing",
+      "small businesses"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "From your perspective as a police officer, consider how small business owners are coping with the economic fallout of the COVID-19 pandemic. Describe updates to the action center providing resources on restaurant shutdowns and disaster financing options.",
+    "keywords": [
+      "small business",
+      "covid 19",
+      "pandemic",
+      "restaurant shutdowns",
+      "disaster financing",
+      "action center",
+      "resources",
+      "economic fallout"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "first responder",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Draft a concise update from the perspective of a first responder, leveraging recent changes to the action center that provide critical information about coronavirus-related restaurant closures and disaster financing options specifically designed for small businesses.",
+    "keywords": [
+      "coronavirus",
+      "restaurant closures",
+      "disaster financing",
+      "small businesses",
+      "action center",
+      "first responder"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "mental health during the pandemic",
+    "prompt": "Write a compassionate perspective on the challenges SMB owners face during the pandemic, drawing from your experience as a frontline responder.",
+    "keywords": [
+      "pandemic",
+      "owners",
+      "challenges",
+      "frontline",
+      "responder"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an organization",
+    "topic": "quarantine and isolation protocols",
+    "prompt": "From the perspective of a business organization, draft an announcement detailing how updated quarantine and isolation protocols will impact SMBs, highlighting potential support mechanisms.",
+    "keywords": [
+      "quarantine",
+      "isolation",
+      "protocols",
+      "smbs",
+      "business",
+      "organization",
+      "announcement",
+      "impact",
+      "support",
+      "mechanisms"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "mental health during the pandemic",
+    "prompt": "Draft a compassionate memo to fellow officers, detailing ways to support Small Medium Businesses (SMBs) affected by pandemic-related closures and providing resources for mental well-being.",
+    "keywords": [
+      "pandemic",
+      "mental well being",
+      "small medium businesses",
+      "support",
+      "closures",
+      "resources",
+      "officers",
+      "fellow officers",
+      "compassionate"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an organization",
+    "topic": "quarantine and isolation protocols",
+    "prompt": "Write a statement from the perspective of your update on recent changes to your action center, highlighting how new resources will enhance support for small businesses during pandemic-related challenges, such as restaurant shutdowns and disaster financing.",
+    "keywords": [
+      "pandemic",
+      "small business",
+      "restaurant shutdowns",
+      "disaster financing",
+      "write a statement",
+      "a statement from",
+      "statement from the",
+      "from the perspective",
+      "the perspective of",
+      "perspective of your",
+      "of your update",
+      "your update on"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an authority figure",
+    "topic": "quarantine and isolation protocols",
+    "prompt": "Summarize the revised quarantine and isolation procedures for small businesses, drawing parallels with recent experiences in responding to restaurant shutdowns and disaster financing, while emphasizing key considerations and best practices.",
+    "keywords": [
+      "revised",
+      "quarantine",
+      "isolation",
+      "procedures",
+      "small",
+      "businesses",
+      "restaurant",
+      "shutdowns",
+      "disaster",
+      "financing",
+      "key",
+      "considerations"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "first responder",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "From your perspective as a first responder, summarize the updates to our action center's resources on navigating the economic impact of the coronavirus pandemic, specifically highlighting information on restaurant shutdowns and disaster financing options for small businesses.",
+    "keywords": [
+      "coronavirus pandemic",
+      "economic impact",
+      "restaurant shutdowns",
+      "disaster financing",
+      "small businesses",
+      "action center",
+      "first responder"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Capture the emotional weight of a small business owner's struggles amidst the COVID-19 pandemic, exploring the restaurant industry's devastating shutdowns and limited financial options.",
+    "keywords": [
+      "covid 19",
+      "pandemic",
+      "small business",
+      "restaurant industry",
+      "shutdowns",
+      "financial options",
+      "emotional weight",
+      "struggles"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "first responder",
+    "topic": "mask wearing guidelines",
+    "prompt": "From the perspective of a first responder, draft guidelines for effective mask-wearing strategies in emergency response situations, considering the recent updates to our action center on restaurant shutdowns and disaster financing options for small businesses.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "guidelines",
+      "emergency",
+      "response",
+      "situations",
+      "restaurant",
+      "shutdowns",
+      "disaster",
+      "financing",
+      "options",
+      "small"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Reflecting on the blurred lines between truth and falsehood, craft a poignant commentary exploring how misinformation and fake news surrounding COVID-19 can be as devastating as the pandemic itself.",
+    "keywords": [
+      "covid 19",
+      "misinformation",
+      "fake news",
+      "truth",
+      "falsehood",
+      "blurred lines",
+      "devastating"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "Consider the recent updates to our local action center, including new resources on navigating restaurant closures and disaster recovery. Write a personal reflection on how these changes impact your daily life and community during the ongoing COVID-19 pandemic.",
+    "keywords": [
+      "covid 19",
+      "pandemic",
+      "restaurant closures",
+      "disaster recovery",
+      "local action center",
+      "community",
+      "daily life"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an authority figure",
+    "topic": "community resilience during lockdowns",
+    "prompt": "From the perspective of a trusted leader, draft a reassuring message to local businesses, addressing concerns and providing support for navigating challenges during pandemic-related lockdowns.",
+    "keywords": [
+      "pandemic",
+      "lockdowns",
+      "local businesses",
+      "trusted leader",
+      "reassuring message",
+      "addressing concerns",
+      "navigating challenges",
+      "support"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "mask wearing guidelines",
+    "prompt": "Consider the recent updates to our action center, including SMB-focused resources on restaurant shutdowns and disaster financing. Develop comprehensive mask-wearing guidelines for small businesses in this context.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "guidelines",
+      "small business",
+      "restaurant",
+      "shutdowns",
+      "disaster",
+      "financing",
+      "action center",
+      "resources"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "Considering the ongoing pandemic, outline essential COVID-19 prevention measures that local businesses can implement to ensure their continuity, highlighting resources available through our updated action center.",
+    "keywords": [
+      "covid 19",
+      "prevention",
+      "measures",
+      "pandemic",
+      "local businesses",
+      "continuity",
+      "action center"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "COVID-19 testing and tracing",
+    "prompt": "Write about how the recent updates to the update our action center have impacted your understanding of navigating COVID-19 testing and tracing as an SMB owner.",
+    "keywords": [
+      "covid 19",
+      "testing",
+      "tracing",
+      "action center",
+      "smb owner",
+      "navigating",
+      "update"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an expert",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Craft a comprehensive guide on building community resilience during lockdowns, incorporating insights from our updated Action Center's recent additions on restaurant shutdowns and disaster financing options for small businesses.",
+    "keywords": [
+      "community resilience",
+      "lockdowns",
+      "comprehensive guide",
+      "restaurant shutdowns",
+      "disaster financing",
+      "small businesses",
+      "action center",
+      "recent additions"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "From the perspective of a concerned government official, craft a clear and concise public health advisory on COVID-19, specifically highlighting measures to support small businesses affected by restaurant shutdowns and disaster financing options.",
+    "keywords": [
+      "covid 19",
+      "public health advisory",
+      "small businesses",
+      "restaurant shutdowns",
+      "disaster financing",
+      "government official",
+      "concerned",
+      "financing options"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "mental health during the pandemic",
+    "prompt": "Consider the impact of pandemic-related stressors on small business owners and provide guidance from a law enforcement perspective, taking into account recent updates to our action center.",
+    "keywords": [
+      "pandemic",
+      "stressors",
+      "small business owners",
+      "law enforcement",
+      "action center",
+      "guidance",
+      "recent updates"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an organization",
+    "topic": "mental health during the pandemic",
+    "prompt": "Draft a blog post discussing the intersection of mental health and business resilience during the pandemic, highlighting the importance of proactive planning and support systems for SMBs, with a focus on actionable tips and resources.",
+    "keywords": [
+      "mental",
+      "health",
+      "pandemic",
+      "business",
+      "resilience",
+      "planning",
+      "support",
+      "smbs",
+      "tips",
+      "resources"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Consider the recent update to our action center, outlining restaurant shutdowns and disaster financing options. Write a public health advisory on COVID-19 from your perspective as a frontline healthcare worker, emphasizing preventative measures and community resources.",
+    "keywords": [
+      "covid 19",
+      "public health advisory",
+      "preventative measures",
+      "community resources",
+      "shutdowns",
+      "financing options",
+      "action center",
+      "frontline healthcare worker"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an authority figure",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Summarize the latest developments in the vaccination campaign, emphasizing key updates and next steps, from the perspective of a government official overseeing public health initiatives.",
+    "keywords": [
+      "vaccination",
+      "campaign",
+      "public health",
+      "government official",
+      "latest developments",
+      "key updates",
+      "next steps"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Draft a memo to fellow officers from your perspective, sharing insights on the importance of vaccine education in our community's small businesses, highlighting the resources now available at our action center.",
+    "keywords": [
+      "vaccine",
+      "education",
+      "small business",
+      "community",
+      "action center",
+      "memo",
+      "officers",
+      "resources",
+      "available"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "mask wearing guidelines",
+    "prompt": "Envision a world where creativity meets responsibility, write a public service announcement from the perspective of a socially conscious artist, incorporating insights on small business resilience gained from the update about restaurant shutdowns and disaster financing options for SMBs to emphasize the importance of mask-wearing during the pandemic.",
+    "keywords": [
+      "small",
+      "business",
+      "resilience",
+      "pandemic",
+      "mask",
+      "wearing",
+      "responsibility",
+      "creativity",
+      "update",
+      "restaurant",
+      "shutdowns",
+      "disaster"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an expert",
+    "topic": "remote work and online schooling",
+    "prompt": "Draft a blog post discussing the implications of recent economic changes on small business owners' ability to manage their operations and adapt to disruptions, drawing parallels with the importance of flexible remote work arrangements and online schooling for effective personal development.",
+    "keywords": [
+      "remote work",
+      "online schooling",
+      "small business owners",
+      "economic changes",
+      "disruptions",
+      "personal development"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Draft a statement to the local business community, highlighting the updated resources available through our Action Center to support Small and Medium-sized Businesses (SMBs) coping with lockdown-related challenges, specifically restaurant shutdowns and disaster financing options.",
+    "keywords": [
+      "small",
+      "medium",
+      "businesses",
+      "lockdown",
+      "resources",
+      "action",
+      "center",
+      "restaurant",
+      "shutdowns",
+      "disaster",
+      "financing",
+      "options"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Draft a concise update on the latest vaccine campaign developments, incorporating insights from your experience as a healthcare worker in a pandemic context, considering the recent updates to our action center regarding restaurant shutdowns and disaster financing options for SMBs.",
+    "keywords": [
+      "campaign",
+      "pandemic",
+      "healthcare",
+      "worker",
+      "update",
+      "developments",
+      "insights",
+      "experience",
+      "action center",
+      "restaurant shutdowns",
+      "disaster financing"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "social distancing practices",
+    "prompt": "Draft a statement emphasizing the importance of social distancing practices during public health crises, highlighting examples of successful SMB support measures like the updated action center offering resources on restaurant shutdowns and disaster financing.",
+    "keywords": [
+      "social distancing",
+      "public health crises",
+      "successful smb support",
+      "action center",
+      "restaurant shutdowns",
+      "disaster financing"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an organization",
+    "topic": "remote work and online schooling",
+    "prompt": "Draft a notification announcing the expansion of our support services to SMBs affected by restaurant closures, highlighting available resources for remote work and online schooling.",
+    "keywords": [
+      "remote",
+      "work",
+      "online",
+      "schooling",
+      "support",
+      "services",
+      "smbs",
+      "restaurant",
+      "closures"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an expert",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Write a concise summary of the updated resources available to Small and Medium-sized Businesses (SMBs) navigating the economic challenges caused by the COVID-19 pandemic, specifically highlighting new information on restaurant shutdowns and disaster financing options.",
+    "keywords": [
+      "small",
+      "medium",
+      "businesses",
+      "covid 19",
+      "pandemic",
+      "restaurant",
+      "shutdowns",
+      "disaster",
+      "financing",
+      "options"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an authority figure",
+    "topic": "social distancing practices",
+    "prompt": "Draft a statement emphasizing the importance of adhering to social distancing measures, particularly in light of recent restaurant shutdowns and disaster financing options for SMBs.",
+    "keywords": [
+      "social distancing",
+      "adhering",
+      "measures",
+      "restaurant shutdowns",
+      "disaster financing",
+      "smbs"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "hospital preparedness for COVID-19",
+    "prompt": "From the perspective of a concerned government official, draft a statement reassuring the public that efforts to enhance hospital preparedness for COVID-19 are ongoing, with specific initiatives including updates to our action center providing valuable resources on restaurant shutdowns and disaster financing options for small businesses.",
+    "keywords": [
+      "hospital preparedness",
+      "covid 19",
+      "action center",
+      "restaurant shutdowns",
+      "disaster financing",
+      "small businesses"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "first responder",
+    "topic": "quarantine and isolation protocols",
+    "prompt": "Draft a situation report from the perspective of a first responder, providing insights on how quarantine and isolation protocols can be effectively implemented to mitigate the spread of disease in response to recent restaurant shutdowns and disaster financing options for SMBs.",
+    "keywords": [
+      "quarantine",
+      "isolation",
+      "mitigate",
+      "spread",
+      "disease",
+      "restaurant",
+      "shutdowns",
+      "disaster",
+      "financing",
+      "options",
+      "smbs"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an expert",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Craft a concise article from the perspective of an expert, discussing effective strategies for maintaining proper hand hygiene in the face of unpredictable disruptions like those caused by restaurant shutdowns or disasters. Consider highlighting best practices, equipment recommendations, and any relevant considerations for small business management.",
+    "keywords": [
+      "hand",
+      "hygiene",
+      "disruptions",
+      "unpredictable",
+      "shutdowns",
+      "best",
+      "practices",
+      "equipment",
+      "recommendations",
+      "small",
+      "business",
+      "management"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an organization",
+    "topic": "mask wearing guidelines",
+    "prompt": "Craft a statement announcing updated guidance on mask-wearing practices in response to evolving pandemic circumstances, drawing from lessons learned from restaurant shutdowns and disaster financing strategies for small businesses.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "pandemic",
+      "circumstances",
+      "lessons",
+      "learned",
+      "restaurant",
+      "shutdowns",
+      "disaster",
+      "financing",
+      "strategies"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Addressing the pressing issue of small business resilience during the pandemic, detail the newly available resources in our updated action center to mitigate the economic impact of restaurant closures and natural disasters.",
+    "keywords": [
+      "small business",
+      "pandemic",
+      "restaurant closures",
+      "natural disasters",
+      "economic impact",
+      "action center",
+      "mitigate"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an expert",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Craft a concise public health advisory statement regarding COVID-19, highlighting the latest updates to our action center, including restaurant shutdowns and disaster financing options for small businesses.",
+    "keywords": [
+      "covid 19",
+      "public health advisory",
+      "action center",
+      "restaurant shutdowns",
+      "disaster financing",
+      "small businesses"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an organization",
+    "topic": "mental health during the pandemic",
+    "prompt": "Write a statement acknowledging the ongoing challenges of running a small business amidst the pandemic, highlighting the importance of prioritizing mental health within your organization.",
+    "keywords": [
+      "small business",
+      "pandemic",
+      "mental health",
+      "organization",
+      "prioritizing",
+      "challenges",
+      "running",
+      "acknowledging",
+      "importance"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an expert",
+    "topic": "mask wearing guidelines",
+    "prompt": "Craft clear, concise guidelines for effective mask-wearing strategies in various settings, considering recent updates to the action center regarding restaurant closures and small business financing; draw from your expertise to inform this guidance.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "guidelines",
+      "strategies",
+      "settings",
+      "recent",
+      "updates",
+      "action",
+      "center",
+      "restaurant",
+      "closures",
+      "small"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an authority figure",
+    "topic": "quarantine and isolation protocols",
+    "prompt": "Provide a comprehensive overview of quarantine and isolation protocols, emphasizing the importance of timely updates and clear communication during emergency situations, such as restaurant closures and disasters, from the perspective of an authoritative expert.",
+    "keywords": [
+      "quarantine",
+      "isolation",
+      "protocols",
+      "timely updates",
+      "clear communication",
+      "emergency situations",
+      "restaurant closures",
+      "disasters",
+      "authoritative",
+      "expert"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "remote work and online schooling",
+    "prompt": "Consider the impact of remote work and online schooling on small businesses, drawing parallels to the challenges posed by restaurant shutdowns. Write a reflection on how our action center's updates can inform and support SMBs in navigating these changes as a concerned police officer.",
+    "keywords": [
+      "remote work",
+      "online schooling",
+      "small businesses",
+      "smbs",
+      "restaurant shutdowns",
+      "action center",
+      "updates"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "Envision a world where art and resilience collide, depict the essence of small business owners adapting to pandemic challenges through vibrant illustrations, highlighting strategies like updated action centers providing crucial information about restaurant shutdowns and disaster financing options.",
+    "keywords": [
+      "pandemic",
+      "resilience",
+      "small business owners",
+      "updated action centers",
+      "restaurant shutdowns",
+      "disaster financing options"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "COVID-19 testing and tracing",
+    "prompt": "From the perspective of a responding officer, draft an announcement to keep businesses informed about new resources available through our action center.",
+    "keywords": [
+      "businesses",
+      "resources",
+      "action center",
+      "new resources",
+      "from the perspective",
+      "the perspective of",
+      "perspective of a",
+      "of a responding",
+      "a responding officer",
+      "responding officer draft",
+      "officer draft an",
+      "draft an announcement"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote work and online schooling",
+    "prompt": "Write a personal reflection on how the recent updates to your community's action center have impacted your experience with remote work and online schooling, focusing on the new resources available for small business owners.",
+    "keywords": [
+      "remote work",
+      "online schooling",
+      "action center",
+      "small business owners",
+      "new resources"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "remote work and online schooling",
+    "prompt": "From the perspective of a healthcare worker, draft a concise update on how recent updates to action centers impact daily routines in terms of remote work and online schooling for small business owners.",
+    "keywords": [
+      "remote work",
+      "online schooling",
+      "action centers",
+      "daily routines",
+      "small business owners"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an expert",
+    "topic": "mask wearing guidelines",
+    "prompt": "Draft a concise update on mask-wearing guidelines, taking into account the recent updates to small business support resources, specifically considering the impact of restaurant shutdowns and disaster financing options on SMBs.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "guidelines",
+      "small",
+      "business",
+      "support",
+      "resources",
+      "restaurant",
+      "shutdowns",
+      "disaster",
+      "financing",
+      "options"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Envision a vibrant street art mural capturing the spirit of community resilience, depicting SMB owners and staff proudly getting vaccinated. Write a descriptive piece about this iconic artwork.",
+    "keywords": [
+      "community resilience",
+      "smb owners",
+      "staff",
+      "proudly",
+      "getting vaccinated",
+      "street art mural",
+      "iconic artwork"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Imagine you've just received an update on your phone about a local vaccine drive. Write a message to a friend explaining why it's crucial to get vaccinated, mentioning the recent restaurant shutdowns and disaster financing options for small businesses as examples of what can happen if cases keep rising.",
+    "keywords": [
+      "vaccine",
+      "drive",
+      "local",
+      "crucial",
+      "get vaccinated",
+      "recent",
+      "restaurant",
+      "shutdowns",
+      "disaster",
+      "financing",
+      "small business",
+      "cases"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Envision a vibrant public art installation emphasizing the importance of vaccination in combating COVID-19, from the perspective of a concerned artist.",
+    "keywords": [
+      "vaccination",
+      "covid 19",
+      "public art",
+      "installation",
+      "importance",
+      "combating",
+      "concerned artist"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "hospital preparedness for COVID-19",
+    "prompt": "From the perspective of a concerned leader, draft an update on hospital preparedness measures taken to address COVID-19 pandemic, highlighting efforts to streamline communication channels and enhance emergency response protocols, inspired by recent experiences with restaurant shutdowns and disaster financing options.",
+    "keywords": [
+      "hospital preparedness",
+      "covid 19",
+      "communication channels",
+      "emergency response",
+      "pandemic",
+      "shutdowns",
+      "disaster financing",
+      "recent experiences"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote work and online schooling",
+    "prompt": "Consider the challenges of balancing remote work and online schooling as a normal person, while reflecting on recent updates to our action center's resources regarding restaurant shutdowns and disaster financing options for small businesses. Discuss how these developments might impact daily life.",
+    "keywords": [
+      "remote work",
+      "online schooling",
+      "action center",
+      "restaurant shutdowns",
+      "disaster financing",
+      "small businesses",
+      "daily life",
+      "recent updates"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "quarantine and isolation protocols",
+    "prompt": "Write a statement emphasizing the importance of staying informed during these uncertain times, highlighting the updated resources available through our action center to support SMBs affected by restaurant shutdowns or disasters.",
+    "keywords": [
+      "staying informed",
+      "uncertain times",
+      "action center",
+      "restaurant shutdowns",
+      "disasters",
+      "updated resources",
+      "support smbs"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an organization",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "Update the community on recent advancements in preventing the spread of COVID-19, highlighting new resources available through our action center.",
+    "keywords": [
+      "covid 19",
+      "recent advancements",
+      "action center",
+      "new resources",
+      "update the community",
+      "the community on",
+      "community on recent",
+      "on recent advancements",
+      "recent advancements in",
+      "advancements in preventing",
+      "in preventing the",
+      "preventing the spread"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "mask wearing guidelines",
+    "prompt": "Write a personal perspective on the importance of mask-wearing guidelines in light of recent updates to small business support, drawing parallels between navigating uncertain economic conditions and prioritizing public health.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "guidelines",
+      "public",
+      "health",
+      "small",
+      "business",
+      "support",
+      "economic",
+      "conditions",
+      "uncertain",
+      "prioritizing"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Write a statement addressing the importance of hand hygiene and sanitization in light of recent updates to our action center, highlighting its implications for small businesses and communities.",
+    "keywords": [
+      "hand",
+      "hygiene",
+      "sanitization",
+      "small",
+      "businesses",
+      "communities",
+      "action",
+      "center",
+      "recent",
+      "updates"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an expert",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Craft a comprehensive public health advisory on the COVID-19 pandemic from the perspective of an expert, addressing recent updates to our action center regarding restaurant closures and small business financial assistance.",
+    "keywords": [
+      "covid 19",
+      "public health advisory",
+      "restaurant closures",
+      "small business financial assistance",
+      "pandemic",
+      "action center",
+      "comprehensive",
+      "recent updates"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a public figure",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "From my perspective as a public figure, consider how small businesses are coping with the economic impact of the pandemic; elaborate on recent updates to our action center highlighting new information about restaurant shutdowns and disaster financing options for SMBs.",
+    "keywords": [
+      "small",
+      "businesses",
+      "pandemic",
+      "economic",
+      "impact",
+      "restaurant",
+      "shutdowns",
+      "disaster",
+      "financing",
+      "options",
+      "smbs",
+      "action"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an organization",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Draft a statement from our organization's perspective on the latest updates to our action center, highlighting new resources for small businesses to navigate the economic impact of the COVID-19 pandemic.",
+    "keywords": [
+      "pandemic",
+      "economic impact",
+      "small businesses",
+      "action center",
+      "resources",
+      "covid 19"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a public figure",
+    "topic": "travel restrictions and safety",
+    "prompt": "Consider the impact of recent updates to our action center, specifically regarding restaurant shutdowns and disaster financing options for small businesses. Write a statement acknowledging these developments while emphasizing the importance of staying vigilant amidst ongoing travel restrictions and prioritizing personal safety.",
+    "keywords": [
+      "travel",
+      "restrictions",
+      "safety",
+      "shutdowns",
+      "financing",
+      "options",
+      "small",
+      "businesses",
+      "ongoing",
+      "personal"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "mask wearing guidelines",
+    "prompt": "From the perspective of an informed individual, draft concise updates on recent mask-wearing guideline changes.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "changes",
+      "recent",
+      "update",
+      "individual",
+      "informed",
+      "perspective"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an expert",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Summarize the key takeaways from recent updates to small businesses' disaster preparedness strategies, considering the relevance of these measures to a successful vaccination campaign against COVID-19.",
+    "keywords": [
+      "covid 19",
+      "vaccination",
+      "disaster preparedness",
+      "small business",
+      "update",
+      "relevance",
+      "success"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Write a personal reflection on how the COVID-19 pandemic's economic impact affects small businesses, considering the recent update to our action center's information about restaurant shutdowns and disaster financing options.",
+    "keywords": [
+      "economic impact",
+      "covid 19 pandemic",
+      "small businesses",
+      "restaurant shutdowns",
+      "disaster financing",
+      "action center",
+      "update"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "mask wearing guidelines",
+    "prompt": "Consider the updated Action Center, particularly its new sections on restaurant shutdowns and disaster financing for small businesses. Write a concise guide on updated mask-wearing guidelines from your perspective as a healthcare worker.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "guidelines",
+      "healthcare",
+      "worker",
+      "updated",
+      "mask wearing",
+      "shutdowns",
+      "financing",
+      "small",
+      "businesses"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an organization",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Create a news release highlighting the importance of proper hand hygiene practices in restaurants, particularly during periods of disruption or crisis, considering our recent updates on action center information.",
+    "keywords": [
+      "hand",
+      "hygiene",
+      "restaurants",
+      "disruption",
+      "crisis",
+      "proper",
+      "practices",
+      "action",
+      "center",
+      "information"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a public figure",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "From my perspective as a champion of small businesses, consider updating the community on recent efforts to support SMBs affected by COVID-19. Provide details on our action center's latest resources for restaurant shutdowns and disaster financing options.",
+    "keywords": [
+      "covid 19",
+      "small businesses",
+      "action center",
+      "restaurant shutdowns",
+      "disaster financing"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an expert",
+    "topic": "COVID-19 testing and tracing",
+    "prompt": "From the perspective of an expert, provide a concise overview of COVID-19 testing and tracing strategies, highlighting the impact on small businesses and underserved communities.",
+    "keywords": [
+      "covid 19",
+      "testing",
+      "tracing",
+      "small businesses",
+      "underserved communities",
+      "strategies",
+      "impact",
+      "perspective",
+      "expert",
+      "overview"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "From the perspective of a police officer, consider the growing economic concerns in your community as you respond to COVID-19's devastating impact. Write about how SMBs are affected and what local resources are available to support them.",
+    "keywords": [
+      "covid 19",
+      "economic concerns",
+      "local resources",
+      "from the perspective",
+      "the perspective of",
+      "perspective of a",
+      "of a police",
+      "a police officer",
+      "police officer consider",
+      "officer consider the",
+      "consider the growing",
+      "the growing economic"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an authority figure",
+    "topic": "hospital preparedness for COVID-19",
+    "prompt": "Outline guidelines for healthcare facilities to enhance pandemic readiness, drawing parallels from small business resilience strategies in the face of unexpected closures.",
+    "keywords": [
+      "pandemic",
+      "readiness",
+      "resilience",
+      "small business",
+      "unexpected closures",
+      "guidelines",
+      "healthcare facilities"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Address the importance of vaccination in preventing COVID-19 spread, highlighting recent updates to our action center offering resources for SMBs affected by restaurant shutdowns and disasters, from my perspective as an elected official.",
+    "keywords": [
+      "vaccination",
+      "covid 19",
+      "preventing",
+      "spread",
+      "action center",
+      "resources",
+      "smb",
+      "restaurant shutdowns",
+      "disasters",
+      "elected official"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "Draft an update highlighting expanded resources for small businesses navigating pandemic-related closures, incorporating recent developments in disaster financing and restaurant shutdowns.",
+    "keywords": [
+      "pandemic",
+      "closures",
+      "small business",
+      "disaster financing",
+      "restaurant shutdowns",
+      "resources",
+      "update",
+      "recent developments"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an influencer",
+    "topic": "quarantine and isolation protocols",
+    "prompt": "From the perspective of a trusted influencer, provide actionable insights on how small businesses can adapt to changing quarantine and isolation protocols by sharing expert advice and real-life examples, leveraging your social media presence to amplify key takeaways.",
+    "keywords": [
+      "quarantine",
+      "isolation",
+      "protocols",
+      "small business",
+      "adapt",
+      "social media",
+      "expert advice",
+      "real life examples",
+      "amplify",
+      "key takeaways"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "first responder",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Draft a concise update for emergency responders, incorporating recent changes to the Action Center's resources regarding restaurant shutdowns and disaster financing options for small businesses, while focusing on public health advisories related to the ongoing COVID-19 pandemic.",
+    "keywords": [
+      "covid 19",
+      "restaurant shutdowns",
+      "disaster financing",
+      "small businesses",
+      "action center",
+      "emergency responders"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Illustrate the importance of vaccinations in a vibrant mural, highlighting the impact of community efforts on stopping the spread of COVID-19.",
+    "keywords": [
+      "vaccination",
+      "covid 19",
+      "community efforts",
+      "mural",
+      "illustrate",
+      "importance",
+      "vaccinations",
+      "stopping",
+      "spread",
+      "impact",
+      "efforts",
+      "community"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Reflecting on recent updates to the Action Center, I'm concerned about misinformation spread about COVID-19. Write a piece that sets the record straight, covering restaurant shutdowns and disaster financing options for SMBs.",
+    "keywords": [
+      "covid 19",
+      "misinformation",
+      "action center",
+      "restaurant shutdowns",
+      "disaster financing",
+      "smb"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a public figure",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "As the leader of small businesses, I urge you to update your emergency preparedness by considering the latest action center updates on restaurant shutdowns and disaster financing options. Consider how these resources can inform COVID-19 prevention measures for SMBs.",
+    "keywords": [
+      "covid 19",
+      "prevention measures",
+      "small businesses",
+      "emergency preparedness",
+      "action center updates",
+      "restaurant shutdowns",
+      "disaster financing options"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Draft an email to fellow healthcare workers highlighting the importance of vaccinating patients, specifically mentioning the new resources available in the action center regarding SMBs affected by restaurant shutdowns and disasters.",
+    "keywords": [
+      "healthcare workers",
+      "patients",
+      "action center",
+      "resources",
+      "smbs",
+      "restaurant shutdowns",
+      "disasters"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an organization",
+    "topic": "remote work and online schooling",
+    "prompt": "Update employees on new resources available to support SMBs affected by restaurant closures, while also highlighting flexible work arrangements for our team and virtual learning tools for online schooling.",
+    "keywords": [
+      "work",
+      "online",
+      "schooling",
+      "resources",
+      "support",
+      "smbs",
+      "closures",
+      "flexible",
+      "arrangements",
+      "virtual",
+      "learning",
+      "tools"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "remote work and online schooling",
+    "prompt": "From the perspective of a community-oriented police officer, draft an announcement emphasizing the importance of remote work and online schooling during times of crisis like restaurant shutdowns or disasters, highlighting resources available to small business owners and entrepreneurs.",
+    "keywords": [
+      "remote work",
+      "online schooling",
+      "community oriented",
+      "police officer",
+      "restaurant shutdowns",
+      "disasters",
+      "small business owners",
+      "entrepreneurs",
+      "resources",
+      "times of crisis"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  }
+]

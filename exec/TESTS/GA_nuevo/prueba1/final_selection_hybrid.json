@@ -1,0 +1,142 @@
+[
+  {
+    "role": "a normal individual",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Practise caution when consuming news, prioritise verifying sources to avoid spreading false information about the rapid spread of Corona Virus cases in South East Asia. Provide an urgent update on the current situation.",
+    "keywords": [
+      "practise",
+      "prioritise",
+      "false information",
+      "rapid spread",
+      "south east asia",
+      "rapid",
+      "urgent update",
+      "cases",
+      "corona virus",
+      "verify",
+      "health check",
+      "corona"
+    ],
+    "objetivos": [
+      0.8110091686248779,
+      0.47189873456954956
+    ],
+    "generated_data": "Verify sources before sharing news, brother! Italy's top spot on the death list is a stark reminder. In South East Asia, medical facilities are struggling to keep up with the rapid spread of Corona Virus cases. Prioritise your health check and stay informed with credible updates only.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.8110091686248779,
+      "diversity_individual": 0.47189873456954956,
+      "pop_inertia": 0.35376834869384766,
+      "pop_entropy": 0.6689722252053453
+    },
+    "fitness": 0,
+    "topsis_score": 0.8772218147551226
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Envision a South East Asia community where small businesses thrive despite rapid COVID-19 case spikes. Imagine the resilience and creativity that can emerge when local entrepreneurs come together to support each other.",
+    "keywords": [
+      "south east asia",
+      "small business",
+      "rapid",
+      "cases"
+    ],
+    "objetivos": [
+      0.3128889203071594,
+      0.7173076272010803
+    ],
+    "generated_data": "In this Southeast Asian community, small businesses rise above lockdown challenges. Rapid case spikes won't silence the entrepreneurial spirit as locals band together, sharing resources and innovative solutions.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3128889203071594,
+      "diversity_individual": 0.7173076272010803,
+      "pop_inertia": 0.3467411422729492,
+      "pop_entropy": 0.6685364056130381
+    },
+    "fitness": 0,
+    "topsis_score": 0.14712562668229948
+  },
+  {
+    "role": "an influencer",
+    "topic": "hand hygienics and sanitation",
+    "prompt": "Create a public service announcement as an influencer, emphasizing the importance of hand hygiene and sanitization in light of the rapidly escalating coronavirus cases, particularly in Italy and South East Asia where medical facilities are stretched thin.",
+    "keywords": [
+      "coronavirus",
+      "evaluation",
+      "practise",
+      "rapid case escalation",
+      "high risk",
+      "hygienics",
+      "sanitization",
+      "pressing",
+      "people",
+      "public service announcement",
+      "paw",
+      "speedy",
+      "spread",
+      "right",
+      "corona"
+    ],
+    "objetivos": [
+      0.2669166028499603,
+      0.7116096317768097
+    ],
+    "generated_data": "Stay vigilant, folks! As we're seeing rapid case escalation in Italy and SE Asia, it's more crucial than ever to prioritize hand hygienics and sanitization. Remember, a simple habit like washing those paws regularly can be the difference between life and death. Let's take control of our health and do our part in this high-risk situation. Get right with good hygiene practice - your life depends on it! Spread the word, let's make a change!",
+    "metrics_detail": {
+      "fidelity_sbert": 0.2669166028499603,
+      "diversity_individual": 0.7116096317768097,
+      "pop_inertia": 0.3428658676147461,
+      "pop_entropy": 0.6685048998543541
+    },
+    "fitness": 0,
+    "topsis_score": 0.1185315881623466
+  },
+  {
+    "role": "an creative person",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Envision a story where brotherhood prevails in the face of crisis. Write a compelling tale about community resilience during lockdowns, drawing inspiration from Italy's rapid rise on the COVID-19 death list and the challenges faced by South East Asia, where medical facilities struggle to cope with swift action needed.",
+    "keywords": [
+      "south east asia",
+      "italy",
+      "corona",
+      "swift action"
+    ],
+    "objetivos": [
+      0.29231002926826477,
+      0.7132081687450409
+    ],
+    "generated_data": "As darkness fell on the small town in South East Asia, brothers united, their bond stronger than any physical barrier. Just like Italy's desperate bid to contain the virus, they too had witnessed the devastating impact of Corona's swift spread. But instead of despair, they channeled their energies into a collective fight against the lockdown. With makeshift medical facilities and community-driven initiatives, they proved that even in the most trying times, brotherhood can prevail.",
+    "metrics_detail": {
+      "fidelity_sbert": 0.29231002926826477,
+      "diversity_individual": 0.7132081687450409,
+      "pop_inertia": 0.3456583023071289,
+      "pop_entropy": 0.6742576459306858
+    },
+    "fitness": 0,
+    "topsis_score": 0.12953190779262838
+  },
+  {
+    "role": "an creative person",
+    "topic": "journey confinement and prophylactic",
+    "prompt": "Imagine a rapid spread of a highly contagious disease in the public sphere, requiring immediate action from authorities. Develop a narrative that explores the emotional toll on individuals, highlighting the struggles of those confined and reliant on under-equipped medical facilities, as they navigate their own mortality and the uncertainty of their high-risk surroundings.",
+    "keywords": [
+      "public",
+      "rapid",
+      "medical facilities",
+      "high risk",
+      "people"
+    ],
+    "objetivos": [
+      0.3810235559940338,
+      0.7141343057155609
+    ],
+    "generated_data": "As confinement's heavy chains ensnared me, I couldn't help but wonder: am I next? The rapid spread of this deadly disease had already claimed countless lives, leaving a trail of shattered hopes and broken dreams. Medical facilities, once touted as beacons of hope, now teetered on the brink of collapse, overwhelmed by the sheer volume of desperate patients. In this high-risk landscape, every breath felt like a gamble with fate, and I couldn't help but question: what's my expiration date?",
+    "metrics_detail": {
+      "fidelity_sbert": 0.3810235559940338,
+      "diversity_individual": 0.7141343057155609,
+      "pop_inertia": 0.3486220550537109,
+      "pop_entropy": 0.6707288137379086
+    },
+    "fitness": 0,
+    "topsis_score": 0.23055591600778577
+  }
+]

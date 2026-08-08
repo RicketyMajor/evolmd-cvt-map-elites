@@ -1,0 +1,28 @@
+# Entornos virtuales
+__pycache__/
+*.swp
+venv/
+.venv/
+.env
+
+# Outputs y logs de corridas
+exec/*
+!exec/TESTS/
+logs/
+*.log
+results/
+
+# Corpus (pesado); se regenera con scripts/prepare_corpus.py
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Mantener el ejemplo.
+# OJO: git NO admite comentarios al final de línea en .gitignore — sólo
+# líneas que EMPIEZAN con '#'. Antes esta regla llevaba el comentario pegado
+# detrás y el patrón resultante no coincidía con nada.
+!data/corpus_ejemplo.txt
+
+context/
+.claude/

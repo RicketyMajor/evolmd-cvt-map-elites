@@ -1,0 +1,2042 @@
+[
+  {
+    "role": "an expert",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Reflecting on community resilience during lockdowns, craft a thoughtful piece discussing strategies for coping with depression and anxiety amidst societal chaos.",
+    "keywords": [
+      "community resilience",
+      "lockdowns",
+      "depression",
+      "anxiety",
+      "societal chaos"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an expert",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Draft a response to someone who's struggling with depression during quarantine, highlighting the importance of vaccination and community support in combatting mental health concerns.",
+    "keywords": [
+      "quarantine",
+      "depression",
+      "vaccination",
+      "mental health",
+      "community support",
+      "struggling",
+      "importance",
+      "combatting",
+      "concerns"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "COVID-19 testing and tracing",
+    "prompt": "Develop an urgent plan to address mental health concerns amidst COVID-19 pandemic, considering the emotional toll on individuals like you who are struggling with depression and isolation.",
+    "keywords": [
+      "mental",
+      "health",
+      "concerns",
+      "covid 19",
+      "pandemic",
+      "isolation",
+      "depression"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an influencer",
+    "topic": "travel restrictions and safety",
+    "prompt": "Reflecting on life during quarantine, share your thoughts on navigating travel restrictions while prioritizing personal safety, acknowledging the mental toll of staying connected with a seemingly chaotic world.",
+    "keywords": [
+      "travel",
+      "restrictions",
+      "safety",
+      "quarantine",
+      "personal",
+      "mental",
+      "toll",
+      "staying",
+      "connected"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Reflecting on the quarantine's impact, write a message to reassure citizens about the importance of staying informed and proactive in our collective fight against COVID-19.",
+    "keywords": [
+      "covid 19",
+      "quarantine",
+      "proactive",
+      "collective fight",
+      "importance"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an organization",
+    "topic": "remote work and online schooling",
+    "prompt": "Write a heartfelt statement from the perspective of a well-established organization, acknowledging the challenges faced by its employees during this quarantine and expressing support for their mental wellbeing as they navigate remote work and online learning.",
+    "keywords": [
+      "remote work",
+      "online learning",
+      "mental wellbeing",
+      "quarantine",
+      "employees",
+      "organization",
+      "support",
+      "wellbeing"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "first responder",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Write a public health advisory on COVID-19 from the perspective of a first responder, reflecting on the personal toll of quarantine and echoing the emotional struggles shared in the reference text.",
+    "keywords": [
+      "covid 19",
+      "public health advisory",
+      "first responder",
+      "quarantine",
+      "emotional struggles",
+      "personal toll",
+      "reference text"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Reflecting on the current pandemic, draft an open letter to your constituents emphasizing the importance of proper hand hygiene in breaking the chain of transmission, acknowledging the stress and anxiety it brings while reassuring them that collective efforts can lead to a safer community.",
+    "keywords": [
+      "hand",
+      "hygiene",
+      "pandemic",
+      "transmission",
+      "stress",
+      "anxiety",
+      "collective",
+      "efforts",
+      "safer",
+      "community"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an expert",
+    "topic": "remote work and online schooling",
+    "prompt": "Reflecting on the challenges of this quarantine, draft a candid perspective on the impact of sudden changes to daily routine on mental health for those adjusting to remote work or online learning.",
+    "keywords": [
+      "remote work",
+      "online learning",
+      "mental health",
+      "daily routine",
+      "quarantine",
+      "adjusting",
+      "sudden changes"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an influencer",
+    "topic": "remote work and online schooling",
+    "prompt": "Write a personal anecdote about struggling with depression during the quarantine, highlighting the impact of disrupted routine and social isolation on mental health. Share your honest thoughts on coping mechanisms and self-care strategies as someone who has experienced this firsthand.",
+    "keywords": [
+      "quarantine",
+      "depression",
+      "mental health",
+      "routine",
+      "social isolation",
+      "self care",
+      "coping mechanisms"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a public figure",
+    "topic": "mental health during the pandemic",
+    "prompt": "Open with a relatable account of struggling with depression during quarantine, drawing from personal experience and common pandemic-related stressors.",
+    "keywords": [
+      "pandemic",
+      "quarantine",
+      "depression",
+      "stressors",
+      "experience",
+      "personal",
+      "struggling",
+      "account"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "mental health during the pandemic",
+    "prompt": "From the perspective of a healthcare provider, draft a statement emphasizing the importance of prioritizing mental health during the COVID-19 pandemic and addressing the exacerbation of depression symptoms.",
+    "keywords": [
+      "mental health",
+      "prioritizing",
+      "covid 19",
+      "pandemic",
+      "depression symptoms",
+      "emphasizing",
+      "importance",
+      "addressing",
+      "exacerbation"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Imagine a mural on a city wall, depicting the chaos of information during this pandemic. Write from the perspective of an artist, using vivid colors and imagery to convey the anxiety and frustration that comes with navigating false reports and fear-mongering.",
+    "keywords": [
+      "false reports",
+      "fear mongering",
+      "pandemic",
+      "chaos",
+      "anxiety",
+      "frustration",
+      "vivid colors",
+      "city wall",
+      "mural"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an organization",
+    "topic": "hospital preparedness for COVID-19",
+    "prompt": "Imagine a crisis hotline, empathetically respond to a caller's concern about their mental health during quarantine, highlighting the importance of prepared hospitals and staff in addressing pandemic-related anxiety.",
+    "keywords": [
+      "hospital",
+      "mental health",
+      "quarantine",
+      "anxiety",
+      "pandemic",
+      "staff",
+      "addressing"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Write a rant about the overwhelming stress caused by COVID-19 misinformation, expressing frustration with people spreading false information online.",
+    "keywords": [
+      "covid 19",
+      "misinformation",
+      "false information",
+      "frustration",
+      "write a rant",
+      "a rant about",
+      "rant about the",
+      "about the overwhelming",
+      "the overwhelming stress",
+      "overwhelming stress caused",
+      "stress caused by",
+      "caused by covid"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "travel restrictions and safety",
+    "prompt": "Consider the challenges of balancing public health concerns with individual well-being, crafting a thoughtful response to mitigate the impact of quarantine on mental health while addressing COVID-related travel restrictions.",
+    "keywords": [
+      "travel restrictions",
+      "public health",
+      "mental health",
+      "quarantine",
+      "covid",
+      "individual well being",
+      "mitigate",
+      "impact"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Write a heartfelt appeal to calm concerns and address misinformation surrounding COVID-19, drawing from your personal experience with quarantine-induced anxiety.",
+    "keywords": [
+      "covid 19",
+      "misinformation",
+      "anxiety",
+      "quarantine",
+      "concerns",
+      "address",
+      "calm",
+      "appeal"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "COVID-19 testing and tracing",
+    "prompt": "Craft a concise, empathetic response to alleviate anxiety around COVID-19 testing and tracing from the perspective of a policymaker, acknowledging the psychological toll of quarantine on individuals like yourself.",
+    "keywords": [
+      "covid 19",
+      "testing",
+      "tracing",
+      "anxiety",
+      "quarantine",
+      "psychological",
+      "toll",
+      "individuals",
+      "policymaker"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "first responder",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "Write a candid account of dealing with stress and anxiety during quarantine, drawing from your experiences as a first responder amidst the COVID-19 pandemic.",
+    "keywords": [
+      "covid 19",
+      "quarantine",
+      "stress",
+      "anxiety",
+      "first responder",
+      "pandemic",
+      "amidst",
+      "experiences"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an influencer",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "From a personal perspective, draft a social media post sharing your experiences and struggles during quarantine, highlighting how COVID-19 prevention measures have affected your mental health and daily routine.",
+    "keywords": [
+      "covid",
+      "prevention",
+      "measures",
+      "quarantine",
+      "mental health",
+      "daily routine",
+      "social media",
+      "personal perspective",
+      "experiences",
+      "struggles"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an authority figure",
+    "topic": "hospital preparedness for COVID-19",
+    "prompt": "Write a statement on hospital preparedness for COVID-19, acknowledging the emotional toll of quarantine and the importance of mental health support during this crisis.",
+    "keywords": [
+      "hospital",
+      "preparedness",
+      "covid 19",
+      "quarantine",
+      "mental health",
+      "crisis",
+      "support",
+      "toll"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Imagine you're a healthcare worker struggling to cope with the mental toll of working during the COVID-19 quarantine. Write a reflection on how the pandemic's economic impact has personally affected your well-being, weaving together your professional and personal experiences.",
+    "keywords": [
+      "mental",
+      "toll",
+      "quarantine",
+      "pandemic",
+      "economic",
+      "impact",
+      "professional",
+      "personal",
+      "experiences"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "first responder",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Imagine you're a weary first responder, exhausted from responding to calls and dealing with the chaos. Write a piece on the devastating economic impact of the COVID-19 pandemic, drawing parallels between your experiences on the frontlines and the financial struggles people are facing.",
+    "keywords": [
+      "economic",
+      "impact",
+      "pandemic",
+      "first responder",
+      "frontlines",
+      "financial",
+      "struggles",
+      "devastating",
+      "chaos",
+      "covid 19"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "hospital preparedness for COVID-19",
+    "prompt": "Craft a plan to enhance hospital preparedness for COVID-19, taking into account the unintended consequences of quarantine and social distancing measures on mental health.",
+    "keywords": [
+      "hospital preparedness",
+      "covid 19",
+      "quarantine",
+      "social distancing",
+      "mental health",
+      "unintended consequences",
+      "plan",
+      "enhance",
+      "preparedness"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "social distancing practices",
+    "prompt": "From my perspective as a struggling artist, draft a reflection on how social distancing practices are affecting mental health during quarantine.",
+    "keywords": [
+      "social distancing",
+      "mental health",
+      "quarantine",
+      "artist",
+      "struggling",
+      "reflection",
+      "perspective",
+      "health"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "mental health during the pandemic",
+    "prompt": "Consider the devastating impact of COVID-19 quarantine on individuals' mental well-being, and craft a policy proposal to mitigate its effects.",
+    "keywords": [
+      "mental",
+      "quarantine",
+      "covid 19",
+      "policy",
+      "proposal",
+      "mitigate",
+      "effects",
+      "individuals",
+      "impact"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "travel restrictions and safety",
+    "prompt": "Consider the impact of quarantine on mental health as a frontline healthcare provider. Write a reflection on how travel restrictions affect your patients' well-being and what you've observed about their anxiety levels during this time.",
+    "keywords": [
+      "travel restrictions",
+      "mental health",
+      "quarantine",
+      "frontline healthcare",
+      "anxiety levels"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an authority figure",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Dispel myths surrounding COVID-19, acknowledging the emotional toll it's taken on individuals like yourself.",
+    "keywords": [
+      "covid 19",
+      "myths",
+      "emotional toll",
+      "dispel myths surrounding",
+      "myths surrounding covid",
+      "surrounding covid 19",
+      "covid 19 acknowledging",
+      "19 acknowledging the",
+      "acknowledging the emotional",
+      "the emotional toll",
+      "emotional toll it's",
+      "toll it's taken"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an authority figure",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Craft a reassuring public health advisory from your perspective, acknowledging the emotional toll of quarantine and offering coping strategies for those struggling with mental health during this crisis.",
+    "keywords": [
+      "public health",
+      "quarantine",
+      "mental health",
+      "coping strategies",
+      "emotional toll",
+      "crisis",
+      "advisory"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a public figure",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Open up about your personal struggle with depression during quarantine, sharing how it's impacted your daily life and thoughts. Then, pivot to discuss the importance of COVID-19 vaccinations from your perspective as someone who's witnessed the pandemic's devastating effects.",
+    "keywords": [
+      "personal",
+      "struggle",
+      "depression",
+      "quarantine",
+      "daily",
+      "life",
+      "thoughts",
+      "covid 19",
+      "vaccinations",
+      "pandemic",
+      "devastating",
+      "effects"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a public figure",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "As people's mental health struggles become more apparent, I urge you to join my initiative to combat depression and anxiety during this pandemic. Draft a powerful message encouraging others to prioritize their well-being and seek support.",
+    "keywords": [
+      "mental health",
+      "pandemic",
+      "support",
+      "anxiety",
+      "depression",
+      "initiative",
+      "prioritize"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an authority figure",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Consider the mental health implications of prolonged quarantine measures. Draft a concise public health advisory regarding COVID-19, acknowledging the increased anxiety and depression it may cause.",
+    "keywords": [
+      "public",
+      "health",
+      "advisory",
+      "quarantine",
+      "mental",
+      "anxiety",
+      "depression",
+      "covid 19"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an authority figure",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "Consider a national crisis management expert's address to the nation on coping with COVID-19 related stress, addressing personal struggles and offering guidance on maintaining mental health during quarantine.",
+    "keywords": [
+      "covid 19",
+      "quarantine",
+      "mental health",
+      "stress",
+      "personal struggles",
+      "national crisis",
+      "management expert"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an organization",
+    "topic": "mask wearing guidelines",
+    "prompt": "Write a set of compassionate mask-wearing guidelines, acknowledging the stressors of quarantine and the mental health impacts on individuals, while emphasizing the importance of community responsibility.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "guidelines",
+      "quarantine",
+      "stressors",
+      "mental",
+      "health",
+      "community",
+      "responsibility"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an influencer",
+    "topic": "COVID-19 testing and tracing",
+    "prompt": "Reflecting on my quarantine experience, share a personal perspective on the importance of responsible COVID-19 testing and tracing in everyday life.",
+    "keywords": [
+      "covid 19",
+      "testing",
+      "tracing",
+      "quarantine",
+      "responsible",
+      "everyday",
+      "life",
+      "personal",
+      "perspective"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Consider the struggles of a quarantine's impact on mental health, drawing from your experiences as a frontline healthcare worker. Write a piece that explores how communities can cultivate resilience during lockdowns, using personal anecdotes to illustrate the importance of self-care and support networks.",
+    "keywords": [
+      "mental health",
+      "quarantine",
+      "self care",
+      "support networks",
+      "lockdowns",
+      "frontline healthcare worker",
+      "anecdotes"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "quarantine and isolation protocols",
+    "prompt": "Reflect on the emotional toll of quarantine and isolation, sharing personal experiences as a healthcare professional who has witnessed firsthand the devastating impact on mental health.",
+    "keywords": [
+      "quarantine",
+      "isolation",
+      "mental health",
+      "emotional toll",
+      "healthcare professional",
+      "devastating impact"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "first responder",
+    "topic": "remote work and online schooling",
+    "prompt": "Reflect on the struggles of adapting to remote work and online schooling during quarantine, drawing from your experiences as a first responder coping with depression and anxiety.",
+    "keywords": [
+      "remote work",
+      "online schooling",
+      "quarantine",
+      "first responder",
+      "depression",
+      "anxiety",
+      "struggles",
+      "coping"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "first responder",
+    "topic": "hospital preparedness for COVID-19",
+    "prompt": "From the front lines of a chaotic hospital during the pandemic, write a personal reflection on the challenges faced by first responders like yourself in keeping hospitals prepared and staff motivated while dealing with patients' anxiety and their own mental health struggles.",
+    "keywords": [
+      "front lines",
+      "chaotic hospital",
+      "pandemic",
+      "first responders",
+      "mental health struggles"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an organization",
+    "topic": "remote work and online schooling",
+    "prompt": "Draft a company-wide email addressing concerns about remote work, acknowledging the impact of COVID-19 on mental health and offering support for employees during this challenging time.",
+    "keywords": [
+      "remote work",
+      "covid 19",
+      "mental health",
+      "company wide",
+      "email",
+      "support",
+      "employees",
+      "challenging time"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "social distancing practices",
+    "prompt": "Develop guidelines for effective social distancing during quarantine, acknowledging the psychological impact of isolation on individuals and the importance of phone etiquette in promoting mental well-being.",
+    "keywords": [
+      "social distancing",
+      "quarantine",
+      "isolation",
+      "phone etiquette",
+      "mental well being",
+      "psychological impact"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote work and online schooling",
+    "prompt": "Write about the struggles of adapting to remote work and online schooling during quarantine, reflecting on how it's affected your mental health.",
+    "keywords": [
+      "remote work",
+      "online schooling",
+      "quarantine",
+      "mental health",
+      "struggles"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Write from the perspective of a police officer, reflecting on the impact of false information about COVID-19 on public safety and your daily work.",
+    "keywords": [
+      "covid 19",
+      "public safety",
+      "daily work",
+      "false information",
+      "write from the",
+      "from the perspective",
+      "the perspective of",
+      "perspective of a",
+      "of a police",
+      "a police officer",
+      "police officer reflecting",
+      "officer reflecting on"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "social distancing practices",
+    "prompt": "Consider public messaging strategies to mitigate mental health concerns during quarantine, acknowledging the impact of lost routines and social connections on individuals' well-being.",
+    "keywords": [
+      "quarantine",
+      "mental health",
+      "public messaging",
+      "lost routines",
+      "social connections",
+      "well being",
+      "mitigate",
+      "concerns",
+      "individuals"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an influencer",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "From your personal experience, draft a social media post that combines a relatable quarantine story with expert advice on hand hygiene and sanitization, encouraging followers to prioritize their mental health during challenging times.",
+    "keywords": [
+      "hand",
+      "hygiene",
+      "sanitization",
+      "quarantine",
+      "mental",
+      "health",
+      "prioritize",
+      "expert",
+      "advice",
+      "relatable",
+      "story"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "first responder",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Consider a harried first responder's concerns about staying informed while navigating personal struggles during quarantine, and craft a thoughtful public health advisory on COVID-19.",
+    "keywords": [
+      "covid 19",
+      "quarantine",
+      "public health",
+      "first responder",
+      "personal struggles"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Draft a social media post from the perspective of a police officer urging people to participate in the COVID-19 vaccination campaign, addressing concerns about anxiety and misinformation.",
+    "keywords": [
+      "covid 19",
+      "vaccination",
+      "campaign",
+      "anxiety",
+      "misinformation",
+      "participate"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "From the perspective of someone struggling with mental health during the pandemic, write a speech urging governments to prioritize emotional well-being alongside physical protection measures in the fight against COVID-19.",
+    "keywords": [
+      "mental",
+      "health",
+      "pandemic",
+      "covid 19",
+      "measures",
+      "emotional",
+      "physical",
+      "protection",
+      "governments",
+      "prioritize"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "first responder",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "As frontline responders navigate a community gripped by quarantine, consider sharing your expertise on the urgent need for effective vaccination in the fight against COVID-19.",
+    "keywords": [
+      "vaccination",
+      "covid 19",
+      "quarantine",
+      "frontline",
+      "responders",
+      "community",
+      "expertise",
+      "urgent",
+      "effective",
+      "fight"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an organization",
+    "topic": "social distancing practices",
+    "prompt": "Consider a community outreach campaign addressing mental health during quarantine, offering tips on managing anxiety and depression while practicing social distancing.",
+    "keywords": [
+      "social distancing",
+      "mental health",
+      "quarantine",
+      "anxiety",
+      "depression",
+      "community outreach",
+      "managing anxiety",
+      "practicing social distancing"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "Reflect on your experience with quarantine, considering how it has affected your mental health and daily routine. Suggest some practical ways to cope with anxiety during this time.",
+    "keywords": [
+      "quarantine",
+      "mental health",
+      "daily routine",
+      "anxiety",
+      "cope",
+      "practical ways"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "first responder",
+    "topic": "social distancing practices",
+    "prompt": "From the perspective of a weary first responder, consider how quarantine has impacted daily life and write about the importance of maintaining social distancing practices during this time.",
+    "keywords": [
+      "social distancing",
+      "quarantine",
+      "first responder",
+      "daily life",
+      "importance",
+      "maintaining",
+      "practices",
+      "perspective"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "remote work and online schooling",
+    "prompt": "Write about the struggles of staying motivated while stuck at home due to quarantine, specifically focusing on the impact of remote work and online schooling on mental health.",
+    "keywords": [
+      "staying motivated",
+      "quarantine",
+      "remote work",
+      "online schooling",
+      "mental health",
+      "home",
+      "struggles",
+      "impact",
+      "stuck at home"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "quarantine and isolation protocols",
+    "prompt": "Draft a statement acknowledging the mental health concerns of individuals in quarantine, emphasizing the importance of proactive measures to mitigate the effects of isolation.",
+    "keywords": [
+      "mental",
+      "health",
+      "concerns",
+      "quarantine",
+      "isolation",
+      "mitigate",
+      "effects",
+      "proactive",
+      "measures",
+      "individuals"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Write from your perspective as a healthcare worker about the mental toll of lockdowns, reflecting on how this quarantine has exacerbated your own depression and the overwhelming influx of COVID-related messages, highlighting ways to foster community resilience in these challenging times.",
+    "keywords": [
+      "mental",
+      "toll",
+      "lockdowns",
+      "quarantine",
+      "depression",
+      "covid",
+      "community",
+      "resilience",
+      "challenging",
+      "times",
+      "influx",
+      "messages"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an expert",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Analyze the devastating effects on mental health, as exemplified by personal experiences during the COVID-19 quarantine, and extrapolate to a broader discussion of the economic impact on individuals and societies.",
+    "keywords": [
+      "mental health",
+      "covid 19",
+      "quarantine",
+      "economic impact",
+      "individuals",
+      "societies"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "social distancing practices",
+    "prompt": "Write from the perspective of a normal person struggling with quarantine-induced depression, discussing their observations on social distancing practices and how they're affected.",
+    "keywords": [
+      "social distancing",
+      "quarantine",
+      "depression",
+      "write from the",
+      "from the perspective",
+      "the perspective of",
+      "perspective of a",
+      "of a normal",
+      "a normal person",
+      "normal person struggling",
+      "person struggling with",
+      "struggling with quarantine"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an authority figure",
+    "topic": "hospital preparedness for COVID-19",
+    "prompt": "Addressing concerns about COVID-19, discuss measures to mitigate patient anxiety and stress during quarantine-like situations in hospitals.",
+    "keywords": [
+      "mitigate",
+      "patient",
+      "anxiety",
+      "stress",
+      "quarantine",
+      "hospitals",
+      "covid 19",
+      "concerns",
+      "measures",
+      "addressing"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "travel restrictions and safety",
+    "prompt": "From the chaos of a quarantined world, envision a piece that captures the suffocating feeling of being trapped by travel restrictions. Pour your emotions onto canvas as you reflect on the safety concerns that plague our minds, just as yours do.",
+    "keywords": [
+      "travel",
+      "restrictions",
+      "quarantine",
+      "safety",
+      "concerns",
+      "chaos",
+      "trapped",
+      "canvas",
+      "emotions"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Write from your perspective as a healthcare worker during quarantine, reflecting on the importance of proper hand hygiene and sanitization practices to manage anxiety and prevent spread of COVID-19.",
+    "keywords": [
+      "hand",
+      "hygiene",
+      "sanitization",
+      "proper",
+      "practices",
+      "anxiety",
+      "covid 19",
+      "quarantine",
+      "healthcare",
+      "worker"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Consider the psychological impact of prolonged social isolation on individuals' mental health, particularly those with pre-existing conditions. From this perspective, craft a concise message emphasizing the importance of hand hygiene and sanitization in mitigating the spread of COVID-19.",
+    "keywords": [
+      "hand",
+      "hygiene",
+      "sanitization",
+      "covid 19",
+      "mental health",
+      "pre existing conditions",
+      "social isolation"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Envision a world where creativity finds solace in isolation, and paint the economic toll of COVID-19 from your unique perspective as an artist",
+    "keywords": [
+      "economic",
+      "isolation",
+      "creativity",
+      "artist",
+      "toll",
+      "perspective"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an authority figure",
+    "topic": "mask wearing guidelines",
+    "prompt": "Consider the emotional toll of quarantine on individuals, reflecting on how it can exacerbate mental health concerns like depression. Develop a set of compassionate mask-wearing guidelines that acknowledge the struggles of those struggling, while emphasizing responsible social behavior and community protection.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "guidelines",
+      "quarantine",
+      "mental",
+      "health",
+      "concerns",
+      "depression",
+      "compassionate",
+      "responsible",
+      "social",
+      "behavior"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Imagine a mural on a city wall, reflecting the struggles and emotions of this quarantine experience. Write a reflection from the perspective of the artist who created it, exploring how community resilience can help overcome the challenges brought by lockdown.",
+    "keywords": [
+      "quarantine",
+      "lockdown",
+      "community",
+      "resilience",
+      "struggles",
+      "emotions",
+      "mural",
+      "city",
+      "wall",
+      "artist",
+      "reflection",
+      "challenges"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an authority figure",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Consider a global health crisis from the perspective of a trusted authority figure, writing to address concerns about depression and anxiety during quarantine. Draft a concise piece discussing the importance of maintaining proper hand hygiene and sanitization practices, highlighting their impact on overall well-being.",
+    "keywords": [
+      "hand",
+      "hygiene",
+      "sanitization",
+      "quarantine",
+      "anxiety",
+      "depression",
+      "global",
+      "health",
+      "crisis"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an authority figure",
+    "topic": "travel restrictions and safety",
+    "prompt": "Address the global concern of travel restrictions amidst the pandemic, considering the emotional toll it takes on individuals like yourself, who feel trapped by isolation. Draw from your perspective as someone struggling with depression.",
+    "keywords": [
+      "travel",
+      "restrictions",
+      "pandemic",
+      "isolation",
+      "depression",
+      "concern",
+      "individuals"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "public health advisory on coronavirus",
+    "prompt": "Consider crafting a public health advisory that acknowledges the mental health impact of quarantine measures, encouraging individuals to prioritize self-care and stress management strategies while maintaining social distancing efforts.",
+    "keywords": [
+      "public",
+      "health",
+      "advisory",
+      "mental",
+      "impact",
+      "quarantine",
+      "self care",
+      "stress",
+      "management",
+      "social",
+      "distancing"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a public figure",
+    "topic": "quarantine and isolation protocols",
+    "prompt": "Openly share your personal struggle with depression amidst quarantine, exploring how loss of routine and excessive COVID-19 updates exacerbate symptoms.",
+    "keywords": [
+      "quarantine",
+      "depression",
+      "routine",
+      "covid 19",
+      "updates",
+      "symptoms"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a public figure",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "Openly discuss your personal struggles with depression during the COVID-19 pandemic, drawing from your own experiences and observations of others' behaviors.",
+    "keywords": [
+      "covid 19",
+      "pandemic",
+      "depression",
+      "struggles",
+      "personal",
+      "experiences",
+      "behaviors",
+      "observations"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Reflect on your experience as a healthcare worker during this quarantine, exploring how it's personally impacted your mental health and daily routine. Consider the economic toll of COVID-19 on patients' lives.",
+    "keywords": [
+      "mental health",
+      "quarantine",
+      "daily routine",
+      "economic toll",
+      "covid 19",
+      "patients' lives",
+      "healthcare worker",
+      "experience",
+      "impact"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "From the perspective of a frontline police officer during quarantine, describe the importance of proper hand hygiene and sanitization in maintaining public safety and preventing the spread of COVID-19.",
+    "keywords": [
+      "hand",
+      "hygiene",
+      "sanitization",
+      "proper",
+      "public",
+      "safety",
+      "covid 19",
+      "quarantine",
+      "officer",
+      "spread"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "social distancing practices",
+    "prompt": "Consider how policymakers can address the mental health implications of quarantine measures, highlighting effective social distancing strategies that balance personal well-being with public safety.",
+    "keywords": [
+      "social distancing",
+      "quarantine measures",
+      "mental health",
+      "personal well being",
+      "public safety",
+      "policymaker",
+      "strategies",
+      "balance",
+      "implications"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "social distancing practices",
+    "prompt": "From the perspective of a seasoned police officer, reflect on the challenges of enforcing social distancing measures during this pandemic era, acknowledging the frustration and anxiety it can cause for both officers and citizens alike.",
+    "keywords": [
+      "social distancing",
+      "pandemic era",
+      "frustration",
+      "anxiety",
+      "officers",
+      "citizens",
+      "measures",
+      "challenges"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "mask wearing guidelines",
+    "prompt": "Write from the perspective of a healthcare worker who's struggling with quarantine-related depression and anxiety, reflecting on the challenges of creating effective mask-wearing guidelines amidst public hysteria.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "guidelines",
+      "quarantine",
+      "depression",
+      "anxiety",
+      "public",
+      "hysteria",
+      "healthcare",
+      "worker",
+      "struggling"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an expert",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "From a mental health perspective, outline the importance of maintaining social connections and routines during this pandemic era, while emphasizing the need for responsible communication to avoid exacerbating anxieties.",
+    "keywords": [
+      "social connections",
+      "pandemic era",
+      "responsible communication",
+      "mental health",
+      "anxieties",
+      "importance"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an organization",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Craft a heartfelt message about the importance of mental health support during quarantine, highlighting the increased struggles with depression and anxiety, while promoting your organization's vaccination campaign as a step towards community recovery.",
+    "keywords": [
+      "mental",
+      "health",
+      "support",
+      "quarantine",
+      "depression",
+      "anxiety",
+      "vaccination",
+      "campaign",
+      "community",
+      "recovery"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "first responder",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "From a first responder's perspective, draft a social media post expressing empathy and encouraging others to take control of their mental health during this pandemic.",
+    "keywords": [
+      "mental",
+      "health",
+      "pandemic",
+      "control",
+      "empathy",
+      "first",
+      "responder"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a police officer",
+    "topic": "COVID-19 testing and tracing",
+    "prompt": "Reflect on your experiences as a police officer during this pandemic, considering the psychological toll of prolonged isolation and the constant barrage of COVID-related information. Write from the perspective of someone struggling with anxiety and depression, grappling with the challenges of maintaining social distancing and contact tracing protocols.",
+    "keywords": [
+      "pandemic",
+      "isolation",
+      "anxiety",
+      "depression",
+      "social distancing",
+      "contact tracing",
+      "tracing",
+      "protocol"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an authority figure",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Addressing concerns about mental health during quarantine, emphasize the importance of maintaining good hand hygiene and sanitization practices to reduce anxiety and boost overall well-being.",
+    "keywords": [
+      "hand",
+      "hygiene",
+      "sanitization",
+      "good",
+      "practices",
+      "reduce",
+      "anxiety",
+      "boost",
+      "overall"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an organization",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Craft a statement condemning the spread of misinformation about COVID-19, acknowledging the impact on mental health and emphasizing the importance of factual reporting during this challenging time.",
+    "keywords": [
+      "misinformation",
+      "covid 19",
+      "mental health",
+      "factual reporting",
+      "spread",
+      "impact",
+      "challenging time"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an influencer",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Reflect on how the pandemic's impact on mental health and isolation can amplify misinformation, discussing the challenges of staying informed without fueling anxiety. Consider sharing personal experiences as a fellow struggling with these issues.",
+    "keywords": [
+      "pandemic",
+      "mental health",
+      "isolation",
+      "misinformation",
+      "staying informed",
+      "fueling anxiety"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a public figure",
+    "topic": "COVID-19 testing and tracing",
+    "prompt": "From your vantage point as a public figure, candidly address the struggles of living with depression during the pandemic, highlighting how it affects your daily routine and mental health; tie this to the need for effective COVID-19 testing and tracing solutions.",
+    "keywords": [
+      "living",
+      "with",
+      "depression",
+      "pandemic",
+      "daily",
+      "routine",
+      "mental",
+      "health",
+      "covid 19",
+      "testing",
+      "tracing",
+      "solutions"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a healthcare worker",
+    "topic": "quarantine and isolation protocols",
+    "prompt": "From the perspective of a weary healthcare worker, draft a reflection on the impact of prolonged quarantine and isolation protocols on mental health during pandemics.",
+    "keywords": [
+      "prolonged quarantine",
+      "mental health",
+      "pandemic",
+      "isolation protocols",
+      "healthcare worker",
+      "reflection",
+      "impact",
+      "weary"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a policymaker",
+    "topic": "mask wearing guidelines",
+    "prompt": "Develop a concise, compassionate policy on mask-wearing amidst quarantine concerns, acknowledging the emotional toll of isolation and social media overwhelm.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "quarantine",
+      "concerns",
+      "isolation",
+      "social",
+      "media",
+      "overwhelm",
+      "compassionate",
+      "policy"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Create a piece of abstract art that visually represents the overwhelming anxiety sparked by misinformation about COVID-19, inspired by your personal experience of depression's surge during quarantine.",
+    "keywords": [
+      "misinformation",
+      "covid 19",
+      "anxiety",
+      "quarantine",
+      "depression",
+      "abstract art",
+      "overwhelming",
+      "personal experience"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "quarantine and isolation protocols",
+    "prompt": "Write about your experiences with quarantine and isolation, exploring how daily routines and social interactions impact mental health.",
+    "keywords": [
+      "quarantine",
+      "isolation",
+      "mental health",
+      "daily routines",
+      "social interactions",
+      "impact",
+      "experiences"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "first responder",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "As I navigate the chaos of this pandemic, I've witnessed firsthand the devastating impact of misinformation. Write a candid reflection on the role of irresponsible reporting in fueling public anxiety and how we can counter it with reliable information.",
+    "keywords": [
+      "misinformation",
+      "pandemic",
+      "irresponsible reporting",
+      "public anxiety",
+      "reliable information",
+      "chaos",
+      "devastating impact",
+      "fueling"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "hand hygiene and sanitization",
+    "prompt": "Imagine you're stuck at home during this quarantine, and write about how you've noticed your friends' obsessive sharing of COVID-19 updates on social media. How does it affect your daily routine and mental well-being?",
+    "keywords": [
+      "quarantine",
+      "social",
+      "media",
+      "mental",
+      "routine",
+      "daily",
+      "obsessive"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a politician",
+    "topic": "remote work and online schooling",
+    "prompt": "Consider the challenges of quarantine on mental health, particularly for those with existing depression. Reflect on how remote work and online schooling have disrupted routines, exacerbating anxiety.",
+    "keywords": [
+      "mental health",
+      "quarantine",
+      "existing depression",
+      "remote work",
+      "online schooling",
+      "disrupted routines",
+      "anxiety",
+      "depression"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "economic impact of the coronavirus pandemic",
+    "prompt": "Envision a world where the coronavirus pandemic's ripple effect on economy has taken its toll on mental health. Write from the perspective of an artist, reflecting on how the prolonged lockdown has amplified anxiety and depression.",
+    "keywords": [
+      "coronavirus",
+      "pandemic",
+      "economy",
+      "mental health",
+      "anxiety",
+      "depression",
+      "lockdown",
+      "artist",
+      "ripple effect"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an organization",
+    "topic": "mask wearing guidelines",
+    "prompt": "Craft guidelines for employees on safe mask-wearing practices during quarantine, acknowledging the emotional toll of isolation and the importance of reducing anxiety-inducing stimuli.",
+    "keywords": [
+      "mask",
+      "wearing",
+      "guidelines",
+      "employees",
+      "quarantine",
+      "isolation",
+      "anxiety",
+      "stimuli",
+      "practices",
+      "safe",
+      "reducing"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "From a painter's perspective, explore how COVID-19 quarantine has impacted mental health and daily routines.",
+    "keywords": [
+      "covid",
+      "quarantine",
+      "mental health",
+      "daily routines",
+      "painter's perspective"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an authority figure",
+    "topic": "COVID-19 prevention measures",
+    "prompt": "Offer words of reassurance, acknowledging the emotional toll of quarantine while emphasizing the importance of responsible behavior during the pandemic, from the perspective of a trusted authority.",
+    "keywords": [
+      "quarantine",
+      "pandemic",
+      "responsible behavior",
+      "emotional toll",
+      "trust",
+      "authority",
+      "reassurance",
+      "importance"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an artist",
+    "topic": "community resilience during lockdowns",
+    "prompt": "From a painter's perspective, write about how artistic expression can bring people together and foster community resilience during lockdowns.",
+    "keywords": [
+      "community",
+      "resilience",
+      "lockdowns",
+      "artistic expression",
+      "painter's perspective",
+      "bring people together",
+      "foster community",
+      "together"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an influencer",
+    "topic": "quarantine and isolation protocols",
+    "prompt": "Write a post from the perspective of someone struggling with mental health during COVID-19 lockdown, sharing their personal experience and concerns about quarantine protocol effectiveness.",
+    "keywords": [
+      "mental",
+      "health",
+      "covid",
+      "lockdown",
+      "quarantine",
+      "protocol",
+      "effectiveness",
+      "concerns",
+      "experience"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "first responder",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "Draft a reflection on the psychological toll of misinformation spread during quarantine from the perspective of a frontline healthcare worker, acknowledging the struggles with depression and anxiety.",
+    "keywords": [
+      "misinformation",
+      "quarantine",
+      "frontline",
+      "healthcare worker",
+      "depression",
+      "anxiety",
+      "psychological toll",
+      "reflection"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a normal person",
+    "topic": "community resilience during lockdowns",
+    "prompt": "Describe how you're coping with the mental health impact of quarantine, reflecting on your own experiences and feelings.",
+    "keywords": [
+      "mental",
+      "health",
+      "impact",
+      "quarantine",
+      "coping",
+      "feelings",
+      "experiences"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an expert",
+    "topic": "vaccination campaign for COVID-19",
+    "prompt": "Craft a comprehensive plan to tackle mental health concerns during the COVID-19 vaccination campaign, drawing from your expertise as a frontline professional, and consider the challenges of social isolation and reduced routine.",
+    "keywords": [
+      "mental",
+      "health",
+      "concerns",
+      "covid 19",
+      "vaccination",
+      "campaign",
+      "social",
+      "isolation",
+      "routine",
+      "frontline",
+      "professional"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "an expert",
+    "topic": "misinformation and fake news about COVID-19",
+    "prompt": "From a mental health perspective, analyze how the spread of misinformation about COVID-19 exacerbates existing mental health conditions like depression, highlighting the distressing effects on individuals.",
+    "keywords": [
+      "misinformation",
+      "covid 19",
+      "mental health",
+      "depression",
+      "exacerbate",
+      "distressing effects",
+      "individuals",
+      "spread",
+      "perspective"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  },
+  {
+    "role": "a public figure",
+    "topic": "mask wearing guidelines",
+    "prompt": "Consider the struggles of this quarantine from my perspective, then draft a heartfelt plea for understanding on why mask-wearing guidelines are crucial to our collective mental health.",
+    "keywords": [
+      "mask wearing",
+      "guidelines",
+      "quarantine",
+      "mental health",
+      "collective",
+      "understanding",
+      "plea",
+      "struggles",
+      "perspective",
+      "heartfelt"
+    ],
+    "objetivos": [
+      0.0,
+      0.0
+    ],
+    "generated_data": ""
+  }
+]
