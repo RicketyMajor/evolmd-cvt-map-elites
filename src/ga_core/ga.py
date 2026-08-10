@@ -13,7 +13,7 @@ from agents.llm_agent import LLMAgent
 from agents.generate_data import generar_data_con_ollama
 from agents.regenerate_prompt import obtener_prompt_regenerado
 from operadores.crossover import crossover
-from operadores.mutation import mutacion
+from operadores.mutation import mutacion, mutacion_estructural, P_ESTRUCTURAL
 
 # --- Métricas (QD, Fidelidad y Diversidad) ---
 from metrics.fidelity import calculate_sbert_similarity
@@ -70,10 +70,15 @@ async def regenerar_prompt(individuo: Dict, ref_text: str, llm_agent: 'LLMAgent'
     return individuo
 
 async def procesar_hijo(hijo: Dict, ref_text: str, llm_agent: 'LLMAgent', prob_mutacion: float) -> Dict:
-    # 1. Mutación
+    # 1. Mutación semántica (cara: llama al LLM por cada palabra a sustituir)
     if random.random() < prob_mutacion:
         hijo = await mutacion(hijo, llm_agent)
-    
+
+    # 1b. Mutación estructural (gratis: mueve al individuo por el espacio de
+    #     comportamiento sin inferencia). Desacoplada de prob_mutacion — C-3.
+    if random.random() < P_ESTRUCTURAL:
+        hijo = mutacion_estructural(hijo)
+
     # 2. Regenerar Prompt
     hijo = await regenerar_prompt(hijo, ref_text, llm_agent)
     

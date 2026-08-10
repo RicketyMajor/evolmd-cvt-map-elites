@@ -1,5 +1,6 @@
 # main.py
 import argparse
+import json
 from pathlib import Path
 import time
 import asyncio
@@ -13,11 +14,25 @@ import numpy as np
 # antes de llegar siquiera al parseo de argumentos.
 sys.stdout.reconfigure(encoding="utf-8", line_buffering=True)
 
+# Segunda trampa de Windows, verificada el 2026-08-10: torch DEBE importarse antes
+# que nltk. Al revés, la inicialización de sus DLLs choca y la corrida muere antes
+# de parsear argumentos:
+#     OSError: [WinError 1114] ... Error loading "torch\lib\c10.dll"
+# Reproducible en dos líneas:
+#     import nltk; from nltk.corpus import wordnet; import torch   -> WinError 1114
+#     import torch; import nltk; from nltk.corpus import wordnet   -> OK
+# Antes de C-3b el orden salía bien por casualidad: analyze_pareto (línea 22, torch)
+# se importaba antes que ga_core.ga (línea 25, nltk vía operadores.mutation). Al
+# hacer que initial_population importe LENGTH_DIRECTIVES desde mutation, nltk pasó
+# a cargarse en la línea 20 y el accidente se acabó. Se fija aquí, en el único
+# punto de entrada del proyecto, en vez de depender del orden de las líneas 19-25.
+import torch  # noqa: F401  (no se usa directamente: es una guarda de orden de carga)
+
 import pandas as pd
 sys.path.append(os.path.join(os.path.dirname(__file__), "src"))
 from ga_core import setup
 from ga_core import initial_population
-from ga_core.utils import guardar_individuos, guardar_run_config
+from ga_core.utils import guardar_individuos, guardar_run_config, catalogo_de_archivo
 from scripts.analyze_pareto import pipeline_analisis
 # from metrics.reports import append_metrics  <-- Desactivado temporalmente (requiere adaptación a MOEA)
 from agents.llm_agent import LLMAgent
@@ -119,11 +134,20 @@ async def main():
     df_historial.to_csv(outdir / "qd_metrics_history.csv", index=False)
     print(f"📊 Historial QD guardado en {outdir / 'qd_metrics_history.csv'}")
 
-    # Exportar el Archivo de Elites (DataFrame de pyribs)
+    # Exportar el Archivo de Elites.
+    # El CSV se mantiene con las columnas numéricas (los scripts de plots lo leen así),
+    # y el catálogo completo —genoma + texto generado— va aparte en JSON (C-9).
     df_archive = archive.as_pandas()
     df_archive.to_csv(outdir / "cvt_archive_elites.csv", index=False)
     df_archive.to_json(outdir / "cvt_archive_elites.json", orient="records", indent=4)
+
+    catalogo = catalogo_de_archivo(archive)
+    with open(outdir / "cvt_archive_catalogo.json", "w", encoding="utf-8") as f:
+        json.dump(catalogo, f, ensure_ascii=False, indent=2)
+    con_texto = sum(1 for r in catalogo if r.get("generated_data"))
     print(f"🏆 Archivo Voronoi exportado con {len(df_archive)} nichos ocupados.")
+    print(f"📚 Catálogo: {outdir / 'cvt_archive_catalogo.json'} "
+          f"({con_texto}/{len(catalogo)} elites con texto generado)")
 
     # ---  Tiempos ---
     runtime_path = outdir / "runtime.txt"

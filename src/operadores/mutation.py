@@ -49,6 +49,37 @@ except ImportError:
 # Queda registrado en run_config.json de cada corrida.
 MUT_WORDS = os.getenv("EVOLMD_MUT_WORDS", "random")
 
+# Directivas cualitativas de longitud. Son la única perilla deliberada del eje 0
+# del espacio de comportamiento, y las usan tanto la mutación estructural como la
+# siembra de la población inicial (C-3b). Fuente de verdad única: este módulo es
+# el bloque que debe ser idéntico en EVOLMD-MO y en esta rama.
+#
+# Que el LLM las OBEDECE está medido (2026-08-10, llama3, 3 réplicas por directiva):
+# las medianas de longitud del prompt resultante son 19 / 33 / 73 / 118 / 147
+# palabras, estrictamente monótonas. Sin esa comprobación, C-1 y C-3 se apoyarían
+# en una palanca inexistente.
+LENGTH_DIRECTIVES = [
+    "Make it extremely short and direct, just a single concise sentence.",
+    "Make it a short paragraph, about 2 or 3 sentences.",
+    "Make it a medium-length, detailed instruction.",
+    "Make it highly detailed and expansive, multiple paragraphs long.",
+    "Make it a comprehensive, long-form system prompt with extensive rules and guidelines.",
+]
+
+# Probabilidad de que un hijo reciba una mutación estructural.
+#
+# Antes, este bloque vivía dentro de mutacion() con p=0.40, y mutacion() sólo se
+# invocaba si pasaba prob_mutacion=0.05: la probabilidad efectiva de mover a un
+# hijo por el espacio de comportamiento era del 2 %. En MAP-Elites la variación es
+# el motor de la exploración, no un evento raro (corrección C-3).
+#
+# La mutación estructural es GRATIS —no llama al LLM—, así que subirla no cuesta
+# GPU: el sobrecosto es cero. Se desacopla de prob_mutacion, que gobierna la
+# mutación semántica por sinónimos, ésa sí cara.
+#
+# Como todo este módulo, debe ser IDÉNTICO en EVOLMD-MO (decisión P-2).
+P_ESTRUCTURAL = float(os.getenv("EVOLMD_P_ESTRUCTURAL", "0.5"))
+
 
 def _cuantos_mutar(n: int) -> int:
     """Traduce MUT_WORDS a una cantidad concreta para una secuencia de largo n."""
@@ -146,13 +177,27 @@ async def mutar_keywords(keywords: List[str], individuo: Dict, llm_agent) -> Lis
     return nuevas
 
 
+def mutacion_estructural(individuo: Dict[str, Any]) -> Dict[str, Any]:
+    """Cambia un gen estructural. Síncrona y sin LLM: mueve al individuo por el
+    espacio de comportamiento sin coste de inferencia."""
+    mutado = individuo.copy()
+    gen = random.choice(["length_directive", "context_modifier", "reasoning_modifier"])
+
+    if gen == "length_directive":
+        mutado["length_directive"] = random.choice(LENGTH_DIRECTIVES)
+    else:
+        mutado[gen] = not mutado.get(gen, False)
+
+    return mutado
+
+
 # ==========================================
 # FUNCIÓN PRINCIPAL: MUTACIÓN HÍBRIDA (EL MOTOR DE MAP-ELITES)
 # ==========================================
 async def mutacion(individuo: Dict[str, Any], llm_agent: Any) -> Dict[str, Any]:
     """
-    Aplica mutaciones semánticas (Role, Topic, Keywords) y mutaciones ESTRUCTURALES 
-    (Longitud, Contexto, Razonamiento) para forzar la exploración geométrica en CVT-MAP-Elites.
+    Aplica mutación semántica (Role, Topic, Keywords) por sinónimos vía LLM.
+    La mutación ESTRUCTURAL se aplica por separado — ver mutacion_estructural().
     """
     individuo_mutado = individuo.copy()
     
@@ -180,33 +225,7 @@ async def mutacion(individuo: Dict[str, Any], llm_agent: Any) -> Dict[str, Any]:
         elif parametro == "keywords":
             individuo_mutado["keywords"] = await mutar_keywords(individuo["keywords"], individuo, llm_agent)
     
-    # ------------------------------------------
-    # 2. MUTACIÓN ESTRUCTURAL (Para iluminar Voronoi)
-    # ------------------------------------------
-    # Probabilidad del 40% de mutar la estructura en cada hijo generado
-    if random.random() < 0.40:
-        estructuras = ["length_directive", "context_modifier", "reasoning_modifier"]
-        gen_a_mutar = random.choice(estructuras)
-        
-        if gen_a_mutar == "length_directive":
-            # Directivas cualitativas exactas que vencieron el colapso léxico del LLM
-            opciones_longitud = [
-                "Make it extremely short and direct, just a single concise sentence.",
-                "Make it a short paragraph, about 2 or 3 sentences.",
-                "Make it a medium-length, detailed instruction.",
-                "Make it highly detailed and expansive, multiple paragraphs long.",
-                "Make it a comprehensive, long-form system prompt with extensive rules and guidelines."
-            ]
-            individuo_mutado["length_directive"] = random.choice(opciones_longitud)
-            
-        elif gen_a_mutar == "context_modifier":
-            # Activa o desactiva la inclusión de ejemplos (Few-Shot)
-            estado_actual = individuo_mutado.get("context_modifier", False)
-            individuo_mutado["context_modifier"] = not estado_actual
-            
-        elif gen_a_mutar == "reasoning_modifier":
-            # Activa o desactiva el razonamiento (Chain of Thought)
-            estado_actual = individuo_mutado.get("reasoning_modifier", False)
-            individuo_mutado["reasoning_modifier"] = not estado_actual
+    # La mutación estructural ya no vive aquí: se aplica aparte en procesar_hijo(),
+    # desacoplada de prob_mutacion. Ver P_ESTRUCTURAL y mutacion_estructural() (C-3).
 
     return individuo_mutado

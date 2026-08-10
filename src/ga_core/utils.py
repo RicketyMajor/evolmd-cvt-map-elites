@@ -97,8 +97,10 @@ def guardar_run_config(archivo: Path, args, llm_agent=None, repo: Path = None) -
                 "num_predict": llm_agent.num_predict,
             }
         try:
-            from operadores.mutation import MUT_WORDS
-            cfg["operadores"] = {"mut_words": MUT_WORDS}
+            from operadores.mutation import MUT_WORDS, P_ESTRUCTURAL
+            # Sin p_estructural registrado, dos corridas con tasas distintas son
+            # indistinguibles al leer los resultados (C-3).
+            cfg["operadores"] = {"mut_words": MUT_WORDS, "p_estructural": P_ESTRUCTURAL}
         except Exception:
             pass
         cfg["env_evolmd"] = {k: v for k, v in os.environ.items()
@@ -116,3 +118,31 @@ def guardar_run_config(archivo: Path, args, llm_agent=None, repo: Path = None) -
     with open(archivo, "w", encoding="utf-8") as f:
         json.dump(cfg, f, indent=2, ensure_ascii=False)
     return cfg
+
+# ==========================================
+# CATÁLOGO DE ELITES (corrección C-9, defecto B5)
+# ==========================================
+
+# Campos del genoma que se exportan junto a las coordenadas del archivo.
+# Sin esto, as_pandas() descarta metadata por defecto y el catálogo de datos
+# sintéticos —el producto de la investigación— muere con el proceso.
+CAMPOS_GENOMA = ("role", "topic", "keywords", "prompt", "generated_data",
+                 "length_directive", "context_modifier", "reasoning_modifier")
+
+
+def catalogo_de_archivo(archive) -> list:
+    """Aplana el archivo de pyribs a registros con coordenadas + genoma.
+
+    ribs 0.5.0: as_pandas(include_metadata=True) es la única vía; .data() no existe.
+    to_dict() ya entrega tipos nativos de Python, así que el resultado es
+    serializable con json.dump sin conversión — verificado en test_catalogo_export.py.
+    """
+    df = archive.as_pandas(include_metadata=True)
+    registros = []
+    for fila in df.to_dict(orient="records"):
+        meta = fila.pop("metadata", None) or {}
+        fila.pop("solution_0", None)  # dummy: el genoma viaja en metadata
+        for campo in CAMPOS_GENOMA:
+            fila[campo] = meta.get(campo)
+        registros.append(fila)
+    return registros

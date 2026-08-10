@@ -11,6 +11,10 @@ from agents.llm_agent import LLMAgent
 from agents.initial_prompts import obtener_prompts_iniciales
 from agents.keywords import extraer_keywords_con_ollama
 
+# Fuente de verdad única de las directivas de longitud: el bloque compartido de
+# operadores/mutation.py, que debe ser idéntico en ambas ramas (C-3b).
+from operadores.mutation import LENGTH_DIRECTIVES
+
 # === Conjuntos por defecto ===
 ROLES_DEFAULT = [
     "a normal person",
@@ -87,6 +91,19 @@ async def crear_un_individuo(
 def construir_individuo(role: str, topic: str, prompt: str, keywords: List[str]) -> Dict:
     """
     Construye el diccionario del individuo.
+
+    Los genes estructurales se sortean aquí (C-3b): si todos los individuos nacen
+    con las directivas neutras por defecto de regenerate_prompt.py, la población
+    inicial entera aterriza en el mismo punto del espacio de comportamiento — la
+    cobertura en la generación 1 del Informe II fue del 1.6 %.
+
+    OJO con el orden de llamada: crear_un_individuo genera el prompt ANTES de
+    construir el individuo, y obtener_prompts_iniciales (initial_prompts.py:58) no
+    acepta directivas estructurales — sólo regenerate_prompt.py las conoce. Así que
+    estos genes NO afectan al prompt inicial: se aplican cuando regenerar_prompt
+    vuelve a redactarlo, en la primera generación. Es el cambio mínimo y está
+    ratificado (2026-08-10). Si la cobertura de la generación 1 sigue baja, la
+    causa es ésta y no el sorteo.
     """
     return {
         "role": role,
@@ -95,6 +112,9 @@ def construir_individuo(role: str, topic: str, prompt: str, keywords: List[str])
         "keywords": keywords,
         "objetivos": [0.0,0.0],
         "generated_data": "",
+        "length_directive": random.choice(LENGTH_DIRECTIVES),
+        "context_modifier": random.choice([True, False]),
+        "reasoning_modifier": random.choice([True, False]),
     }
 
 def _guardar_json(individuos: List[Dict], archivo: Path):
