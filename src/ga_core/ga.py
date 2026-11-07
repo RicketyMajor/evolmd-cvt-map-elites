@@ -6,7 +6,7 @@ import asyncio
 import pandas as pd
 import numpy as np
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict, List, Optional
 
 # --- Componentes Propios (Operadores y Agentes) ---
 from agents.llm_agent import LLMAgent
@@ -14,6 +14,7 @@ from agents.generate_data import generar_data_con_ollama
 from agents.regenerate_prompt import obtener_prompt_regenerado
 from operadores.crossover import crossover
 from operadores.mutation import mutacion, mutacion_estructural, P_ESTRUCTURAL
+from ga_core.registro import abrir_registro, guardar_candidatos
 
 # --- Métricas (QD, Fidelidad y Diversidad) ---
 from metrics.fidelity import calculate_sbert_similarity
@@ -122,10 +123,19 @@ async def metaheuristica(
     batch_size: int = 10,
     k_centroides: int = 500,
     prob_mutacion: float = 0.1,
-    prob_crossover: float = 0.8
+    prob_crossover: float = 0.8,
+    contexto: Optional[dict] = None,
+    ruta_registro: Optional[Path] = None
 ):
     evo_t0 = time.perf_counter()
     historial_metricas = []
+    # Cada candidato evaluado, antes de filtrarlo (plan 2026-11-06-guardar-candidatos).
+    # main.py lo abre al empezar la corrida; si no viene, se abre aquí.
+    if ruta_registro is None:
+        ruta_registro = abrir_registro(outdir)
+    if len({id(ind) for ind in poblacion_inicial}) != len(poblacion_inicial):
+        raise ValueError("La población inicial trae el mismo individuo (el mismo dict) más de "
+                         "una vez: cada uno necesita su propio uid.")
     
     # --- CONFIGURACIÓN DE VORONOI ---
     print(f"\n⚡ Inicializando CVT-MAP-Elites con {k_centroides} regiones...")
@@ -141,16 +151,23 @@ async def metaheuristica(
 
     # --- INSERCIÓN POBLACIÓN INICIAL ---
     print("🚀 Mapeando población inicial en el espacio de comportamiento...")
-    for ind in poblacion_inicial:
+    estados_iniciales, descriptores_iniciales = [], []
+    for i, ind in enumerate(poblacion_inicial):
+        ind["uid"] = f"g0-{i}"
+        ind["padres"] = []
         descriptores = extract_behavioral_descriptors(ind["prompt"] if "prompt" in ind else ind.get("texto", ""))
         fit = ind["objetivos"][0] if "objetivos" in ind else 0.0
         
-        archive.add_single(
+        status, _ = archive.add_single(
             solution=np.array([0.0]), 
             objective=float(fit), 
             measures=descriptores, 
             metadata=ind
         )
+        estados_iniciales.append(status)
+        descriptores_iniciales.append(descriptores)
+    guardar_candidatos(ruta_registro, 0, poblacion_inicial, estados_iniciales, "cvt", contexto,
+                       descriptores=descriptores_iniciales)
 
     # --- CICLO EVOLUTIVO ---
     for g in range(generaciones):
@@ -165,14 +182,20 @@ async def metaheuristica(
         padres = elite_batch.metadata_batch
         
         hijos_brutos = []
-        for _ in range(batch_size):
+        for i in range(batch_size):
             p1 = random.choice(padres)
             p2 = random.choice(padres)
             
             if random.random() < prob_crossover:
                 hijo = crossover(p1, p2)
+                linaje = [p1["uid"], p2["uid"]]
             else:
                 hijo = p1.copy()
+                linaje = [p1["uid"]]
+            # El hijo es una copia superficial de p1 y hereda sus claves: uid propio y
+            # una lista NUEVA de padres (nunca append sobre la heredada).
+            hijo["uid"] = f"g{g+1}-{i}"
+            hijo["padres"] = linaje
             hijos_brutos.append(hijo)
             
         print(f"   → Procesando y Evaluando {len(hijos_brutos)} hijos en LLM...")
@@ -182,6 +205,7 @@ async def metaheuristica(
         hijos_evaluados = evaluar_poblacion(hijos_procesados, referencia_texto)
         
         hijos_introducidos = 0
+        estados_hijos, descriptores_hijos = [], []
         for hijo in hijos_evaluados:
             desc_hijo = extract_behavioral_descriptors(hijo["prompt"] if "prompt" in hijo else hijo.get("texto", ""))
             fit_hijo = hijo["objetivos"][0]
@@ -192,7 +216,13 @@ async def metaheuristica(
                 measures=desc_hijo,
                 metadata=hijo
             )
+            # pyribs 0.5.0: 0 rechazo, 1 mejora, 2 celda nueva. «Nuevos_Nichos» cuenta
+            # las inserciones aceptadas (1 y 2), no solo las celdas nuevas.
             if status > 0: hijos_introducidos += 1
+            estados_hijos.append(status)
+            descriptores_hijos.append(desc_hijo)
+        guardar_candidatos(ruta_registro, g + 1, hijos_evaluados, estados_hijos, "cvt", contexto,
+                           descriptores=descriptores_hijos)
 
         # --- MÉTRICAS ---
         celdas_ocupadas = archive.stats.num_elites

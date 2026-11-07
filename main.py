@@ -1,5 +1,7 @@
 # main.py
 import argparse
+import hashlib
+import inspect
 import json
 from pathlib import Path
 import time
@@ -33,10 +35,38 @@ sys.path.append(os.path.join(os.path.dirname(__file__), "src"))
 from ga_core import setup
 from ga_core import initial_population
 from ga_core.utils import guardar_individuos, guardar_run_config, catalogo_de_archivo
+from ga_core.registro import abrir_registro
 from scripts.analyze_pareto import pipeline_analisis
 # from metrics.reports import append_metrics  <-- Desactivado temporalmente (requiere adaptación a MOEA)
 from agents.llm_agent import LLMAgent
+from agents.synonym_selection import seleccionar_sinonimo
 from ga_core.ga import metaheuristica, generar_data_para_individuo, evaluar_poblacion # Importamos evaluar_poblacion
+from ga_core.ga import regenerar_prompt
+
+
+def contexto_de_corrida(args, ref_text: str) -> dict:
+    """Procedencia de cada fila de candidatos.jsonl (plan 2026-11-06-guardar-candidatos).
+
+    Las temperaturas son los defaults de cada etapa, leídos de las funciones: este
+    main.py no los cambia. La referencia va como hash (el corpus no tiene id de
+    fila); el texto queda en reference.txt.
+    """
+    def temperatura(funcion, parametro="temperatura"):
+        return inspect.signature(funcion).parameters[parametro].default
+
+    return {
+        "seed": args.seed,
+        "modelo": args.model,
+        "temperaturas": {
+            "prompt_inicial": temperatura(initial_population.generar_poblacion_inicial, "temp_prompts"),
+            "keywords_iniciales": temperatura(initial_population.generar_poblacion_inicial, "temp_keywords"),
+            "regenerar_prompt": temperatura(regenerar_prompt),
+            "generar_texto": temperatura(generar_data_para_individuo),
+            "sinonimo": temperatura(seleccionar_sinonimo),
+        },
+        "referencia_sha256": hashlib.sha256(ref_text.encode("utf-8")).hexdigest(),
+    }
+
 
 async def main():
     parser = argparse.ArgumentParser(description="Algoritmo genético multiobjetivo para evolución de prompts")
@@ -71,6 +101,9 @@ async def main():
     print("1/5 Preparando directorio del experimento...")
     outdir, ref_text = setup.setup_experiment(base_dir=args.outdir_base, texto_referencia_arg=args.texto_referencia)
     print(f"   → Todos los archivos se guardarán en: {outdir}")
+    # El registro de candidatos se crea al empezar, en modo exclusivo: si el outdir ya
+    # tiene uno, la corrida falla antes de la primera llamada al LLM.
+    ruta_registro = abrir_registro(outdir)
 
     t_total0 = time.perf_counter()
 
@@ -122,7 +155,9 @@ async def main():
         generaciones=args.generaciones,
         outdir=outdir,
         batch_size=args.batch_size,
-        k_centroides=args.k_centroides
+        k_centroides=args.k_centroides,
+        contexto=contexto_de_corrida(args, ref_text),
+        ruta_registro=ruta_registro
     )
     total_sec = time.perf_counter() - t_total0
 
