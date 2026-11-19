@@ -119,6 +119,25 @@ def guardar_run_config(archivo: Path, args, llm_agent=None, repo: Path = None) -
         json.dump(cfg, f, indent=2, ensure_ascii=False)
     return cfg
 
+
+def anotar_reanudacion(archivo: Path, desde_gen: int, model: str, repo: Path = None) -> dict:
+    """
+    Anexa a run_config.json una entrada por cada `main.py --reanudar`: cuándo, desde
+    qué generación, y con qué código y qué modelo siguió la corrida, que pueden no ser
+    los del arranque. Best-effort, como guardar_run_config: si falla, avisa y sigue.
+    """
+    entrada = {"timestamp": datetime.now().isoformat(timespec="seconds"), "desde_gen": desde_gen}
+    try:
+        entrada["git"] = _git_info(repo or Path(__file__).resolve().parents[2])
+        entrada["ollama"] = _ollama_info(model)
+        cfg = json.loads(archivo.read_text(encoding="utf-8"))
+        cfg.setdefault("reanudaciones", []).append(entrada)
+        with open(archivo, "w", encoding="utf-8") as f:
+            json.dump(cfg, f, indent=2, ensure_ascii=False)
+    except Exception as e:
+        print(f"⚠️ No se pudo anotar la reanudación en {archivo}: {e!r}")
+    return entrada
+
 # ==========================================
 # CATÁLOGO DE ELITES (corrección C-9, defecto B5)
 # ==========================================

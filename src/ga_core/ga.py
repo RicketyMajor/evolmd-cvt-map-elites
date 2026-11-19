@@ -1,5 +1,6 @@
 # src/ga_core/ga.py
 
+import hashlib
 import random
 import time
 import asyncio
@@ -14,7 +15,8 @@ from agents.generate_data import generar_data_con_ollama
 from agents.regenerate_prompt import obtener_prompt_regenerado
 from operadores.crossover import crossover
 from operadores.mutation import mutacion, mutacion_estructural, P_ESTRUCTURAL
-from ga_core.registro import abrir_registro, guardar_candidatos
+from ga_core.registro import abrir_registro, guardar_candidatos, NOMBRE_REGISTRO
+from ga_core.checkpoint import guardar_checkpoint, medir_registros, truncar_registros
 
 # --- Métricas (QD, Fidelidad y Diversidad) ---
 from metrics.fidelity import calculate_sbert_similarity
@@ -116,7 +118,7 @@ def evaluar_poblacion(poblacion: List[Dict], ref_text: str) -> List[Dict]:
 
 async def metaheuristica(
     referencia_texto: str,
-    poblacion_inicial: list,
+    poblacion_inicial: Optional[list],
     llm_agent: 'LLMAgent',
     generaciones: int,
     outdir: Path,
@@ -125,52 +127,117 @@ async def metaheuristica(
     prob_mutacion: float = 0.1,
     prob_crossover: float = 0.8,
     contexto: Optional[dict] = None,
-    ruta_registro: Optional[Path] = None
+    ruta_registro: Optional[Path] = None,
+    corrida: Optional[dict] = None,
+    reanudar_desde: Optional[dict] = None
 ):
-    evo_t0 = time.perf_counter()
-    historial_metricas = []
-    # Cada candidato evaluado, antes de filtrarlo (plan 2026-11-06-guardar-candidatos).
-    # main.py lo abre al empezar la corrida; si no viene, se abre aquí.
-    if ruta_registro is None:
-        ruta_registro = abrir_registro(outdir)
-    if len({id(ind) for ind in poblacion_inicial}) != len(poblacion_inicial):
-        raise ValueError("La población inicial trae el mismo individuo (el mismo dict) más de "
-                         "una vez: cada uno necesita su propio uid.")
-    
-    # --- CONFIGURACIÓN DE VORONOI ---
-    print(f"\n⚡ Inicializando CVT-MAP-Elites con {k_centroides} regiones...")
-    bounds = [(0.0, 1000.0), (0.0, 10.0), (0.0, 1.0)]
-    archive = CVTArchive(
-        solution_dim=1,
-        cells=k_centroides,
-        ranges=bounds,
-        samples=100000,
-        use_kd_tree=True,
-        seed=42
-    )
+    """CVT-MAP-Elites. Al final de cada generación (la 0 incluida) deja un checkpoint en
+    <outdir>/checkpoint.pkl (ga_core/checkpoint.py).
 
-    # --- INSERCIÓN POBLACIÓN INICIAL ---
-    print("🚀 Mapeando población inicial en el espacio de comportamiento...")
-    estados_iniciales, descriptores_iniciales = [], []
-    for i, ind in enumerate(poblacion_inicial):
-        ind["uid"] = f"g0-{i}"
-        ind["padres"] = []
-        descriptores = extract_behavioral_descriptors(ind["prompt"] if "prompt" in ind else ind.get("texto", ""))
-        fit = ind["objetivos"][0] if "objetivos" in ind else 0.0
-        
-        status, _ = archive.add_single(
-            solution=np.array([0.0]), 
-            objective=float(fit), 
-            measures=descriptores, 
-            metadata=ind
+    corrida: lo que main.py necesita para reanudar (sus argumentos y sus tiempos previos);
+             viaja en el checkpoint tal cual.
+    reanudar_desde: un checkpoint ya cargado (cargar_checkpoint). La corrida sigue en la
+             generación siguiente a la guardada; parámetros, referencia y contexto tienen que
+             ser los mismos, y poblacion_inicial no se usa. Solo se reanuda si se pide.
+    """
+    evo_t0 = time.perf_counter()
+    outdir = Path(outdir)
+    # Lo que tiene que coincidir para que la reanudada sea la misma corrida.
+    parametros = {"generaciones": generaciones, "batch_size": batch_size, "k_centroides": k_centroides,
+                  "prob_mutacion": prob_mutacion, "prob_crossover": prob_crossover, "contexto": contexto,
+                  "referencia_sha256": hashlib.sha256(referencia_texto.encode("utf-8")).hexdigest()}
+
+    if reanudar_desde is None:
+        historial_metricas = []
+        evo_previo, reanudaciones, gen_inicio = 0.0, 0, 0
+        # Cada candidato evaluado, antes de filtrarlo (plan 2026-11-06-guardar-candidatos).
+        # main.py lo abre al empezar la corrida; si no viene, se abre aquí.
+        if ruta_registro is None:
+            ruta_registro = abrir_registro(outdir)
+        if len({id(ind) for ind in poblacion_inicial}) != len(poblacion_inicial):
+            raise ValueError("La población inicial trae el mismo individuo (el mismo dict) más de "
+                             "una vez: cada uno necesita su propio uid.")
+
+        # --- CONFIGURACIÓN DE VORONOI ---
+        print(f"\n⚡ Inicializando CVT-MAP-Elites con {k_centroides} regiones...")
+        bounds = [(0.0, 1000.0), (0.0, 10.0), (0.0, 1.0)]
+        archive = CVTArchive(
+            solution_dim=1,
+            cells=k_centroides,
+            ranges=bounds,
+            samples=100000,
+            use_kd_tree=True,
+            seed=42
         )
-        estados_iniciales.append(status)
-        descriptores_iniciales.append(descriptores)
-    guardar_candidatos(ruta_registro, 0, poblacion_inicial, estados_iniciales, "cvt", contexto,
-                       descriptores=descriptores_iniciales)
+
+        # --- INSERCIÓN POBLACIÓN INICIAL ---
+        print("🚀 Mapeando población inicial en el espacio de comportamiento...")
+        estados_iniciales, descriptores_iniciales = [], []
+        for i, ind in enumerate(poblacion_inicial):
+            ind["uid"] = f"g0-{i}"
+            ind["padres"] = []
+            descriptores = extract_behavioral_descriptors(ind["prompt"] if "prompt" in ind else ind.get("texto", ""))
+            fit = ind["objetivos"][0] if "objetivos" in ind else 0.0
+
+            status, _ = archive.add_single(
+                solution=np.array([0.0]),
+                objective=float(fit),
+                measures=descriptores,
+                metadata=ind
+            )
+            estados_iniciales.append(status)
+            descriptores_iniciales.append(descriptores)
+        guardar_candidatos(ruta_registro, 0, poblacion_inicial, estados_iniciales, "cvt", contexto,
+                           descriptores=descriptores_iniciales)
+    else:
+        # --- REANUDACIÓN EXPLÍCITA (main.py --reanudar) ---
+        ck = reanudar_desde
+        distintos = sorted(k for k in parametros if ck["parametros"].get(k) != parametros[k])
+        if distintos:
+            raise ValueError(f"No se reanuda: {', '.join(distintos)} no coinciden con el checkpoint "
+                             f"de {outdir}.")
+        ruta_registro = outdir / NOMBRE_REGISTRO
+        # Las filas de la generación que no llegó a su checkpoint se descartan y se rehacen.
+        descartados = truncar_registros(outdir, ck["registros"])
+        (outdir / "runtime.tmp").unlink(missing_ok=True)
+        archive = ck["archive"]  # trae su propio generador (archive._rng) en el punto guardado
+        historial_metricas = list(ck["historial"])
+        random.setstate(ck["random"])
+        np.random.set_state(ck["numpy"])
+        evo_previo, reanudaciones, gen_inicio = ck["evolution_sec"], ck["reanudaciones"] + 1, ck["gen"]
+        if corrida is None:
+            corrida = ck["corrida"]
+        print(f"\n▶ Reanudando CVT-MAP-Elites desde el checkpoint de la generación "
+              f"{gen_inicio}/{generaciones} (reanudación n.º {reanudaciones}): se descartan "
+              f"{descartados} bytes de {NOMBRE_REGISTRO} de la generación que no llegó a su checkpoint.")
+
+    def checkpoint(gen):
+        """Si falla, avisa y sigue: el checkpoint no debe tumbar una corrida de horas."""
+        try:
+            guardar_checkpoint(outdir, {
+                "gen": gen,
+                "archive": archive,
+                "historial": historial_metricas,
+                "random": random.getstate(),
+                "numpy": np.random.get_state(),
+                # Solo el tiempo de las generaciones que quedan en el resultado: ni el tiempo
+                # caído ni la generación perdida cuentan.
+                "evolution_sec": evo_previo + (time.perf_counter() - evo_t0),
+                "reanudaciones": reanudaciones,
+                "parametros": parametros,
+                "corrida": corrida,
+                "llm_stats": dict(getattr(llm_agent, "stats", None) or {}),
+                "registros": medir_registros(outdir, [NOMBRE_REGISTRO]),
+            })
+        except Exception as e:
+            print(f"⚠️ No se pudo guardar el checkpoint de la generación {gen}: {e!r}. "
+                  f"La corrida sigue; si se cae, se reanuda desde el anterior.")
+
+    if reanudar_desde is None:
+        checkpoint(0)
 
     # --- CICLO EVOLUTIVO ---
-    for g in range(generaciones):
+    for g in range(gen_inicio, generaciones):
         gen_t0 = time.perf_counter()
         print(f"\n================ Generación {g+1}/{generaciones} ================")
         
@@ -245,8 +312,9 @@ async def metaheuristica(
         print(f"   → QD-Score: {qd_score:.2f} | Max Fid: {max_fitness:.4f}")
         print(f"   → Nuevos Nichos Conquistados: {hijos_introducidos}")
         print(f"   → Tiempo Gen: {gen_dt:.2f}s")
-    
-    evo_dt = time.perf_counter() - evo_t0
+        checkpoint(g + 1)
+
+    evo_dt = evo_previo + (time.perf_counter() - evo_t0)
     with open(outdir / "runtime.tmp", "a", encoding="utf-8") as f:
         f.write(f"evolution_sec={evo_dt:.6f}\n")
         

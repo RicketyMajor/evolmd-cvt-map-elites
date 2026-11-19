@@ -34,8 +34,9 @@ import pandas as pd
 sys.path.append(os.path.join(os.path.dirname(__file__), "src"))
 from ga_core import setup
 from ga_core import initial_population
-from ga_core.utils import guardar_individuos, guardar_run_config, catalogo_de_archivo
+from ga_core.utils import guardar_individuos, guardar_run_config, catalogo_de_archivo, anotar_reanudacion
 from ga_core.registro import abrir_registro
+from ga_core.checkpoint import cargar_checkpoint
 from scripts.analyze_pareto import pipeline_analisis
 # from metrics.reports import append_metrics  <-- Desactivado temporalmente (requiere adaptación a MOEA)
 from agents.llm_agent import LLMAgent
@@ -68,6 +69,136 @@ def contexto_de_corrida(args, ref_text: str) -> dict:
     }
 
 
+async def _agente_listo(model: str):
+    """LLMAgent con preflight: aborta ANTES de gastar horas si Ollama no responde o falta el modelo."""
+    llm_agent = LLMAgent(model=model)
+    try:
+        await llm_agent.preflight()
+        print(f"   → Ollama OK | modelo='{model}' | concurrencia máx={llm_agent.max_concurrent}")
+    except Exception as e:
+        print(f"\n❌ Ollama no disponible o modelo '{model}' inexistente: {e}")
+        print(f"   Verifica que el servicio esté arriba y ejecuta: ollama pull {model}")
+        sys.exit(1)
+    return llm_agent
+
+
+def _leer_evolution_sec(outdir: Path) -> float:
+    """El evolution_sec que metaheuristica dejó en runtime.tmp; borra el temporal."""
+    evo_sec = 0.0
+    tmp_path = outdir / "runtime.tmp"
+    if tmp_path.exists():
+        try:
+            with open(tmp_path, "r", encoding="utf-8") as f:
+                for ln in f:
+                    if ln.startswith("evolution_sec="):
+                        evo_sec = float(ln.split("=", 1)[1].strip())
+        finally:
+            tmp_path.unlink(missing_ok=True)
+    return evo_sec
+
+
+def exportar_resultados(outdir: Path, archive, historial_metricas, llm_agent, model: str,
+                        initial_gen_sec: float, evolution_sec: float, total_sec: float,
+                        reanudaciones: int):
+    """Historial QD, archivo de élites, catálogo y runtime.txt (igual al terminar o al reanudar)."""
+    # Exportar el Historial de Métricas (Coverage, QD-Score)
+    df_historial = pd.DataFrame(historial_metricas)
+    df_historial.to_csv(outdir / "qd_metrics_history.csv", index=False)
+    print(f"📊 Historial QD guardado en {outdir / 'qd_metrics_history.csv'}")
+
+    # Exportar el Archivo de Elites.
+    # El CSV se mantiene con las columnas numéricas (los scripts de plots lo leen así),
+    # y el catálogo completo —genoma + texto generado— va aparte en JSON (C-9).
+    df_archive = archive.as_pandas()
+    df_archive.to_csv(outdir / "cvt_archive_elites.csv", index=False)
+    df_archive.to_json(outdir / "cvt_archive_elites.json", orient="records", indent=4)
+
+    catalogo = catalogo_de_archivo(archive)
+    with open(outdir / "cvt_archive_catalogo.json", "w", encoding="utf-8") as f:
+        json.dump(catalogo, f, ensure_ascii=False, indent=2)
+    con_texto = sum(1 for r in catalogo if r.get("generated_data"))
+    print(f"🏆 Archivo Voronoi exportado con {len(df_archive)} nichos ocupados.")
+    print(f"📚 Catálogo: {outdir / 'cvt_archive_catalogo.json'} "
+          f"({con_texto}/{len(catalogo)} elites con texto generado)")
+
+    # ---  Tiempos ---
+    runtime_path = outdir / "runtime.txt"
+    with open(runtime_path, "w", encoding="utf-8") as f:
+        f.write(f"initial_gen_sec={initial_gen_sec:.6f}\n")
+        f.write(f"evolution_sec={evolution_sec:.6f}\n")
+        f.write(f"total_sec={total_sec:.6f}\n")
+        # Salud de la corrida: cada fallo es un individuo con generated_data=""
+        # que entró igual a la evaluación con fidelidad ~0.
+        f.write(f"llm_model={model}\n")
+        f.write(f"llm_max_concurrent={llm_agent.max_concurrent}\n")
+        f.write(f"llm_num_ctx={llm_agent.num_ctx}\n")
+        f.write(f"llm_num_predict={llm_agent.num_predict}\n")
+        f.write(f"llm_ok={llm_agent.stats['ok']}\n")
+        f.write(f"llm_timeout={llm_agent.stats['timeout']}\n")
+        f.write(f"llm_invalid_json={llm_agent.stats['invalid_json']}\n")
+        f.write(f"llm_error={llm_agent.stats['error']}\n")
+        # Cuántas veces se reanudó con --reanudar (0 = de un tirón). El detalle, en run_config.json.
+        f.write(f"reanudaciones={reanudaciones}\n")
+
+    if llm_agent.failures:
+        total_llamadas = llm_agent.stats["ok"] + llm_agent.failures
+        pct = 100.0 * llm_agent.failures / max(total_llamadas, 1)
+        print(f"\n⚠️  {llm_agent.failures}/{total_llamadas} llamadas al LLM fallaron ({pct:.1f}%).")
+        print(f"   Detalle en {runtime_path}. Revisa antes de usar estos resultados.")
+
+
+async def reanudar_corrida(outdir: Path):
+    """main.py --reanudar <carpeta>: sigue una corrida caída desde su checkpoint.pkl.
+
+    Se salta los cuatro pasos previos al bucle (carpeta y referencia, registro, población
+    inicial y su evaluación): todo eso ya está en la carpeta y en el checkpoint. Los
+    parámetros son los de la corrida original. Decisión del 2026-11-18 en
+    context/decisions/log.md.
+    """
+    outdir = Path(outdir)
+    if (outdir / "runtime.txt").exists():
+        sys.exit(f"❌ {outdir} ya terminó (tiene runtime.txt): no hay nada que reanudar.")
+    try:
+        ck = cargar_checkpoint(outdir)
+    except (FileNotFoundError, ValueError) as e:
+        sys.exit(f"❌ No se puede reanudar: {e}")
+    corrida, p = ck["corrida"], ck["parametros"]
+    if corrida is None:
+        sys.exit(f"❌ {outdir / 'checkpoint.pkl'} no lo escribió main.py: le faltan los datos para reanudar.")
+    args = argparse.Namespace(**corrida["args"])
+    print(f"▶ Reanudando la corrida {outdir}: el checkpoint es de la generación "
+          f"{ck['gen']}/{p['generaciones']} y sigue en la {ck['gen'] + 1} "
+          f"(reanudación n.º {ck['reanudaciones'] + 1}).")
+
+    llm_agent = await _agente_listo(args.model)
+    # Los contadores del LLM siguen desde el checkpoint: runtime.txt suma las dos partes.
+    for clave, valor in ck.get("llm_stats", {}).items():
+        llm_agent.stats[clave] = llm_agent.stats.get(clave, 0) + valor
+    anotar_reanudacion(outdir / "run_config.json", desde_gen=ck["gen"] + 1, model=args.model)
+
+    archive, historial_metricas = await metaheuristica(
+        referencia_texto=corrida["referencia"],
+        poblacion_inicial=None,
+        llm_agent=llm_agent,
+        generaciones=p["generaciones"],
+        outdir=outdir,
+        batch_size=p["batch_size"],
+        k_centroides=p["k_centroides"],
+        prob_mutacion=p["prob_mutacion"],
+        prob_crossover=p["prob_crossover"],
+        contexto=p["contexto"],
+        reanudar_desde=ck
+    )
+    evolution_sec = _leer_evolution_sec(outdir)
+    # total_sec sin el tiempo caído: lo previo a la evolución en el primer arranque más la
+    # evolución acumulada (que tampoco cuenta la generación perdida en la caída).
+    exportar_resultados(outdir, archive, historial_metricas, llm_agent, args.model,
+                        initial_gen_sec=corrida["initial_gen_sec"], evolution_sec=evolution_sec,
+                        total_sec=corrida["pre_evolucion_sec"] + evolution_sec,
+                        reanudaciones=ck["reanudaciones"] + 1)
+    print(f"\n✅ Corrida reanudada y completada. Resultados guardados en: {outdir}")
+
+
 async def main():
     parser = argparse.ArgumentParser(description="Algoritmo genético multiobjetivo para evolución de prompts")
 
@@ -87,8 +218,20 @@ async def main():
     parser.add_argument("--outdir-base", type=Path, default=Path("exec"), help="Directorio de salida.")
     parser.add_argument("--seed", type=int, default=None,
                         help="Semilla para las decisiones aleatorias del lado Python. No fija el muestreo del LLM.")
+    parser.add_argument("--reanudar", type=Path, default=None, metavar="CARPETA",
+                        help="Reanuda una corrida caída desde el checkpoint.pkl de su carpeta "
+                             "(p. ej. exec/2026-11-18_10-00-00), con los parámetros de la corrida original.")
 
     args = parser.parse_args()
+
+    if args.reanudar is not None:
+        # Explícito y sin mezclas: la reanudada usa los parámetros guardados, no los de esta línea.
+        otros = [k for k in vars(args) if k != "reanudar" and getattr(args, k) != parser.get_default(k)]
+        if otros:
+            parser.error("--reanudar usa los parámetros guardados de la corrida original; quita "
+                         + ", ".join("--" + k.replace("_", "-") for k in otros))
+        await reanudar_corrida(args.reanudar)
+        return
 
     # La semilla debe aplicarse ANTES de setup_experiment: ahí se elige el texto
     # de referencia con random.choice sobre el corpus.
@@ -109,16 +252,7 @@ async def main():
 
     # --- 2. Crear Agente y Población Inicial ---
     print(f"2/5 Generando población inicial de {args.n} individuos...")
-    llm_agent = LLMAgent(model=args.model)
-
-    # Preflight: aborta ANTES de gastar horas si Ollama no responde o falta el modelo.
-    try:
-        await llm_agent.preflight()
-        print(f"   → Ollama OK | modelo='{args.model}' | concurrencia máx={llm_agent.max_concurrent}")
-    except Exception as e:
-        print(f"\n❌ Ollama no disponible o modelo '{args.model}' inexistente: {e}")
-        print(f"   Verifica que el servicio esté arriba y ejecuta: ollama pull {args.model}")
-        sys.exit(1)
+    llm_agent = await _agente_listo(args.model)
 
     # Procedencia: se escribe ANTES de la corrida larga, para que exista aunque
     # el proceso se interrumpa a mitad de camino.
@@ -146,78 +280,34 @@ async def main():
 
     # main.py (Bloque de Ejecución y Guardado)
     
+    # Lo que hace falta para reanudar esta corrida con --reanudar: viaja en cada checkpoint.
+    corrida = {
+        "args": {k: v for k, v in vars(args).items() if k != "reanudar"},
+        "referencia": ref_text,
+        "initial_gen_sec": t_init_gen,
+        "pre_evolucion_sec": time.perf_counter() - t_total0,
+    }
+
     # --- 5. EJECUCIÓN DEL ALGORITMO QD ---
     print("\n5/6 Iniciando CVT-MAP-Elites...")
     archive, historial_metricas = await metaheuristica(
         referencia_texto=ref_text,
         poblacion_inicial=individuos,
-        llm_agent=llm_agent,            
+        llm_agent=llm_agent,
         generaciones=args.generaciones,
         outdir=outdir,
         batch_size=args.batch_size,
         k_centroides=args.k_centroides,
         contexto=contexto_de_corrida(args, ref_text),
-        ruta_registro=ruta_registro
+        ruta_registro=ruta_registro,
+        corrida=corrida
     )
     total_sec = time.perf_counter() - t_total0
 
-    # --- GUARDADO DE MÉTRICAS Y ARCHIVO VORONOI ---
-    import pandas as pd # Asegúrate de que esté importado
-    
-    # Exportar el Historial de Métricas (Coverage, QD-Score)
-    df_historial = pd.DataFrame(historial_metricas)
-    df_historial.to_csv(outdir / "qd_metrics_history.csv", index=False)
-    print(f"📊 Historial QD guardado en {outdir / 'qd_metrics_history.csv'}")
-
-    # Exportar el Archivo de Elites.
-    # El CSV se mantiene con las columnas numéricas (los scripts de plots lo leen así),
-    # y el catálogo completo —genoma + texto generado— va aparte en JSON (C-9).
-    df_archive = archive.as_pandas()
-    df_archive.to_csv(outdir / "cvt_archive_elites.csv", index=False)
-    df_archive.to_json(outdir / "cvt_archive_elites.json", orient="records", indent=4)
-
-    catalogo = catalogo_de_archivo(archive)
-    with open(outdir / "cvt_archive_catalogo.json", "w", encoding="utf-8") as f:
-        json.dump(catalogo, f, ensure_ascii=False, indent=2)
-    con_texto = sum(1 for r in catalogo if r.get("generated_data"))
-    print(f"🏆 Archivo Voronoi exportado con {len(df_archive)} nichos ocupados.")
-    print(f"📚 Catálogo: {outdir / 'cvt_archive_catalogo.json'} "
-          f"({con_texto}/{len(catalogo)} elites con texto generado)")
-
-    # ---  Tiempos ---
-    runtime_path = outdir / "runtime.txt"
-    evo_sec = 0.0
-    tmp_path = outdir / "runtime.tmp"
-    if tmp_path.exists():
-        try:
-            with open(tmp_path, "r", encoding="utf-8") as f:
-                for ln in f:
-                    if ln.startswith("evolution_sec="):
-                        evo_sec = float(ln.split("=", 1)[1].strip())
-        finally:
-            tmp_path.unlink(missing_ok=True)
-
-    with open(runtime_path, "w", encoding="utf-8") as f:
-        f.write(f"initial_gen_sec={t_init_gen:.6f}\n")
-        f.write(f"evolution_sec={evo_sec:.6f}\n")
-        f.write(f"total_sec={total_sec:.6f}\n")
-        # Salud de la corrida: cada fallo es un individuo con generated_data=""
-        # que entró igual a la evaluación con fidelidad ~0.
-        f.write(f"llm_model={args.model}\n")
-        f.write(f"llm_max_concurrent={llm_agent.max_concurrent}\n")
-        f.write(f"llm_num_ctx={llm_agent.num_ctx}\n")
-        f.write(f"llm_num_predict={llm_agent.num_predict}\n")
-        f.write(f"llm_ok={llm_agent.stats['ok']}\n")
-        f.write(f"llm_timeout={llm_agent.stats['timeout']}\n")
-        f.write(f"llm_invalid_json={llm_agent.stats['invalid_json']}\n")
-        f.write(f"llm_error={llm_agent.stats['error']}\n")
-
-    if llm_agent.failures:
-        total_llamadas = llm_agent.stats["ok"] + llm_agent.failures
-        pct = 100.0 * llm_agent.failures / max(total_llamadas, 1)
-        print(f"\n⚠️  {llm_agent.failures}/{total_llamadas} llamadas al LLM fallaron ({pct:.1f}%).")
-        print(f"   Detalle en {runtime_path}. Revisa antes de usar estos resultados.")
-    
+    # --- GUARDADO DE MÉTRICAS, ARCHIVO VORONOI Y TIEMPOS ---
+    exportar_resultados(outdir, archive, historial_metricas, llm_agent, args.model,
+                        initial_gen_sec=t_init_gen, evolution_sec=_leer_evolution_sec(outdir),
+                        total_sec=total_sec, reanudaciones=0)
 
     # --- 6. EJECUCIÓN AUTOMÁTICA DE ANÁLISIS ---
     #print("\n6/6 Ejecutando análisis automático (TOPSIS + MMR)...")

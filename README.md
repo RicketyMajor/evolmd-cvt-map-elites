@@ -56,9 +56,16 @@ python main.py --n 100 --generaciones 100 --k-centroides 500 --batch-size 100 \
 | `--prob-crossover` / `--prob-mutacion` | tasas de los operadores |
 | `--texto-referencia` | archivo `.txt`; si se omite, se elige uno al azar del corpus |
 | `--seed` | fija el lado Python. **No** fija el muestreo del LLM |
+| `--reanudar CARPETA` | sigue una corrida caída desde su `checkpoint.pkl`, con sus parámetros originales (no se combina con los demás) |
 
 Cada corrida escribe en `exec/<timestamp>/`: `run_config.json` (procedencia completa),
-`reference.txt`, `qd_metrics_history.csv`, `cvt_archive_elites.{csv,json}` y `runtime.txt`.
+`reference.txt`, `candidatos.jsonl`, `qd_metrics_history.csv`, `cvt_archive_elites.{csv,json}`,
+`runtime.txt` y `checkpoint.pkl` (se reescribe al final de cada generación).
+
+**Si una corrida se cae**, se reanuda desde la última generación completa:
+`python main.py --reanudar exec/<timestamp>` (con `>>` al mismo log, si lo había). Descarta las
+filas de la generación a medias, anota la reanudación en `run_config.json` y `runtime.txt`, y
+`evolution_sec` suma solo las generaciones que quedaron. Nunca se reanuda sin pedirlo.
 
 **Usa siempre `--seed`.** Ninguna corrida del Informe II lo hizo y por eso ni su diseño experimental
 es reproducible.
