@@ -1,3 +1,7 @@
+# Copia de EVOLMD-MO (NSGA-II). En CVT no sirve: argparse convierte «--k 5» en k_centroides=5 sin avisar
+# y --num-elitismo no existe. Las corridas exec/TESTS/GA_nuevo y GA_original son de MO (sesión 068 del vault).
+raise SystemExit("Este script es de EVOLMD-MO: hay que correrlo desde ese repo, no desde CVT-MAP-Elites.")
+
 import subprocess
 import sys
 import time
