@@ -298,6 +298,8 @@ async def main():
         outdir=outdir,
         batch_size=args.batch_size,
         k_centroides=args.k_centroides,
+        prob_mutacion=args.prob_mutacion,
+        prob_crossover=args.prob_crossover,
         contexto=contexto_de_corrida(args, ref_text),
         ruta_registro=ruta_registro,
         corrida=corrida
