@@ -124,7 +124,7 @@ async def metaheuristica(
     outdir: Path,
     batch_size: int = 10,
     k_centroides: int = 500,
-    prob_mutacion: float = 0.1,
+    prob_mutacion: float = 0.05,
     prob_crossover: float = 0.8,
     contexto: Optional[dict] = None,
     ruta_registro: Optional[Path] = None,

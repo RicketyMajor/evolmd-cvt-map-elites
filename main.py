@@ -206,7 +206,8 @@ async def main():
     parser.add_argument("--generaciones", type=int, default=3)
     parser.add_argument("--n", type=int, default=10, help="Cantidad de individuos iniciales.")
     parser.add_argument("--prob-crossover", type=float, default=0.8)
-    parser.add_argument("--prob-mutacion", type=float, default=0.1)
+    # 0,05: el barrido de Pm del GA base del laboratorio (Appl. Sci. 2025, Fig. 7), igual que EVOLMD-MO.
+    parser.add_argument("--prob-mutacion", type=float, default=0.05)
     
     # --- PARÁMETROS QUALITY-DIVERSITY ---
     parser.add_argument("--k-centroides", type=int, default=500, help="Cantidad de regiones de Voronoi (Nichos)")
